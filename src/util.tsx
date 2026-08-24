@@ -1,5 +1,3 @@
-import type { DocAuthor } from "./api";
-
 /**
  * Compute a form of minimum edit distance between the text and a given query.
  * This is not a standard edit distance because different situations are given
@@ -218,26 +216,6 @@ export function boldQuery(
 }
 
 /**
- * Format the given array of authors into a short string showing at most three
- * authors and appending "et al." if necessary.
- *
- * @param authors The authors to format the string for.
- * @returns A string containing the first three authors names.
- */
-export function formatAuthors(authors: DocAuthor[]) {
-    if (authors.length <= 3) {
-        return authors.map(a => a.name).join(", ");
-    } else {
-        return (
-            authors
-                .slice(0, 3)
-                .map(a => a.name)
-                .join("; ") + " et al."
-        );
-    }
-}
-
-/**
  * This is a function to be used as a sorting comparator that sorts first by the
  * alphabetic portion of the string and then by the numeric one.
  *
@@ -263,70 +241,5 @@ export function sortNamesWithNumbers(a: string, b: string) {
         } else {
             return 0;
         }
-    }
-}
-
-/**
- * A simple implementation of a cache with Not Recently Used replacement policy.
- */
-export class NruCache<K, V> {
-    queue: (K | undefined)[];
-    idx: number;
-    map: Map<K, V>;
-    used: Set<K>;
-
-    /**
-     * Construct a new cache with the given capacity. The capacity is the
-     * maximum number of elements it will hold before removing some.
-     *
-     * @param capacity The capacity of the cache.
-     */
-    constructor(capacity: number) {
-        this.queue = Array(capacity);
-        this.idx = 0;
-        this.map = new Map();
-        this.used = new Set();
-    }
-
-    /**
-     * Retrieve the element in the cache at the given index, or return undefined
-     * if no element is cached for the key.
-     *
-     * @param key The key to query.
-     * @returns The value cached for that key or undefined.
-     */
-    get(key: K) {
-        this.used.add(key);
-        return this.map.get(key);
-    }
-
-    /**
-     * Cache a new value for a given key, possibly evicting not recently used
-     * parts of the cache to make room.
-     *
-     * @param key The key to cache the value by.
-     * @param value The value to cache.
-     */
-    set(key: K, value: V) {
-        if (!this.map.has(key)) {
-            while (
-                this.queue[this.idx] !== undefined &&
-                this.used.has(this.queue[this.idx]!)
-            ) {
-                this.used.delete(this.queue[this.idx]!);
-                this.idx = (this.idx + 1) % this.queue.length;
-            }
-            if (this.queue[this.idx] !== undefined) {
-                this.map.delete(this.queue[this.idx]!);
-            }
-            this.queue[this.idx] = key;
-            this.idx = (this.idx + 1) % this.queue.length;
-        }
-        this.map.set(key, value);
-        this.used.add(key);
-    }
-
-    keys() {
-        return [...this.map.keys()];
     }
 }

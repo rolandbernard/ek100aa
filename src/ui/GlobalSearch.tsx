@@ -1,111 +1,13 @@
 import { useMemo, useState } from "react";
 import { Form, Link, useSearchParams } from "react-router";
-import { Search, Settings2 } from "lucide-react";
+import { Search } from "lucide-react";
 
-import { useClickOutside, useDebounce } from "../hooks";
 import { boldQuery, scoreQuery } from "../util";
 import { useSuggestions } from "../api";
-
-interface OptionsProps {
-    rerank: boolean;
-    expand: boolean;
-    summary: boolean;
-    setRerank: (v: boolean) => void;
-    setExpand: (v: boolean) => void;
-    setSummary: (v: boolean) => void;
-}
-
-/**
- * This is a small component for showing the dropdown with the search engine
- * settings for users to modify. It shows one toggle button and label for each
- * of the options.
- */
-function OptionsSelector(props: OptionsProps) {
-    const [show, setShow] = useState(false);
-    // The following is to close the drop down menu when the user click elsewhere.
-    useClickOutside("div#search-settings", () => setShow(false));
-    return (
-        <div
-            id="search-settings"
-            className="relative m-1 z-10"
-            style={{ viewTransitionName: "setting" }}
-        >
-            <button
-                type="button"
-                aria-controls="search-settings"
-                aria-expanded={show}
-                id="search-toggle"
-                className="
-                    flex items-center justify-center w-10 h-10 cursor-pointer
-                    rounded-box hover:bg-content/6 dark:hover:bg-content/10 border
-                    border-transparent active:border-content/10"
-                onClick={() => setShow(true)}
-            >
-                <Settings2 className="w-6 h-6 block" />
-                <span className="sr-only">Settings</span>
-            </button>
-            <div
-                className={
-                    "absolute inset-y-full end-3 z-50 " +
-                    (show ? "block" : "hidden")
-                }
-            >
-                <div className="flex flex-col w-full bg-base-300 shadow-xl dark:shadow-2xl rounded-box p-1 select-none">
-                    {(
-                        [
-                            [
-                                "rr",
-                                props.rerank,
-                                props.setRerank,
-                                "Neural Re-Ranking",
-                            ],
-                            [
-                                "qe",
-                                props.expand,
-                                props.setExpand,
-                                "Query Expansion",
-                            ],
-                            [
-                                "sm",
-                                props.summary,
-                                props.setSummary,
-                                "LLM Summary",
-                            ],
-                        ] as [string, boolean, (v: boolean) => void, string][]
-                    ).map(([key, val, set, name]) => (
-                        <label
-                            key={key}
-                            className="flex items-center gap-1 justify-start whitespace-nowrap p-2 cursor-pointer rounded-box hover:bg-content/6 border border-transparent active:border-content/10 dark:hover:bg-content/10"
-                        >
-                            <input
-                                type="checkbox"
-                                id={"setting-" + key}
-                                name={key}
-                                checked={val}
-                                className="sr-only peer"
-                                value="on"
-                                onChange={e => set(e.target.checked)}
-                            />
-                            <div className="rounded-full h-3 w-6.5 m-1 relative bg-content/10 peer-checked:bg-primary/50 peer-checked:*:left-3 peer-checked:*:border-primary/50">
-                                <div className="absolute -top-0.5 -left-0.5 h-4 w-4 rounded-full bg-base-50 box-content border border-content/20"></div>
-                            </div>
-                            <div className="text-content peer-checked:text-primary m-1">
-                                {name}
-                            </div>
-                        </label>
-                    ))}
-                </div>
-            </div>
-        </div>
-    );
-}
 
 interface InnerProps {
     autoFocus?: boolean;
     defaultValue: string;
-    defaultRerank: boolean;
-    defaultExpand: boolean;
-    defaultSummary: boolean;
 }
 
 /**
@@ -119,10 +21,7 @@ function SearchBar(props: InnerProps) {
         [boolean, string | undefined]
     >([false, undefined]);
     const [query, setQuery] = useState(props.defaultValue);
-    const [rerank, setRerank] = useState(props.defaultRerank);
-    const [expand, setExpand] = useState(props.defaultExpand);
-    const [summary, setSummary] = useState(props.defaultSummary);
-    const debounced = useDebounce(query.trim().toLowerCase(), 250);
+    const debounced = query.trim().toLowerCase();
     const suggestions = useSuggestions(debounced);
     const sortedSuggestions = useMemo(() => {
         const scores = Object.fromEntries(
@@ -134,38 +33,13 @@ function SearchBar(props: InnerProps) {
             )
             .slice(0, Math.min(10, suggestions.length));
     }, [suggestions, query]);
-    let querySettings = "";
-    if (rerank) {
-        querySettings += "&rr=on";
-    }
-    if (expand) {
-        querySettings += "&qe=on";
-    }
-    if (summary) {
-        querySettings += "&sm=on";
-    }
     return (
         <div
             id="global-search"
-            className="relative w-full h-full"
+            className="relative w-full h-full z-10"
             style={{ viewTransitionName: "search-bar" }}
         >
-            <Form
-                action="/search"
-                onSubmit={e => {
-                    if (query.trim().length === 0) {
-                        e.preventDefault();
-                    } else {
-                        (
-                            document.querySelector(
-                                "div#global-search form input",
-                            ) as HTMLInputElement
-                        ).blur();
-                    }
-                }}
-                viewTransition
-                className="flex flex-row items-center"
-            >
+            <Form viewTransition className="flex flex-row items-center">
                 <div className="relative w-full">
                     <div
                         className={
@@ -188,7 +62,7 @@ function SearchBar(props: InnerProps) {
                                     ? "focus-visible:border-primary/75 focus-visible:outline-primary/75!"
                                     : "focus-within:rounded-b-none")
                             }
-                            placeholder="Search for information on Covid-19..."
+                            placeholder="Search for sample name..."
                             value={active && hovering ? hovering : query}
                             autoFocus={props.autoFocus}
                             autoComplete="off"
@@ -251,7 +125,7 @@ function SearchBar(props: InnerProps) {
                             {sortedSuggestions.map(row => (
                                 <Link
                                     key={row}
-                                    to={`/search?q=${encodeURIComponent(row)}${querySettings}`}
+                                    to={`/sample/${encodeURIComponent(row)}`}
                                     viewTransition
                                     className={
                                         "px-3 py-1.5 cursor-pointer block items-center group text-nowrap overflow-hidden text-ellipsis " +
@@ -278,14 +152,6 @@ function SearchBar(props: InnerProps) {
                         </div>
                     </div>
                 </div>
-                <OptionsSelector
-                    rerank={rerank}
-                    expand={expand}
-                    summary={summary}
-                    setRerank={setRerank}
-                    setExpand={setExpand}
-                    setSummary={setSummary}
-                />
             </Form>
         </div>
     );
@@ -302,16 +168,10 @@ interface Props {
 export default function GlobalSearch(props: Props) {
     const [searchParams] = useSearchParams();
     const defaultQuery = searchParams.get("q") ?? "";
-    const defaultRerank = (searchParams.get("rr") ?? "off") === "on";
-    const defaultExpand = (searchParams.get("qe") ?? "off") === "on";
-    const defaultSummary = (searchParams.get("sm") ?? "off") === "on";
     return (
         <SearchBar
             key={defaultQuery}
             defaultValue={defaultQuery}
-            defaultRerank={defaultRerank}
-            defaultExpand={defaultExpand}
-            defaultSummary={defaultSummary}
             autoFocus={props.autoFocus}
         />
     );

@@ -1,7 +1,9 @@
 import { Link } from "react-router";
+import { Dices } from "lucide-react";
 
 import SearchBar from "./GlobalSearch";
 import ThemeSelector from "./ThemeSelector";
+import { getRandom } from "../api";
 
 interface Props {
     minimal?: boolean;
@@ -55,7 +57,7 @@ export default function Header(props: Props) {
                                             }}
                                             viewTransition
                                         >
-                                            C19 Search
+                                            EK100 AA V
                                         </Link>
                                         <div
                                             className="flex-1 w-full ms-4 not-sm:ms-0 max-w-3xl"
@@ -65,6 +67,16 @@ export default function Header(props: Props) {
                                         >
                                             <SearchBar />
                                         </div>
+                                        <Link
+                                            to={`/sample/${getRandom()}`}
+                                            className="text-sm inline-flex ms-4 items-center text-content/50 hover:text-content/60 align-middle"
+                                            viewTransition
+                                            style={{
+                                                viewTransitionName: "random",
+                                            }}
+                                        >
+                                            <Dices className="w-6 h-6" />
+                                        </Link>
                                     </div>
                                 </div>
                             )}
