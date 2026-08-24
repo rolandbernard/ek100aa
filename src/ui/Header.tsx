@@ -61,26 +61,29 @@ export default function Header(props: Props) {
                                             EK100 AA V
                                         </Link>
                                         <div
-                                            className="flex-1 w-full ms-4 not-sm:ms-0 max-w-3xl"
+                                            className="flex-1 w-full ms-4 not-sm:ms-0 max-w-3xl flex flex-row items-center"
                                             style={{
                                                 transitionProperty: "margin",
                                             }}
                                         >
                                             <SearchBar />
+                                            <Link
+                                                to={`/sample/${random}`}
+                                                className={
+                                                    "text-sm inline-flex ms-4 items-center text-content/50 hover:text-content/60 align-middle" +
+                                                    (random
+                                                        ? ""
+                                                        : " loading pointer-events-none")
+                                                }
+                                                viewTransition
+                                                style={{
+                                                    viewTransitionName:
+                                                        "random",
+                                                }}
+                                            >
+                                                <Dices className="w-6 h-6" />
+                                            </Link>
                                         </div>
-                                        <Link
-                                            to={`/sample/${random}`}
-                                            className={
-                                                "text-sm inline-flex ms-4 items-center text-content/50 hover:text-content/60 align-middle" +
-                                                (random ? "" : " loading pointer-events-none")
-                                            }
-                                            viewTransition
-                                            style={{
-                                                viewTransitionName: "random",
-                                            }}
-                                        >
-                                            <Dices className="w-6 h-6" />
-                                        </Link>
                                     </div>
                                 </div>
                             )}
