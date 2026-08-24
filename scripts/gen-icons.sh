@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This is a small script that generals all smaller icons from the main favicon.
+# This is a small script that generates all smaller icons from the main favicon.
 
 SIZES=(16 32 48 64 128 180 256 1024)
 

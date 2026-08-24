@@ -3,7 +3,7 @@ import { Dices } from "lucide-react";
 
 import SearchBar from "./GlobalSearch";
 import ThemeSelector from "./ThemeSelector";
-import { getRandom } from "../api";
+import { useRandom } from "../api";
 
 interface Props {
     minimal?: boolean;
@@ -27,6 +27,7 @@ export default function Header(props: Props) {
             </div>
         );
     } else {
+        let random = useRandom();
         return (
             <div key="max z-1">
                 <div className="h-18" />
@@ -68,8 +69,11 @@ export default function Header(props: Props) {
                                             <SearchBar />
                                         </div>
                                         <Link
-                                            to={`/sample/${getRandom()}`}
-                                            className="text-sm inline-flex ms-4 items-center text-content/50 hover:text-content/60 align-middle"
+                                            to={`/sample/${random}`}
+                                            className={
+                                                "text-sm inline-flex ms-4 items-center text-content/50 hover:text-content/60 align-middle" +
+                                                (random ? "" : " loading pointer-events-none")
+                                            }
                                             viewTransition
                                             style={{
                                                 viewTransitionName: "random",

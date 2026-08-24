@@ -4,8 +4,8 @@
 # intended for use inside the Docker container.
 
 if ! python -m http.server \
-    --d /app/dist \
-    --port ${PORT:-8123}
+    -d /app/dist \
+    ${PORT:-8123}
 then
     echo "The webserver failed."
     exit 1

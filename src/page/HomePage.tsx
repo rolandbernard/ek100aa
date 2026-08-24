@@ -2,7 +2,7 @@ import { Link } from "react-router";
 
 import GlobalSearch from "../ui/GlobalSearch";
 import { Dices } from "lucide-react";
-import { getRandom } from "../api";
+import { useRandom } from "../api";
 
 /**
  * This is the index pages (at the root path `/`) of the application. It contains
@@ -10,6 +10,7 @@ import { getRandom } from "../api";
  * to perform a search.
  */
 export default function HomePage() {
+    let random = useRandom();
     return (
         <div
             className="grow w-full h-full bg-base-50 flex flex-col items-center justify-center"
@@ -28,8 +29,11 @@ export default function HomePage() {
                 <GlobalSearch autoFocus={true} />
                 <div className="flex flex-col items-center justify-center space-x-3 mt-8">
                     <Link
-                        to={`/sample/${getRandom()}`}
-                        className="text-sm inline-flex gap-2 items-center text-content/50 hover:text-content/60 align-middle select-none"
+                        to={`/sample/${random}`}
+                        className={
+                            "text-sm inline-flex gap-2 items-center text-content/50 hover:text-content/60 align-middle select-none" +
+                            (random ? "" : " loading pointer-events-none")
+                        }
                         viewTransition
                         style={{ viewTransitionName: "random" }}
                     >

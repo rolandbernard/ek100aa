@@ -67,3 +67,22 @@ export function useTheme(): [string, (v: string) => void] {
     }, []);
     return [selected, setupTheme];
 }
+
+/**
+ * This is a variation of the standard `useState` hook that additionally receives
+ * an array of dependencies, and when any of them change the state will be reset
+ * to it's default value.
+ *
+ * @param initial The initial value of the state, and the value used for resets.
+ * @param dep An array of dependencies that control when the state resets.
+ * @returns An array with the current value and a setter to modify the value.
+ */
+export function useStateWithDep<T>(initial: () => T, dep: unknown[]) {
+    const [prev, setPrev] = useState(dep);
+    const [value, setValue] = useState(initial);
+    if (prev.length != dep.length || prev.some((v, i) => v != dep[i])) {
+        setPrev(dep);
+        setValue(initial);
+    }
+    return [value, setValue] as [T, (v: T) => void];
+}

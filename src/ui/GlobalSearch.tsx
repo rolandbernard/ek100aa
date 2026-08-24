@@ -21,8 +21,7 @@ function SearchBar(props: InnerProps) {
         [boolean, string | undefined]
     >([false, undefined]);
     const [query, setQuery] = useState(props.defaultValue);
-    const debounced = query.trim().toLowerCase();
-    const suggestions = useSuggestions(debounced);
+    const suggestions = useSuggestions();
     const sortedSuggestions = useMemo(() => {
         const scores = Object.fromEntries(
             suggestions.map(t => [t, scoreQuery(t, query)]),
