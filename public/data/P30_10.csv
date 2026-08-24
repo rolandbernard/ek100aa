@@ -1,0 +1,254 @@
+P30_10_0,6.12,6.81,take mug
+P30_10_1,6.46,7.99,open bin
+P30_10_10,28.93,34.36,transfer rice from saucepan to plate
+P30_10_100,329.76,337.9,wipe hob surface
+P30_10_101,338.0,343.5,continue wiping hob surface
+P30_10_102,343.6,347.81,continue wiping hob surface
+P30_10_103,347.91,349.44,continue wiping hob surface
+P30_10_104,362.47,366.46,wash hands
+P30_10_105,362.69,364.05,turn tap on
+P30_10_106,366.35,369.68,fill mugs with water
+P30_10_107,369.63,370.45,empty mugs
+P30_10_108,372.02,372.77,turn tap on
+P30_10_109,372.21,373.92,rinse plate
+P30_10_11,34.18,37.84,continue transferring rice from saucepan to plate to plate
+P30_10_110,373.52,374.57,turn tap off
+P30_10_111,376.21,377.73,take saucepan
+P30_10_112,378.42,379.74,take tea towel
+P30_10_113,379.81,382.23,dry saucepan
+P30_10_114,381.6,391.4,continue drying saucepan
+P30_10_115,381.7,391.12,continuing drying saucepan
+P30_10_116,391.85,394.91,put saucepan
+P30_10_117,397.99,398.8,open cupboard
+P30_10_118,398.9,401.22,take saucepan
+P30_10_119,400.95,406.97,stack saucepans
+P30_10_12,42.38,43.39,take fork
+P30_10_120,409.16,410.43,close cupboard
+P30_10_121,409.6,414.2,stir food
+P30_10_122,416.15,417.61,take colander
+P30_10_123,417.55,418.11,open cupboard
+P30_10_124,418.31,420.52,put colander
+P30_10_125,420.57,421.51,close cupboard
+P30_10_126,421.61,422.78,take
+P30_10_127,422.68,423.58,open cupboard
+P30_10_128,423.4,424.26,put
+P30_10_129,424.3,425.13,take bowl
+P30_10_13,43.26,51.56,break up rice
+P30_10_130,425.23,425.94,open cupboard
+P30_10_131,425.87,426.69,put bowl
+P30_10_132,427.15,428.06,take bowl
+P30_10_133,428.33,429.18,put bowl
+P30_10_134,429.23,430.47,close cupboard
+P30_10_135,431.01,431.83,open drawer
+P30_10_136,431.98,432.76,put spoon
+P30_10_137,432.96,433.55,close drawer
+P30_10_138,434.27,435.48,turn tap on
+P30_10_139,434.65,445.0,fill saucepan
+P30_10_14,43.76,47.51,continue breaking up rice
+P30_10_140,444.07,445.25,turn tap off
+P30_10_141,445.21,445.83,put saucepan
+P30_10_142,445.82,446.89,take saucepan lid
+P30_10_143,447.51,448.4,put saucepan lid in washing up bowl
+P30_10_144,448.14,457.05,stir food
+P30_10_145,449.22,453.22,continue stirring food
+P30_10_146,454.68,456.93,continue stirring food
+P30_10_147,457.51,463.96,continue stirring food
+P30_10_148,466.98,472.98,transfer fish curry from box into saucepan
+P30_10_149,475.3,479.51,split fish
+P30_10_15,46.99,53.62,continue breaking up rice
+P30_10_150,480.2,487.71,stir fish
+P30_10_151,488.65,491.47,empty saucepan
+P30_10_152,491.04,492.9,turn on tap
+P30_10_153,492.91,502.83,fill saucepan
+P30_10_154,496.09,503.38,turn off tap
+P30_10_155,503.6,504.65,put saucepan
+P30_10_156,505.39,506.19,put saucepan lid
+P30_10_157,506.66,508.85,put knife
+P30_10_158,508.27,510.11,take v60
+P30_10_159,510.09,511.43,put v60
+P30_10_16,51.77,59.52,continue breaking up rice
+P30_10_160,511.53,512.44,take fork
+P30_10_161,513.08,515.37,empty dish washing pan
+P30_10_162,515.3,517.26,put fork
+P30_10_163,519.63,521.27,fill washing up bowl with washing up liquid
+P30_10_164,523.31,528.92,wash plate
+P30_10_165,528.57,529.81,turn on tap
+P30_10_166,529.22,533.47,rinse plate
+P30_10_167,533.0,534.35,turn off tap
+P30_10_168,534.11,535.54,put plate
+P30_10_169,535.6,536.24,take fork
+P30_10_17,53.48,63.56,continue breaking up rice
+P30_10_170,536.11,538.35,wash fork
+P30_10_171,538.45,541.52,rinse fork
+P30_10_172,541.12,542.27,turn off tap
+P30_10_173,541.87,543.3,put fork
+P30_10_174,543.4,544.39,take knife
+P30_10_175,544.1,546.15,wash knife
+P30_10_176,546.18,547.14,turn on tap
+P30_10_177,547.24,548.62,rinse knife
+P30_10_178,548.72,549.73,put knife
+P30_10_179,550.6,551.5,take mug
+P30_10_18,63.66,69.57,continue breaking up rice
+P30_10_180,551.92,554.03,wash mug
+P30_10_181,554.13,555.96,adjust gas temperature
+P30_10_182,556.04,558.83,continue washing mug
+P30_10_183,558.45,559.48,turn on tap
+P30_10_184,559.5,563.34,rinse mug
+P30_10_185,564.37,566.33,rinse mug
+P30_10_186,566.19,568.77,wash mug
+P30_10_187,569.29,570.33,continue washing mug
+P30_10_188,570.08,573.46,rinse mug
+P30_10_189,573.94,574.68,put mug in drying rack
+P30_10_19,64.66,70.0,continue breaking up rice
+P30_10_190,574.55,575.11,take v60
+P30_10_191,575.21,580.36,wash v60
+P30_10_192,579.78,584.2,rinse v60
+P30_10_193,583.65,585.68,continue rinse v60
+P30_10_194,585.78,586.55,put v60 on drying rack
+P30_10_195,586.72,587.52,take saucepan lid
+P30_10_196,587.69,588.29,put saucepan lid in washing up bowl
+P30_10_197,588.93,589.63,turn off tap
+P30_10_198,590.0,594.57,stir food
+P30_10_199,594.67,596.11,open microwave
+P30_10_2,7.68,9.21,put tea bag in bin
+P30_10_20,69.67,76.93,continue breaking up rice
+P30_10_200,596.72,597.54,close microwave
+P30_10_201,597.64,599.95,turn microwave on
+P30_10_202,601.17,603.24,take spoon
+P30_10_203,603.34,609.39,put spoon in saucepan
+P30_10_204,610.83,614.39,put box lid on box
+P30_10_205,610.95,612.41,take box lid
+P30_10_206,614.47,615.64,open fridge
+P30_10_207,615.74,619.39,put box in fridge
+P30_10_208,619.49,621.7,close fridge
+P30_10_209,622.04,629.33,wipe surface
+P30_10_21,70.1,73.03,continue breaking up rice
+P30_10_210,630.81,632.16,rinse sponge
+P30_10_211,632.12,633.47,rinse sponge
+P30_10_212,633.94,636.31,rinse sponge
+P30_10_213,638.06,641.16,clean surface
+P30_10_214,638.11,642.11,clean surface
+P30_10_215,641.13,643.3,clean surface
+P30_10_216,641.47,644.12,continue cleaning surface
+P30_10_217,644.66,651.54,continue cleaning surface
+P30_10_218,655.57,657.49,put rubbish in bin
+P30_10_219,659.17,665.34,wash saucepan lid
+P30_10_22,73.13,77.64,continue breaking up rice
+P30_10_220,665.77,669.85,continue washing saucepan lid
+P30_10_221,669.71,672.37,rinse saucepan lid
+P30_10_222,672.76,678.17,continue rinse saucepan lid
+P30_10_223,675.17,677.98,continue rinse saucepan lid
+P30_10_224,677.96,681.32,put saucepan lid on drying rack
+P30_10_225,681.54,683.33,rinse sponge
+P30_10_226,683.37,686.86,wash hands
+P30_10_227,687.1,687.7,turn tap off
+P30_10_228,688.27,690.84,dry hands
+P30_10_229,692.16,694.01,hang tea towel
+P30_10_23,77.03,82.68,continue breaking up rice
+P30_10_230,695.89,697.73,open microwave
+P30_10_231,697.41,702.1,clean surface
+P30_10_232,703.69,704.51,open bin
+P30_10_233,704.61,705.33,put rubbish in bin
+P30_10_234,706.67,709.14,take plate
+P30_10_235,709.31,711.11,put plate
+P30_10_236,711.0,713.07,close microwave
+P30_10_237,713.17,716.63,take saucepan
+P30_10_238,716.68,724.0,transfer food from saucepan onto plate
+P30_10_239,724.1,727.65,continue transferring food from saucepan onto plate
+P30_10_24,79.0,93.8,continue breaking up rice
+P30_10_240,727.79,730.08,put saucepan in washing bowl
+P30_10_241,730.18,732.07,turn tap on
+P30_10_242,730.91,732.35,wash pans
+P30_10_243,732.48,733.2,turn tap off
+P30_10_244,733.22,736.5,turn gas off
+P30_10_245,743.21,750.7,wash hob surface
+P30_10_246,750.8,753.06,rinse sponge
+P30_10_247,753.16,758.89,wash hob surface
+P30_10_248,758.95,762.34,continue washing hob surface
+P30_10_249,762.42,765.99,continue washing hob surface
+P30_10_25,81.98,96.04,continue breaking up rice
+P30_10_250,765.42,768.65,continue washing hob surface
+P30_10_251,768.29,772.43,continue washing hob surface
+P30_10_252,769.09,774.43,continue washing hob surface
+P30_10_253,771.88,774.48,continue washing hob surface
+P30_10_254,786.04,789.58,dry hands
+P30_10_26,82.65,93.42,continue breaking up rice
+P30_10_27,96.14,99.96,clean hands
+P30_10_28,100.06,101.98,take kettle
+P30_10_29,100.82,106.1,pour water onto rice
+P30_10_3,9.16,12.15,put mug
+P30_10_30,107.85,109.35,take plate
+P30_10_31,109.45,110.53,open microwave
+P30_10_32,110.63,112.15,put plate in microwave
+P30_10_33,112.89,113.7,close microwave
+P30_10_34,113.22,115.92,turn microwave on
+P30_10_35,116.1,117.48,turn tap on
+P30_10_36,117.17,118.91,wash hands
+P30_10_37,120.54,121.86,rinse sponge
+P30_10_38,122.49,125.27,wipe microwave
+P30_10_39,124.87,128.11,wipe surfaces
+P30_10_4,11.61,13.78,put mug
+P30_10_40,130.83,133.72,clean spoon
+P30_10_41,136.71,139.09,open bin
+P30_10_42,138.86,145.13,transfer rice from saucepan into bin
+P30_10_43,144.44,156.24,continue transferring rice from saucepan into bin
+P30_10_44,156.42,158.26,put saucepan
+P30_10_45,158.34,161.1,take dustpan and brush
+P30_10_46,161.69,168.38,sweep floor
+P30_10_47,166.35,170.97,continue sweeping floor
+P30_10_48,168.52,169.9,continue sweeping the floor
+P30_10_49,170.0,171.08,continue sweeping the floor
+P30_10_5,12.2,13.1,put plate
+P30_10_50,171.18,174.31,continue sweeping the floor
+P30_10_51,174.41,181.45,continue sweeping the floor
+P30_10_52,182.75,184.88,continue sweeping the floor
+P30_10_53,184.52,186.5,continue sweeping the floor
+P30_10_54,184.98,187.87,continue sweeping the floor
+P30_10_55,185.2,187.67,continue sweeping the floor
+P30_10_56,187.77,192.76,continue sweeping the floor
+P30_10_57,193.29,204.24,continue sweeping the floor
+P30_10_58,200.79,203.95,continue sweeping the floor
+P30_10_59,204.34,204.91,open bin
+P30_10_6,20.41,22.35,take plate
+P30_10_60,204.96,207.04,put rubbish in bin
+P30_10_61,209.78,210.42,put brush in dustpan
+P30_10_62,211.87,213.61,turn tap on
+P30_10_63,214.16,220.46,continue washing hands
+P30_10_64,214.78,217.91,wash hands
+P30_10_65,217.44,224.5,continue washing hands
+P30_10_66,224.64,225.84,turn tap off
+P30_10_67,225.78,228.16,wipe surface
+P30_10_68,228.57,230.44,turn tap on
+P30_10_69,230.29,231.95,wash hands
+P30_10_7,23.0,24.42,put plate
+P30_10_70,231.8,232.67,turn tap off
+P30_10_71,233.78,236.83,dry hands
+P30_10_72,238.89,240.6,open microwave
+P30_10_73,240.7,242.95,take plate from microwave
+P30_10_74,243.46,261.59,break up rice
+P30_10_75,247.02,260.16,continue breaking up rice
+P30_10_76,252.75,257.06,continue breaking up rice
+P30_10_77,257.16,262.97,continue breaking up rice
+P30_10_78,263.36,264.31,take saucepan
+P30_10_79,265.36,266.38,put saucepan
+P30_10_8,24.65,27.41,take spoon
+P30_10_80,266.48,267.17,take plate
+P30_10_81,267.27,269.87,put plate in microwave
+P30_10_82,269.97,270.7,close microwave
+P30_10_83,270.8,274.16,wipe microwave
+P30_10_84,274.26,275.72,turn microwave on
+P30_10_85,277.07,278.27,open cupboard
+P30_10_86,278.62,280.84,take box
+P30_10_88,284.84,285.95,close cupboard
+P30_10_89,286.05,292.79,put oven gloves on cupboard handle
+P30_10_9,26.85,27.9,take saucepan
+P30_10_90,293.14,295.53,put box
+P30_10_91,297.52,298.22,take spoon
+P30_10_92,298.32,299.42,move box
+P30_10_93,300.13,312.67,transfer fish curry into box
+P30_10_94,302.0,306.34,continue transferring fish curry into box
+P30_10_95,306.44,321.46,continue transferring fish curry into box
+P30_10_96,311.71,318.36,continue transferring fish curry into box
+P30_10_97,319.81,323.75,move box
+P30_10_98,323.79,326.6,turn gas on
+P30_10_99,326.92,329.66,remove spoon from pan

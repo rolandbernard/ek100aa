@@ -1,0 +1,528 @@
+P22_16_0,2.96,4.37,grab salad bowl
+P22_16_1,4.33,10.72,dry salad bowl
+P22_16_10,40.95,42.95,grab filter
+P22_16_100,195.61,197.61,put salt
+P22_16_101,197.61,199.21,close can
+P22_16_102,199.19,200.31,put down down can
+P22_16_103,200.92,204.56,adjust stove
+P22_16_104,206.14,207.39,open tap
+P22_16_105,207.4,207.99,rinse hands
+P22_16_106,207.84,208.34,close tap
+P22_16_107,208.0,209.42,shake hands
+P22_16_108,209.47,212.57,dry hands
+P22_16_109,211.77,213.51,put down down rag
+P22_16_11,42.99,43.69,grab moka
+P22_16_110,213.61,215.45,take spoon
+P22_16_111,215.62,217.97,move cobs
+P22_16_112,217.94,219.15,put down down spoon
+P22_16_113,219.17,220.92,move sheet
+P22_16_114,221.92,222.92,open cupboard
+P22_16_115,223.02,224.59,grab bag
+P22_16_116,224.9,226.77,grab onion
+P22_16_117,227.35,228.49,close cupboard
+P22_16_118,230.5,232.2,cut onion
+P22_16_119,232.3,233.58,turn on light
+P22_16_12,43.65,44.15,put down moka
+P22_16_120,233.68,236.35,cut onion
+P22_16_121,236.45,238.95,peel onion
+P22_16_122,238.83,241.11,cut onion
+P22_16_123,240.7,242.94,cut onion
+P22_16_124,243.04,250.56,peel onion
+P22_16_125,250.66,252.89,peel onion
+P22_16_126,251.72,261.43,pick up onion
+P22_16_127,252.99,254.66,peel onion
+P22_16_128,254.76,258.03,move onion
+P22_16_129,261.53,265.74,peel onion
+P22_16_13,44.25,45.0,grab moka
+P22_16_130,265.84,268.35,peel onion
+P22_16_131,268.46,270.73,peel onion
+P22_16_132,270.74,271.49,pick up knife
+P22_16_133,271.56,272.89,slice onion
+P22_16_134,272.99,275.65,pick up peelings
+P22_16_135,274.69,283.96,close container
+P22_16_136,275.99,278.29,throw away peelings
+P22_16_137,282.03,282.72,pick up onion
+P22_16_138,282.79,284.04,put down onion
+P22_16_139,284.06,285.36,move container
+P22_16_14,45.1,45.85,insert filter
+P22_16_140,285.46,287.6,pick up knife
+P22_16_141,287.7,289.43,pick up spoon
+P22_16_142,289.82,292.33,turn corncob
+P22_16_143,292.43,293.93,put down spoon
+P22_16_144,294.03,295.03,pick up knife
+P22_16_145,295.13,299.88,slice onion
+P22_16_146,313.73,323.54,slice onion
+P22_16_147,314.37,316.94,slice onion
+P22_16_148,333.0,335.5,open fridge
+P22_16_149,335.6,337.85,open drawer
+P22_16_15,45.95,51.4,tighten moka
+P22_16_150,337.95,339.7,pick up tomato
+P22_16_151,339.8,341.75,pick up bag
+P22_16_152,341.75,342.25,close drawer
+P22_16_153,342.35,343.1,put down bag
+P22_16_154,343.82,344.79,pick up carrots
+P22_16_155,345.19,346.3,put down carrots
+P22_16_156,346.4,348.15,close fridge
+P22_16_157,350.85,351.6,open tap
+P22_16_158,351.0,353.48,rinse tomato
+P22_16_159,352.03,353.46,close tap
+P22_16_16,51.44,52.68,put down mocha
+P22_16_160,356.07,363.46,slice tomato
+P22_16_161,365.08,367.3,slice tomato
+P22_16_162,378.67,388.29,slice tomato
+P22_16_163,391.22,394.68,throw away remains
+P22_16_164,393.59,394.62,close trash can
+P22_16_165,395.81,398.28,pick up tomato
+P22_16_166,397.38,401.33,move tomato
+P22_16_167,401.93,403.43,open drawer
+P22_16_168,402.72,404.8,pick up mincing knife
+P22_16_169,404.84,405.9,close drawer
+P22_16_17,52.7,53.68,pick up container
+P22_16_170,410.26,413.97,cut tomato
+P22_16_171,414.07,415.57,move pan
+P22_16_172,415.6,417.14,cut tomato
+P22_16_173,418.69,439.07,cut tomato
+P22_16_174,437.03,465.21,cut tomato
+P22_16_175,439.12,439.85,pick up spoon
+P22_16_176,440.75,442.36,move corn cob
+P22_16_177,442.21,443.21,put down spoon
+P22_16_178,443.63,448.19,cut tomato
+P22_16_179,452.61,469.35,clean mincing knife
+P22_16_18,54.5,55.56,pick up cloth
+P22_16_180,465.31,467.12,pick up knife
+P22_16_181,469.5,470.98,clean mincing knife
+P22_16_182,471.52,472.19,put knife
+P22_16_183,471.81,473.11,put mincing knife
+P22_16_184,473.22,473.92,open locker
+P22_16_185,474.0,487.26,pour minced
+P22_16_186,474.02,475.51,pick up bowl
+P22_16_187,475.64,476.37,close locker
+P22_16_188,477.57,485.23,pour minced
+P22_16_189,487.36,488.32,move chopping board
+P22_16_19,55.54,56.42,dry container
+P22_16_190,488.16,489.25,mix minced
+P22_16_191,489.35,495.15,add oil
+P22_16_192,494.78,524.86,move cob
+P22_16_193,524.56,526.15,adjust cooker
+P22_16_194,537.43,539.08,put spoon
+P22_16_195,539.94,542.37,pick up spice
+P22_16_196,542.19,546.19,add oregano
+P22_16_197,543.19,545.96,put oregano
+P22_16_198,545.86,547.01,close jar
+P22_16_199,547.85,549.1,pick up salt
+P22_16_2,10.82,16.52,put down salad bowl
+P22_16_20,56.17,57.2,put down container
+P22_16_200,549.07,550.05,open salt
+P22_16_201,550.15,551.49,open salt
+P22_16_202,551.65,553.65,add salt
+P22_16_203,553.44,556.28,add salt
+P22_16_204,556.26,556.92,close salt
+P22_16_205,556.88,558.0,put salt
+P22_16_206,558.04,559.01,pick up pepper
+P22_16_207,558.77,560.08,open pepper
+P22_16_208,560.09,562.4,add pepper
+P22_16_209,562.25,563.25,close pepper
+P22_16_21,57.07,58.71,put down cloth
+P22_16_210,563.75,565.0,put pepper
+P22_16_211,567.47,568.1,open door
+P22_16_212,568.78,569.58,take vinegar
+P22_16_213,569.68,571.99,open vinegar
+P22_16_214,572.09,573.37,add vinegar
+P22_16_215,573.9,574.4,close vinegar
+P22_16_216,574.18,574.86,put down vinegar
+P22_16_217,574.96,576.29,close door
+P22_16_218,575.96,577.18,open drawer
+P22_16_219,577.28,579.03,take fork
+P22_16_22,58.74,60.8,pick up silverware
+P22_16_220,579.49,585.04,mix food
+P22_16_221,585.14,594.66,mix food
+P22_16_222,595.79,597.13,move bowl
+P22_16_223,597.23,597.73,put down fork
+P22_16_224,598.35,599.3,take spoon
+P22_16_225,599.38,609.46,turn cob
+P22_16_226,609.46,610.21,put down spoon
+P22_16_227,611.21,612.36,open fridge
+P22_16_228,612.88,613.66,close fridge
+P22_16_229,613.0,614.2,take carrot
+P22_16_23,61.26,62.2,close cabinet
+P22_16_230,616.18,617.06,turn on tap
+P22_16_231,617.16,619.91,wash carrot
+P22_16_232,619.78,620.51,turn off tap
+P22_16_233,621.61,622.36,put down carrot
+P22_16_234,622.71,623.76,open drawer
+P22_16_235,624.61,626.95,take peeler
+P22_16_236,626.85,627.91,close drawer
+P22_16_237,628.01,633.51,peel carrot
+P22_16_238,629.11,653.16,peel carrot
+P22_16_239,654.16,655.59,open cabinet
+P22_16_24,62.3,63.63,open drawer
+P22_16_240,655.78,657.69,pick up bowl
+P22_16_241,656.62,658.96,pick up salad bowl
+P22_16_242,659.39,661.13,close cabinet
+P22_16_243,663.02,664.58,move carrots
+P22_16_244,664.0,664.81,put down salad bowl
+P22_16_245,665.52,666.27,pick up pan
+P22_16_246,666.12,673.4,stir pan
+P22_16_247,673.76,674.85,put down pan
+P22_16_248,674.54,675.73,pick up carrot
+P22_16_249,675.49,676.46,pick up carrot peeler
+P22_16_25,63.24,65.13,put down teaspoon
+P22_16_250,676.35,679.44,peel carrot
+P22_16_251,744.11,746.28,slice carrot
+P22_16_252,746.38,748.14,slice carrot
+P22_16_253,748.71,753.99,slice carrot
+P22_16_254,763.91,765.0,put down carrot peeler
+P22_16_255,765.92,783.61,cut carrot
+P22_16_256,784.49,791.19,pick up carrot
+P22_16_257,790.82,792.25,put down carrot
+P22_16_258,791.72,796.26,move corn cobs
+P22_16_259,792.11,795.66,turn corn cobs
+P22_16_26,65.11,68.2,put down silverware
+P22_16_260,795.76,796.51,put down spoon
+P22_16_261,797.78,800.43,open fridge
+P22_16_262,799.45,801.64,put away carrots
+P22_16_263,805.54,807.31,close fridge
+P22_16_264,809.64,810.5,pick up salad bowl
+P22_16_265,810.01,810.8,move salad bowl
+P22_16_266,811.15,814.97,pick up lettuce
+P22_16_267,812.96,815.4,take out lettuce
+P22_16_268,814.65,815.65,put down bag
+P22_16_269,815.65,817.05,pick up lettuce
+P22_16_27,67.53,70.26,put down spoons
+P22_16_270,816.6,820.85,remove leaf
+P22_16_271,820.78,821.4,open cabinet
+P22_16_272,821.5,822.9,move objects
+P22_16_273,823.0,824.77,pick up colander
+P22_16_274,826.25,829.0,put down leaf
+P22_16_275,827.84,828.45,put down leaf
+P22_16_276,828.55,830.05,pick up leaf
+P22_16_277,829.1,830.35,remove leaf
+P22_16_278,830.15,831.0,put down leaf
+P22_16_279,830.45,832.2,put down leaf
+P22_16_28,69.36,71.23,close drawer
+P22_16_280,831.01,832.43,remove leaf
+P22_16_281,832.35,835.22,remove leaf
+P22_16_282,835.32,836.03,put down leaf
+P22_16_283,836.01,837.37,remove leaf
+P22_16_284,837.44,838.14,put down leaf
+P22_16_285,837.97,841.61,remove leaf
+P22_16_286,838.16,841.76,remove leaf
+P22_16_287,841.86,847.9,put down leaf
+P22_16_288,845.82,855.66,put down leaf
+P22_16_289,857.56,859.83,put lettuce
+P22_16_29,70.13,71.37,pick up mocha
+P22_16_290,859.15,863.05,open fridge
+P22_16_291,863.27,865.33,put lettuce
+P22_16_292,864.47,866.5,close fridge
+P22_16_293,868.86,869.9,open tap
+P22_16_294,869.94,872.41,rinse lettuce
+P22_16_295,872.27,874.85,rinse lettuce
+P22_16_296,874.95,877.07,rinse lettuce
+P22_16_297,877.17,894.82,rinse lettuce
+P22_16_298,890.0,894.45,rinse lettuce
+P22_16_299,894.55,895.51,pick up colander
+P22_16_3,23.66,25.74,move objects
+P22_16_30,71.98,73.67,put down mocha
+P22_16_300,895.61,896.52,put colander
+P22_16_301,898.05,898.8,pick up paper
+P22_16_302,899.96,901.15,open
+P22_16_303,902.1,903.65,turn on cooker
+P22_16_304,903.75,904.54,put lighter
+P22_16_305,904.64,906.47,close locker
+P22_16_306,923.19,926.12,pick up leaves
+P22_16_307,925.9,930.15,pick up leaves
+P22_16_308,932.75,934.11,slice lettuce
+P22_16_309,935.18,936.54,slice lettuce
+P22_16_31,76.81,79.33,open drawer
+P22_16_310,939.08,940.3,cut lettuce
+P22_16_311,941.06,943.8,cut lettuce
+P22_16_312,948.88,949.93,cut lettuce
+P22_16_313,960.91,962.82,pick up leaf
+P22_16_314,962.92,965.6,pick up leaf
+P22_16_315,964.92,966.34,pick up leaf
+P22_16_316,966.41,967.75,pick up leaf
+P22_16_317,972.49,973.74,cut lettuce
+P22_16_318,972.6,973.92,cut lettuce
+P22_16_319,973.62,975.85,cut lettuce
+P22_16_32,78.27,82.04,pick up pan
+P22_16_320,975.95,979.12,cut lettuce
+P22_16_321,979.22,982.14,cut lettuce
+P22_16_322,986.43,988.05,mix lettuce
+P22_16_323,988.16,997.42,mix lettuce
+P22_16_324,998.04,999.1,put down knife
+P22_16_325,998.78,1006.43,pick up scraps
+P22_16_326,1007.95,1008.72,open trash can
+P22_16_327,1008.23,1011.97,throw away scraps
+P22_16_328,1010.89,1012.32,close trash cans
+P22_16_329,1012.35,1014.25,open tap
+P22_16_33,81.83,83.46,put down pan
+P22_16_330,1012.78,1014.1,rinse hands
+P22_16_331,1015.45,1018.2,dry hands
+P22_16_332,1018.01,1018.86,put down cloth
+P22_16_333,1019.4,1020.32,pick up spoon
+P22_16_334,1021.85,1030.42,turn corn
+P22_16_335,1022.11,1024.78,turn corncob
+P22_16_336,1030.18,1031.43,put spoon down
+P22_16_337,1035.28,1036.86,open fridge
+P22_16_338,1037.1,1038.03,open drawer
+P22_16_339,1037.79,1039.55,grab tomato
+P22_16_34,83.97,84.72,close drawer
+P22_16_340,1039.93,1042.85,close fridge
+P22_16_341,1043.89,1045.23,open tap
+P22_16_342,1045.24,1046.6,rinse tomato
+P22_16_343,1046.11,1046.85,close tap
+P22_16_344,1049.0,1063.11,slice tomato
+P22_16_345,1050.36,1051.41,put tomato down
+P22_16_346,1051.15,1051.94,grab knife
+P22_16_347,1051.93,1054.53,slice tomato
+P22_16_348,1053.68,1058.1,slice tomato
+P22_16_349,1062.45,1090.04,slice tomato
+P22_16_35,85.15,86.11,open tap
+P22_16_350,1088.88,1090.54,pick up spoon
+P22_16_351,1090.48,1093.86,turn cobs
+P22_16_352,1093.96,1094.74,put spoon
+P22_16_353,1094.71,1103.49,slice tomato
+P22_16_354,1108.9,1112.94,pick up tomato
+P22_16_355,1112.15,1114.28,put tomato
+P22_16_356,1114.44,1120.93,pick up tomato
+P22_16_357,1120.87,1122.32,put tomato
+P22_16_358,1128.38,1131.05,dry hands
+P22_16_359,1130.48,1131.57,put cloth
+P22_16_36,85.95,88.3,rinse hands
+P22_16_360,1131.46,1132.99,pick up spoon
+P22_16_361,1132.95,1139.61,turn cobs
+P22_16_362,1139.28,1140.76,put spoon
+P22_16_363,1141.86,1143.71,pick up oil
+P22_16_364,1144.17,1145.23,open oil
+P22_16_365,1145.45,1147.49,put in oil
+P22_16_366,1147.35,1148.49,close oil
+P22_16_367,1148.59,1149.96,put down oil
+P22_16_368,1150.6,1151.68,pick up salt
+P22_16_369,1151.33,1152.44,open salt
+P22_16_37,87.89,88.93,close tap
+P22_16_370,1152.54,1155.07,put in salt
+P22_16_371,1155.03,1155.66,close salt
+P22_16_372,1155.72,1156.51,put down salt
+P22_16_373,1156.05,1157.24,pick up pepper
+P22_16_374,1158.13,1160.18,put in pepper
+P22_16_375,1160.24,1161.11,close pepper
+P22_16_376,1161.11,1162.08,put down pepper
+P22_16_377,1162.13,1164.51,put in oregano
+P22_16_378,1164.09,1164.91,close oregano
+P22_16_379,1165.01,1166.0,put down oregano
+P22_16_38,88.48,89.91,shake hands
+P22_16_380,1166.44,1167.19,open cabinet
+P22_16_381,1167.22,1167.81,pick up vinegar
+P22_16_382,1168.55,1169.21,put down vinegar
+P22_16_383,1169.24,1169.96,pick up vinegar
+P22_16_384,1169.84,1170.59,open vinegar
+P22_16_385,1170.94,1172.94,put in vinegar
+P22_16_386,1173.02,1174.96,close vinegar
+P22_16_387,1175.06,1176.64,put down vinegar
+P22_16_388,1176.74,1178.11,close cabinet
+P22_16_389,1178.32,1179.25,pick up spoon
+P22_16_39,90.16,90.81,pick up cloth
+P22_16_390,1179.78,1181.3,turn corn cob
+P22_16_391,1181.86,1182.63,put down spoon
+P22_16_392,1183.44,1184.56,open cabinet
+P22_16_393,1184.85,1185.7,pick up bread
+P22_16_394,1185.82,1186.71,close cabinet
+P22_16_395,1187.17,1190.25,open bread
+P22_16_396,1187.7,1190.21,remove clip
+P22_16_397,1188.04,1191.94,remove cover
+P22_16_398,1192.84,1195.31,open bag
+P22_16_399,1195.66,1198.93,pick up slice of bread
+P22_16_4,25.97,27.1,move glass
+P22_16_40,90.23,93.16,dry hands
+P22_16_400,1199.41,1200.26,insert slice of bread
+P22_16_401,1200.2,1201.29,insert slice of bread
+P22_16_402,1201.21,1202.16,activate toaster
+P22_16_403,1202.05,1205.04,close bag
+P22_16_404,1204.96,1210.25,put clip
+P22_16_405,1210.25,1211.13,open cupboard
+P22_16_406,1211.16,1212.56,put bread
+P22_16_407,1212.39,1213.89,close cupboard
+P22_16_408,1215.15,1216.36,open drawer
+P22_16_409,1216.16,1217.67,pick up cutlery
+P22_16_41,93.02,95.34,put down cloth
+P22_16_410,1217.72,1218.66,move cutlery
+P22_16_411,1218.76,1219.55,close drawer
+P22_16_412,1219.93,1221.43,pick up spoon
+P22_16_413,1221.25,1225.51,turn cobs
+P22_16_414,1225.62,1226.44,put spoon
+P22_16_415,1225.91,1226.66,move spoon
+P22_16_416,1227.98,1233.24,stir salad
+P22_16_417,1230.51,1240.79,mix salad
+P22_16_418,1241.46,1242.34,pick up salad
+P22_16_419,1243.13,1245.62,throw a piece of salad
+P22_16_42,95.54,96.76,pick up pan
+P22_16_420,1246.46,1247.22,open tap
+P22_16_421,1246.92,1248.9,wash hands
+P22_16_422,1248.86,1249.67,close tap
+P22_16_423,1250.31,1251.12,pick up cloth
+P22_16_424,1250.97,1252.22,dry hands
+P22_16_425,1252.32,1254.33,place cloth
+P22_16_426,1254.75,1257.62,move cloths
+P22_16_427,1255.1,1257.62,pick up cloths
+P22_16_428,1261.17,1262.56,pick up place mat
+P22_16_429,1262.47,1263.22,place place mat
+P22_16_43,95.86,101.1,turn on stove
+P22_16_430,1263.3,1265.53,move cloths
+P22_16_431,1263.32,1264.3,pick up cloths
+P22_16_432,1264.14,1265.65,place cloths
+P22_16_433,1265.58,1266.57,pick up napkins
+P22_16_434,1266.49,1267.18,move napkins
+P22_16_435,1267.28,1268.11,pick up place mat
+P22_16_436,1267.85,1268.79,put place mat
+P22_16_437,1268.43,1269.05,put place mat
+P22_16_438,1268.97,1269.97,pick up place mat
+P22_16_439,1269.22,1270.75,turn place mat
+P22_16_44,100.2,101.47,put down pan
+P22_16_440,1270.68,1271.66,put place mat
+P22_16_441,1271.51,1273.23,turn place mat
+P22_16_442,1275.01,1278.52,shake pan
+P22_16_443,1279.54,1280.7,open cabinet
+P22_16_444,1280.84,1283.19,pick up dish
+P22_16_445,1283.01,1285.07,pick up dish
+P22_16_446,1286.9,1287.65,place dish
+P22_16_447,1287.47,1288.44,place dish
+P22_16_448,1290.0,1291.75,pick up glasses
+P22_16_449,1291.85,1294.09,close cabinet
+P22_16_45,101.07,102.36,open cabinet
+P22_16_450,1294.06,1296.32,place glass
+P22_16_451,1296.42,1297.49,place glass
+P22_16_452,1298.19,1299.53,open drawer
+P22_16_453,1299.31,1302.89,pick up cutlery
+P22_16_454,1303.09,1303.84,close drawer
+P22_16_455,1303.81,1305.9,place fork
+P22_16_456,1305.78,1306.44,place knife
+P22_16_457,1306.05,1306.72,place knife
+P22_16_458,1306.64,1307.39,place fork
+P22_16_459,1307.52,1309.43,turn place mat
+P22_16_46,102.74,104.2,light cooker
+P22_16_460,1308.95,1313.52,place pan
+P22_16_461,1314.48,1316.07,move salad bowl
+P22_16_462,1316.62,1318.25,open cabinet
+P22_16_463,1318.2,1319.68,pick up dish
+P22_16_464,1321.96,1323.59,put down fork
+P22_16_465,1325.54,1326.94,pick up spoon
+P22_16_466,1327.03,1328.43,pick up bowl
+P22_16_467,1329.06,1331.3,put down bowl
+P22_16_468,1329.19,1330.8,put down plate
+P22_16_469,1331.97,1333.21,pick up slice of bread
+P22_16_47,104.05,105.8,open drawer
+P22_16_470,1333.59,1334.91,pick up mixture
+P22_16_471,1335.51,1337.97,put on mixture
+P22_16_472,1340.19,1341.76,pick up slice of bread
+P22_16_473,1341.18,1343.69,pick up mixture
+P22_16_474,1344.41,1345.61,put on mixture
+P22_16_475,1346.48,1349.33,pick up slice of bread
+P22_16_476,1346.53,1347.55,move slice of bread
+P22_16_477,1349.65,1350.82,put down slice of bread
+P22_16_478,1349.67,1351.7,pick up mixture
+P22_16_479,1351.55,1354.47,put down mixture
+P22_16_48,105.83,117.69,look for something
+P22_16_480,1354.07,1355.9,pick up mixture
+P22_16_481,1356.0,1358.92,put down mixture
+P22_16_482,1358.77,1360.0,pick up mixture
+P22_16_483,1359.85,1361.88,put down mixture
+P22_16_484,1361.98,1363.24,pick up mixture
+P22_16_485,1363.07,1364.64,put down mixture
+P22_16_486,1364.49,1366.17,pick up mixture
+P22_16_487,1366.02,1367.66,put down mixture
+P22_16_488,1370.28,1371.45,pick up mixture
+P22_16_489,1371.35,1372.6,put down mixture
+P22_16_49,117.48,118.57,close drawer
+P22_16_490,1372.93,1375.44,pick up mixture
+P22_16_491,1375.54,1376.42,put down mixture
+P22_16_492,1377.53,1379.5,pour mixture
+P22_16_493,1379.31,1380.28,put down bowl
+P22_16_494,1380.08,1382.7,move bowl
+P22_16_495,1381.75,1383.01,put down bowl
+P22_16_496,1383.4,1384.9,pick up pan
+P22_16_497,1384.77,1389.08,turn corncob
+P22_16_498,1388.55,1389.28,put down pan
+P22_16_499,1389.36,1390.36,turn off stove
+P22_16_5,26.73,32.01,put down glass
+P22_16_50,118.26,119.51,open drawer
+P22_16_500,1391.54,1392.49,pick up plate
+P22_16_501,1393.04,1394.32,put down plate
+P22_16_502,1397.86,1398.55,pick up plate
+P22_16_503,1398.78,1399.53,put down plate
+P22_16_504,1403.39,1405.64,put on corncob
+P22_16_505,1407.03,1409.08,put on corncob
+P22_16_506,1410.75,1412.18,put down plate
+P22_16_507,1413.33,1414.63,pick up salad bowl
+P22_16_508,1414.49,1416.39,put down salad bowl
+P22_16_509,1417.73,1418.79,pick up oil
+P22_16_51,119.52,120.54,close drawer
+P22_16_510,1419.27,1420.47,put down oil
+P22_16_511,1423.21,1425.27,open refrigerator
+P22_16_512,1425.64,1426.89,pick up water
+P22_16_513,1426.71,1427.86,close refrigerator
+P22_16_514,1427.4,1428.71,put down water
+P22_16_515,1431.77,1432.59,pick up bottle
+P22_16_516,1432.61,1434.61,close refrigerator
+P22_16_517,1435.62,1436.58,put down bottle
+P22_16_518,1437.34,1439.03,open drawer
+P22_16_519,1439.02,1447.35,pick up bottle opener
+P22_16_52,121.32,122.27,open drawer
+P22_16_520,1447.31,1448.21,close drawer
+P22_16_521,1448.71,1449.78,open cabinet
+P22_16_522,1450.12,1451.66,pick up glass
+P22_16_523,1452.27,1453.92,pick up glass
+P22_16_524,1454.03,1454.74,close cabinet
+P22_16_525,1457.34,1458.72,put down glass
+P22_16_526,1459.33,1460.23,put down glass
+P22_16_527,1459.37,1460.47,put down bottle opener
+P22_16_53,122.37,123.04,close drawer
+P22_16_54,123.01,123.74,open drawer
+P22_16_55,123.84,126.74,pick up lighter
+P22_16_56,126.18,126.78,close drawer
+P22_16_57,126.82,128.06,light cooker
+P22_16_58,128.46,129.11,put down lighter
+P22_16_59,129.2,130.14,move pan
+P22_16_6,31.37,33.38,grab small plate
+P22_16_60,130.24,132.2,pick up lighter
+P22_16_61,132.29,133.58,light cooker
+P22_16_62,133.66,135.69,put down lighter
+P22_16_63,135.07,136.57,open cabinet
+P22_16_64,136.67,138.17,put away lighter
+P22_16_65,138.27,139.77,close cabinet
+P22_16_66,141.12,143.87,open fridge
+P22_16_67,144.25,145.27,pick up soda
+P22_16_68,144.28,145.1,pick up corn
+P22_16_69,144.48,145.8,pick up corn cobs
+P22_16_7,33.48,34.63,put down small plate
+P22_16_70,148.04,149.15,put down corn cobs
+P22_16_71,149.4,150.87,open drawer
+P22_16_72,150.95,152.33,pick up cutting board
+P22_16_73,153.4,154.77,put down cutting board
+P22_16_74,154.14,154.86,move objects
+P22_16_75,154.9,156.06,move corn cobs
+P22_16_76,156.43,158.1,open drawer
+P22_16_77,158.89,159.71,pick up knife
+P22_16_78,159.88,160.92,pick up spoon
+P22_16_79,161.14,162.2,put down spoon
+P22_16_8,36.88,37.96,grab coffee cup
+P22_16_80,162.0,162.72,close drawer
+P22_16_81,162.82,169.84,open bag
+P22_16_82,169.44,170.83,take out corn cobs
+P22_16_83,170.63,171.13,take out corn cob
+P22_16_84,171.64,172.49,put down corn cob
+P22_16_85,172.59,174.49,take out corn cob
+P22_16_86,174.42,174.98,put down corn cob
+P22_16_87,174.88,176.16,move bag
+P22_16_88,177.33,178.58,grab sugar bowl
+P22_16_89,178.5,179.36,open sugar bowl
+P22_16_9,38.06,39.25,put down coffee cup
+P22_16_90,180.7,183.15,put salt
+P22_16_91,183.05,184.9,put salt
+P22_16_92,185.95,187.52,close can
+P22_16_93,187.4,188.57,put down down can
+P22_16_94,189.3,190.02,grab cob
+P22_16_95,189.9,190.74,put cob
+P22_16_96,191.21,191.89,put cob
+P22_16_97,192.58,193.33,grab can
+P22_16_98,193.61,194.45,open can
+P22_16_99,194.55,195.51,grab salt

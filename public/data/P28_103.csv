@@ -1,0 +1,295 @@
+P28_103_0,4.94,6.3,take sponge
+P28_103_1,5.02,9.32,put dishwashing liquid on sponge
+P28_103_10,44.34,45.09,put chopping board
+P28_103_100,531.9,536.75,take plate
+P28_103_101,536.79,540.27,put plate
+P28_103_102,541.27,577.37,chop carrot
+P28_103_103,577.38,586.19,put carrot in plate
+P28_103_104,586.29,594.76,chop carrot
+P28_103_105,619.0,622.86,put carrot in plate
+P28_103_106,623.94,625.41,take carrot
+P28_103_107,625.28,626.52,put carrot in plate
+P28_103_108,626.98,650.47,cut potato
+P28_103_109,632.91,653.32,cut potato
+P28_103_11,46.68,47.22,open cupboard
+P28_103_110,660.58,664.58,cut potato
+P28_103_111,665.59,678.23,put potato in plate
+P28_103_112,668.07,668.83,cut potato
+P28_103_113,681.64,694.95,cut potato
+P28_103_114,694.78,702.38,put potato in plate
+P28_103_115,702.08,711.85,chop onion
+P28_103_116,704.36,718.96,chop onion
+P28_103_117,719.07,728.55,chop onion
+P28_103_118,730.18,739.8,chop onion
+P28_103_119,740.29,748.22,chop onion
+P28_103_12,48.27,49.47,take garlic
+P28_103_120,755.91,758.48,put onion in plate
+P28_103_121,761.51,768.83,put onion in plate
+P28_103_122,773.4,775.53,take plate
+P28_103_123,779.41,780.09,open cupboard
+P28_103_124,780.62,781.68,take oil
+P28_103_125,784.29,785.11,put oil
+P28_103_126,787.36,788.36,take pepper
+P28_103_127,788.71,789.29,put pepper
+P28_103_128,789.67,792.04,take paprika
+P28_103_129,792.24,792.86,put paprika
+P28_103_13,54.14,57.47,put garlic
+P28_103_130,797.86,798.66,take salt
+P28_103_131,799.54,800.1,put salt
+P28_103_132,800.41,802.91,take chopped tomatoes tin
+P28_103_133,803.82,805.7,put chopped tomatoes tin
+P28_103_134,805.61,807.99,take stuff
+P28_103_135,809.08,810.08,put stuff
+P28_103_136,812.44,812.99,take oil
+P28_103_137,813.35,815.95,put oil
+P28_103_138,817.62,827.12,open paprika package
+P28_103_139,830.17,830.47,throw away plastic
+P28_103_14,59.44,62.89,take onion
+P28_103_140,832.26,839.44,open oil
+P28_103_141,843.63,844.03,throw away plastic
+P28_103_142,845.35,846.55,open freezer
+P28_103_143,846.61,848.47,open drawer
+P28_103_144,848.57,851.82,take green beans
+P28_103_145,851.51,852.14,close drawer
+P28_103_146,852.56,853.5,close freezer
+P28_103_147,854.68,855.44,put green beans
+P28_103_148,862.5,865.83,open oil
+P28_103_149,865.84,880.4,pour oil in pot
+P28_103_15,70.99,72.11,put onion
+P28_103_150,882.23,883.53,throw oil bottle
+P28_103_151,884.98,886.87,open oil
+P28_103_152,887.46,890.38,pour oil in pot
+P28_103_153,891.13,892.35,close oil
+P28_103_154,893.11,895.87,turn on hob
+P28_103_155,900.0,900.8,open drawer
+P28_103_156,901.35,901.77,take spatula
+P28_103_157,903.25,904.22,put spatula
+P28_103_158,907.17,908.69,take tupperware
+P28_103_159,909.17,909.9,put tupperware
+P28_103_16,73.92,75.01,open cupboard
+P28_103_160,918.25,928.03,check oil temperature
+P28_103_161,931.93,937.94,check oil temperature
+P28_103_162,937.69,939.27,take vegetable
+P28_103_163,939.37,941.55,pour vegetable in pot
+P28_103_164,941.8,942.7,put plate
+P28_103_165,944.09,945.01,take spatula
+P28_103_166,946.16,949.17,stir vegetable
+P28_103_167,949.67,954.14,adjust temperature
+P28_103_168,954.77,963.94,stir vegetable
+P28_103_169,966.14,968.38,take green beans
+P28_103_17,75.19,77.71,take pot
+P28_103_170,968.5,973.04,pour green beans in pot
+P28_103_171,973.42,975.96,throw away green beans package
+P28_103_172,979.2,981.28,open drawer
+P28_103_173,981.38,983.41,take cup
+P28_103_174,983.36,984.26,close drawer
+P28_103_175,985.09,986.01,put cup
+P28_103_176,987.49,989.33,take kettle
+P28_103_177,990.03,993.54,fill kettle with water
+P28_103_178,993.16,993.9,turn off tap
+P28_103_179,995.15,997.0,put kettle
+P28_103_18,81.54,82.3,close cupboard
+P28_103_180,998.94,999.92,take spatula
+P28_103_181,1000.02,1008.88,stir vegetables
+P28_103_182,1005.74,1021.35,stir vegetables
+P28_103_183,1046.97,1047.63,put spatula
+P28_103_184,1049.12,1050.69,take oven glove
+P28_103_185,1053.42,1055.31,shake pot
+P28_103_186,1056.11,1057.87,put oven glove
+P28_103_187,1071.85,1072.85,take oven glove
+P28_103_188,1073.45,1074.2,take spatula
+P28_103_189,1076.04,1100.65,stir vegetables
+P28_103_19,82.54,84.41,put pot
+P28_103_190,1094.58,1106.62,stir vegetables
+P28_103_191,1106.25,1109.41,put oven glove
+P28_103_192,1109.32,1110.38,put spatula
+P28_103_193,1112.25,1126.0,chop garlic
+P28_103_194,1125.68,1131.65,chop garlic
+P28_103_195,1147.44,1156.6,chop garlic
+P28_103_196,1162.35,1173.53,chop garlic
+P28_103_197,1174.22,1175.26,put knife
+P28_103_198,1176.05,1179.23,take chopping board
+P28_103_199,1179.1,1182.47,take spatula
+P28_103_2,10.58,11.67,damp sponge
+P28_103_20,87.2,88.77,open fridge
+P28_103_200,1183.41,1185.3,take oven glove
+P28_103_201,1186.1,1188.49,move chopping board
+P28_103_202,1188.85,1192.18,wear oven glove
+P28_103_203,1192.55,1214.58,stir vegetables
+P28_103_204,1212.75,1229.02,stir vegetables
+P28_103_205,1246.02,1247.02,put oven glove
+P28_103_206,1247.17,1247.72,put spatula
+P28_103_207,1250.04,1250.78,put oven glove
+P28_103_208,1254.46,1256.5,throw rubbish
+P28_103_209,1259.62,1260.57,turn on tap
+P28_103_21,91.74,99.14,take carrots
+P28_103_210,1260.92,1262.67,rinse plate
+P28_103_211,1263.5,1270.51,wash plate
+P28_103_212,1270.24,1271.2,put sponge
+P28_103_213,1271.3,1277.86,rinse plate
+P28_103_214,1277.78,1279.87,put plate
+P28_103_215,1276.0,1279.26,turn off tap
+P28_103_216,1283.17,1284.67,wipe hands
+P28_103_217,1284.76,1285.48,take knife
+P28_103_218,1286.26,1286.89,put knife
+P28_103_219,1288.64,1289.5,take spatula
+P28_103_22,100.49,108.44,take carrots out of package
+P28_103_220,1289.6,1303.84,stir vegetables
+P28_103_221,1307.36,1312.77,pour garlic in pot
+P28_103_222,1312.87,1315.49,put chopping board
+P28_103_223,1318.14,1318.85,take oven glove
+P28_103_224,1318.69,1321.23,wear oven glove
+P28_103_225,1321.93,1335.62,stir vegetables
+P28_103_226,1336.44,1356.05,stir vegetables
+P28_103_227,1356.62,1357.46,put oven glove
+P28_103_228,1358.12,1358.91,put spatula
+P28_103_229,1359.48,1367.77,open chopped tomatoes tin
+P28_103_23,110.03,111.21,put carrots
+P28_103_230,1379.77,1381.57,wear oven glove
+P28_103_231,1382.5,1410.62,stir vegetables
+P28_103_232,1414.4,1415.35,put oven glove
+P28_103_233,1415.45,1416.62,put spatula
+P28_103_234,1445.73,1455.4,stir vegetables
+P28_103_235,1464.01,1465.64,put oven glove
+P28_103_236,1465.73,1466.8,put spatula
+P28_103_237,1477.36,1478.72,take spatula
+P28_103_238,1481.04,1481.84,wear oven glove
+P28_103_239,1481.94,1498.3,stir vegetables
+P28_103_24,112.99,114.52,put carrots
+P28_103_240,1498.44,1498.9,put oven glove
+P28_103_241,1504.09,1505.35,take kettle
+P28_103_242,1509.39,1514.14,pour water in cup
+P28_103_243,1513.98,1516.31,pour water in pot
+P28_103_244,1516.75,1521.86,pour water in cup
+P28_103_245,1521.79,1524.04,pour water in pot
+P28_103_246,1524.06,1527.65,put cup
+P28_103_247,1527.75,1528.46,put kettle
+P28_103_248,1529.16,1530.1,take chopped tomatoes tin
+P28_103_249,1529.92,1536.2,pour chopped tomatoes in pot
+P28_103_25,114.63,115.92,close fridge
+P28_103_250,1542.25,1543.98,open fridge
+P28_103_251,1544.04,1547.93,put chopped tomatoes tin
+P28_103_252,1549.32,1550.14,close fridge
+P28_103_253,1552.25,1553.24,take spatula
+P28_103_254,1553.95,1560.58,stir food
+P28_103_255,1568.04,1573.28,stir food
+P28_103_256,1573.22,1574.87,put oven glove
+P28_103_257,1574.61,1576.35,put spatula
+P28_103_258,1577.06,1578.67,open tupperware
+P28_103_259,1579.53,1593.66,pour parsley in pot
+P28_103_26,115.91,116.84,open freezer
+P28_103_260,1598.61,1601.06,put tupperware
+P28_103_261,1605.27,1619.94,stir food
+P28_103_262,1621.21,1623.01,put oven glove
+P28_103_263,1622.81,1624.63,put spatula
+P28_103_264,1624.88,1626.66,take oil
+P28_103_265,1627.23,1630.38,pour oil in food
+P28_103_266,1630.73,1631.48,close oil
+P28_103_267,1631.72,1632.66,pout oil
+P28_103_268,1632.49,1633.1,take salt
+P28_103_269,1633.64,1642.39,pour salt in food
+P28_103_27,116.88,117.99,open drawer
+P28_103_270,1643.15,1644.1,put salt
+P28_103_271,1644.15,1644.81,take pepper
+P28_103_272,1645.26,1659.24,pour pepper in food
+P28_103_273,1659.27,1660.63,put pepper
+P28_103_274,1660.73,1661.34,take paprika
+P28_103_275,1661.35,1663.73,open paprika
+P28_103_276,1666.86,1673.87,pour paprika in food
+P28_103_277,1673.88,1676.92,close paprika
+P28_103_278,1676.97,1677.73,put paprika
+P28_103_279,1681.96,1685.7,pour water in cup
+P28_103_28,118.49,119.46,take tupperware
+P28_103_280,1686.0,1688.46,pour water in food
+P28_103_281,1688.91,1691.63,put cup
+P28_103_282,1693.31,1695.27,put kettle
+P28_103_283,1703.34,1712.9,stir food
+P28_103_284,1709.22,1727.93,stir food
+P28_103_285,1727.0,1732.03,put oven glove
+P28_103_286,1731.85,1732.81,put spatula
+P28_103_287,1735.63,1738.63,open cupboard
+P28_103_288,1741.52,1741.98,open cupboard
+P28_103_289,1747.27,1752.33,take pot lid
+P28_103_29,119.48,120.07,close drawer
+P28_103_290,1754.58,1755.72,close cupboard
+P28_103_291,1757.3,1767.01,rinse pot lid
+P28_103_292,1766.93,1767.49,turn off tap
+P28_103_293,1770.57,1773.08,put lid on pot
+P28_103_294,1774.95,1778.01,adjust temperature
+P28_103_3,12.8,19.83,wash cup
+P28_103_30,119.88,122.19,close freezer
+P28_103_31,123.31,124.12,put tupperware
+P28_103_32,124.72,125.52,open cupboard
+P28_103_33,127.69,129.17,take potatoes
+P28_103_34,130.26,131.31,close cupboard
+P28_103_35,135.25,136.1,throw away plastic package
+P28_103_36,139.07,140.15,put potato
+P28_103_37,141.02,142.05,open drawer
+P28_103_38,142.13,143.33,take peeler
+P28_103_39,150.51,151.27,put peeler
+P28_103_4,19.92,20.96,put sponge
+P28_103_40,154.87,155.94,close drawer
+P28_103_41,155.95,156.65,open drawer
+P28_103_42,156.09,156.59,open drawer
+P28_103_43,161.68,163.2,close drawer
+P28_103_44,163.67,165.64,put knife
+P28_103_45,166.03,168.11,take peeler
+P28_103_46,168.2,168.7,take potato
+P28_103_47,170.07,189.03,peel potato
+P28_103_48,186.15,202.23,peel potato
+P28_103_49,189.07,212.75,peel potato
+P28_103_5,22.47,32.27,rinse cup
+P28_103_50,212.85,214.05,put potato
+P28_103_51,214.12,215.48,take carrot
+P28_103_52,215.22,217.77,peel carrot
+P28_103_53,217.87,235.42,peel carrot
+P28_103_54,234.44,235.29,put carrot
+P28_103_55,235.38,236.1,take carrot
+P28_103_56,236.2,244.14,peel carrot
+P28_103_57,244.1,254.72,peel carrot
+P28_103_58,254.82,256.04,put carrot
+P28_103_59,257.89,259.28,turn on tap
+P28_103_6,32.37,33.29,turn off tap
+P28_103_60,259.38,261.57,rinse peeler
+P28_103_61,261.59,262.49,take sponge
+P28_103_62,262.91,266.45,wash peeler
+P28_103_63,266.1,266.77,put sponge
+P28_103_64,266.87,270.58,rinse peeler
+P28_103_65,270.14,271.63,turn off tap
+P28_103_66,270.76,272.18,put peeler
+P28_103_67,273.5,279.35,take rubbish
+P28_103_68,284.24,288.13,throw rubbish
+P28_103_69,290.9,292.01,take sponge
+P28_103_7,33.39,35.61,put cup
+P28_103_70,292.47,296.83,wipe counter
+P28_103_71,297.12,298.22,put sponge
+P28_103_72,301.3,302.47,take knife
+P28_103_73,302.98,306.61,clean carrot
+P28_103_74,306.71,310.83,clean carrot
+P28_103_75,310.8,313.12,take rubbish
+P28_103_76,313.54,314.92,put rubbish
+P28_103_77,318.7,319.95,put knife
+P28_103_78,319.8,330.02,peel garlic
+P28_103_79,330.12,337.36,peel garlic
+P28_103_8,37.71,39.82,wipe hands
+P28_103_80,342.35,360.1,peel garlic
+P28_103_81,363.08,364.04,put garlic
+P28_103_82,364.03,369.35,cut garlic
+P28_103_83,373.59,394.34,clean onion
+P28_103_84,394.45,400.95,peel onion
+P28_103_85,398.5,404.62,peel onion
+P28_103_86,404.43,428.58,peel onion
+P28_103_87,429.49,432.25,put onion
+P28_103_88,433.04,439.75,take rubbish
+P28_103_89,444.02,450.61,throw rubbish
+P28_103_9,41.69,43.44,take chopping board
+P28_103_90,454.53,455.45,take sponge
+P28_103_91,456.48,460.5,wipe counter
+P28_103_92,461.81,462.16,put sponge
+P28_103_93,462.56,464.09,take rubbish from sink
+P28_103_94,467.47,477.98,throw rubbish
+P28_103_95,500.44,501.66,turn on tap
+P28_103_96,501.48,522.1,wash hands
+P28_103_97,521.83,523.14,turn off tap
+P28_103_98,525.79,528.75,wipe hands
+P28_103_99,530.16,532.09,open cupboard

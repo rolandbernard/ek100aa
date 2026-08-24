@@ -1,0 +1,412 @@
+P11_05_0,4.26,6.76,pick up backpack
+P11_05_1,6.2,7.61,put down backpack
+P11_05_10,32.67,34.0,put down frying pan
+P11_05_100,344.88,349.94,slice onions
+P11_05_101,349.33,350.7,slice onion
+P11_05_102,351.73,354.6,slice onion
+P11_05_103,351.94,355.04,slice onion
+P11_05_104,372.18,372.71,pick up knife
+P11_05_105,372.61,375.11,collect onion skins
+P11_05_106,375.21,376.21,throw away onion skins
+P11_05_107,376.88,378.93,move mandolin slicer
+P11_05_108,378.8,381.5,pick up onions
+P11_05_109,382.62,387.37,chop onions
+P11_05_11,33.93,34.98,put down frying pan
+P11_05_110,385.82,389.43,chop onions
+P11_05_111,389.24,391.67,clean off knife
+P11_05_112,392.57,394.04,spill onions
+P11_05_113,395.27,397.63,pour onions into pan
+P11_05_114,399.64,403.81,stir courgettes
+P11_05_115,403.91,405.7,adjust oven
+P11_05_116,407.52,409.31,turn on water to boil
+P11_05_117,410.1,418.41,pour water into pot
+P11_05_118,411.92,421.94,pour water into pot
+P11_05_119,421.0,423.68,put down kettle
+P11_05_12,37.45,38.52,pick up colander
+P11_05_120,423.43,424.7,rearrange pans
+P11_05_121,426.67,427.82,pick up lid
+P11_05_122,428.0,429.5,put lid on pot
+P11_05_123,429.6,431.85,stir courgette
+P11_05_124,432.03,439.4,stir courgette
+P11_05_125,439.43,446.49,stir onions
+P11_05_126,441.25,446.75,stir onions
+P11_05_127,450.06,451.24,turn on tap
+P11_05_128,451.05,453.12,rinse hands
+P11_05_129,453.63,455.04,dry off hands
+P11_05_13,38.75,39.5,pick up pot
+P11_05_130,455.14,459.31,open window
+P11_05_131,468.72,470.22,open window
+P11_05_132,473.43,479.23,stir courgette
+P11_05_133,479.27,481.82,remove courgette
+P11_05_134,481.92,487.37,stir onions
+P11_05_135,487.37,488.9,adjust oven
+P11_05_136,490.32,492.88,swap pans
+P11_05_137,494.56,495.85,open cupboards
+P11_05_138,495.7,497.53,take out pasta
+P11_05_139,497.63,499.41,take out measuring jug
+P11_05_14,41.39,45.66,rearrange pots
+P11_05_140,500.9,507.84,measure pasta
+P11_05_141,506.87,507.62,pick up measuring jug
+P11_05_142,509.8,512.79,put away pasta
+P11_05_143,515.99,517.73,take off lid
+P11_05_144,517.83,521.36,pour pasta into pot
+P11_05_145,521.97,524.19,put lid back on
+P11_05_146,526.15,527.28,open cupboards
+P11_05_147,526.83,529.34,put away measuring jug
+P11_05_148,529.8,533.64,put away pasta
+P11_05_149,533.52,535.52,put away measuring jug
+P11_05_15,41.91,42.88,put down pot
+P11_05_150,535.92,536.92,close cupboards
+P11_05_151,537.68,542.02,set oven timer
+P11_05_152,543.37,548.01,stir onions
+P11_05_153,547.08,549.22,swap pans
+P11_05_154,550.11,561.3,stir courgette
+P11_05_155,560.14,562.3,stir courgette
+P11_05_156,562.4,564.35,adjust hob
+P11_05_157,564.38,569.49,stir courgette
+P11_05_158,570.0,574.12,open fridge
+P11_05_159,574.22,577.58,take out cheese
+P11_05_16,45.74,46.83,pick up pots
+P11_05_160,577.65,580.06,take out artichokes
+P11_05_161,580.16,584.54,take out sun-dried tomato
+P11_05_162,586.71,589.66,open artichokes
+P11_05_163,590.67,592.25,get fork
+P11_05_164,593.42,596.66,open olives
+P11_05_165,599.52,604.35,remove olives
+P11_05_166,604.45,609.14,remove olives
+P11_05_167,609.08,611.96,remove olives
+P11_05_168,612.2,614.28,take lid off pasta
+P11_05_169,614.33,622.95,stir courgette
+P11_05_17,47.38,52.31,fill pot with water
+P11_05_170,623.19,627.83,stir courgette
+P11_05_171,627.93,635.49,stir onions
+P11_05_172,628.17,635.83,stir onions
+P11_05_173,635.86,639.13,adjust hob
+P11_05_174,639.23,645.56,stir courgette
+P11_05_175,647.81,652.88,remove olives
+P11_05_176,654.14,658.91,remove olives
+P11_05_177,662.83,665.83,close olives
+P11_05_178,665.93,668.32,put olives in fridge
+P11_05_179,668.22,669.72,open artichokes
+P11_05_18,54.62,56.07,put pot on stove
+P11_05_180,671.4,679.7,remove artichokes
+P11_05_181,671.64,679.8,remove artichokes
+P11_05_182,680.49,687.04,remove artichokes
+P11_05_183,680.54,687.24,remove artichokes
+P11_05_184,700.98,702.21,put artichokes in fridge
+P11_05_185,703.24,704.76,open sun dried tomatoes
+P11_05_186,706.41,708.16,stir courgette
+P11_05_187,713.99,716.66,stir onions
+P11_05_188,717.71,722.82,stir onions
+P11_05_189,723.56,725.26,put lid on pasta
+P11_05_19,59.26,61.61,open fridge
+P11_05_190,728.96,730.93,clean off fork
+P11_05_191,731.39,740.81,remove sun dried tomatoes
+P11_05_192,732.73,741.06,remove sun dried tomatoes
+P11_05_193,744.23,751.06,remove sun dried tomatoes
+P11_05_194,752.19,761.87,remove sun dried tomato
+P11_05_195,762.86,764.05,take lid off pasta
+P11_05_196,764.11,768.88,stir onions
+P11_05_197,768.89,772.66,stir courgette
+P11_05_198,772.36,775.82,stir courgette
+P11_05_199,779.82,781.82,stir courgette
+P11_05_2,9.96,11.46,turn on oven
+P11_05_20,62.29,63.93,take out courgette
+P11_05_200,781.8,782.52,adjust oven
+P11_05_201,784.76,789.92,put away sun-dried tomatoes
+P11_05_202,784.99,786.87,put lid on sun-dried tomatoes
+P11_05_203,791.58,793.1,pick up fork
+P11_05_204,794.34,795.09,put fork in sink
+P11_05_205,797.18,798.33,pick up guard
+P11_05_206,799.2,800.7,pick up slicer
+P11_05_207,801.67,803.06,put slicer on the side
+P11_05_208,804.84,807.21,pick up knife
+P11_05_209,806.88,813.73,rearrange tomatoes
+P11_05_21,65.88,68.52,move cheese
+P11_05_210,813.9,815.17,pick up cheese
+P11_05_211,815.28,817.39,empty cheese
+P11_05_212,817.89,820.11,throw away cheese wrapper
+P11_05_213,821.73,824.04,move olives
+P11_05_214,824.3,825.32,move sun-dried tomatoes
+P11_05_215,825.49,828.49,chop sun-dried tomatoes
+P11_05_216,831.39,834.87,chop sun-dried tomatoes
+P11_05_217,839.1,846.02,chop sun-dried tomatoes
+P11_05_218,847.22,852.8,chop sun-dried tomatoes
+P11_05_219,851.5,878.87,chop sun-dried tomatoes
+P11_05_22,70.61,72.22,open courgette
+P11_05_220,853.2,857.61,chop sun-dried tomatoes
+P11_05_221,853.39,857.36,chop sun-dried tomatoes
+P11_05_222,878.96,881.29,clean off knife
+P11_05_223,881.31,882.35,put down knife
+P11_05_224,882.45,883.79,check timer
+P11_05_225,884.87,886.13,adjust hob
+P11_05_226,886.48,895.06,stir courgette
+P11_05_227,895.16,899.07,stir onions
+P11_05_228,904.18,912.65,chop artichokes
+P11_05_229,913.48,917.12,chop olives
+P11_05_23,75.87,77.3,empty courgette into sink
+P11_05_230,916.42,917.81,chop olives and artichokes
+P11_05_231,917.1,920.47,chop olives and artichokes
+P11_05_232,934.08,944.13,chop olives and artichokes
+P11_05_233,949.72,953.36,chop cheese
+P11_05_234,953.07,965.21,chop cheese
+P11_05_235,960.63,970.7,chop cheese
+P11_05_236,970.8,980.29,chop cheese
+P11_05_237,978.28,985.29,chop cheese
+P11_05_238,985.45,988.11,clean off knife
+P11_05_239,988.45,998.15,stir courgette
+P11_05_24,78.67,79.62,throw away plastic
+P11_05_240,998.32,1000.11,adjust hobs
+P11_05_241,1001.2,1005.66,stir onions
+P11_05_242,1006.12,1007.3,adjust lid
+P11_05_243,1009.71,1010.8,turn on tap
+P11_05_244,1010.9,1012.19,rinse hands
+P11_05_245,1013.27,1016.15,pour soap on hands
+P11_05_246,1015.8,1020.33,rinse hands
+P11_05_247,1019.83,1025.65,clean fork
+P11_05_248,1026.58,1030.97,clean guard
+P11_05_249,1026.8,1031.37,clean slicer
+P11_05_25,82.7,83.69,turn on tap
+P11_05_250,1031.47,1041.01,scrub slicer
+P11_05_251,1041.18,1041.97,turn on tap
+P11_05_252,1041.27,1054.41,rinse slicer
+P11_05_253,1042.45,1054.45,rinse slicer
+P11_05_254,1054.29,1055.87,put away slicer
+P11_05_255,1055.97,1058.54,rinse fork
+P11_05_256,1058.44,1059.9,put away fork
+P11_05_257,1059.92,1063.69,rinse guard
+P11_05_258,1063.29,1064.02,turn off tap
+P11_05_259,1064.89,1065.75,drop guard
+P11_05_26,83.5,86.44,rinse courgette
+P11_05_260,1066.76,1069.66,rinse guard
+P11_05_261,1069.73,1071.23,put away guard
+P11_05_262,1072.56,1073.97,adjust lid
+P11_05_263,1075.74,1079.31,stir courgettes
+P11_05_264,1079.32,1083.29,stir courgettes
+P11_05_265,1082.18,1087.76,stir courgettes
+P11_05_266,1087.86,1089.11,adjust hob
+P11_05_267,1094.95,1097.81,pick up courgettes
+P11_05_268,1097.81,1099.15,eat courgette
+P11_05_269,1099.19,1101.44,chew on courgette
+P11_05_27,86.54,88.37,rinse courgette
+P11_05_270,1108.79,1110.29,adjust hob
+P11_05_271,1110.54,1129.65,stir courgette
+P11_05_272,1111.34,1115.33,stir courgette
+P11_05_273,1115.24,1132.23,stir courgette
+P11_05_274,1136.65,1138.44,adjust hob
+P11_05_275,1142.54,1148.42,stir onions
+P11_05_276,1148.72,1149.44,turn off timer
+P11_05_277,1152.74,1154.18,pick up colander
+P11_05_278,1154.75,1156.12,put back pot
+P11_05_279,1157.07,1158.44,put colander in sink
+P11_05_28,88.4,90.91,rinse courgette
+P11_05_280,1161.54,1165.04,pick up pot
+P11_05_281,1168.03,1170.78,put pot on lid
+P11_05_282,1168.29,1170.27,pour pot in colander
+P11_05_283,1172.5,1173.71,pick up colander
+P11_05_284,1175.48,1178.23,put down pot
+P11_05_285,1178.39,1181.8,put down pot on hob
+P11_05_286,1181.33,1184.94,put colander on pot
+P11_05_287,1184.84,1188.13,put lid in sink
+P11_05_288,1188.23,1192.67,stir onions
+P11_05_289,1193.83,1196.58,pick up chopping block
+P11_05_29,90.75,93.29,rinse courgette
+P11_05_290,1199.4,1203.89,put artichokes in pan
+P11_05_291,1202.05,1204.8,put down knife
+P11_05_292,1205.69,1208.35,fold chopping block
+P11_05_293,1209.78,1216.22,put cheese in pan
+P11_05_294,1214.34,1218.69,put cheese in pan
+P11_05_295,1217.93,1219.7,clean off knife
+P11_05_296,1219.73,1226.07,scrape cheese into pan
+P11_05_297,1226.37,1228.25,clean off knife
+P11_05_298,1228.86,1229.42,scrape cheese
+P11_05_299,1230.66,1233.87,put down chopping block and knife
+P11_05_3,12.77,13.64,pick up kettle
+P11_05_30,93.63,94.39,pick up courgette
+P11_05_300,1234.72,1238.39,pick up pasta
+P11_05_301,1239.24,1242.48,pour pasta into pan
+P11_05_302,1243.73,1244.95,put down colander
+P11_05_303,1245.1,1247.85,stir courgette
+P11_05_304,1249.17,1250.54,pick up olive oil
+P11_05_305,1250.59,1254.45,put olive oil on courgette
+P11_05_306,1255.44,1260.78,stir courgette
+P11_05_307,1259.23,1263.08,stir courgette
+P11_05_308,1264.46,1273.57,stir courgette
+P11_05_309,1276.66,1282.78,stir pasta
+P11_05_31,94.24,95.42,shake off courgette
+P11_05_310,1282.67,1294.86,stir pasta
+P11_05_311,1298.6,1299.67,put away tupperware
+P11_05_312,1300.54,1305.78,rinse knife
+P11_05_313,1306.2,1313.59,clean knife
+P11_05_314,1314.26,1322.26,rinse off knife
+P11_05_315,1324.74,1327.31,put away knife
+P11_05_316,1327.58,1329.15,pick up chopping block
+P11_05_317,1330.01,1334.44,rinse off chopping block
+P11_05_318,1334.82,1343.5,scrub chopping block
+P11_05_319,1343.47,1346.32,scrub chopping block
+P11_05_32,97.23,98.52,put down courgette
+P11_05_320,1346.29,1348.87,rinse hands
+P11_05_321,1351.33,1352.33,adjust hob
+P11_05_322,1354.55,1358.34,stir courgette
+P11_05_323,1357.88,1360.26,stir courgette
+P11_05_324,1361.17,1367.55,pour pasta onto courgette
+P11_05_325,1373.23,1375.49,adjust hob
+P11_05_326,1378.89,1381.96,pick up lid
+P11_05_327,1381.05,1382.67,pour soap on lid
+P11_05_328,1383.83,1387.76,scrub lid
+P11_05_329,1387.86,1392.96,scrub lid
+P11_05_33,99.89,100.75,open cupboard
+P11_05_330,1393.06,1403.37,rinse off lid
+P11_05_331,1403.47,1405.13,put lid in drying rack
+P11_05_332,1405.31,1409.84,empty sink
+P11_05_333,1409.85,1413.1,pour soap on chopping block
+P11_05_334,1413.69,1423.55,scrub chopping block
+P11_05_335,1423.53,1425.06,rinse hands
+P11_05_336,1425.06,1430.37,rinse chopping block
+P11_05_337,1430.47,1434.4,rinse chopping block
+P11_05_338,1435.86,1439.92,put away chopping block
+P11_05_339,1444.15,1446.82,pick up pan
+P11_05_34,101.41,102.21,take out olive oil
+P11_05_340,1447.6,1462.21,stir pan
+P11_05_341,1447.95,1463.08,stir pan
+P11_05_342,1451.66,1465.83,stir pan
+P11_05_343,1462.89,1482.33,stir pan
+P11_05_344,1486.03,1490.06,rinse pan
+P11_05_345,1491.29,1493.22,pour soap in pan
+P11_05_346,1494.22,1502.68,scrub pan
+P11_05_347,1504.52,1508.93,rinse off pan
+P11_05_348,1517.35,1523.77,rinse off pan
+P11_05_349,1520.74,1529.85,rinse off pan
+P11_05_35,105.11,108.5,pour olive oil in pan
+P11_05_350,1532.21,1533.95,put pan on hob
+P11_05_351,1535.23,1536.03,pick up colander
+P11_05_352,1535.42,1536.96,pick up pan
+P11_05_353,1539.32,1540.75,rinse pan
+P11_05_354,1540.85,1547.38,scrub pan
+P11_05_355,1547.87,1554.89,rinse off pan
+P11_05_356,1554.99,1558.7,rinse off pan
+P11_05_357,1560.66,1561.84,put away pan
+P11_05_358,1563.27,1564.14,pick up colander
+P11_05_359,1564.24,1565.58,rinse colander
+P11_05_36,109.2,110.9,put on lid
+P11_05_360,1565.68,1575.17,scrub colander
+P11_05_361,1575.27,1586.85,rinse colander
+P11_05_362,1578.72,1586.78,rinse colander
+P11_05_363,1587.29,1588.33,put away colander
+P11_05_364,1588.05,1589.49,dry hands
+P11_05_365,1594.69,1595.44,open cupboards
+P11_05_366,1598.7,1602.25,take out bowls
+P11_05_367,1602.35,1604.09,close cupboards
+P11_05_368,1606.06,1609.1,put down bowls
+P11_05_369,1613.25,1615.25,pick up tissue
+P11_05_37,112.42,114.78,pour olive oil in pan
+P11_05_370,1616.0,1622.99,wipe down surface
+P11_05_371,1622.77,1623.98,throw away tissue
+P11_05_372,1624.22,1625.23,pick up bowls
+P11_05_373,1625.78,1627.84,rearrange bowl
+P11_05_374,1627.69,1628.37,open cupboards
+P11_05_375,1628.47,1629.75,put away olive oil
+P11_05_376,1632.39,1634.28,pour food in bowl
+P11_05_377,1634.38,1636.02,pour food in bowl
+P11_05_378,1635.94,1637.69,pour food in bowl
+P11_05_379,1637.79,1642.02,pour food in bowl
+P11_05_38,115.17,117.17,put on olive oil lid
+P11_05_380,1642.02,1646.31,pour food in bowl
+P11_05_381,1657.4,1673.8,pour food in bowl
+P11_05_382,1676.47,1677.55,put pan in sink
+P11_05_383,1677.87,1678.6,turn on tap
+P11_05_384,1678.64,1679.71,rinse hands
+P11_05_385,1679.73,1684.8,rinse spatula
+P11_05_386,1687.28,1690.29,scrub spatula
+P11_05_387,1694.6,1696.54,pour soap in pan
+P11_05_388,1697.35,1703.03,scrub pan
+P11_05_389,1701.03,1709.67,scrub pan
+P11_05_39,116.84,117.77,put down olive oil
+P11_05_390,1709.72,1713.48,scrub spatula
+P11_05_391,1719.18,1723.41,rinse spatula
+P11_05_392,1723.75,1726.0,scrub spatula
+P11_05_393,1726.85,1728.6,rinse spatula
+P11_05_394,1728.89,1730.54,put away spatula
+P11_05_395,1731.79,1737.04,rinse pan
+P11_05_396,1732.59,1737.27,rinse pan
+P11_05_397,1738.05,1741.96,scrub pan
+P11_05_398,1743.92,1745.94,scrub pan
+P11_05_399,1746.6,1748.0,scrub pan
+P11_05_4,14.57,16.39,pour out kettle
+P11_05_40,117.87,120.4,put away phone
+P11_05_400,1748.07,1748.76,scrub pan
+P11_05_401,1748.86,1769.23,scrub pan
+P11_05_402,1758.0,1769.25,scrub pan
+P11_05_403,1769.45,1777.2,rinse sponge
+P11_05_404,1777.3,1778.3,rinse hands
+P11_05_405,1778.8,1789.65,rinse pan
+P11_05_406,1789.75,1795.75,rinse pan
+P11_05_407,1795.97,1799.37,scrub back of pan
+P11_05_408,1799.45,1801.97,rinse pan
+P11_05_409,1802.8,1804.8,put pan on hob
+P11_05_41,123.45,124.93,pick up slicer
+P11_05_410,1808.75,1814.0,pick up fork
+P11_05_411,1815.76,1816.91,put fork in bowls
+P11_05_42,127.99,128.77,pick up courgette
+P11_05_43,131.03,132.92,slice courgette into bin
+P11_05_44,133.87,137.16,slice courgette into pan
+P11_05_45,137.48,148.55,slice courgette into pan
+P11_05_46,137.49,140.76,slice courgette into pan
+P11_05_47,148.62,149.87,throw away courgette
+P11_05_48,150.86,152.5,slice courgette into bin
+P11_05_49,153.49,157.84,slice courgette into pan
+P11_05_5,17.11,24.58,fill up kettle
+P11_05_50,158.19,161.31,slice courgette into pan
+P11_05_51,159.85,168.32,slice courgette into pan
+P11_05_52,168.16,169.11,throw away courgette
+P11_05_53,170.08,173.53,slice courgette into bin
+P11_05_54,174.32,176.19,slice courgette into pan
+P11_05_55,176.49,180.24,slice courgette into pan
+P11_05_56,180.58,188.59,slice courgette into pan
+P11_05_57,191.5,193.65,shake courgette
+P11_05_58,197.34,198.59,pick up spatula
+P11_05_59,200.21,206.1,stir courgette
+P11_05_6,17.65,25.04,fill up kettle
+P11_05_60,206.41,207.84,pick up courgette
+P11_05_61,209.13,210.51,slice courgette into bin
+P11_05_62,211.38,216.24,slice courgette into pan
+P11_05_63,215.06,223.59,slice courgette into pan
+P11_05_64,224.28,225.73,throw away courgette
+P11_05_65,226.62,227.46,pick up onion
+P11_05_66,227.49,230.63,pick up chopping block
+P11_05_67,230.82,231.64,put down onion
+P11_05_68,233.58,236.11,pick up knife
+P11_05_69,236.56,238.39,slice onion
+P11_05_7,26.23,27.73,put down kettle
+P11_05_70,239.1,240.99,slice onion
+P11_05_71,241.86,242.59,drop onion
+P11_05_72,246.44,248.51,remove onion skin
+P11_05_73,246.61,255.32,remove onion skin
+P11_05_74,256.68,257.36,throw away onion skin
+P11_05_75,258.43,259.22,throw away onion skin
+P11_05_76,261.98,267.44,stir courgette
+P11_05_77,267.39,271.52,stir courgette
+P11_05_78,273.09,275.41,throw away onion skin
+P11_05_79,278.06,279.99,slice open onions
+P11_05_8,27.68,28.39,turn on kettle
+P11_05_80,279.97,282.86,remove onion
+P11_05_81,281.22,282.93,remove onion
+P11_05_82,282.49,284.2,remove onion
+P11_05_83,284.3,286.05,drop onion
+P11_05_84,286.48,288.36,put down onion
+P11_05_85,287.77,288.94,throw away onion bag
+P11_05_86,289.09,290.02,pick up onions
+P11_05_87,290.44,293.02,put down onion
+P11_05_88,293.97,296.41,remove onion skin
+P11_05_89,298.57,302.49,choose onion
+P11_05_9,29.73,31.29,pick up frying pan
+P11_05_90,303.09,305.27,cut top off onion
+P11_05_91,305.75,307.39,cut bottom off onion
+P11_05_92,309.87,311.87,remove onion skin
+P11_05_93,315.38,319.52,remove onion skin
+P11_05_94,319.12,322.08,remove onion skin
+P11_05_95,324.17,325.17,throw away onion skin
+P11_05_96,326.52,330.38,stir courgette
+P11_05_97,330.74,336.29,cut onion in half
+P11_05_98,336.39,339.32,cut onion in half
+P11_05_99,340.2,343.87,remove onion skin

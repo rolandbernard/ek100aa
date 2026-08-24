@@ -1,0 +1,217 @@
+P22_02_0,2.99,4.29,take biscuits
+P22_02_1,4.41,6.75,put down biscuits
+P22_02_10,23.79,25.74,close cupboard
+P22_02_100,217.85,220.43,wash cutlery
+P22_02_101,220.45,221.28,put down cutlery
+P22_02_102,221.13,222.38,take peeler
+P22_02_103,222.65,226.4,wash peeler
+P22_02_104,226.33,227.08,put down peeler
+P22_02_105,227.15,227.93,take spoon
+P22_02_106,228.03,229.28,wash spoon
+P22_02_107,229.24,230.12,put down spoon
+P22_02_108,230.23,231.71,take knife
+P22_02_109,232.11,232.91,turn on tap
+P22_02_11,26.3,26.8,take container
+P22_02_110,233.01,239.38,rinse knife
+P22_02_111,238.12,239.27,turn off tap
+P22_02_112,239.37,243.12,wash knife
+P22_02_113,242.68,243.38,pick up knife
+P22_02_114,243.5,245.89,pick up plate
+P22_02_115,245.99,250.59,lather plate
+P22_02_116,250.35,251.89,put down plate
+P22_02_117,251.59,252.67,pick up plate
+P22_02_118,252.2,257.31,lather plate
+P22_02_119,257.38,258.31,put down plate
+P22_02_12,26.7,28.0,put biscuits
+P22_02_120,258.02,260.64,pick up plate
+P22_02_121,260.73,265.96,lather plate
+P22_02_122,265.54,267.08,put down plate
+P22_02_123,266.98,268.17,pick up plate
+P22_02_124,268.07,272.58,lather plate
+P22_02_125,272.95,274.21,open tap
+P22_02_126,275.36,284.74,rinse plate
+P22_02_127,278.81,279.65,rinse hand
+P22_02_128,279.57,284.8,rinse plate
+P22_02_129,285.03,286.33,put down plate
+P22_02_13,27.91,37.05,close container
+P22_02_130,287.02,287.87,pick up plate
+P22_02_131,287.79,291.04,rinse plate
+P22_02_132,290.88,291.72,put down plate
+P22_02_133,292.62,293.93,pick up silverware
+P22_02_134,293.91,295.62,rinse silverware
+P22_02_135,295.88,296.78,put down utensil
+P22_02_136,297.27,299.03,rinse knife
+P22_02_137,298.1,299.82,put down knife
+P22_02_138,299.89,301.87,pick up silverware
+P22_02_139,301.97,304.57,rinse silverware
+P22_02_14,37.15,37.95,take container
+P22_02_140,304.37,307.63,put down silverware
+P22_02_141,307.73,309.52,rinse silverware
+P22_02_142,311.74,313.53,put down silverware
+P22_02_143,313.63,314.83,pick up plate
+P22_02_144,314.93,316.57,rinse plate
+P22_02_145,316.42,317.57,put down plate
+P22_02_146,317.67,318.37,pick up plate
+P22_02_147,317.86,320.19,rinse plate
+P22_02_148,320.29,321.29,put down plate
+P22_02_149,321.39,322.14,pick up knife
+P22_02_15,38.88,39.78,open cupboard
+P22_02_150,322.12,324.62,rinse knife
+P22_02_151,324.72,326.22,put down knife
+P22_02_152,326.27,327.17,pick up cup
+P22_02_153,327.74,332.45,rinse cup
+P22_02_154,329.45,331.39,rinse cup
+P22_02_155,332.64,335.87,put down cup
+P22_02_156,333.78,336.89,pick up cup
+P22_02_157,336.19,340.16,rinse cup
+P22_02_158,338.89,341.96,rinse cup
+P22_02_159,342.06,343.42,put down cup
+P22_02_16,40.65,41.15,take can
+P22_02_160,343.84,344.89,pick up sponge
+P22_02_161,346.09,348.01,rinse sponge
+P22_02_162,347.98,349.12,put down sponge
+P22_02_163,348.9,349.81,pick up cloth
+P22_02_164,349.72,354.0,rinse cloth
+P22_02_165,352.89,355.76,take sponge
+P22_02_166,355.8,358.17,wash sink
+P22_02_167,359.0,360.0,rinse cloth
+P22_02_168,360.21,361.46,wash tap
+P22_02_169,362.92,363.69,turn off tap
+P22_02_17,41.0,42.5,put down container
+P22_02_170,363.62,372.37,wash sink
+P22_02_171,364.04,372.29,wash sink
+P22_02_172,372.47,373.25,turn on tap
+P22_02_173,373.23,374.02,rinse cloth
+P22_02_174,374.06,375.06,squeeze cloth
+P22_02_175,375.66,379.3,wash sink
+P22_02_176,379.55,380.77,turn on tap
+P22_02_177,379.79,380.49,turn off tap
+P22_02_178,380.46,383.22,wash sink
+P22_02_179,383.32,384.84,wash sink
+P22_02_18,42.51,43.45,take can
+P22_02_180,384.44,385.43,turn on tap
+P22_02_181,387.6,388.29,turn off tap
+P22_02_182,388.12,401.46,remove food leftovers
+P22_02_183,401.25,405.04,remove food leftovers
+P22_02_184,405.86,407.76,throw food leftovers
+P22_02_185,405.9,406.65,open trash can
+P22_02_186,406.95,408.06,close trash can
+P22_02_187,408.76,409.39,open tap
+P22_02_188,409.49,413.07,wash cloth
+P22_02_189,413.01,413.91,move tap
+P22_02_19,43.56,44.5,put down can
+P22_02_190,414.01,414.97,wash cloth
+P22_02_191,415.07,415.99,close tap
+P22_02_192,416.32,416.98,pick up detergent
+P22_02_193,419.81,421.16,spray detergent
+P22_02_194,421.61,428.59,clean hob
+P22_02_195,428.47,432.67,wash
+P22_02_196,432.31,438.65,clean
+P22_02_197,432.53,439.35,clean
+P22_02_198,438.84,441.82,move cooking paper
+P22_02_199,442.2,446.45,clean
+P22_02_2,8.74,10.02,open rubbish bin
+P22_02_20,44.8,45.55,take container
+P22_02_200,446.34,450.0,clean
+P22_02_201,450.05,454.57,clean table
+P22_02_202,454.12,459.25,clean table
+P22_02_203,459.92,460.93,move bottle
+P22_02_204,461.01,464.77,clean table
+P22_02_205,469.46,474.63,clean cooking surface
+P22_02_206,474.49,487.21,clean hat
+P22_02_207,482.99,483.79,open cabinet
+P22_02_208,483.89,485.17,put down detergent
+P22_02_209,485.27,486.25,close cabinet
+P22_02_21,45.57,46.53,put down container
+P22_02_210,486.35,487.5,open tap
+P22_02_211,487.49,491.17,rinse cloth
+P22_02_212,489.42,495.25,rinse cloth
+P22_02_213,496.35,496.95,close water tap
+P22_02_214,497.05,500.64,hang cloth
+P22_02_215,501.31,505.35,dry hands
+P22_02_216,505.64,506.53,put down towel
+P22_02_22,47.25,49.5,put down can
+P22_02_23,48.28,49.92,put down can
+P22_02_24,50.02,51.05,close cupboard
+P22_02_25,52.3,53.35,take fork
+P22_02_26,53.4,54.45,take fork
+P22_02_27,55.34,57.08,take plate
+P22_02_28,57.18,58.29,take plates
+P22_02_29,58.12,63.14,take plates
+P22_02_3,10.12,10.72,throw paper
+P22_02_30,62.69,63.67,put down silverware
+P22_02_31,65.35,66.89,open trash can
+P22_02_32,66.92,69.91,throw away trash
+P22_02_33,69.44,70.47,close trash can
+P22_02_34,71.15,72.87,put down plates
+P22_02_35,72.81,74.92,put down utensil
+P22_02_36,76.14,78.41,pick up cups
+P22_02_37,78.53,80.2,put down cups
+P22_02_38,81.26,82.32,pick up place mat
+P22_02_39,82.42,83.95,pick up place mat
+P22_02_4,10.82,11.46,close rubbish bin
+P22_02_40,85.41,86.88,shake place mat
+P22_02_41,86.79,89.04,fold place mat
+P22_02_42,89.57,90.17,put down place mat
+P22_02_43,90.97,93.31,shake place mat
+P22_02_44,93.41,95.59,fold place mat
+P22_02_45,96.16,98.77,open drawer
+P22_02_46,96.53,99.22,open drawer
+P22_02_47,99.03,100.7,put away place mats
+P22_02_48,100.43,102.12,close drawer
+P22_02_49,100.56,101.52,close drawer
+P22_02_5,12.51,13.95,open cupboard
+P22_02_50,101.85,102.89,pick up cup
+P22_02_51,103.81,104.69,open tap
+P22_02_52,105.4,106.8,put down cup
+P22_02_53,106.79,108.26,pick up plates
+P22_02_54,108.93,109.86,pick up silverware
+P22_02_55,110.34,111.32,put down silverware
+P22_02_56,112.6,114.16,pick up cup
+P22_02_57,114.08,114.96,move tap
+P22_02_58,115.48,119.1,close cup
+P22_02_59,119.86,121.24,pick up cup
+P22_02_6,14.42,18.93,take containers
+P22_02_60,120.95,122.86,empty cup
+P22_02_61,122.96,123.64,fill cup
+P22_02_62,123.52,125.39,put down cup
+P22_02_63,128.03,129.44,pick up capsule
+P22_02_64,128.74,133.37,empty capsule
+P22_02_65,132.29,134.58,empty capsule
+P22_02_66,134.68,141.2,empty capsule
+P22_02_67,141.56,142.21,shake capsule
+P22_02_68,142.31,143.11,put capsule
+P22_02_69,144.29,145.01,open trash bin
+P22_02_7,18.49,20.07,put down container
+P22_02_70,145.11,145.72,throw capsule
+P22_02_71,147.87,148.97,open coffee maker
+P22_02_72,151.65,152.71,empty capsule
+P22_02_73,153.83,154.82,replace support
+P22_02_74,154.74,155.58,close coffee maker
+P22_02_75,157.4,158.45,pick up capsule
+P22_02_76,158.55,163.65,empty capsule
+P22_02_77,163.72,164.89,turn on tap
+P22_02_78,164.75,166.34,rinse coffee pod
+P22_02_79,166.41,170.23,empty coffee pod
+P22_02_8,20.17,21.57,put down lid
+P22_02_80,170.29,170.91,turn off tap
+P22_02_81,170.72,171.62,shake coffee pod
+P22_02_82,172.22,173.18,open bin
+P22_02_83,173.28,173.85,throw coffee pod
+P22_02_84,174.54,175.5,turn on tap
+P22_02_85,175.38,177.4,rinse hands
+P22_02_86,178.23,180.12,take sponge
+P22_02_87,178.5,180.01,rinse sponge
+P22_02_88,179.85,182.2,pour washing up liquid
+P22_02_89,183.16,184.38,turn on tap
+P22_02_9,21.65,24.23,put down container
+P22_02_90,183.92,189.01,wash cutlery
+P22_02_91,188.6,201.42,wash cup
+P22_02_92,201.27,202.35,put down cup
+P22_02_93,201.7,202.96,take cup
+P22_02_94,202.66,210.47,wash cup
+P22_02_95,210.59,211.38,put down cup
+P22_02_96,211.1,212.41,take cutlery
+P22_02_97,212.38,216.13,wash cutlery
+P22_02_98,216.22,216.73,put down cutlery
+P22_02_99,216.95,217.58,take cutlery

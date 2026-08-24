@@ -1,0 +1,22 @@
+P26_106_0,2.35,5.01,remove lid
+P26_106_1,6.02,8.99,put down lid
+P26_106_10,33.1,34.0,close cupboard
+P26_106_11,33.87,36.11,pick up spoon
+P26_106_12,36.05,52.83,stir
+P26_106_13,53.46,54.51,put down spoon
+P26_106_14,54.97,56.25,pick up lid
+P26_106_15,56.41,59.6,put down lid
+P26_106_16,62.04,64.06,open oven
+P26_106_17,66.7,69.02,close oven
+P26_106_18,73.73,74.64,open fridge
+P26_106_19,75.09,76.81,pick up cheese
+P26_106_2,7.0,10.57,pick up plate
+P26_106_20,76.71,77.71,close fridge
+P26_106_21,79.41,80.81,put down cheese
+P26_106_3,10.59,15.41,put down pasta
+P26_106_4,15.47,18.7,put down plate
+P26_106_5,18.58,19.91,open cupboard
+P26_106_6,19.85,21.73,pick up salt
+P26_106_7,21.76,29.91,pour salt
+P26_106_8,28.09,30.91,pour salt
+P26_106_9,30.63,33.06,put down salt

@@ -1,0 +1,94 @@
+P35_101_0,2.57,4.31,open cupboard
+P35_101_1,6.39,10.41,pick up pot
+P35_101_10,64.27,66.41,move pasta
+P35_101_11,67.79,71.21,move pasta
+P35_101_12,71.91,73.1,close cupboard
+P35_101_13,77.12,78.28,open cupboard
+P35_101_14,79.92,81.83,pick up pasta
+P35_101_15,82.2,84.0,close cupboard
+P35_101_16,91.91,93.62,put down pasta
+P35_101_17,98.37,99.28,open drawer
+P35_101_18,99.53,100.28,pick up scissors
+P35_101_19,100.54,101.76,close drawer
+P35_101_2,10.46,13.44,close cupboard
+P35_101_20,106.86,107.7,pick up pasta
+P35_101_21,108.22,108.76,put down pasta
+P35_101_22,109.42,115.35,open pasta
+P35_101_23,115.38,117.07,pick up pasta
+P35_101_24,116.47,118.02,put down scissors
+P35_101_25,121.96,125.08,pick up scale
+P35_101_26,127.11,128.34,put down scale
+P35_101_27,129.13,130.17,open cupboard
+P35_101_28,132.55,139.32,put down pasta
+P35_101_29,140.38,142.42,pick up plate
+P35_101_3,16.03,22.83,turn on tap
+P35_101_30,143.45,144.95,close cupboard
+P35_101_31,145.52,146.99,put down plate
+P35_101_32,147.08,148.91,pick up pasta
+P35_101_33,147.96,149.88,turn on scale
+P35_101_34,151.76,175.14,pour pasta
+P35_101_35,177.16,179.68,pick up object
+P35_101_36,181.47,183.07,open bucket
+P35_101_37,182.84,184.99,throw object
+P35_101_38,185.01,186.31,close bucket
+P35_101_39,187.18,191.22,close pasta
+P35_101_4,40.77,41.98,turn off tap
+P35_101_40,191.32,193.06,open cupboard
+P35_101_41,194.1,199.28,put down pasta
+P35_101_42,199.61,202.01,close cupboard
+P35_101_43,206.52,211.18,pick up plate
+P35_101_44,206.63,209.27,pick up scale
+P35_101_45,209.91,210.9,turn off scale
+P35_101_46,213.08,214.04,put down scale
+P35_101_47,214.11,215.68,put down plate
+P35_101_48,219.86,221.51,pick up pasta
+P35_101_49,223.48,225.14,throw away pasta
+P35_101_5,41.91,44.05,move tap
+P35_101_50,227.58,231.53,pick up scissors
+P35_101_51,234.86,235.88,open drawer
+P35_101_52,235.95,236.59,put down scissors
+P35_101_53,236.43,237.55,close drawer
+P35_101_54,239.55,241.04,open freezer
+P35_101_55,242.7,245.94,move bag
+P35_101_56,247.68,252.54,move bag
+P35_101_57,251.77,256.81,pick up bag
+P35_101_58,257.39,259.65,close freezer
+P35_101_59,266.25,269.17,put down bag
+P35_101_6,46.31,49.76,put down pot
+P35_101_60,270.1,272.08,open cupboard
+P35_101_61,271.76,273.52,pick up pot
+P35_101_62,273.85,276.06,pick up pot
+P35_101_63,276.15,277.33,put down pot
+P35_101_64,277.57,279.02,close cupboard
+P35_101_65,279.59,280.31,put down pot
+P35_101_66,280.86,282.26,pick up bag
+P35_101_67,283.22,303.46,pour peas
+P35_101_68,303.91,306.26,crush bag into ball
+P35_101_69,306.96,308.54,open bucket
+P35_101_7,49.86,53.23,turn on hob
+P35_101_70,308.52,309.04,throw bag
+P35_101_71,308.99,309.55,close bucket
+P35_101_72,312.03,313.2,pick up saucepan
+P35_101_73,313.91,317.95,turn on tap
+P35_101_74,317.71,318.93,turn off tap
+P35_101_75,320.55,321.62,put down pot
+P35_101_76,323.52,327.76,turn on hob
+P35_101_77,328.07,329.94,move pot
+P35_101_78,333.34,335.12,turn on tap
+P35_101_79,335.57,336.57,rinse hands
+P35_101_8,53.92,56.83,adjust hob
+P35_101_80,337.49,338.8,pick up pot
+P35_101_81,341.31,343.04,wash pot
+P35_101_82,343.13,343.91,pour water
+P35_101_83,345.26,353.22,wash pot
+P35_101_84,352.1,355.03,pour water
+P35_101_85,354.8,356.23,put down pot
+P35_101_86,356.74,358.17,rinse hands
+P35_101_87,359.26,360.46,pick up glass
+P35_101_88,360.37,370.82,wash glass
+P35_101_89,372.9,373.81,put down glass
+P35_101_9,61.1,62.81,open cupboard
+P35_101_90,373.69,374.38,turn off tap
+P35_101_91,378.28,379.11,pick up towel
+P35_101_92,379.21,382.3,dry hands
+P35_101_93,382.4,384.74,put down tea towel

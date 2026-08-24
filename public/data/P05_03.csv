@@ -1,0 +1,163 @@
+P05_03_0,1.9,3.1,take kettle
+P05_03_1,3.3,7.94,empty water in jug
+P05_03_10,30.65,32.7,close cupboard
+P05_03_100,468.09,469.11,take wooden spoon
+P05_03_101,468.71,482.63,stir pasta
+P05_03_102,482.73,484.45,place wooden spoon on refrigerator
+P05_03_103,486.09,487.37,open cupboard
+P05_03_104,487.72,490.72,take container from cupboard
+P05_03_105,492.37,493.48,place container on table
+P05_03_106,497.14,497.92,take wooden spoon
+P05_03_107,498.27,501.52,stir pasta
+P05_03_108,502.09,503.84,place wooden spoon on refrigerator
+P05_03_109,509.98,510.65,take wooden spoon
+P05_03_11,32.74,34.14,place colander in sink
+P05_03_110,510.9,515.9,stir pasta
+P05_03_111,516.18,517.14,press button
+P05_03_112,527.52,529.02,place wooden spoon on refrigerator
+P05_03_113,533.65,535.73,take pesto
+P05_03_114,541.34,542.59,take spoon
+P05_03_115,542.38,543.16,place pesto bottle on table
+P05_03_116,543.89,544.66,put teaspoon on pesto jar
+P05_03_117,555.27,557.14,take wooden spoon
+P05_03_118,557.17,574.28,stir pasta
+P05_03_119,574.88,575.63,place wooden spoon on refrigerator
+P05_03_12,34.58,36.78,place pot on hob
+P05_03_120,583.64,600.81,wash pot lid
+P05_03_121,595.02,604.09,place pot lid on drainer
+P05_03_122,608.39,611.79,turn off hob
+P05_03_123,610.67,612.46,press switch
+P05_03_124,615.14,616.5,take wooden spoon
+P05_03_125,616.78,625.92,stir pasta
+P05_03_126,626.44,627.54,place wooden spoon on refrigerator
+P05_03_127,642.34,649.27,rinse rag
+P05_03_128,655.9,686.0,clean hob
+P05_03_129,689.47,692.6,rinse hands
+P05_03_13,36.79,38.42,turn on extractor fan
+P05_03_130,695.24,696.39,take wooden spoon
+P05_03_131,696.67,713.42,stir pasta
+P05_03_132,713.88,715.09,take pot
+P05_03_133,715.28,718.34,take colander
+P05_03_134,718.36,728.21,pour pasta into colander
+P05_03_135,729.12,734.91,drain pasta
+P05_03_136,735.86,736.79,take container
+P05_03_137,737.99,743.99,pour pasta in container
+P05_03_138,744.57,745.68,place colander in sink
+P05_03_139,746.14,748.41,place container on table
+P05_03_14,38.27,39.45,press switch
+P05_03_140,748.51,750.22,take pesto from table
+P05_03_141,749.75,776.26,pour pesto in container
+P05_03_142,777.0,780.06,place bottle in sink
+P05_03_143,780.46,817.92,mix pesto with pasta
+P05_03_144,818.95,820.05,take pack of chicken
+P05_03_145,822.9,835.16,pour chicken in container
+P05_03_146,843.59,862.47,wash colander
+P05_03_147,864.22,889.44,wash pot
+P05_03_148,893.51,894.44,take wooden spoon
+P05_03_149,895.21,906.83,wash wooden spoon
+P05_03_15,39.33,40.76,press switch
+P05_03_150,908.66,909.36,take spoon
+P05_03_151,910.25,919.76,wash spoon
+P05_03_152,921.07,929.73,rinse jar
+P05_03_153,936.88,938.4,take pack of chicken
+P05_03_154,938.5,946.34,rinse pack of chicken
+P05_03_155,948.12,954.22,rinse hands
+P05_03_156,955.68,957.85,dry hands
+P05_03_157,957.75,963.29,close container
+P05_03_158,963.39,965.32,open refrigerator
+P05_03_159,965.36,968.87,put container in refrigerator
+P05_03_16,45.07,47.77,turn on hob
+P05_03_160,971.37,972.03,take rag
+P05_03_161,972.81,1006.35,clean hob
+P05_03_162,1006.37,1016.42,rinse rag
+P05_03_17,50.76,52.81,open cupboard
+P05_03_18,55.57,57.14,take pasta bag
+P05_03_19,58.19,62.14,open pasta bag
+P05_03_2,9.84,19.55,fill kettle
+P05_03_20,62.24,63.53,place pasta bag on table
+P05_03_21,63.93,65.13,open refrigerator
+P05_03_22,66.23,66.98,take pack of chicken
+P05_03_23,69.67,70.93,take milk bottle from refrigerator
+P05_03_24,71.5,75.35,close refrigerator
+P05_03_25,76.39,77.17,take cup of milk
+P05_03_26,77.4,78.4,place cup on table
+P05_03_27,79.3,80.28,open milk bottle
+P05_03_28,80.82,85.31,serve milk in cup
+P05_03_29,86.02,93.32,rinse milk bottle
+P05_03_3,10.52,13.31,turn on tap
+P05_03_30,93.43,95.29,close milk bottle
+P05_03_31,95.5,97.25,shake milk bottle
+P05_03_32,97.6,99.6,empty milk bottle
+P05_03_33,101.22,102.91,compress milk bottle
+P05_03_34,103.13,104.38,close milk bottle
+P05_03_35,105.61,108.36,place milk bottle on table
+P05_03_36,112.02,113.2,open refrigerator
+P05_03_37,113.28,114.53,take milk bottle from refrigerator
+P05_03_38,115.11,124.68,open milk bottle
+P05_03_39,125.26,129.05,pour milk in cup
+P05_03_4,18.09,19.46,turn off tap
+P05_03_40,129.22,131.28,close milk bottle
+P05_03_41,131.33,134.13,put milk bottle into refrigerator
+P05_03_42,134.08,135.51,close refrigerator
+P05_03_43,136.47,137.97,open microwave
+P05_03_44,138.32,142.17,place cup in microwave
+P05_03_45,142.48,143.83,close microwave
+P05_03_46,143.95,144.81,press switch
+P05_03_47,144.72,146.07,turn on microwave oven
+P05_03_48,147.82,149.21,take leftovers from table
+P05_03_49,149.17,150.45,throw leftovers into bag
+P05_03_5,20.31,23.34,place kettle on base
+P05_03_50,157.77,159.04,take pasta bag
+P05_03_51,159.12,172.37,read instructions on pasta bag
+P05_03_52,173.47,174.94,place pasta bag on table
+P05_03_53,277.2,278.19,press switch
+P05_03_54,278.47,279.71,take kettle
+P05_03_55,280.88,281.73,take pot
+P05_03_56,281.83,290.65,pour water in pot
+P05_03_57,290.5,292.25,place pot on hob
+P05_03_58,292.78,295.26,place kettle on base
+P05_03_59,295.42,297.16,take pasta bag
+P05_03_6,23.8,24.8,press switch
+P05_03_60,298.25,301.91,pour pasta in pot
+P05_03_61,304.17,305.29,take salt
+P05_03_62,307.17,310.04,pour salt
+P05_03_63,309.86,311.51,place pot of salt on a refrigerator
+P05_03_64,313.24,327.38,compress pasta bag
+P05_03_65,330.87,332.06,throw pasta bag
+P05_03_66,333.22,336.01,take wooden spoon
+P05_03_67,336.07,342.06,stir pasta in pot
+P05_03_68,341.62,343.31,place wooden spoon into refrigerator
+P05_03_69,343.35,344.7,close pot
+P05_03_7,25.59,27.85,open cupboard
+P05_03_70,346.23,347.3,open microwave
+P05_03_71,348.16,354.3,take cup from microwave oven
+P05_03_72,353.48,357.54,place cup on table
+P05_03_73,354.16,355.78,close microwave
+P05_03_74,357.64,359.06,open microwave
+P05_03_75,360.8,363.03,take packets of cookies
+P05_03_76,363.82,366.55,take plate
+P05_03_77,366.65,369.08,take packet of cookies
+P05_03_78,369.6,372.73,open package of cookies
+P05_03_79,372.7,374.8,take cookie
+P05_03_8,27.97,28.83,take colander
+P05_03_80,373.7,374.78,place cookie on plate
+P05_03_81,374.6,377.64,close package of cookies
+P05_03_82,377.68,378.74,place packet of cookies on table
+P05_03_83,379.11,380.25,take packet of cookies
+P05_03_84,380.86,385.51,open package of cookies
+P05_03_85,384.81,395.95,place cookie on plate
+P05_03_86,398.66,401.9,close package of cookies
+P05_03_87,402.7,403.7,open pot
+P05_03_88,408.3,409.3,open refrigerator
+P05_03_89,410.39,411.93,place cookie pack into refrigerator
+P05_03_9,29.16,30.7,take pot
+P05_03_90,413.0,413.75,close refrigerator
+P05_03_91,414.1,414.6,take wooden spoon
+P05_03_92,414.24,420.64,stir pasta
+P05_03_93,414.95,415.78,open pot
+P05_03_94,423.01,427.76,rinse pot lid
+P05_03_95,434.45,435.73,take pack of chicken
+P05_03_96,435.61,459.88,open pack of chicken
+P05_03_97,461.68,463.76,open refrigerator
+P05_03_98,463.11,464.65,take pesto
+P05_03_99,466.16,467.35,place bottle on table

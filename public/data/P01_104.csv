@@ -1,0 +1,93 @@
+P01_104_0,0.82,1.81,pick up cup
+P01_104_1,2.42,4.1,pick up tea towel
+P01_104_10,23.18,23.75,turn on tap
+P01_104_11,24.84,25.41,rinse sponge
+P01_104_12,25.51,26.35,turn off tap
+P01_104_13,27.03,28.6,take washing up liquid
+P01_104_14,28.7,30.56,pour washing up liquid
+P01_104_15,30.56,32.23,put down washing up liquid
+P01_104_16,32.33,33.72,squeeze sponge
+P01_104_17,33.52,34.43,pick up cup
+P01_104_18,35.76,36.55,turn on tap
+P01_104_19,35.78,36.98,rinse cup
+P01_104_2,9.29,9.99,put down cup
+P01_104_20,37.03,37.58,turn off tap
+P01_104_21,39.12,39.74,take sponge
+P01_104_22,38.27,39.64,put down sponge
+P01_104_23,37.0,40.12,take tea cup
+P01_104_24,39.81,47.46,wash cup
+P01_104_25,47.49,47.8,take spoon
+P01_104_26,47.9,48.68,put down cup
+P01_104_27,49.51,53.41,wash spoon
+P01_104_28,53.49,54.08,put spoon into cup
+P01_104_29,54.55,63.66,wash cup
+P01_104_3,11.45,17.69,fold tea towel
+P01_104_30,63.47,65.07,empty pot
+P01_104_31,65.17,92.45,wash cup
+P01_104_32,93.32,94.22,turn on tap
+P01_104_33,93.57,96.36,rinse hands
+P01_104_34,95.37,96.22,take cup
+P01_104_35,96.02,96.32,take spoon
+P01_104_36,96.18,100.18,rinse spoon
+P01_104_37,100.18,101.08,put spoon onto rack
+P01_104_38,101.28,101.83,pick up cup
+P01_104_39,101.85,105.34,rinse cup
+P01_104_4,15.49,16.45,put down tea towel
+P01_104_40,105.01,105.71,adjust tap
+P01_104_41,108.59,109.54,put cup onto rack
+P01_104_42,109.19,113.61,take pot
+P01_104_43,110.58,117.32,rinse pot
+P01_104_44,117.49,117.91,pick up sponge
+P01_104_45,118.08,122.53,wash cup
+P01_104_46,122.54,122.86,put down spoon
+P01_104_47,123.03,124.09,rinse hand
+P01_104_48,124.09,138.12,rinse pot
+P01_104_49,138.12,138.79,take sponge
+P01_104_5,15.96,17.28,fold tea towel
+P01_104_50,139.02,144.14,wash cup
+P01_104_51,144.28,144.65,put down sponge
+P01_104_52,144.7,145.71,rinse hand
+P01_104_53,144.45,147.21,empty pot
+P01_104_54,146.86,154.2,rinse pot
+P01_104_55,154.15,155.36,adjust tap
+P01_104_56,155.36,157.15,empty pot
+P01_104_57,156.97,159.29,rinse pot
+P01_104_58,159.38,160.0,empty pot
+P01_104_59,159.82,161.52,put pot onto rack
+P01_104_6,17.92,18.84,open drawer
+P01_104_60,161.61,161.87,take sponge
+P01_104_61,161.97,162.51,rinse sponge
+P01_104_62,162.03,162.78,adjust tap
+P01_104_63,161.84,175.11,rinse sponge
+P01_104_64,175.39,175.82,take cloth
+P01_104_65,176.27,176.75,rinse sponge
+P01_104_66,176.22,177.42,rinse cloth
+P01_104_67,177.48,177.99,rinse sponge
+P01_104_68,178.12,179.06,put down sponge
+P01_104_69,179.7,180.3,wash sink
+P01_104_7,18.86,19.31,put tea towel into drawer
+P01_104_70,180.12,181.02,rinse cloth
+P01_104_71,181.07,181.84,wash sink
+P01_104_72,181.87,182.74,rinse cloth
+P01_104_73,182.63,183.08,wash sink
+P01_104_74,183.18,183.54,rinse cloth
+P01_104_75,183.69,186.28,wipe sink
+P01_104_76,186.46,187.0,rinse cloth
+P01_104_77,187.09,187.49,turn off tap
+P01_104_78,189.23,207.98,wipe surface
+P01_104_79,208.93,209.73,turn on tap
+P01_104_8,19.43,20.01,close drawer
+P01_104_80,209.18,211.15,rinse cloth
+P01_104_81,211.34,212.66,wipe surface
+P01_104_82,212.81,214.2,rinse cloth
+P01_104_83,214.44,215.31,wipe sink
+P01_104_84,215.16,218.23,rinse cloth
+P01_104_85,218.24,219.08,put down cloth
+P01_104_86,219.09,220.09,hand wash
+P01_104_87,220.05,224.11,wash hands
+P01_104_88,224.03,230.12,rinse hands
+P01_104_89,230.22,230.88,turn off tap
+P01_104_9,22.74,23.35,take sponge
+P01_104_90,234.08,235.48,take cloth
+P01_104_91,235.51,243.43,dry hands
+P01_104_92,243.51,244.26,put down cloth

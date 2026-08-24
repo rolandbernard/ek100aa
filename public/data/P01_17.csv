@@ -1,0 +1,287 @@
+P01_17_0,0.0,1.81,take cereal bags
+P01_17_1,1.06,4.31,fold cereal bags
+P01_17_10,26.6,29.85,fold tablecloth
+P01_17_100,420.16,432.02,grate carrots
+P01_17_101,432.05,439.8,continue grating carrots
+P01_17_102,440.34,452.43,continue grating carrots
+P01_17_103,453.63,461.17,removing carrot bits
+P01_17_104,463.31,464.51,put down grater
+P01_17_105,466.62,468.01,throw carrot end into bin
+P01_17_106,470.16,472.08,take tomatoes
+P01_17_107,472.18,473.82,turn on tap
+P01_17_108,473.36,475.64,wash hands
+P01_17_109,474.64,475.41,turn off tap
+P01_17_11,31.95,32.7,put tablecloth into cupboard
+P01_17_110,476.85,483.85,open tomato box
+P01_17_111,484.2,486.01,take tomatoes
+P01_17_112,486.05,498.26,separate tomatoes
+P01_17_113,500.95,502.31,open bin
+P01_17_114,502.03,502.75,close bin
+P01_17_115,505.1,507.1,close tomato bag
+P01_17_116,508.65,509.41,put down tomatoes
+P01_17_117,511.69,513.06,turn on tap
+P01_17_118,512.9,528.4,wash tomatoes
+P01_17_119,515.8,528.94,continue washing tomatoes
+P01_17_12,35.08,36.53,open fridge
+P01_17_120,528.18,528.93,turn off tap
+P01_17_121,529.57,536.08,dry tomatoes
+P01_17_122,535.98,537.42,put down tomatoes
+P01_17_123,537.82,538.89,take knife
+P01_17_124,539.27,550.42,slice tomatoes
+P01_17_125,550.15,565.91,continue slicing tomatoes
+P01_17_126,559.6,575.28,continue slicing tomatoes
+P01_17_127,577.27,588.71,pour tomatoes into container
+P01_17_128,587.74,588.81,put on cutting board and knife
+P01_17_129,589.99,591.17,take container
+P01_17_13,39.5,40.41,take mushrooms
+P01_17_130,591.22,592.27,open container
+P01_17_131,592.31,592.86,put down
+P01_17_132,594.43,596.95,pour onions
+P01_17_133,599.42,600.16,take onion
+P01_17_134,600.14,600.97,put onion into container
+P01_17_135,601.71,603.05,close container
+P01_17_136,606.93,608.31,open fridge
+P01_17_137,608.12,609.29,put container into fridge
+P01_17_138,609.39,610.29,close fridge
+P01_17_139,613.19,614.89,take olives
+P01_17_14,40.13,41.62,put down mushrooms
+P01_17_140,614.99,617.85,open olives
+P01_17_141,618.7,620.24,put down olive
+P01_17_142,620.25,621.77,put down olive
+P01_17_143,621.87,623.11,put down olive
+P01_17_144,623.35,625.21,put down olive
+P01_17_145,625.28,626.57,put down olive
+P01_17_146,626.67,628.03,put down olive
+P01_17_147,627.0,633.39,put down olive
+P01_17_148,628.13,633.5,put down olive
+P01_17_149,633.49,638.39,put down olive
+P01_17_15,48.35,49.85,take olives
+P01_17_150,633.71,635.46,put down olive
+P01_17_151,636.73,643.86,put down olives
+P01_17_152,643.96,644.71,take lid
+P01_17_153,644.82,646.44,close olives
+P01_17_154,647.52,649.4,dry lid
+P01_17_155,651.81,652.91,take soya milk
+P01_17_156,654.64,655.75,open fridge
+P01_17_157,655.88,656.96,put soya milk into fridge
+P01_17_158,657.65,658.88,put olives into fridge
+P01_17_159,658.79,660.37,close fridge
+P01_17_16,49.15,50.82,take container
+P01_17_160,666.36,688.5,cut olives
+P01_17_161,676.93,693.03,continue cutting olives
+P01_17_162,692.88,698.87,pour olives into container
+P01_17_163,699.06,700.11,put down cutting board and knife
+P01_17_164,701.8,702.92,dry hands
+P01_17_165,702.77,703.52,put down cloth
+P01_17_166,703.72,706.06,open salt
+P01_17_167,706.59,709.33,pour salt
+P01_17_168,709.43,710.75,close salt
+P01_17_169,709.83,710.58,put down salt
+P01_17_17,51.35,52.1,put own olives and container
+P01_17_170,711.29,712.49,open drawer
+P01_17_171,712.59,716.12,take spoon
+P01_17_172,715.6,716.59,close drawer
+P01_17_173,717.84,718.91,take olive oil
+P01_17_174,719.13,721.16,open olive oil
+P01_17_175,721.26,726.03,pour olive oil
+P01_17_176,726.13,729.62,close olive oil
+P01_17_177,729.99,732.23,put down olive oil
+P01_17_178,732.43,733.25,take oregano
+P01_17_179,736.01,742.02,sprinkle oregano
+P01_17_18,52.08,53.8,open drawer
+P01_17_180,743.28,747.92,close oregano
+P01_17_181,748.02,748.9,put down oregano
+P01_17_182,748.38,749.11,take spoon
+P01_17_183,749.21,769.73,stir salad
+P01_17_184,761.53,779.85,continue stirring salad
+P01_17_185,778.7,779.89,put down spoon
+P01_17_186,780.42,783.46,dry hands
+P01_17_187,782.43,788.99,hang cloth
+P01_17_188,789.0,790.16,move grater
+P01_17_189,789.57,791.82,take lid
+P01_17_19,54.19,56.45,take lettuce
+P01_17_190,791.92,796.92,close container
+P01_17_191,799.02,799.52,put down salt
+P01_17_192,804.09,806.09,open fridge
+P01_17_193,806.1,807.85,put bowl into fridge
+P01_17_194,807.79,809.2,close fridge
+P01_17_195,814.04,815.6,take sponge
+P01_17_196,815.59,817.59,turn on tap
+P01_17_197,817.1,819.44,squeeze sponge
+P01_17_198,818.41,819.48,turn off tap
+P01_17_199,820.4,821.89,pour washing up liquid
+P01_17_2,5.16,8.98,put cereal bags into cereal box
+P01_17_20,57.61,58.65,take carrot
+P01_17_200,822.28,823.15,put down washing up liquid
+P01_17_201,825.08,826.31,turn on tap
+P01_17_202,826.52,827.22,turn off tap
+P01_17_203,827.31,828.38,take knife
+P01_17_204,828.48,835.18,wash knife
+P01_17_205,835.28,836.06,put down knife
+P01_17_206,836.21,837.0,take colander
+P01_17_207,837.45,842.7,wash colander
+P01_17_208,842.77,843.42,put down colander
+P01_17_209,843.74,844.25,take spoon
+P01_17_21,60.69,61.69,close drawer
+P01_17_210,844.73,850.69,wash spoon
+P01_17_211,850.52,851.47,put down spoon
+P01_17_212,851.57,852.39,take cutting board
+P01_17_213,852.49,861.32,wash cutting board
+P01_17_214,861.08,864.62,continue washing cutting board
+P01_17_215,864.26,869.36,put down cutting board
+P01_17_216,869.62,870.52,take spoon
+P01_17_217,870.2,875.49,wash spoon
+P01_17_218,875.06,876.05,put down spoon
+P01_17_219,876.14,877.15,take cup
+P01_17_22,62.89,64.89,close fridge
+P01_17_220,876.61,883.76,wash cup
+P01_17_221,883.67,884.9,put down cup
+P01_17_222,884.94,886.05,take grater
+P01_17_223,886.15,901.18,wash grater
+P01_17_224,901.17,903.54,turn on tap
+P01_17_225,902.74,904.99,wash hands
+P01_17_226,905.21,906.04,take cup
+P01_17_227,905.39,913.56,rinse cup
+P01_17_228,913.41,914.59,put down cup
+P01_17_229,914.37,916.27,take cutting board
+P01_17_23,66.9,67.69,take mushroom
+P01_17_230,916.74,923.86,rinse cutting board
+P01_17_231,924.9,933.6,continue rinsing cutting board
+P01_17_232,934.12,936.73,put down cutting board
+P01_17_233,937.27,938.15,take grater
+P01_17_234,938.22,945.43,rinse grater
+P01_17_235,942.22,954.04,continue rinsing grater
+P01_17_236,953.91,954.83,put down grater
+P01_17_237,954.73,955.8,take knife
+P01_17_238,955.77,958.91,rinse knife
+P01_17_239,958.62,959.77,put down knife
+P01_17_24,67.85,72.11,put the mushroom in container
+P01_17_240,958.85,960.1,take spoon
+P01_17_241,960.1,961.41,rinse spoon
+P01_17_242,961.3,962.55,put down spoon
+P01_17_243,961.87,963.23,take colander
+P01_17_244,963.33,974.25,rinse colander
+P01_17_245,974.52,982.4,continue rinsing colander
+P01_17_246,982.75,983.79,take spoon
+P01_17_247,984.14,1005.65,still rinsing colander
+P01_17_248,1006.03,1007.79,put down colander
+P01_17_249,1007.57,1008.35,take spoon
+P01_17_25,74.29,75.29,put lettuce and carrots
+P01_17_250,1008.27,1008.86,take knife
+P01_17_251,1009.86,1010.83,rinse spoon
+P01_17_252,1011.3,1012.02,put down spoon
+P01_17_253,1012.12,1012.78,take sponge
+P01_17_254,1012.84,1014.43,rinse sponge
+P01_17_255,1014.53,1032.48,still rinsing sponge
+P01_17_256,1032.07,1032.81,take cloth
+P01_17_257,1033.7,1034.64,rinse cloth
+P01_17_258,1034.72,1036.68,wipe sink
+P01_17_259,1038.36,1039.36,turn off tap
+P01_17_26,77.93,80.07,take olives out of container
+P01_17_260,1039.92,1045.67,wipe sink
+P01_17_261,1045.46,1057.32,wipe counter
+P01_17_262,1055.36,1060.88,continue wiping counter
+P01_17_263,1060.98,1072.38,wipe sink
+P01_17_264,1074.59,1075.44,open bin
+P01_17_265,1075.33,1077.64,throw leftovers into bin
+P01_17_266,1077.57,1078.31,close bin
+P01_17_267,1080.64,1081.87,turn on tap
+P01_17_268,1081.01,1083.61,rinse cloth
+P01_17_269,1083.37,1087.11,rinse sink
+P01_17_27,81.96,83.03,take tomatoes
+P01_17_270,1087.46,1107.28,continue rinsing sink
+P01_17_271,1107.7,1108.38,turn off tap
+P01_17_272,1108.37,1111.61,squeeze cloth
+P01_17_273,1111.48,1112.26,put down cloth
+P01_17_274,1112.08,1115.83,dry hands
+P01_17_275,1116.18,1124.43,hang cloth
+P01_17_276,1123.32,1124.66,hang cloth
+P01_17_277,1127.13,1128.74,throw something into bin
+P01_17_278,1127.67,1128.88,open bin
+P01_17_279,1128.82,1129.57,and close bin
+P01_17_28,86.83,89.6,put down container and olives
+P01_17_280,1130.91,1132.53,take bottle
+P01_17_281,1132.61,1133.68,open bottle
+P01_17_282,1134.15,1135.2,take glass
+P01_17_283,1135.53,1138.88,pour water into glass
+P01_17_284,1138.98,1146.18,drink water
+P01_17_285,1139.28,1140.36,put down bottle
+P01_17_286,1146.02,1147.44,put down glass
+P01_17_287,1148.75,1151.3,dry hands
+P01_17_29,87.58,88.08,put down tomatoes
+P01_17_3,8.51,10.76,close cereal box
+P01_17_30,92.63,94.3,move knife
+P01_17_31,94.27,96.56,take lettuce
+P01_17_32,103.22,116.63,remove lettuce leaves
+P01_17_33,116.83,126.08,continue removing lettuce leaves
+P01_17_34,128.12,130.48,put lettuce into bag
+P01_17_35,134.68,135.78,open fridge
+P01_17_36,135.88,137.28,put lettuce into fridge
+P01_17_37,137.06,138.52,close fridge
+P01_17_38,142.73,147.49,take lettuce leaf
+P01_17_39,147.99,149.75,turn on tap
+P01_17_4,12.36,14.11,open cupboard
+P01_17_40,149.85,160.55,wash lettuce leaf
+P01_17_41,158.9,160.32,take lettuce leaf
+P01_17_42,160.44,161.27,put lettuce leaf down
+P01_17_43,161.04,167.42,wash lettuce leaf
+P01_17_44,167.48,168.81,take lettuce leaf
+P01_17_45,168.41,169.21,put lettuce leaf down
+P01_17_46,169.21,177.56,wash lettuce leaf
+P01_17_47,170.17,177.16,wash lettuce leaf
+P01_17_48,175.99,178.12,put down lettuce leaf
+P01_17_49,177.46,178.48,put down lettuce leaf
+P01_17_5,14.21,16.71,put cereals into cupboard
+P01_17_50,178.33,179.15,take lettuce leaf
+P01_17_51,179.42,188.56,wash lettuce leaf
+P01_17_52,188.83,189.61,put down lettuce leaf
+P01_17_53,194.89,195.48,put down lettuce leaf
+P01_17_54,195.46,196.06,take lettuce leaf
+P01_17_55,195.49,196.39,take lettuce leaf
+P01_17_56,197.09,205.73,wash lettuce leaf
+P01_17_57,207.18,215.85,wash lettuce leaf
+P01_17_58,207.66,215.66,wash lettuce leaf
+P01_17_59,215.65,216.58,put down lettuce leaf
+P01_17_6,16.81,18.02,close cupboard
+P01_17_60,222.59,223.54,turn off tap
+P01_17_61,223.64,224.37,put down lettuce leaf
+P01_17_62,228.72,233.93,squeeze lettuce
+P01_17_63,245.12,247.84,continue squeezing lettuce
+P01_17_64,248.9,249.66,put down lettuce
+P01_17_65,250.04,250.84,take knife
+P01_17_66,251.07,259.38,cut lettuce
+P01_17_67,261.07,275.82,continue cutting lettuce
+P01_17_68,270.34,285.07,cutting lettuce
+P01_17_69,275.79,298.82,still cutting lettuce
+P01_17_7,18.62,20.07,take cup
+P01_17_71,299.27,300.1,take container
+P01_17_72,302.38,304.49,pour lettuce into container
+P01_17_73,304.68,305.58,move container
+P01_17_74,305.55,319.65,pour lettuce into container
+P01_17_75,320.02,320.56,move container
+P01_17_76,324.19,326.1,put on cutting board
+P01_17_77,332.59,333.33,move cutting board
+P01_17_78,333.55,334.35,move container
+P01_17_79,334.63,335.7,put down knife
+P01_17_8,20.76,22.51,put down cup
+P01_17_80,337.8,339.03,pour mushrooms
+P01_17_81,341.39,360.17,chop mushrooms
+P01_17_82,359.59,368.37,continue chopping mushrooms
+P01_17_83,371.32,378.63,pour mushrooms into container
+P01_17_84,379.09,380.32,put down cutting board
+P01_17_85,381.27,384.42,put down knife
+P01_17_86,384.24,384.98,take carrot
+P01_17_87,385.67,386.88,turn on tap
+P01_17_88,386.46,396.66,wash carrot
+P01_17_89,396.36,397.36,turn off tap
+P01_17_9,23.3,24.86,take tablecloth
+P01_17_90,402.59,403.32,take knife
+P01_17_91,403.42,405.81,cut carrots
+P01_17_92,405.87,408.12,put down carrots
+P01_17_93,408.11,408.95,put carrot into bowl
+P01_17_94,409.58,412.93,dry hands
+P01_17_95,413.06,413.81,open cupboard
+P01_17_96,414.34,415.43,take grater
+P01_17_97,415.51,417.26,close cupboard
+P01_17_98,417.36,418.11,take carrots
+P01_17_99,418.16,419.31,move container

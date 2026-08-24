@@ -1,0 +1,168 @@
+P02_04_0,4.97,5.67,close drawer
+P02_04_1,6.36,8.77,open drawer
+P02_04_10,37.19,37.95,open tap
+P02_04_100,247.62,248.73,open tap
+P02_04_101,248.72,254.43,rinse pot
+P02_04_102,254.53,255.72,close tap
+P02_04_103,255.99,257.84,put pot
+P02_04_104,258.2,259.4,pick up plate
+P02_04_105,259.29,262.04,wash plate
+P02_04_106,261.71,262.78,put sponge
+P02_04_107,262.56,263.92,open tap
+P02_04_108,262.66,266.81,rinse plate
+P02_04_109,266.82,267.34,close tap
+P02_04_11,38.78,39.33,pick up lid
+P02_04_110,267.77,268.67,put plate
+P02_04_111,268.77,270.64,pick up plate
+P02_04_112,272.17,272.93,open trash bin
+P02_04_113,273.24,273.81,close trash bin
+P02_04_114,274.95,279.35,wash plate
+P02_04_115,278.64,279.52,put sponge
+P02_04_116,279.2,280.6,open tap
+P02_04_117,280.2,284.56,rinse plate
+P02_04_118,284.25,285.0,close tap
+P02_04_119,285.35,286.49,put plate
+P02_04_12,39.75,41.32,close tupperware
+P02_04_120,287.06,289.83,open tupperware
+P02_04_121,290.17,290.99,pick up sponge
+P02_04_122,290.79,297.81,wash tupperware
+P02_04_123,297.6,298.29,put sponge
+P02_04_124,298.39,299.4,open tap
+P02_04_125,299.19,303.69,rinse tupperware
+P02_04_126,304.29,307.29,wash tupperware
+P02_04_127,307.64,308.14,put sponge
+P02_04_128,308.23,309.24,open tap
+P02_04_129,309.03,311.02,rinse tupperware
+P02_04_13,42.5,43.25,close tap
+P02_04_130,311.19,312.04,close tap
+P02_04_131,312.62,313.56,put tupperware
+P02_04_132,313.23,313.92,pick up lid
+P02_04_133,314.46,317.36,wash lid
+P02_04_134,317.73,318.8,open tap
+P02_04_135,318.82,320.75,rinse tupperware
+P02_04_136,320.85,321.56,close tap
+P02_04_137,323.28,324.13,pick up plate
+P02_04_138,323.8,327.43,wash plate
+P02_04_139,327.34,328.03,put sponge
+P02_04_14,43.42,44.39,put tupperware
+P02_04_140,327.88,328.88,open tap
+P02_04_141,329.01,331.41,rinse plate
+P02_04_142,331.51,332.25,close tap
+P02_04_143,332.26,333.71,put plate
+P02_04_144,333.81,334.73,pick up strainer
+P02_04_145,334.83,338.83,wash strainer
+P02_04_146,338.79,339.67,put sponge
+P02_04_147,339.53,340.28,open tap
+P02_04_148,339.64,342.76,rinse strainer
+P02_04_149,342.47,343.1,close tap
+P02_04_15,44.78,46.11,pick tupperware
+P02_04_150,343.47,344.47,put strainer
+P02_04_151,344.99,348.77,empty sink
+P02_04_152,348.87,376.61,still emptying the water in the sink
+P02_04_153,376.01,377.34,pick up spoon
+P02_04_154,377.44,379.99,wash spoon
+P02_04_155,380.09,380.7,put sponge
+P02_04_156,380.64,381.88,open tap
+P02_04_157,381.47,383.75,rinse spoon
+P02_04_158,383.32,384.36,close tap
+P02_04_159,384.42,385.44,put spoon
+P02_04_16,47.99,48.65,open fridge
+P02_04_160,385.37,393.78,empty sink
+P02_04_161,393.82,395.79,remove gloves
+P02_04_162,397.82,399.09,pick up water filter
+P02_04_163,401.48,407.91,drink from glass
+P02_04_164,401.87,402.37,pick up glass
+P02_04_165,407.82,409.38,put glass
+P02_04_166,410.9,417.72,remove apron
+P02_04_167,417.82,420.64,put apron
+P02_04_17,48.37,50.38,put tupperware
+P02_04_18,50.35,51.15,close fridge
+P02_04_19,51.25,52.6,open drawer
+P02_04_2,9.77,10.52,pick up tupperware
+P02_04_20,52.95,53.93,get jar
+P02_04_21,54.03,54.85,close drawer
+P02_04_22,56.49,59.08,open jar
+P02_04_23,59.18,60.05,put jar
+P02_04_24,60.15,61.07,pick up mesh strainer
+P02_04_25,61.17,64.0,put broccoli in jar
+P02_04_26,64.1,67.53,put broccoli in jar
+P02_04_27,69.49,70.99,put strainer
+P02_04_28,70.65,74.39,hold and press and close jar
+P02_04_29,74.49,75.08,pick up jar
+P02_04_3,10.62,11.85,close drawer
+P02_04_30,75.08,76.63,shake jar
+P02_04_31,77.67,78.64,open fridge
+P02_04_32,78.74,80.56,put jar
+P02_04_33,80.73,82.23,close fridge
+P02_04_34,84.05,85.55,pick up towel
+P02_04_35,85.78,86.59,pick up apron
+P02_04_36,85.99,89.0,put towel
+P02_04_37,88.75,100.0,tie apron
+P02_04_38,89.51,100.21,wear apron
+P02_04_39,101.31,103.9,pick up glasses
+P02_04_4,11.95,13.69,open tupperware
+P02_04_40,104.22,104.96,open cupboard
+P02_04_41,105.04,106.42,put glasses
+P02_04_42,106.64,110.62,pick up glasses
+P02_04_43,111.02,111.89,pick up mug
+P02_04_44,113.25,113.98,pick up mug
+P02_04_45,116.38,118.1,pick up mug
+P02_04_46,122.39,124.43,pick up plate
+P02_04_47,128.13,131.62,pick up plates
+P02_04_48,133.38,136.95,pick up cutlery
+P02_04_49,139.08,139.89,close drawer
+P02_04_5,14.5,15.92,put tupperware and lid
+P02_04_50,139.99,140.78,open drawer
+P02_04_51,140.75,143.52,put cutlery
+P02_04_52,143.5,144.68,close drawer
+P02_04_53,146.73,152.85,wear gloves
+P02_04_54,153.47,154.33,pick up sponge
+P02_04_55,154.08,154.97,open tap
+P02_04_56,154.83,157.35,squeeze sponge
+P02_04_57,155.24,156.58,squeeze sponge
+P02_04_58,156.88,159.28,put liquid
+P02_04_59,160.55,164.77,wash wooden spoon
+P02_04_6,16.3,18.54,pick up pan
+P02_04_60,165.34,166.01,pick up knife
+P02_04_61,165.88,168.15,wash knife
+P02_04_62,168.56,169.31,pick up spoon
+P02_04_63,169.55,171.43,wash spoon
+P02_04_64,171.81,173.31,open tap
+P02_04_65,173.22,176.22,rinse spoon
+P02_04_66,176.81,177.41,put spoon
+P02_04_67,177.44,179.16,rinse knife
+P02_04_68,179.43,180.16,put knife
+P02_04_69,180.42,181.3,rinse wooden spoon
+P02_04_7,17.06,34.43,still moving pasta
+P02_04_70,181.38,182.13,close tap
+P02_04_71,182.23,182.98,put spoon
+P02_04_72,183.11,185.65,pick up pan
+P02_04_73,185.67,191.76,wash pan
+P02_04_74,192.11,195.19,still washing pan
+P02_04_75,195.14,196.45,put sponge
+P02_04_76,195.93,197.36,open tap
+P02_04_77,197.46,208.14,rinse pan
+P02_04_78,197.88,202.26,still rinsing pan
+P02_04_79,208.07,208.76,close tap
+P02_04_8,18.03,32.53,move pasta from pan to tupperware using wooden spoon
+P02_04_80,209.81,210.66,open tap
+P02_04_81,210.86,213.9,rinse pan
+P02_04_82,214.08,215.14,close tap
+P02_04_83,216.56,217.8,put pan in drainer
+P02_04_84,218.25,219.14,pick up chopping board
+P02_04_85,219.26,221.01,wash chopping board
+P02_04_86,221.08,221.92,put sponge
+P02_04_87,221.67,222.71,open tap
+P02_04_88,221.9,225.48,rinse chopping board
+P02_04_89,225.49,226.38,close tap
+P02_04_9,36.09,37.65,put pan and wooden spoon in sink
+P02_04_90,226.48,228.3,put chopping board
+P02_04_91,228.4,229.29,pick up mesh strainer
+P02_04_92,229.37,233.82,wash mesh strainer
+P02_04_93,233.92,234.44,put sponge
+P02_04_94,234.77,235.43,open tap
+P02_04_95,235.37,238.6,rinse mesh strainer
+P02_04_96,238.32,239.07,close tap
+P02_04_97,239.17,240.79,put strainer in drainer
+P02_04_98,240.15,241.03,pick up pot
+P02_04_99,241.76,247.52,wash pot

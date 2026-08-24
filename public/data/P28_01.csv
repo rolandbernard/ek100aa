@@ -1,0 +1,90 @@
+P28_01_0,1.32,3.72,take oil
+P28_01_1,4.84,6.26,open cupboard
+P28_01_10,51.71,54.35,put down spatula and pan
+P28_01_11,55.57,56.7,open cupboard
+P28_01_12,57.11,58.27,take food container
+P28_01_13,60.41,61.11,put down food container
+P28_01_14,61.13,61.82,open lid
+P28_01_15,61.48,62.13,sort food in pan
+P28_01_16,62.09,63.13,put down lid
+P28_01_17,63.41,64.19,open drawer
+P28_01_18,64.26,65.11,take fork
+P28_01_19,65.52,66.56,put down fork
+P28_01_2,6.46,9.2,put down oil
+P28_01_20,68.85,70.05,take spatula and pan
+P28_01_21,68.97,86.98,put food in food container
+P28_01_22,69.44,76.21,put food in food container
+P28_01_23,86.48,87.65,put down spatula and pan
+P28_01_24,87.89,88.67,take lid
+P28_01_25,88.42,91.49,put lid in food container
+P28_01_26,90.78,99.3,close food container
+P28_01_27,100.53,102.4,open fridge
+P28_01_28,102.5,106.12,take bread package
+P28_01_29,103.0,111.75,take bread
+P28_01_3,12.7,14.57,take spatula and pan
+P28_01_30,108.5,111.42,open bread package
+P28_01_31,113.11,114.48,close bread package
+P28_01_32,115.21,116.36,put down bread package
+P28_01_33,117.0,117.56,close fridge
+P28_01_34,120.79,122.21,put bread in toaster
+P28_01_35,122.28,123.5,turn on toaster
+P28_01_36,125.17,126.27,open cupboard
+P28_01_37,126.23,129.44,take plate
+P28_01_38,127.01,129.68,take plate
+P28_01_39,130.78,132.04,put down plate
+P28_01_4,14.95,21.7,put food in plate
+P28_01_40,131.04,131.54,put down plate
+P28_01_41,132.89,134.14,open fridge
+P28_01_42,137.69,141.87,take food container
+P28_01_43,143.69,145.12,put down plate
+P28_01_44,145.33,147.47,close fridge
+P28_01_45,149.16,149.9,put down food container
+P28_01_46,150.37,156.0,open food container
+P28_01_47,155.8,156.61,take lid
+P28_01_48,156.09,160.82,open cheese package
+P28_01_49,156.16,156.74,put down lid
+P28_01_5,21.69,28.6,sort food in pan
+P28_01_50,157.0,158.12,take cheese
+P28_01_51,160.8,161.98,put cheese in plate
+P28_01_52,168.03,169.22,take knife
+P28_01_53,169.32,177.44,cut cheese
+P28_01_54,177.57,178.7,take cheese
+P28_01_55,178.8,179.8,put cheese on plate
+P28_01_56,179.9,184.21,cut cheese
+P28_01_57,184.31,197.9,continue cutting cheese
+P28_01_58,198.0,206.79,continue cutting cheese
+P28_01_59,206.63,207.83,put down knife
+P28_01_6,28.3,32.45,put food in plate
+P28_01_60,207.83,213.97,close cheese package
+P28_01_61,214.7,215.87,put cheese package in food container
+P28_01_62,215.97,216.58,take lid
+P28_01_63,216.68,221.33,close food container
+P28_01_64,222.84,224.66,open fridge
+P28_01_65,224.76,227.08,put down food container
+P28_01_66,227.17,228.69,close fridge
+P28_01_67,234.58,240.86,take cheese and food plates
+P28_01_68,241.35,243.64,put down cheese and food plates
+P28_01_69,243.44,244.5,take knife
+P28_01_7,32.55,38.67,sort food in plate
+P28_01_70,245.17,246.44,put down knife
+P28_01_71,248.09,248.86,take spatula and pan
+P28_01_72,250.17,253.42,turn on tap
+P28_01_73,254.17,258.98,rinse spatula
+P28_01_74,259.01,259.83,put down spatula
+P28_01_75,259.85,260.68,take pan
+P28_01_76,260.78,270.1,rinse pan
+P28_01_77,269.96,272.71,turn off tap
+P28_01_78,275.96,277.76,put down pan
+P28_01_79,279.39,282.6,take waste
+P28_01_8,37.85,42.91,put food in plate
+P28_01_80,284.61,285.34,open bin
+P28_01_81,285.38,297.72,throw waste
+P28_01_82,303.74,305.79,turn on tap
+P28_01_83,307.78,310.25,wash hands
+P28_01_84,311.55,312.87,take washing liquid
+P28_01_85,314.4,321.48,continue washing hands
+P28_01_86,321.58,322.27,turn off tap
+P28_01_87,324.91,328.69,wipe hands
+P28_01_88,331.6,333.16,take bread
+P28_01_89,333.22,335.12,put bread in plate
+P28_01_9,42.89,51.39,sort food in plate

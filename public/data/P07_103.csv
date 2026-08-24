@@ -1,0 +1,18 @@
+P07_103_0,3.09,4.43,open door
+P07_103_1,4.83,5.87,grab plate
+P07_103_10,21.77,22.84,take tray from oven
+P07_103_11,22.91,23.67,put tray onto hob
+P07_103_12,24.13,26.47,turn off oven
+P07_103_13,26.47,27.85,turn off oven
+P07_103_14,29.16,30.58,grab tray
+P07_103_15,30.92,34.12,grab tray
+P07_103_16,33.74,37.5,put bread onto plate
+P07_103_17,45.56,46.75,grab plate
+P07_103_2,5.87,7.28,close door
+P07_103_3,8.52,9.53,grab towel
+P07_103_4,12.23,13.36,hang towel
+P07_103_5,13.51,14.63,grab glove
+P07_103_6,15.26,16.68,put on glove
+P07_103_7,16.78,18.2,open oven
+P07_103_8,18.19,20.28,grab oven rack
+P07_103_9,21.23,22.6,grab tray

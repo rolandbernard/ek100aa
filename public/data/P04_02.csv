@@ -1,0 +1,329 @@
+P04_02_0,1.41,11.2,pick up eggs
+P04_02_1,3.54,10.16,pour eggs
+P04_02_10,41.85,43.6,flip tuna patty
+P04_02_100,524.87,527.59,take tuna patty out of pan
+P04_02_101,528.81,539.85,take tuna patty out of pan
+P04_02_102,531.57,534.67,take tuna patty out of pan
+P04_02_103,534.77,540.77,take tuna patty out of pan
+P04_02_104,541.25,541.91,take tuna patty out of pan
+P04_02_105,541.74,545.75,pick up tuna mixture
+P04_02_106,546.79,554.26,shape into patty
+P04_02_107,554.29,556.08,put in pan
+P04_02_108,556.7,559.93,pick up tuna mixture
+P04_02_109,560.73,563.6,shape tuna patty
+P04_02_11,44.35,46.52,flip tuna patty
+P04_02_110,562.89,564.04,put in pan
+P04_02_111,581.84,586.18,pick up tuna mixture
+P04_02_112,586.18,594.83,shape tuna patty
+P04_02_113,595.1,597.6,put in pan
+P04_02_114,598.02,601.12,pick up tuna mixture
+P04_02_115,601.22,606.74,shape tuna patty
+P04_02_116,607.12,608.37,put in pan
+P04_02_117,609.05,610.59,pick up tuna mixture
+P04_02_118,610.94,618.66,shape tuna patty
+P04_02_119,617.88,619.26,shape tuna patty
+P04_02_12,47.45,48.7,flip tuna patty
+P04_02_120,619.17,620.17,put in pan
+P04_02_121,619.36,620.38,put in pan
+P04_02_122,620.34,626.61,pick up tuna mixture
+P04_02_123,621.33,626.78,pick up tuna mixture
+P04_02_124,626.71,633.35,shape tuna patty
+P04_02_125,633.25,634.18,put in pan
+P04_02_126,634.16,639.99,pick up tuna mixture
+P04_02_127,653.02,655.95,put down tuna mixture
+P04_02_128,657.64,659.99,wash hands
+P04_02_129,662.1,665.69,dry hands
+P04_02_13,50.23,51.23,flip tuna patty
+P04_02_130,667.26,675.89,roll egg
+P04_02_131,669.63,671.6,loose egg from pan
+P04_02_132,671.98,675.58,roll egg
+P04_02_133,677.08,683.58,detach egg from pan
+P04_02_134,684.18,687.18,roll egg
+P04_02_135,687.78,694.53,detach egg from pan
+P04_02_136,696.78,704.37,roll egg
+P04_02_137,705.48,712.96,pour egg into pan
+P04_02_138,714.33,716.83,move frying pan
+P04_02_139,719.57,723.15,pick up carrot
+P04_02_14,53.43,54.51,flip tuna patty
+P04_02_140,721.61,722.21,pick up kitchen roll
+P04_02_141,723.19,724.68,move carrot choppings
+P04_02_142,723.96,729.53,put down kitchen roll
+P04_02_143,725.7,729.16,slice carrot
+P04_02_144,730.29,734.22,cut bottom off carrot
+P04_02_145,734.37,752.31,slice carrot
+P04_02_146,752.49,771.74,slice carrot
+P04_02_147,771.76,775.43,remove carrot from knife
+P04_02_148,776.56,777.67,put down knife
+P04_02_149,778.61,786.27,remove egg from pan
+P04_02_15,54.58,58.25,flip tuna patty
+P04_02_150,787.96,800.83,flip tuna burger
+P04_02_151,788.02,789.6,flip tuna burger
+P04_02_152,790.75,792.14,flip tuna burger
+P04_02_153,792.81,794.43,flip tuna burger
+P04_02_154,794.61,796.67,flip tuna burger
+P04_02_155,796.9,799.12,flip tuna burger
+P04_02_156,799.22,801.01,flip tuna burger
+P04_02_157,807.31,808.64,test pan
+P04_02_158,815.36,816.74,open cupboard
+P04_02_159,816.96,817.82,pick up bowl
+P04_02_16,60.37,61.13,open cupboard
+P04_02_160,818.28,818.93,put down bowl
+P04_02_161,819.43,820.34,open fridge
+P04_02_162,819.97,821.8,open drawer
+P04_02_163,821.86,823.02,pick up cucumber
+P04_02_164,822.66,823.34,put away drawer
+P04_02_165,824.58,832.35,open cucumber
+P04_02_166,832.45,835.22,pull down cucumber packaging
+P04_02_167,835.32,854.74,slice cucumber
+P04_02_168,853.42,857.32,stack up cucumber
+P04_02_169,853.68,856.95,pull cucumber from knife
+P04_02_17,61.74,63.1,pick up sesame oil
+P04_02_170,857.79,859.3,slice cucumber
+P04_02_171,858.88,860.21,put in bowl
+P04_02_172,859.4,864.12,put in bowl
+P04_02_173,864.85,865.85,slice cucumber
+P04_02_174,867.8,872.05,slice cucumber
+P04_02_175,874.62,875.83,pick up cucumber
+P04_02_176,876.7,878.76,wash cucumber
+P04_02_177,879.6,882.38,stack cucumber
+P04_02_178,883.19,884.58,slice cucumber
+P04_02_179,884.68,887.87,put in bowl
+P04_02_18,65.55,70.82,pour sesame oil into pan
+P04_02_180,885.62,886.34,stack cucumber
+P04_02_181,886.44,892.7,slice cucumber
+P04_02_182,888.23,892.14,slice cucumber
+P04_02_183,896.1,897.11,put in bowl
+P04_02_184,900.2,902.75,slice cucumber
+P04_02_185,905.92,911.21,put away cucumber
+P04_02_186,911.09,912.33,open fridge
+P04_02_187,912.67,913.8,open drawer
+P04_02_188,913.25,914.46,put cucumber
+P04_02_189,914.07,915.02,close drawer
+P04_02_19,71.13,73.61,move pan
+P04_02_190,914.83,915.91,close fridge
+P04_02_191,916.16,927.0,roll egg
+P04_02_192,928.62,930.32,pour egg
+P04_02_194,932.29,936.99,rub pan with kitchen roll
+P04_02_195,937.74,941.72,pour egg
+P04_02_196,943.03,943.74,open dishwasher
+P04_02_197,944.8,946.03,put bowl
+P04_02_198,946.38,947.09,close drawer
+P04_02_199,947.03,948.28,put chopsticks
+P04_02_2,9.99,11.38,put down
+P04_02_20,74.21,77.22,pour sesame oil into pan
+P04_02_200,948.13,949.04,close dishwasher
+P04_02_201,949.7,953.57,move pan to distribute egg
+P04_02_202,955.73,956.45,pick up cucumber
+P04_02_203,956.54,958.19,cut cucumber
+P04_02_204,956.69,958.73,slice cucumber
+P04_02_205,959.85,960.76,open fridge
+P04_02_206,960.86,962.39,pick up red pepper paste
+P04_02_207,963.27,964.33,open drawer
+P04_02_208,964.4,965.4,pick up spoon
+P04_02_209,965.5,966.84,open red pepper paste
+P04_02_21,80.06,81.55,put sesame oil into cupboard
+P04_02_210,966.94,968.61,spoon red pepper paste
+P04_02_211,969.99,970.86,close red pepper paste
+P04_02_212,970.87,972.89,put in fridge
+P04_02_213,974.13,975.27,open cupboards
+P04_02_214,979.68,981.22,pick up spoon
+P04_02_215,981.9,984.01,open bottle
+P04_02_216,985.99,991.51,pour rice vinegar
+P04_02_217,993.75,995.49,close rice vinegar
+P04_02_218,995.59,997.23,put away rice vinegar
+P04_02_219,997.78,998.62,open drawer
+P04_02_22,83.55,85.92,pick up chopsticks
+P04_02_220,998.68,1000.18,pick up sushi mat
+P04_02_221,1004.3,1005.33,pick up soy sauce
+P04_02_222,1007.23,1009.93,pour soy sauce
+P04_02_223,1010.14,1012.18,close soy sauce bottle
+P04_02_224,1011.39,1014.12,put away soy sauce bottle
+P04_02_225,1013.23,1014.73,pick up fish sauce
+P04_02_226,1015.88,1018.29,realize its fish sauce
+P04_02_227,1017.6,1020.04,put away fish sauce
+P04_02_228,1020.1,1021.69,pick up sesame oil
+P04_02_229,1021.37,1030.16,put down sesame oil
+P04_02_23,86.7,91.03,whisk egg
+P04_02_230,1022.99,1028.15,pour sesame oil
+P04_02_231,1028.25,1029.9,close sesame oil
+P04_02_232,1034.03,1037.14,pick up onion
+P04_02_233,1040.98,1042.52,cut onion in half
+P04_02_234,1046.73,1048.07,cut top off onion
+P04_02_235,1050.67,1064.73,peel onion
+P04_02_236,1063.55,1088.99,keep peeling onion
+P04_02_237,1088.42,1091.6,pick up onion peeling
+P04_02_238,1092.0,1119.78,dice onion
+P04_02_239,1092.34,1093.5,put in bin
+P04_02_24,93.9,95.27,test temperature
+P04_02_240,1095.36,1101.86,slice along onion
+P04_02_241,1101.96,1111.0,slice into onion
+P04_02_242,1127.06,1132.29,put in a plastic bowl
+P04_02_243,1133.14,1147.6,mix bowl
+P04_02_244,1147.96,1153.69,pick up bits from floor
+P04_02_245,1156.42,1162.82,roll egg
+P04_02_246,1163.43,1165.39,collect from spatula
+P04_02_247,1166.59,1171.63,roll out
+P04_02_248,1177.01,1178.38,pick up sushi mat
+P04_02_249,1178.81,1180.77,wet sushi mat
+P04_02_25,95.27,97.21,move pan
+P04_02_250,1181.61,1183.04,put down sushi mat
+P04_02_251,1183.92,1184.96,pick up rolled omelette
+P04_02_252,1184.97,1186.14,put on sushi mat
+P04_02_253,1188.21,1195.83,roll omelette in sushi mat
+P04_02_254,1195.51,1197.05,squish sushi mat
+P04_02_255,1199.4,1200.45,pick up sesame oil
+P04_02_257,1206.04,1207.39,pick up carrot
+P04_02_258,1207.44,1208.74,put in pan
+P04_02_259,1214.94,1216.35,pick up carrot
+P04_02_26,100.59,101.98,open cupboard
+P04_02_260,1215.3,1216.12,pick up carrot
+P04_02_261,1216.53,1217.03,put in pan
+P04_02_262,1216.55,1217.38,put in pan
+P04_02_263,1221.71,1222.71,put carrot in pan
+P04_02_264,1223.27,1224.91,pick up carrot
+P04_02_265,1225.24,1225.91,put in pan
+P04_02_266,1234.77,1238.95,remove tuna patty from pan
+P04_02_267,1241.66,1245.09,remove tuna patty on tray
+P04_02_268,1243.95,1245.0,put tuna patty on tray
+P04_02_269,1248.39,1249.15,put tuna patty on tray
+P04_02_27,105.17,108.31,pull out pie dish base
+P04_02_270,1249.68,1250.51,pick up tuna patty
+P04_02_271,1250.7,1251.7,put on tray
+P04_02_272,1252.55,1253.55,pick up tuna patty
+P04_02_273,1253.9,1255.04,put on tray
+P04_02_274,1257.25,1258.0,pick up tuna patty
+P04_02_275,1258.1,1260.22,put on tray
+P04_02_276,1261.2,1262.45,pick up tuna patty
+P04_02_277,1262.55,1263.72,put on tray
+P04_02_278,1264.73,1268.04,pick up tuna mixture
+P04_02_279,1264.85,1268.2,pick up tuna mixture
+P04_02_28,112.88,113.69,close cupboard
+P04_02_280,1268.03,1271.09,squeeze into patty
+P04_02_281,1268.56,1270.66,squeeze into patty
+P04_02_282,1270.76,1272.67,put in pan
+P04_02_283,1271.33,1272.47,put in pan
+P04_02_284,1272.61,1276.7,pick up tuna mixture
+P04_02_285,1276.67,1280.6,squeeze into patty
+P04_02_286,1280.68,1283.03,put in pan
+P04_02_287,1297.68,1303.18,pick up bag
+P04_02_288,1303.05,1309.42,pick up tuna mixture
+P04_02_289,1309.35,1313.54,squeeze into patty
+P04_02_29,113.8,114.47,pick up
+P04_02_290,1314.06,1315.56,put in pan
+P04_02_291,1315.6,1316.74,pick up bag
+P04_02_292,1316.84,1317.83,pick up tuna mixture
+P04_02_293,1318.19,1321.03,put on patty
+P04_02_294,1322.89,1325.96,pull tuna mixture out of bag
+P04_02_295,1326.18,1328.89,put on patty
+P04_02_296,1332.76,1333.82,put bag in bin
+P04_02_297,1336.61,1341.49,move carts
+P04_02_298,1341.84,1347.68,mix bowl
+P04_02_299,1349.11,1350.93,pick up knife
+P04_02_3,11.7,12.7,pick up chopsticks
+P04_02_30,114.84,116.93,put down base
+P04_02_300,1350.96,1352.53,put down knife
+P04_02_301,1352.44,1353.01,pick up kitchen roll
+P04_02_302,1353.09,1353.61,put down kitchen roll
+P04_02_303,1353.76,1355.96,pick up onion
+P04_02_304,1356.06,1356.67,put down onion
+P04_02_305,1360.32,1361.21,pick up spoon
+P04_02_306,1361.6,1362.84,put in dishwasher
+P04_02_307,1363.37,1364.66,open drawer
+P04_02_308,1364.95,1365.76,close drawer
+P04_02_309,1367.51,1368.61,open drawer
+P04_02_31,121.0,122.61,pick up knife
+P04_02_310,1369.34,1372.19,pick up bag
+P04_02_311,1372.81,1375.34,open bag
+P04_02_312,1375.44,1389.2,put diced onion in bag
+P04_02_313,1389.82,1397.73,put bag in freezer
+P04_02_314,1397.12,1399.34,pick up rice
+P04_02_315,1399.98,1401.26,close freezer
+P04_02_316,1401.11,1404.06,open container
+P04_02_317,1404.5,1406.16,move rice cooker
+P04_02_318,1406.26,1407.64,open microwave
+P04_02_319,1406.98,1412.65,turn on microwave
+P04_02_32,122.68,123.56,pick up kitchen roll
+P04_02_320,1407.82,1411.0,put in microwave
+P04_02_321,1410.97,1411.76,close microwave
+P04_02_322,1412.97,1414.17,pick up onion
+P04_02_323,1415.74,1416.95,open drawer
+P04_02_324,1417.05,1417.96,pick up cling film
+P04_02_325,1419.1,1422.46,pull cling film
+P04_02_326,1424.06,1425.6,put away cling film
+P04_02_327,1426.47,1430.02,put onion in cling film
+P04_02_328,1430.55,1432.27,open fridge
+P04_02_329,1432.42,1433.5,put onion
+P04_02_33,124.2,125.56,pick up chopping board
+P04_02_330,1433.6,1434.41,close fridge
+P04_02_34,127.3,134.16,wash chopping board
+P04_02_35,136.4,139.9,dry chopping board
+P04_02_36,141.37,142.16,pick up knife
+P04_02_37,141.97,144.01,put down chopping board
+P04_02_38,143.82,144.57,put down knife
+P04_02_39,144.67,146.42,pick up chop sticks
+P04_02_4,13.29,16.54,move pan
+P04_02_40,146.52,147.52,put on egg bowl
+P04_02_41,148.0,149.86,open fridge
+P04_02_42,149.61,151.11,open drawer
+P04_02_43,150.63,154.27,pick up carrots
+P04_02_44,153.81,156.17,close fridge
+P04_02_45,156.27,158.23,put down carrots
+P04_02_46,158.65,167.47,pull carrots out of bag
+P04_02_47,167.57,169.51,open fridge
+P04_02_48,169.43,170.26,open drawer
+P04_02_49,170.11,171.72,put away carrots
+P04_02_5,18.16,25.14,pick bit out of pan
+P04_02_50,171.31,172.42,close fridge
+P04_02_51,172.33,174.24,open drawer
+P04_02_52,174.34,176.31,pull out peeler
+P04_02_53,177.74,191.06,peel carrots
+P04_02_54,192.8,193.55,pick up carrot
+P04_02_55,193.19,206.48,peel carrot
+P04_02_56,206.54,207.5,pick up carrot
+P04_02_57,207.59,214.14,peel carrot
+P04_02_58,214.53,215.03,drop carrot
+P04_02_59,215.02,215.61,pick up carrot
+P04_02_6,26.48,27.49,put down chopsticks
+P04_02_60,215.73,216.98,pick up carrot
+P04_02_61,246.69,250.52,put peelings in bin
+P04_02_62,255.5,256.23,pick up spatula
+P04_02_63,256.5,260.54,rub spatula around egg
+P04_02_64,264.88,271.86,scrap spatula on pan
+P04_02_65,272.07,274.76,look at underside of tuna burger
+P04_02_66,278.5,282.35,cut end of carrot
+P04_02_67,285.88,288.47,slice end of carrot
+P04_02_68,289.26,291.87,slice end of carrot
+P04_02_69,292.53,294.17,pick up ends of carrot
+P04_02_7,33.02,34.14,open drawer
+P04_02_70,294.69,295.95,put ends in bin
+P04_02_71,305.52,315.14,slice carrot
+P04_02_72,315.24,327.52,slice carrot
+P04_02_73,331.31,355.7,slice carrot to julienne
+P04_02_74,349.39,351.42,look at carrot pieces
+P04_02_75,352.1,353.9,slice carrot piece
+P04_02_76,357.73,359.47,scrape carrot off knife
+P04_02_77,366.88,370.33,chop carrot
+P04_02_78,372.18,374.09,slice bottom of carrot
+P04_02_79,376.13,406.8,slice carrot diagonally
+P04_02_8,34.47,35.32,pick up spatula
+P04_02_80,406.73,425.08,slice carrot
+P04_02_81,424.0,438.56,slice carrot
+P04_02_82,439.49,442.76,scrape carrot off knife
+P04_02_83,443.53,450.28,slice carrot
+P04_02_84,449.71,450.85,put down knife
+P04_02_85,451.72,459.64,test egg
+P04_02_86,457.33,483.99,roll egg
+P04_02_87,480.1,492.54,detach egg from pan
+P04_02_88,486.01,494.36,roll egg
+P04_02_89,494.36,495.87,put down spatula
+P04_02_9,37.11,41.32,flip tuna patty
+P04_02_90,495.28,496.8,pick up kitchen roll
+P04_02_91,496.1,506.6,rub kitchen roll in rolling pan
+P04_02_92,506.61,507.45,put down kitchen roll
+P04_02_93,507.8,508.86,pick up eggs
+P04_02_94,509.45,513.03,pour eggs into pan
+P04_02_95,512.96,514.77,put down bowl of eggs
+P04_02_96,515.39,519.46,move pan to distribute eggs
+P04_02_97,521.45,522.45,test side of tuna
+P04_02_98,522.91,531.47,take tuna patty out of pan
+P04_02_99,524.58,527.53,take tuna out of pan

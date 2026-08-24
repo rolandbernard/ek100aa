@@ -1,0 +1,672 @@
+P22_111_0,13.28,13.86,pick up glass
+P22_111_1,13.79,14.73,open cupboard
+P22_111_10,25.63,26.83,open drawer
+P22_111_100,251.41,252.43,pick up tin can
+P22_111_101,252.66,255.99,open tin can
+P22_111_102,256.6,258.42,put down lid
+P22_111_103,259.6,260.42,take fork
+P22_111_104,261.54,267.03,pour meat
+P22_111_105,269.54,270.48,put down tin can
+P22_111_106,272.1,274.36,wash fork
+P22_111_107,274.4,275.52,put down fork
+P22_111_108,275.75,293.86,compress meat
+P22_111_109,295.0,299.96,clean spoon
+P22_111_11,26.88,28.33,put down teaspoon
+P22_111_110,300.09,302.4,wash fork
+P22_111_111,301.89,303.91,put down spoon and fork
+P22_111_112,305.21,306.17,open cupboard
+P22_111_113,306.35,308.73,pick up bowl
+P22_111_114,309.3,310.55,close cupboard
+P22_111_115,311.4,311.96,take fork
+P22_111_116,312.3,313.3,put down bowl
+P22_111_117,313.33,314.58,move jar
+P22_111_118,314.45,315.5,pick up egg
+P22_111_119,315.48,319.08,crack egg
+P22_111_12,29.57,30.51,put down straw
+P22_111_120,322.41,325.31,crack egg
+P22_111_121,325.97,327.41,put down egg shell
+P22_111_122,321.55,322.17,pick up egg
+P22_111_123,322.6,324.18,crack egg
+P22_111_124,323.67,326.22,crack egg
+P22_111_125,326.98,327.48,put down egg shell
+P22_111_126,327.79,328.91,pick up egg
+P22_111_127,328.8,331.21,crack egg
+P22_111_128,331.31,333.43,crack egg
+P22_111_129,334.1,335.2,put down egg shell
+P22_111_13,30.29,31.14,put down spoon
+P22_111_130,335.3,336.0,pick up egg
+P22_111_131,336.1,338.76,crack egg
+P22_111_132,337.37,338.54,crack egg
+P22_111_133,339.84,341.79,put down egg shell
+P22_111_134,341.89,343.48,put down fork
+P22_111_135,342.63,344.62,pick up egg shells
+P22_111_136,346.27,349.57,put down tin can
+P22_111_137,349.66,354.88,open bag
+P22_111_138,354.89,356.45,throw away egg shells
+P22_111_139,356.5,358.0,close bag
+P22_111_14,31.06,31.77,close drawer
+P22_111_140,358.22,359.38,move tin can
+P22_111_141,359.48,360.19,turn on tap
+P22_111_142,359.84,362.69,rinse hands
+P22_111_143,362.6,363.15,turn off tap
+P22_111_144,363.04,364.18,shake hands
+P22_111_145,364.55,365.24,pick up cloth
+P22_111_146,365.34,367.51,dry hands
+P22_111_147,367.91,368.7,put down cloth
+P22_111_148,368.99,369.79,pick up spoon
+P22_111_149,369.89,378.47,stir meat
+P22_111_15,33.3,35.62,open fridge
+P22_111_150,378.76,379.6,put down spoon
+P22_111_151,380.05,391.08,stir eggs
+P22_111_152,404.89,406.17,move jar
+P22_111_153,406.24,406.99,open jar
+P22_111_154,407.36,408.11,pick up salt
+P22_111_155,408.1,409.44,pour salt
+P22_111_156,409.79,410.47,pick up salt
+P22_111_157,410.57,412.05,pour salt
+P22_111_158,411.61,412.88,close jar
+P22_111_159,412.84,413.84,move jar
+P22_111_16,36.24,38.72,pick up egg
+P22_111_160,413.89,414.5,pick up pepper
+P22_111_161,414.45,416.24,open pepper
+P22_111_162,415.71,418.1,pour pepper
+P22_111_163,418.18,418.7,close pepper
+P22_111_164,418.7,419.4,put down pepper
+P22_111_165,419.84,433.65,stir eggs
+P22_111_166,433.67,434.16,move bowl
+P22_111_167,435.35,436.78,pick up lids
+P22_111_168,438.13,438.93,pick up tin can
+P22_111_169,439.48,440.98,put down tin can and lid
+P22_111_17,38.78,40.71,pick up egg
+P22_111_170,443.83,445.04,pick up lid
+P22_111_171,446.18,447.92,pick up tomatoes
+P22_111_172,447.98,449.12,put down lid
+P22_111_173,451.05,451.86,turn on tap
+P22_111_174,451.82,454.61,rinse tomatoes
+P22_111_175,454.64,455.19,turn off tap
+P22_111_176,455.21,457.24,shake tomatoes
+P22_111_177,459.18,460.39,open drawer
+P22_111_178,460.47,461.3,pick up cutting board
+P22_111_179,461.48,461.85,put down cutting board
+P22_111_18,41.64,42.94,pick up egg
+P22_111_180,461.95,462.26,put down tomatoes
+P22_111_181,462.3,463.04,move bag
+P22_111_182,463.56,464.16,pick up lighter
+P22_111_183,464.16,464.76,open drawer
+P22_111_184,464.56,464.81,put down lighter
+P22_111_185,464.86,465.44,close drawer
+P22_111_186,465.83,466.89,open cupboard
+P22_111_187,467.84,468.81,pick up bowl
+P22_111_188,469.66,470.06,pick up aluminium foil
+P22_111_189,470.2,470.94,put down aluminium foil
+P22_111_19,44.1,45.14,pick up egg
+P22_111_190,471.76,473.21,close cupboard
+P22_111_191,474.35,475.63,put down bowls
+P22_111_192,477.21,478.08,open drawer
+P22_111_193,479.15,481.5,pick up knife
+P22_111_194,481.6,482.14,close drawer
+P22_111_195,484.2,486.45,cut tomato
+P22_111_196,486.55,494.98,cut tomato
+P22_111_197,496.19,498.82,move tomatoes
+P22_111_198,499.08,503.63,cut tomato
+P22_111_199,503.71,509.22,cut tomato
+P22_111_2,14.57,15.61,put down glass
+P22_111_20,46.21,48.37,put down eggs
+P22_111_200,509.32,510.15,move tomatoes
+P22_111_201,510.11,518.13,cut tomato
+P22_111_202,518.01,519.34,move tomatoes
+P22_111_203,518.74,519.67,pick up tomato
+P22_111_204,519.77,520.46,put down tomato
+P22_111_205,520.51,531.75,cut tomato
+P22_111_206,531.85,534.77,cut tomato
+P22_111_207,534.5,535.16,move tomatoes
+P22_111_208,536.85,542.05,cut tomatoes
+P22_111_209,542.55,542.95,move tomatoes
+P22_111_21,50.91,51.52,open bag
+P22_111_210,545.5,550.03,cut tomatoes
+P22_111_211,549.99,551.83,move tomatoes
+P22_111_212,553.27,554.86,pick up tomatoes
+P22_111_213,554.81,558.65,throw tomatoes
+P22_111_214,558.75,559.34,turn on tap
+P22_111_215,559.34,559.89,rinse hands
+P22_111_216,559.99,560.58,turn off tap
+P22_111_217,560.35,560.75,shake hands
+P22_111_218,561.05,561.88,pick up cloth
+P22_111_219,561.78,563.64,dry hands
+P22_111_22,51.37,52.77,pick up tomato
+P22_111_220,563.59,564.57,put down cloth
+P22_111_221,565.83,566.72,pick up bowl
+P22_111_222,567.46,568.88,pick up knife
+P22_111_223,567.77,568.74,move cutting board
+P22_111_224,569.32,576.72,pour tomatoes
+P22_111_225,577.08,577.76,put down knife
+P22_111_226,577.86,578.82,put down bowl
+P22_111_227,578.43,579.14,pick up bowl
+P22_111_228,579.24,579.63,pick up knife
+P22_111_229,580.52,588.34,pour tomatoes
+P22_111_23,52.87,56.3,pick up tomato
+P22_111_230,588.97,590.04,put down bowl
+P22_111_231,590.0,590.48,put down knife
+P22_111_232,593.75,597.5,open fridge
+P22_111_233,597.6,598.85,close fridge
+P22_111_234,599.13,599.95,pick up jar
+P22_111_235,600.17,601.81,open jar
+P22_111_236,602.32,603.63,put down lid
+P22_111_237,605.36,606.29,open drawer
+P22_111_238,606.79,607.96,pick up spoon
+P22_111_239,609.45,615.7,pick up capers
+P22_111_24,59.94,60.72,pick up jar
+P22_111_240,615.68,617.05,put down jar
+P22_111_241,617.25,618.21,turn on tap
+P22_111_242,618.31,618.93,move tap
+P22_111_243,619.1,620.7,pour capers
+P22_111_244,620.7,622.7,wash capers
+P22_111_245,622.64,623.3,wash spoon
+P22_111_246,623.39,624.17,wash capers
+P22_111_247,624.6,625.35,turn off tap
+P22_111_248,625.41,626.6,shake capers
+P22_111_249,626.67,628.05,put down capers
+P22_111_25,61.36,61.97,put down jar
+P22_111_250,628.54,631.42,pick up capers
+P22_111_251,631.5,632.55,pour capers
+P22_111_252,632.67,634.79,turn on tap
+P22_111_253,634.09,636.63,rinse capers
+P22_111_254,636.18,637.41,squeeze capers
+P22_111_255,637.51,639.01,put down capers
+P22_111_256,640.31,641.22,put down spoon
+P22_111_257,641.2,642.1,pick up jar
+P22_111_258,642.97,643.48,pick up lid
+P22_111_259,643.56,644.53,put down lid
+P22_111_26,63.47,64.42,open drawer
+P22_111_260,645.78,646.7,open fridge
+P22_111_261,648.99,651.26,put down jar
+P22_111_262,648.53,649.24,pick up jar
+P22_111_263,649.34,650.51,put down jar
+P22_111_264,650.88,651.91,pick olives
+P22_111_265,651.89,653.2,close fridge
+P22_111_266,655.06,655.78,remove clip
+P22_111_267,655.74,656.35,put down olives
+P22_111_268,656.41,657.72,open olives
+P22_111_269,657.79,661.77,pick olives
+P22_111_27,64.47,65.68,close drawer
+P22_111_270,661.85,662.91,put down olives
+P22_111_271,664.14,666.79,cut olive
+P22_111_272,667.09,669.69,remove olive stone
+P22_111_273,669.79,670.12,put down olive stone
+P22_111_274,670.33,671.18,pick up olive
+P22_111_275,671.07,675.4,cut olive
+P22_111_276,677.61,679.0,remove olive stone
+P22_111_277,679.09,680.58,put down olive stone
+P22_111_278,680.38,680.96,move olives
+P22_111_279,681.01,681.59,pick up olive
+P22_111_28,68.59,70.57,close fridge
+P22_111_280,681.84,684.99,cut olive
+P22_111_281,685.29,697.25,remove olive stone
+P22_111_282,696.74,697.55,put down olive stone
+P22_111_283,698.44,699.01,pick up knife
+P22_111_284,699.11,702.77,cut olive
+P22_111_285,702.87,703.61,remove olive stone
+P22_111_286,704.4,705.1,pick up olive
+P22_111_287,705.16,710.29,cut olive
+P22_111_288,711.07,711.71,put down knife
+P22_111_289,711.81,714.4,remove olive stone
+P22_111_29,71.23,72.42,open cupboard
+P22_111_290,714.4,715.11,put down olive stone
+P22_111_291,715.06,715.77,pick up knife
+P22_111_292,714.53,715.89,pick up olive
+P22_111_293,715.99,718.62,cut olive
+P22_111_294,718.57,719.88,remove olive stone
+P22_111_295,720.29,721.24,move olive
+P22_111_296,720.8,721.37,pick up olive
+P22_111_297,721.36,723.67,cut olive
+P22_111_298,725.98,726.61,put down knife
+P22_111_299,726.67,728.37,remove olive stone
+P22_111_3,15.71,16.3,pick up glass
+P22_111_30,73.08,74.11,pick up package
+P22_111_300,728.47,729.12,put down olive stone
+P22_111_301,729.22,730.03,put down olive
+P22_111_302,730.98,738.9,cut olives
+P22_111_303,738.79,740.35,move olives
+P22_111_304,739.65,741.04,cut olives
+P22_111_305,740.91,741.48,put down knife
+P22_111_306,741.54,742.79,pick olives
+P22_111_307,742.94,743.54,put down olives
+P22_111_308,743.74,744.37,pick olives
+P22_111_309,744.44,745.1,put down olives
+P22_111_31,74.13,78.57,open packaging
+P22_111_310,746.14,746.74,turn on tap
+P22_111_311,746.69,748.59,rinse hands
+P22_111_312,748.75,751.26,pour soap
+P22_111_313,751.45,753.72,lather hands
+P22_111_314,754.7,759.66,wash hands
+P22_111_315,759.71,760.16,turn off tap
+P22_111_316,760.14,761.47,shake hands
+P22_111_317,761.8,762.42,pick up cloth
+P22_111_318,762.17,765.65,dry hands
+P22_111_319,765.72,766.64,put down cloth
+P22_111_32,79.01,79.49,put down tin can
+P22_111_320,766.99,769.29,pick olives
+P22_111_321,769.39,772.14,close olives
+P22_111_322,769.36,770.08,pick up clip
+P22_111_323,770.18,771.27,put clip
+P22_111_324,771.36,772.84,close clip
+P22_111_325,773.46,776.25,open fridge
+P22_111_326,775.87,776.82,put down olives
+P22_111_327,776.76,778.03,close fridge
+P22_111_328,779.01,779.76,pick up spoon
+P22_111_329,779.83,787.89,stir meat
+P22_111_33,80.21,82.38,put down package
+P22_111_330,787.93,788.86,put down spoon
+P22_111_331,788.9,790.45,pick up bowl
+P22_111_332,790.52,794.79,pour eggs
+P22_111_333,795.29,796.11,put down fork
+P22_111_334,796.33,797.26,put down bowl
+P22_111_335,796.94,797.38,pick up spoon
+P22_111_336,797.34,806.92,stir omelette
+P22_111_337,808.12,809.69,put down spoon
+P22_111_338,810.25,810.94,pick up lid
+P22_111_339,811.8,812.89,put down lid
+P22_111_34,82.57,83.82,close cupboard
+P22_111_340,813.5,815.24,adjust hob
+P22_111_341,818.26,820.08,pick up oil
+P22_111_342,820.25,821.17,put down oil
+P22_111_343,821.91,822.95,open cupboard
+P22_111_344,825.0,827.75,pick up oil
+P22_111_345,828.36,829.75,close cupboard
+P22_111_346,830.08,832.31,open oil
+P22_111_347,832.02,833.23,put down lid
+P22_111_348,833.63,834.59,put down oil
+P22_111_349,834.89,837.12,pick up olive stones
+P22_111_35,85.26,85.69,turn on light
+P22_111_350,838.01,839.37,open bag
+P22_111_351,839.4,840.17,throw away olive stones
+P22_111_352,840.33,840.87,turn on tap
+P22_111_353,840.68,842.35,wash hands
+P22_111_354,842.48,842.8,turn off tap
+P22_111_355,843.04,843.74,shake hands
+P22_111_356,843.66,844.43,pick up cloth
+P22_111_357,844.53,847.34,dry hands
+P22_111_358,847.44,848.26,put down cloth
+P22_111_359,848.4,850.03,pick up cutting board
+P22_111_36,87.03,88.0,open drawer
+P22_111_360,850.88,852.09,put down cutting board
+P22_111_361,852.74,854.06,move bowls
+P22_111_362,854.14,855.23,pick up oil
+P22_111_363,855.7,857.72,pour oil
+P22_111_364,858.11,860.2,pour oil
+P22_111_365,860.3,861.58,put down oil
+P22_111_366,862.04,862.92,pick up bowls
+P22_111_367,864.19,865.17,put down bowls
+P22_111_368,865.07,866.57,pick up bowl
+P22_111_369,867.01,867.95,put down bowl
+P22_111_37,89.84,92.3,pick up pan
+P22_111_370,868.38,869.24,open jar
+P22_111_371,869.79,870.35,pick up salt
+P22_111_372,870.39,871.48,pour salt
+P22_111_373,871.4,873.01,pour salt
+P22_111_374,873.02,873.85,pick up salt
+P22_111_375,873.73,874.73,pour salt
+P22_111_376,874.83,875.89,pour salt
+P22_111_377,875.99,876.64,pick up lid
+P22_111_378,876.56,877.6,close jar
+P22_111_379,877.71,879.4,pick oregano
+P22_111_38,92.66,93.31,put down lid
+P22_111_380,882.23,883.94,pour oregano
+P22_111_381,884.14,886.18,pour oregano
+P22_111_382,885.83,887.49,close oregano
+P22_111_383,887.59,888.43,put down oregano
+P22_111_384,888.48,889.38,pick up pepper
+P22_111_385,889.42,890.06,open pepper
+P22_111_386,890.26,893.62,pour pepper
+P22_111_387,893.71,895.31,pour pepper
+P22_111_388,895.12,895.66,close pepper
+P22_111_389,895.66,896.34,put down pepper
+P22_111_39,92.78,94.74,pick up lid
+P22_111_390,897.29,897.88,pick up bowl
+P22_111_391,899.1,900.17,open drawer
+P22_111_392,900.09,901.51,pick up spoon
+P22_111_393,903.67,905.71,stir salad
+P22_111_394,905.73,908.91,stir salad
+P22_111_395,908.21,908.93,put down spoon
+P22_111_396,909.03,910.03,put down spoon
+P22_111_397,910.5,911.53,pick up oil
+P22_111_398,912.0,914.14,pour oil
+P22_111_399,914.55,916.19,pour oil
+P22_111_4,16.8,18.08,pick glasses
+P22_111_40,94.62,95.77,put down pan
+P22_111_400,917.93,919.24,put down oil
+P22_111_401,918.46,919.09,pick up spoon
+P22_111_402,918.83,923.84,stir salad
+P22_111_403,923.92,925.0,pick up oil
+P22_111_404,925.43,926.28,pour oil
+P22_111_405,927.05,928.05,pick up oil
+P22_111_406,928.13,929.15,pour oil
+P22_111_407,928.95,936.52,stir salad
+P22_111_408,936.6,937.16,put down spoon
+P22_111_409,937.2,944.93,stir salad
+P22_111_41,96.31,98.08,put down lid
+P22_111_410,944.88,945.5,put down spoon
+P22_111_411,945.83,946.46,open container
+P22_111_412,945.49,947.82,pick up salt
+P22_111_413,947.53,948.31,pour salt
+P22_111_414,948.34,949.56,pour salt
+P22_111_415,950.23,951.33,close container
+P22_111_416,951.36,953.45,stir salad
+P22_111_417,954.04,957.54,stir salad
+P22_111_418,957.3,958.06,put down spoon
+P22_111_419,958.24,958.79,pick up oil
+P22_111_42,98.98,99.66,pick up pan
+P22_111_420,959.87,960.68,pick up lid
+P22_111_421,960.7,962.65,close oil bottle
+P22_111_422,962.81,963.61,pick up oil
+P22_111_423,963.65,964.14,put down oil
+P22_111_424,965.52,966.55,open cupboard
+P22_111_425,966.67,967.84,put down oil
+P22_111_426,968.29,969.55,close cupboard
+P22_111_427,971.94,972.16,turn on tap
+P22_111_428,972.26,973.45,wash hands
+P22_111_429,973.47,973.82,turn off tap
+P22_111_43,99.93,104.99,turn on hob
+P22_111_430,973.61,974.58,shake hands
+P22_111_431,974.57,975.12,pick up cloth
+P22_111_432,974.63,976.29,dry hands
+P22_111_433,977.32,978.1,pick up washing up liquid
+P22_111_434,978.13,980.76,open washing up liquid
+P22_111_435,981.39,982.35,turn on tap
+P22_111_436,983.05,990.36,close washing up liquid
+P22_111_437,992.05,993.64,shake washing up liquid
+P22_111_438,993.95,995.01,put down detergent
+P22_111_439,996.16,996.68,turn on tap
+P22_111_44,104.83,105.7,put down pan
+P22_111_440,996.73,997.39,rinse hands
+P22_111_441,997.38,998.0,empty bowl
+P22_111_442,998.18,998.8,put down bowl
+P22_111_443,999.02,999.44,turn off tap
+P22_111_444,1000.95,1002.13,pick up bowl
+P22_111_445,1002.47,1002.89,put down bowl
+P22_111_446,1005.85,1006.69,pick up glass
+P22_111_447,1008.45,1009.28,put down glass
+P22_111_448,1009.86,1010.43,pick up cloth
+P22_111_449,1010.41,1011.46,dry hands
+P22_111_45,105.66,107.29,open drawer
+P22_111_450,1011.73,1012.71,open lid
+P22_111_451,1012.63,1013.51,close lid
+P22_111_452,1013.95,1015.76,put down cloth
+P22_111_453,1016.32,1017.49,open drawer
+P22_111_454,1017.7,1018.35,close drawer
+P22_111_455,1018.43,1019.07,open drawer
+P22_111_456,1019.53,1020.64,pick up spatula
+P22_111_457,1020.72,1021.4,close drawer
+P22_111_458,1021.0,1021.79,put down spatula
+P22_111_459,1022.06,1022.78,open lid
+P22_111_46,108.07,108.92,pick up lighter
+P22_111_460,1022.86,1025.31,pick up spatula
+P22_111_461,1025.59,1026.86,put down lid
+P22_111_462,1028.5,1038.25,lift edge of omelette
+P22_111_463,1038.3,1040.09,put down spatula
+P22_111_464,1039.89,1041.01,pick up lid
+P22_111_465,1040.89,1042.69,put down lid
+P22_111_466,1043.07,1045.04,adjust hob
+P22_111_467,1047.44,1047.85,pick up sponge
+P22_111_468,1047.83,1048.23,turn on tap
+P22_111_469,1048.16,1049.66,rinse sponge
+P22_111_47,109.55,110.37,pick up pan
+P22_111_470,1049.75,1053.28,lather sponge
+P22_111_471,1053.7,1054.52,rinse sponge
+P22_111_472,1053.89,1054.36,turn off tap
+P22_111_473,1053.88,1055.47,pick up glass
+P22_111_474,1055.57,1058.01,lather glass
+P22_111_475,1057.94,1058.46,put down glass
+P22_111_476,1058.56,1059.05,pick up bowl
+P22_111_477,1058.79,1059.43,turn on tap
+P22_111_478,1059.57,1060.17,rinse bowl
+P22_111_479,1060.29,1065.16,lather bowl
+P22_111_48,110.12,110.81,put down pan
+P22_111_480,1064.95,1065.83,put down bowl
+P22_111_481,1066.23,1067.19,pick up bowl
+P22_111_482,1065.84,1071.19,lather bowl
+P22_111_483,1071.24,1071.82,put down bowl
+P22_111_484,1071.73,1072.49,take fork
+P22_111_485,1072.53,1074.47,lather fork
+P22_111_486,1074.57,1076.01,put down fork
+P22_111_487,1076.2,1076.66,pick up spoon
+P22_111_488,1076.74,1079.23,lather spoon
+P22_111_489,1079.33,1080.07,put down spoon
+P22_111_49,111.18,112.62,turn on hob
+P22_111_490,1080.01,1080.94,pick up knife
+P22_111_491,1081.57,1084.34,lather knife
+P22_111_492,1084.25,1085.19,put down knife
+P22_111_493,1085.13,1086.01,pick up cutting board
+P22_111_494,1086.1,1086.55,turn on tap
+P22_111_495,1086.51,1088.4,rinse cutting board
+P22_111_496,1088.39,1088.86,turn off tap
+P22_111_497,1089.06,1091.86,lather cutting board
+P22_111_498,1091.89,1093.79,lather sponge
+P22_111_499,1093.74,1094.54,turn on tap
+P22_111_5,18.58,20.16,put down glasses
+P22_111_50,112.79,114.11,put down lighter
+P22_111_500,1094.28,1095.21,rinse sponge
+P22_111_501,1095.13,1100.59,lather cutting board
+P22_111_502,1100.78,1101.53,turn on tap
+P22_111_503,1101.57,1105.35,lather cutting board
+P22_111_504,1104.94,1105.23,put down sponge
+P22_111_505,1105.31,1106.3,turn on tap
+P22_111_506,1106.54,1110.56,rinse cutting board
+P22_111_507,1110.41,1119.53,put down cutting board
+P22_111_508,1119.63,1120.97,pick up bowl
+P22_111_509,1121.07,1122.68,rinse bowl
+P22_111_51,114.31,115.01,pick up pan
+P22_111_510,1122.54,1123.53,put down bowl
+P22_111_511,1123.63,1124.23,pick up bowl
+P22_111_512,1124.07,1125.05,rinse bowl
+P22_111_513,1125.28,1126.0,put down bowl
+P22_111_514,1126.03,1126.82,pick up cutlery
+P22_111_515,1126.7,1128.7,rinse cutlery
+P22_111_516,1128.66,1129.55,put down cutlery
+P22_111_517,1129.65,1130.29,pick up glass
+P22_111_518,1130.12,1132.4,rinse glass
+P22_111_519,1132.42,1133.46,put down glass
+P22_111_52,117.04,118.05,put down pan
+P22_111_520,1133.06,1134.21,pick up tin can
+P22_111_521,1133.78,1135.29,pick up sponge
+P22_111_522,1135.09,1136.64,wash tin can
+P22_111_523,1136.68,1137.05,put down sponge
+P22_111_524,1137.15,1137.51,pick up tin can
+P22_111_525,1137.61,1138.8,remove lid
+P22_111_526,1139.89,1141.5,wash tin can
+P22_111_527,1141.46,1141.97,put down sponge
+P22_111_528,1141.66,1142.1,turn on tap
+P22_111_529,1142.13,1143.76,rinse tin can
+P22_111_53,118.14,118.87,pick up lighter
+P22_111_530,1144.4,1145.14,put down tin can
+P22_111_531,1144.83,1145.49,pick up tin can
+P22_111_532,1144.84,1146.95,rinse tin can
+P22_111_533,1146.96,1147.85,put down tin can
+P22_111_534,1147.95,1148.75,pick up lid
+P22_111_535,1148.54,1149.88,rinse lid
+P22_111_536,1150.03,1151.67,put down lid
+P22_111_537,1151.48,1152.04,pick up lid
+P22_111_538,1152.17,1152.79,rinse lid
+P22_111_539,1152.75,1153.84,put down lid
+P22_111_54,118.97,119.58,turn on hob
+P22_111_540,1153.87,1154.66,pick up sponge
+P22_111_541,1154.42,1155.67,rinse sponge
+P22_111_542,1155.76,1156.47,put down sponge
+P22_111_543,1156.57,1157.44,rinse hands
+P22_111_544,1157.4,1157.89,turn off tap
+P22_111_545,1157.95,1158.94,shake hands
+P22_111_546,1159.24,1159.8,pick up cloth
+P22_111_547,1159.81,1161.88,dry hands
+P22_111_548,1161.38,1163.46,put down cloth
+P22_111_549,1164.29,1165.05,remove lid
+P22_111_55,120.6,121.8,turn on hob
+P22_111_550,1166.49,1168.16,put down lid
+P22_111_551,1168.75,1171.05,turn on light
+P22_111_552,1171.2,1171.75,pick up spatula
+P22_111_553,1172.36,1221.16,lift edge of omelette
+P22_111_554,1220.91,1221.85,pick up pan
+P22_111_555,1222.78,1223.72,put down spatula
+P22_111_556,1224.08,1224.87,pick up lid
+P22_111_557,1225.89,1227.03,put down lid
+P22_111_558,1228.6,1239.39,pour omelette
+P22_111_559,1239.47,1240.96,put down pan
+P22_111_56,122.4,123.09,pick up pan
+P22_111_560,1241.06,1242.96,turn pan
+P22_111_561,1243.01,1244.21,remove lid
+P22_111_562,1243.99,1245.46,put down lid
+P22_111_563,1246.48,1248.03,put down pan
+P22_111_564,1248.46,1252.71,adjust hob
+P22_111_565,1253.76,1255.16,pick up spatula
+P22_111_566,1256.58,1257.47,put down spatula
+P22_111_567,1257.42,1258.17,pick up spoon
+P22_111_568,1258.69,1259.63,put down spoon
+P22_111_569,1259.73,1260.7,turn on tap
+P22_111_57,123.03,130.38,adjust hob
+P22_111_570,1260.16,1260.54,pick up sponge
+P22_111_571,1260.64,1261.51,lather sponge
+P22_111_572,1263.14,1263.75,turn on tap
+P22_111_573,1263.75,1264.58,rinse sponge
+P22_111_574,1264.31,1265.34,pick up lid
+P22_111_575,1266.37,1267.18,turn on tap
+P22_111_576,1267.21,1268.1,pick up spoon
+P22_111_577,1267.8,1268.97,rinse spoon
+P22_111_578,1269.05,1273.22,lather spoon
+P22_111_579,1273.5,1275.0,rinse spoon
+P22_111_58,130.48,131.97,put down pan
+P22_111_580,1273.02,1274.18,put down sponge
+P22_111_581,1276.12,1277.62,put down spoon
+P22_111_582,1277.86,1279.0,pick up lid
+P22_111_583,1279.24,1279.94,rinse lid
+P22_111_584,1279.94,1280.51,turn off tap
+P22_111_585,1280.51,1287.34,lather lid
+P22_111_586,1287.38,1288.18,turn on tap
+P22_111_587,1288.17,1298.12,rinse lid
+P22_111_588,1298.22,1299.69,put down lid
+P22_111_589,1299.47,1300.06,turn off tap
+P22_111_59,133.6,134.54,pick up oil
+P22_111_590,1300.16,1301.3,pick up cloth
+P22_111_591,1301.24,1304.16,dry hands
+P22_111_592,1303.84,1304.74,put down cloth
+P22_111_593,1305.13,1305.82,open drawer
+P22_111_594,1305.92,1308.01,pick up place mats
+P22_111_595,1308.35,1309.74,close drawer
+P22_111_596,1310.4,1312.34,put down tea place mats
+P22_111_597,1314.26,1315.19,open drawer
+P22_111_598,1315.58,1317.17,pick up forks
+P22_111_599,1317.36,1318.84,close drawer
+P22_111_6,20.8,21.38,pick up glass
+P22_111_60,135.29,137.73,open oil
+P22_111_600,1320.19,1321.23,put down fork
+P22_111_601,1320.87,1322.09,put down fork
+P22_111_602,1323.51,1325.58,pick up bowls
+P22_111_603,1325.68,1326.9,put down bowl
+P22_111_604,1326.43,1327.25,put down bowl
+P22_111_605,1327.78,1330.9,open cupboard
+P22_111_606,1331.23,1337.37,pick up plates
+P22_111_607,1337.99,1338.81,close cupboard
+P22_111_608,1340.2,1340.96,put down plate
+P22_111_609,1341.89,1342.73,put down plate
+P22_111_61,137.83,146.98,pour oil
+P22_111_610,1353.04,1354.03,open cupboard
+P22_111_611,1354.23,1355.44,pick up glass
+P22_111_612,1354.0,1356.86,pick glasses
+P22_111_613,1357.09,1358.05,put down glass
+P22_111_614,1357.99,1359.37,close cupboard
+P22_111_615,1360.59,1361.77,put down glass
+P22_111_616,1361.87,1362.62,put down glass
+P22_111_617,1365.23,1366.3,pick up pan
+P22_111_618,1366.34,1368.71,shake pan
+P22_111_619,1368.74,1369.33,put down pan
+P22_111_62,147.28,149.12,close oil bottle
+P22_111_620,1369.4,1370.06,pick up spatula
+P22_111_621,1370.2,1379.35,lift edge of omelette
+P22_111_622,1379.1,1381.95,put down spatula
+P22_111_623,1382.36,1383.99,move pan
+P22_111_624,1382.94,1387.69,adjust hob
+P22_111_625,1387.91,1389.77,adjust hob
+P22_111_626,1391.31,1392.45,pick up bag
+P22_111_627,1396.4,1396.91,put down bag
+P22_111_628,1399.77,1400.41,pick up cloth
+P22_111_629,1400.36,1401.09,turn on tap
+P22_111_63,149.6,150.17,put down oil
+P22_111_630,1401.19,1403.64,rinse cloth
+P22_111_631,1403.74,1404.38,turn off tap
+P22_111_632,1402.0,1403.95,wring cloth
+P22_111_633,1405.04,1405.54,open cupboard
+P22_111_634,1405.76,1406.45,pick up degreaser
+P22_111_635,1408.34,1410.41,spray degreaser
+P22_111_636,1410.52,1419.22,clean counter top
+P22_111_637,1419.71,1420.96,spray degreaser
+P22_111_638,1421.07,1423.79,clean counter top
+P22_111_639,1423.86,1424.46,spray degreaser
+P22_111_64,151.69,152.36,lift pan
+P22_111_640,1424.48,1435.62,clean counter top
+P22_111_641,1435.72,1440.14,clean counter top
+P22_111_642,1441.35,1442.49,open cupboard
+P22_111_643,1443.21,1445.57,clean counter top
+P22_111_644,1446.47,1448.31,put down degreaser
+P22_111_645,1451.96,1454.51,pick up tin cans
+P22_111_646,1461.1,1463.73,remove bag
+P22_111_647,1464.8,1467.06,throw away tin cans
+P22_111_648,1467.05,1467.69,pick up bag
+P22_111_649,1467.75,1469.18,put down bag
+P22_111_65,152.68,154.36,put down pan
+P22_111_650,1470.17,1472.41,adjust bag
+P22_111_651,1473.11,1473.73,turn on tap
+P22_111_652,1473.78,1479.18,rinse hands
+P22_111_653,1479.17,1479.76,turn off tap
+P22_111_654,1479.41,1480.46,shake hands
+P22_111_655,1482.66,1486.45,pick up paper
+P22_111_656,1486.86,1490.32,dry hands
+P22_111_657,1489.19,1498.66,wrap finger with kitchen roll
+P22_111_658,1498.98,1499.97,pick up spatula
+P22_111_659,1500.61,1506.59,lift edge of omelette
+P22_111_66,154.41,154.88,pick up tin can
+P22_111_660,1506.68,1515.41,cut omelette
+P22_111_661,1515.45,1525.31,cut omelette
+P22_111_662,1525.2,1526.52,pick up pan
+P22_111_663,1527.23,1528.54,pick up omelette
+P22_111_664,1529.69,1531.1,put down omelette
+P22_111_665,1532.13,1533.22,pick up omelette
+P22_111_666,1533.48,1534.46,put down omelette
+P22_111_667,1538.44,1539.3,put down pan
+P22_111_668,1539.24,1539.86,put down spatula
+P22_111_669,1539.85,1540.87,pick up lid
+P22_111_67,155.49,156.83,open tin can
+P22_111_670,1540.78,1541.72,put down lid
+P22_111_671,1542.81,1544.93,turn off light
+P22_111_68,158.76,161.41,put down lid
+P22_111_69,162.03,163.31,open drawer
+P22_111_7,21.78,22.69,put down glass
+P22_111_70,163.41,165.07,take fork
+P22_111_71,165.13,166.62,lift pan
+P22_111_72,165.55,167.7,put down pan
+P22_111_73,168.95,176.37,pour meat
+P22_111_74,173.55,181.51,pour meat
+P22_111_75,181.61,182.43,put down fork
+P22_111_76,184.8,185.74,put down tin can
+P22_111_77,187.53,188.57,pick up lighter
+P22_111_78,188.67,190.49,turn on hob
+P22_111_79,190.22,191.57,put down lighter
+P22_111_8,22.79,23.57,pick up cutlery
+P22_111_80,191.44,193.25,move pan
+P22_111_81,193.8,194.6,turn off hob
+P22_111_82,195.46,196.54,lift pan
+P22_111_83,196.54,199.12,put down pan
+P22_111_84,199.89,200.64,open drawer
+P22_111_85,201.31,202.58,pick up spoon
+P22_111_86,203.42,204.57,put down spoon
+P22_111_87,204.14,206.28,pick up spoon
+P22_111_88,207.17,208.24,pick up spoon
+P22_111_89,208.97,210.84,put down spoon
+P22_111_9,23.88,25.24,close cupboard
+P22_111_90,210.11,211.43,close drawer
+P22_111_91,212.38,220.22,compress meat
+P22_111_92,228.13,229.27,put down spoon
+P22_111_93,229.74,230.62,open cupboard
+P22_111_94,230.96,232.34,pick up package
+P22_111_95,236.58,237.54,put down tin can
+P22_111_96,241.69,242.29,put down tin can
+P22_111_97,245.34,245.91,open cupboard
+P22_111_98,246.17,247.8,throw packaging
+P22_111_99,248.86,249.64,close cupboard

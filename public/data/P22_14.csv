@@ -1,0 +1,291 @@
+P22_14_0,3.49,5.8,turn on light
+P22_14_1,7.03,8.62,pick up mocha
+P22_14_10,25.96,27.46,pour water
+P22_14_100,260.64,272.89,lather scoop
+P22_14_101,271.38,273.23,put down scoop
+P22_14_102,273.26,274.84,pick up fork
+P22_14_103,274.27,277.02,lather fork
+P22_14_104,276.71,277.63,put down fork
+P22_14_105,276.77,278.76,pick up knife
+P22_14_106,277.86,280.88,lather knife
+P22_14_107,280.98,281.71,put down knife
+P22_14_108,281.63,283.42,pick up knife
+P22_14_109,282.51,285.15,lather knife
+P22_14_11,27.64,29.65,stir mocha
+P22_14_110,284.25,286.28,put down knife
+P22_14_111,286.25,287.0,pick up colander
+P22_14_112,287.1,287.89,move colander
+P22_14_113,287.95,288.7,pick up plate
+P22_14_114,288.76,294.11,lather plate
+P22_14_115,294.16,295.21,put down plate
+P22_14_116,295.31,297.31,put down plate
+P22_14_117,297.1,300.1,pick up bowl
+P22_14_118,299.01,300.03,empty bowl
+P22_14_119,300.08,303.68,lather bowl
+P22_14_12,33.3,35.05,close bottle
+P22_14_120,303.78,304.66,put down bowl
+P22_14_121,304.82,305.55,pick up lid
+P22_14_122,306.07,306.77,put down lid
+P22_14_123,306.87,314.29,lather colander
+P22_14_124,314.39,315.29,put down colander
+P22_14_125,315.55,316.31,open tap
+P22_14_126,316.41,319.06,rinse hands
+P22_14_127,317.81,325.74,rinse bowl
+P22_14_128,325.75,326.39,close tap
+P22_14_129,326.49,328.28,put down bowl
+P22_14_13,35.03,36.23,put down bottle
+P22_14_130,328.85,329.87,open tap
+P22_14_131,329.26,337.14,rinse colander
+P22_14_132,337.24,338.6,put down colander
+P22_14_133,338.51,339.41,open tap
+P22_14_134,339.37,345.23,rinse silverware
+P22_14_135,345.08,346.79,put down fork
+P22_14_136,347.11,349.61,lather knife
+P22_14_137,349.5,353.34,rinse knife
+P22_14_138,352.94,354.56,put down knife
+P22_14_139,354.41,358.66,rinse spatula
+P22_14_14,37.17,38.24,take filter
+P22_14_140,358.41,360.52,put down spatula
+P22_14_141,360.07,361.26,take cutlery
+P22_14_142,361.11,368.67,rinse cutlery
+P22_14_143,368.62,370.55,put down cutlery
+P22_14_144,370.65,371.86,take plate
+P22_14_145,371.73,374.36,rinse plate
+P22_14_146,374.32,376.33,put down plate
+P22_14_147,375.42,376.21,take plate
+P22_14_148,376.31,378.51,rinse plate
+P22_14_149,378.61,379.52,put down plate
+P22_14_15,38.61,39.26,put down filter
+P22_14_150,379.47,381.41,rinse lid
+P22_14_151,381.35,382.21,put down lid
+P22_14_152,382.34,383.3,rinse hands
+P22_14_153,383.56,384.63,shake hands
+P22_14_154,385.35,386.42,take cloth
+P22_14_155,386.28,387.44,dry hands
+P22_14_156,388.12,389.57,open moka pot
+P22_14_157,389.39,390.49,close moka pot
+P22_14_158,390.65,392.19,take cloth
+P22_14_159,394.25,394.9,take saucepan
+P22_14_16,38.95,41.45,open cupboard
+P22_14_160,395.41,396.47,empty saucepan
+P22_14_161,396.98,415.45,wash saucepan
+P22_14_162,417.13,420.29,soap pan
+P22_14_163,420.31,421.18,put pan
+P22_14_164,421.13,422.47,pick up chopping board
+P22_14_165,422.87,428.61,soap chopping board
+P22_14_166,428.47,429.24,open tap
+P22_14_167,429.27,430.7,rinse hands
+P22_14_168,430.7,434.59,rinse chopping board
+P22_14_169,434.69,438.85,rinse chopping board
+P22_14_17,41.25,42.06,take coffee
+P22_14_170,440.06,440.63,close tap
+P22_14_171,440.94,444.46,put chopping board
+P22_14_172,446.78,447.71,open tap
+P22_14_173,447.66,453.5,rinse pot
+P22_14_174,453.51,459.76,rinse pot
+P22_14_175,459.8,461.0,put pot
+P22_14_176,461.56,462.27,put pot
+P22_14_177,461.63,462.82,move colander
+P22_14_178,462.62,464.89,put colander
+P22_14_179,464.99,466.02,pick up pan
+P22_14_18,42.77,43.73,put down coffee
+P22_14_180,465.58,472.63,rinse pan
+P22_14_181,465.65,472.63,rinse small pot
+P22_14_182,473.07,474.72,put down down small pot
+P22_14_183,474.98,476.24,shake hands
+P22_14_184,477.96,479.05,dry hands
+P22_14_185,480.91,482.42,put down down rag
+P22_14_186,483.97,484.85,grab paper
+P22_14_187,484.03,485.33,grab paper
+P22_14_188,484.3,485.55,grab paper
+P22_14_189,485.72,490.97,grab plates
+P22_14_19,45.52,46.32,open cupboard
+P22_14_190,485.93,486.43,grab plate
+P22_14_191,486.46,487.96,move cutlery
+P22_14_192,491.8,493.55,put down down plates
+P22_14_193,491.95,493.21,put down down plate
+P22_14_194,494.33,499.27,clean stove
+P22_14_195,498.65,499.29,grab paper
+P22_14_196,499.27,500.2,grab paper
+P22_14_197,501.11,503.9,toss papers
+P22_14_198,502.91,503.95,close basket
+P22_14_199,504.58,505.6,open tap
+P22_14_2,8.52,9.46,put down mocha
+P22_14_20,46.11,47.3,pick up can
+P22_14_200,505.16,506.98,rinse hands
+P22_14_201,506.53,507.15,close tap
+P22_14_202,508.24,509.99,pick up dish
+P22_14_203,510.09,511.98,put dish
+P22_14_204,513.43,514.94,pick up dish
+P22_14_205,515.04,516.76,rinse dish
+P22_14_206,517.18,524.41,soap dish
+P22_14_207,524.4,525.91,soap dish
+P22_14_208,525.85,527.08,put dish
+P22_14_209,526.68,527.91,pick up dish
+P22_14_21,49.12,50.07,open can
+P22_14_210,528.09,528.78,rinse dish
+P22_14_211,529.45,537.06,soap dish
+P22_14_212,529.83,539.84,soap dish
+P22_14_213,541.96,542.71,put dish
+P22_14_214,542.67,543.63,pick up fork
+P22_14_215,543.97,545.87,soap fork
+P22_14_216,546.16,547.47,pick up knife
+P22_14_217,547.57,549.69,soap knife
+P22_14_218,549.67,550.37,put knife
+P22_14_219,550.03,550.53,open tap
+P22_14_22,50.62,51.72,pick up measuring cup
+P22_14_220,550.63,552.55,rinse hands
+P22_14_221,551.91,553.19,close tap
+P22_14_222,554.01,554.62,pick up cloth
+P22_14_223,554.69,555.56,dry hands
+P22_14_224,555.9,557.05,open moka
+P22_14_225,557.01,557.76,close moka
+P22_14_226,557.86,559.36,turn off cooker
+P22_14_227,559.37,562.7,put cloth
+P22_14_228,563.32,564.22,pick up fork
+P22_14_229,564.54,565.82,soap fork
+P22_14_23,51.73,52.54,close can
+P22_14_230,565.95,566.7,put fork
+P22_14_231,566.0,566.76,pick up knife
+P22_14_232,566.86,568.73,soap knife
+P22_14_233,567.33,569.15,put knife
+P22_14_234,569.27,569.95,open tap
+P22_14_235,569.77,571.06,rinse knife
+P22_14_236,571.16,574.1,rinse cutlery
+P22_14_237,574.2,575.85,put cutlery
+P22_14_238,575.95,576.78,pick up dish
+P22_14_239,576.88,579.03,rinse dish
+P22_14_24,53.81,54.67,open cupboard
+P22_14_240,579.13,581.23,put dish
+P22_14_241,582.03,584.23,rinse dish
+P22_14_242,583.99,584.49,close tap
+P22_14_243,584.59,586.88,put dish
+P22_14_244,586.83,588.14,pick up cloth
+P22_14_245,588.14,590.26,dry hands
+P22_14_246,589.87,591.35,put cloth
+P22_14_247,591.29,592.56,open drawer
+P22_14_248,592.45,594.3,pick up teaspoon
+P22_14_249,594.29,595.09,close drawer
+P22_14_25,54.7,55.52,put can
+P22_14_250,596.05,597.84,move bottle
+P22_14_251,598.66,600.03,open sugar bowl
+P22_14_252,599.89,603.05,open coffee pot
+P22_14_253,602.67,605.39,take sugar
+P22_14_254,605.09,606.82,pour sugar
+P22_14_255,606.83,608.11,take sugar
+P22_14_256,608.87,609.65,pour sugar
+P22_14_257,610.32,611.23,take sugar
+P22_14_258,611.11,612.07,pour sugar
+P22_14_259,612.17,613.9,take sugar
+P22_14_26,56.26,56.87,close cupboard
+P22_14_260,614.0,616.85,pour sugar
+P22_14_261,616.63,623.38,stir coffee
+P22_14_262,623.48,626.73,close sugar bowl
+P22_14_263,625.74,627.94,stir coffee
+P22_14_264,628.19,628.96,put down sugar bowl
+P22_14_265,634.28,636.78,close coffee maker
+P22_14_266,638.38,639.13,pick up sugar bowl
+P22_14_267,640.73,641.23,put down teaspoon
+P22_14_268,642.83,643.54,pick up saucer
+P22_14_269,643.55,644.45,pick up saucers
+P22_14_27,58.68,61.93,open coffee
+P22_14_270,649.86,652.0,put down saucer
+P22_14_271,650.78,651.78,put down saucers
+P22_14_272,654.17,655.08,pick up coffee cup
+P22_14_273,655.41,656.19,close cabinet
+P22_14_274,657.2,657.8,pick up saucers
+P22_14_275,657.82,660.16,put down saucers
+P22_14_276,659.9,661.01,put down saucer
+P22_14_277,661.54,662.2,put down coffee cups
+P22_14_278,663.35,666.68,pick up coffee maker
+P22_14_279,664.19,665.29,pick up coffee cup
+P22_14_28,60.56,66.37,pick up filter
+P22_14_280,665.03,681.69,pour coffee
+P22_14_281,666.63,671.29,pour coffee
+P22_14_282,671.2,672.96,put down coffee cup
+P22_14_283,671.84,673.22,put down coffee cup
+P22_14_284,682.48,685.16,put down coffee pot
+P22_14_285,684.91,686.01,open coffee pot
+P22_14_286,685.92,686.9,close coffee pot
+P22_14_287,689.6,690.62,pick up paper
+P22_14_288,693.87,694.83,open trash can
+P22_14_289,694.68,695.43,throw away paper
+P22_14_29,66.81,70.02,pick up coffee
+P22_14_290,695.32,696.24,close trash can
+P22_14_3,9.52,13.95,open mocha
+P22_14_30,69.99,71.91,put coffee
+P22_14_31,73.38,75.83,put coffee
+P22_14_32,79.94,82.4,put coffee
+P22_14_33,82.7,87.09,shake filter
+P22_14_34,88.0,89.94,pick up coffee
+P22_14_35,90.18,92.13,put in coffee
+P22_14_36,92.06,95.63,shake filter
+P22_14_37,95.62,97.73,shake filter
+P22_14_38,97.95,100.07,level coffee grounds
+P22_14_39,98.0,109.06,level coffee grounds
+P22_14_4,10.81,14.06,pick up filter
+P22_14_40,100.06,102.1,level coffee grounds
+P22_14_41,102.2,108.65,level coffee grounds
+P22_14_42,109.17,113.83,shake measuring cup
+P22_14_43,113.93,115.1,put down measuring cup
+P22_14_44,115.14,116.84,close coffee
+P22_14_45,119.39,120.62,move coffee
+P22_14_46,122.31,124.39,insert filter
+P22_14_47,124.49,125.3,pick up coffee pot
+P22_14_48,125.4,134.36,screw together parts of coffee pot
+P22_14_49,134.11,136.15,screw moka pot
+P22_14_5,15.33,16.3,put down filter
+P22_14_50,136.08,137.15,put moka pot
+P22_14_51,138.45,140.33,open drawer
+P22_14_52,142.57,144.32,turn on stove
+P22_14_53,146.15,147.29,move moka pot
+P22_14_54,147.27,151.02,regulate stove
+P22_14_55,151.6,153.72,move moka pot
+P22_14_56,154.47,155.47,pick up coffee
+P22_14_57,159.32,160.07,open fridge
+P22_14_58,160.32,165.82,put coffee
+P22_14_59,161.78,164.39,put coffee
+P22_14_6,16.18,17.1,put down mocha
+P22_14_60,166.32,166.94,close fridge
+P22_14_61,167.52,168.02,open fridge
+P22_14_62,169.65,170.75,move carrots
+P22_14_63,173.52,174.9,close fridge
+P22_14_64,177.79,178.88,pick up measure
+P22_14_65,179.53,180.2,open cabinet
+P22_14_66,180.96,181.92,pick up jar
+P22_14_67,182.41,183.06,open jar
+P22_14_68,182.49,184.91,place measure
+P22_14_69,185.25,186.06,close jar
+P22_14_7,20.0,33.55,pour water
+P22_14_70,186.39,187.26,place jar
+P22_14_71,187.68,188.69,close cabinet
+P22_14_72,190.45,191.04,pick up knife
+P22_14_73,191.04,191.7,pick up fork
+P22_14_74,191.74,194.49,clean scoop
+P22_14_75,194.55,195.29,place fork
+P22_14_76,196.4,197.11,place scoop
+P22_14_77,197.79,198.5,place knife
+P22_14_78,201.17,202.16,open basket
+P22_14_79,202.21,208.31,throw peelings
+P22_14_8,21.59,22.34,pick up water bottle
+P22_14_80,208.69,209.35,close basket
+P22_14_81,211.11,214.48,put down saucer
+P22_14_82,215.25,218.0,open tap
+P22_14_83,218.1,219.16,rinse hands
+P22_14_84,219.06,219.91,pick up sponge
+P22_14_85,219.9,220.82,rinse sponge
+P22_14_86,221.93,223.0,put on soap
+P22_14_87,223.04,223.95,put down soap
+P22_14_88,223.91,225.34,rinse sponge
+P22_14_89,225.45,227.81,pick up saucer
+P22_14_9,22.44,25.69,open water bottle
+P22_14_90,228.16,245.97,lather saucer
+P22_14_91,230.0,239.75,lather saucer
+P22_14_92,248.1,251.35,put down saucer
+P22_14_93,251.45,252.45,pick up fork
+P22_14_94,252.29,253.79,lather fork
+P22_14_95,253.89,255.64,put down fork
+P22_14_96,255.74,256.24,pick up knife
+P22_14_97,256.34,258.84,lather knife
+P22_14_98,258.94,259.69,put down knife
+P22_14_99,259.79,260.54,pick up scoop

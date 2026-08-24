@@ -1,0 +1,125 @@
+P03_23_0,2.14,3.14,turn on tap
+P03_23_1,3.74,6.56,turn on oven
+P03_23_10,49.48,50.23,put salmon
+P03_23_100,321.28,322.07,close drawer
+P03_23_101,321.68,322.78,close fridge
+P03_23_102,324.35,334.58,pour potatoes
+P03_23_103,336.8,338.84,pour potatoes
+P03_23_104,340.87,342.58,open fridge
+P03_23_105,342.48,343.27,open drawer
+P03_23_106,343.04,344.03,put potatoes
+P03_23_107,343.75,344.52,close drawer
+P03_23_108,344.73,345.37,close fridge
+P03_23_109,347.0,348.05,grab salt
+P03_23_11,50.58,51.33,open cupboard
+P03_23_110,348.35,349.17,open salt
+P03_23_111,348.92,351.21,pour salt
+P03_23_112,351.7,352.53,put salt
+P03_23_113,357.08,358.18,turn on hob
+P03_23_114,358.18,359.49,shake saucepan
+P03_23_115,375.64,379.91,check temperature
+P03_23_116,448.17,452.92,check temperature
+P03_23_117,464.99,467.61,move saucepan
+P03_23_118,487.46,494.26,grab kettle
+P03_23_119,494.36,500.21,pour kettle
+P03_23_12,51.43,53.7,grab baking tray
+P03_23_120,500.42,501.36,put kettle
+P03_23_121,501.46,502.28,grab tray
+P03_23_122,503.19,503.81,open oven
+P03_23_123,504.14,505.14,put tray in oven
+P03_23_124,504.68,505.5,close the oven
+P03_23_13,53.53,54.05,close cupboard
+P03_23_14,54.13,55.63,put baking tray
+P03_23_15,56.84,57.84,open drawer
+P03_23_16,57.77,58.94,grab foil
+P03_23_17,58.87,60.07,close drawer
+P03_23_18,60.92,76.67,open salmon
+P03_23_19,76.49,77.24,pick up foil
+P03_23_2,7.84,15.59,wash hands
+P03_23_20,83.22,85.97,place foil
+P03_23_21,86.07,88.07,open drawer
+P03_23_22,88.17,89.17,close drawer
+P03_23_23,88.7,90.27,open drawer
+P03_23_24,89.48,90.58,get scissors
+P03_23_25,91.02,95.34,cut foil
+P03_23_26,91.29,95.37,cut foil in half
+P03_23_27,96.0,97.13,put scissors in drawer
+P03_23_28,96.61,97.36,close drawer
+P03_23_29,98.71,101.46,pick up salmon
+P03_23_3,16.44,18.19,pour soap
+P03_23_30,102.34,103.09,put salmon on foil
+P03_23_31,103.62,105.69,pick up salmon
+P03_23_32,105.51,107.01,put salmon on foil
+P03_23_33,109.06,110.71,put packaging on side
+P03_23_34,111.25,121.1,wash hands
+P03_23_35,111.91,112.69,turn on tap
+P03_23_36,121.32,122.36,turn off tap
+P03_23_37,124.41,125.06,grab oil
+P03_23_38,126.23,130.31,pour oil
+P03_23_39,130.49,134.99,pour oil
+P03_23_4,33.85,40.04,wash hands
+P03_23_40,135.36,136.57,close oil
+P03_23_41,136.29,137.24,put oil on side
+P03_23_42,137.54,138.29,grab pepper
+P03_23_43,139.28,139.8,open pepper
+P03_23_44,139.5,147.16,grind pepper
+P03_23_45,140.24,146.06,grind pepper
+P03_23_46,145.28,150.15,close pepper
+P03_23_47,148.94,150.46,put pepper on side
+P03_23_48,150.57,151.82,grab herbs
+P03_23_49,152.57,159.86,pour herbs
+P03_23_5,39.22,40.14,turn off tap
+P03_23_50,159.96,163.58,pour herbs
+P03_23_51,163.25,164.0,close herbs
+P03_23_52,163.94,165.17,put herbs on side
+P03_23_53,168.85,169.73,open fridge
+P03_23_54,169.83,170.76,grab garlic paste
+P03_23_55,170.89,171.64,close fridge
+P03_23_56,172.34,173.99,press garlic paste
+P03_23_57,175.07,176.49,get spoon
+P03_23_58,177.94,178.94,open garlic paste
+P03_23_59,179.6,181.51,squeeze garlic paste
+P03_23_6,41.57,45.23,dry hands
+P03_23_60,194.81,195.96,squeeze garlic paste
+P03_23_61,195.05,196.73,scoop garlic paste
+P03_23_62,197.0,197.76,close garlic paste
+P03_23_63,199.49,200.57,open fridge
+P03_23_64,200.27,201.8,put garlic paste
+P03_23_65,201.95,202.56,close fridge
+P03_23_66,204.13,213.04,spread garlic
+P03_23_67,213.44,223.59,spread garlic
+P03_23_68,223.77,224.97,put spoon
+P03_23_69,225.52,226.52,grab tabasco
+P03_23_7,46.68,47.68,open fridge
+P03_23_70,227.88,229.33,open tabasco
+P03_23_71,229.47,232.22,pour tabasco
+P03_23_72,232.22,234.82,close tabasco
+P03_23_73,236.13,236.86,put tabasco on the side
+P03_23_74,239.17,240.42,grab salt
+P03_23_75,241.0,241.63,open salt
+P03_23_76,241.85,244.1,pour salt
+P03_23_77,245.2,246.79,sprinkle salt
+P03_23_78,247.74,249.14,sprinkle salt
+P03_23_79,249.99,250.5,dry hands
+P03_23_8,47.78,48.8,grab salmon
+P03_23_80,251.75,252.42,grab salt
+P03_23_81,252.95,253.7,put salt
+P03_23_82,255.04,285.95,wrap foil
+P03_23_83,273.97,274.69,put foil on tray
+P03_23_84,275.14,278.14,fold foil
+P03_23_85,293.34,295.09,put foil on tray
+P03_23_86,298.55,299.53,grab foil
+P03_23_87,299.63,300.41,open drawer
+P03_23_88,300.35,301.76,put foil
+P03_23_89,301.54,302.04,close drawer
+P03_23_9,48.88,49.4,close fridge
+P03_23_90,304.46,305.23,pick up kettle
+P03_23_91,306.06,310.31,fill kettle
+P03_23_92,310.02,311.68,close kettle
+P03_23_93,311.48,312.36,put kettle
+P03_23_94,312.37,312.96,turn kettle on
+P03_23_95,313.94,314.88,grab saucepan
+P03_23_96,315.98,316.6,put saucepan
+P03_23_97,317.62,318.76,open fridge
+P03_23_98,319.2,319.77,open drawer
+P03_23_99,319.95,321.25,grab potatoes

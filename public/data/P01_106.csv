@@ -1,0 +1,247 @@
+P01_106_0,0.55,2.21,pick up bowl
+P01_106_1,10.28,11.41,put down bowl
+P01_106_10,22.83,23.43,take container
+P01_106_100,282.43,283.22,pick up chopstick
+P01_106_101,283.57,285.81,rinse chopsticks
+P01_106_102,285.9,287.0,put chopsticks onto drying rack
+P01_106_103,287.13,287.93,pick up spoon
+P01_106_104,288.22,288.77,immerge spoon
+P01_106_105,288.87,289.83,rinse spoon
+P01_106_106,289.6,290.7,put spoon into drying rack
+P01_106_107,291.18,292.62,empty wok
+P01_106_108,292.62,293.6,rinse wok
+P01_106_109,293.46,294.05,pick up sponge
+P01_106_11,23.62,24.24,put down container
+P01_106_110,294.32,297.19,rinse wok
+P01_106_111,297.34,298.19,adjust tap
+P01_106_112,298.29,298.84,pick up sponge
+P01_106_113,298.75,306.97,rinse wok
+P01_106_114,306.78,307.81,rinse sponge
+P01_106_115,307.89,308.81,empty wok
+P01_106_116,308.56,308.93,put down sponge
+P01_106_117,307.0,315.12,rinse wok
+P01_106_118,315.32,316.1,turn off tap
+P01_106_119,318.94,319.37,move colander
+P01_106_12,24.55,25.15,open container
+P01_106_120,319.46,321.05,put wok onto drying rack
+P01_106_121,321.89,322.6,pick up sponge
+P01_106_122,323.15,325.65,move wok
+P01_106_123,326.3,330.53,move drying rack and pans
+P01_106_124,330.59,331.24,pick up sponge
+P01_106_125,331.23,332.34,turn on tap
+P01_106_126,332.35,334.82,rinse sponge
+P01_106_127,332.65,334.3,rinse hand
+P01_106_128,334.39,334.96,put down sponge
+P01_106_129,335.0,335.74,turn off tap
+P01_106_13,25.02,25.68,put down lid
+P01_106_130,336.64,337.75,open cupboard
+P01_106_131,337.42,338.36,open cupboard
+P01_106_132,339.4,341.15,pick up cleaning products
+P01_106_133,341.74,342.82,close cupboard
+P01_106_134,343.59,344.41,put down cleaning product
+P01_106_135,344.8,345.24,pick up cloth
+P01_106_136,345.45,347.84,dry hands
+P01_106_137,345.99,347.63,put down cloth
+P01_106_138,347.64,348.55,pick up lid
+P01_106_139,348.9,349.74,put lid onto container
+P01_106_14,26.66,27.37,put down container
+P01_106_140,349.62,350.91,close container
+P01_106_141,351.6,352.8,pick up lid
+P01_106_142,351.57,352.99,put lid onto container
+P01_106_143,352.95,355.54,close container
+P01_106_144,355.43,356.24,pick up container
+P01_106_145,356.34,357.37,open fridge
+P01_106_146,357.36,364.57,put container into fridge
+P01_106_147,358.27,359.99,pick up container
+P01_106_148,360.06,361.15,pick up container
+P01_106_149,361.7,362.86,put container into fridge
+P01_106_15,27.97,30.98,put down container
+P01_106_150,362.43,364.07,put container into fridge
+P01_106_151,363.6,364.92,close fridge
+P01_106_152,366.35,366.98,pick up cleaning product
+P01_106_153,367.08,370.35,spray cleaning product
+P01_106_154,371.8,372.25,pick up timer
+P01_106_155,372.4,373.75,spray cleaning product
+P01_106_156,374.19,375.18,put down timer
+P01_106_157,376.06,376.91,put down cleaning product
+P01_106_158,376.96,378.43,pick up hob grill
+P01_106_159,378.46,379.89,put down hob grill
+P01_106_16,31.27,35.19,pick up container
+P01_106_160,379.99,381.37,pick up hob grill
+P01_106_161,381.02,382.92,put down hob grill
+P01_106_162,383.35,384.22,turn on light
+P01_106_163,384.29,385.16,pick up cleaning product
+P01_106_164,385.26,387.52,spray cleaning product
+P01_106_165,387.62,388.53,put down cleaning product
+P01_106_166,389.54,390.49,pick up cloth
+P01_106_167,390.56,390.92,turn on tap
+P01_106_168,390.85,392.01,rinse cloth
+P01_106_169,391.96,392.51,turn off tap
+P01_106_17,35.04,36.19,open cupboard
+P01_106_170,394.43,407.0,wipe hob
+P01_106_171,407.6,409.0,throw dirt off cloth
+P01_106_172,410.34,427.24,wipe surface
+P01_106_173,427.4,427.97,pick up plate
+P01_106_174,427.89,430.52,wipe surface
+P01_106_175,429.73,430.72,put down plate
+P01_106_176,432.56,441.9,wipe hob
+P01_106_177,454.56,455.57,turn on tap
+P01_106_178,455.6,456.92,rinse cloth
+P01_106_179,456.75,457.3,turn on tap
+P01_106_18,35.72,37.28,put container into cupboard
+P01_106_180,457.4,458.12,adjust tap
+P01_106_181,458.15,459.7,rinse cloth
+P01_106_182,461.85,462.76,turn off tap
+P01_106_183,464.35,535.67,wipe hob
+P01_106_184,536.09,536.7,move hob grills
+P01_106_185,537.49,539.23,wipe hob
+P01_106_186,540.82,541.24,turn on tap
+P01_106_187,540.33,544.7,rinse cloth
+P01_106_188,544.55,545.35,turn off tap
+P01_106_189,547.19,565.11,wipe hob
+P01_106_19,36.87,38.0,close cupboard
+P01_106_190,565.56,568.06,pick burner top
+P01_106_191,568.16,569.82,put down burner cap
+P01_106_192,569.87,581.14,wipe hob
+P01_106_193,581.24,583.29,check knob
+P01_106_194,583.62,585.51,check knob
+P01_106_195,585.37,586.46,check knob
+P01_106_196,585.66,586.24,check knob
+P01_106_197,586.67,588.84,pick up hob grill
+P01_106_198,589.52,591.17,put down hob grill
+P01_106_199,591.51,592.67,pick up hob grill
+P01_106_2,11.51,13.61,pick up spoon and chopsticks
+P01_106_20,37.62,38.72,pick up spatula
+P01_106_200,592.81,594.14,put down hob grill
+P01_106_201,594.59,595.12,pick up cleaning product
+P01_106_202,595.28,597.54,wipe surface
+P01_106_203,597.64,598.49,lift grill
+P01_106_204,598.26,603.69,wipe surface
+P01_106_205,603.4,605.07,lower grill
+P01_106_206,605.17,615.93,wipe surface
+P01_106_207,604.63,606.57,put down cleaning product
+P01_106_208,606.99,611.5,wipe surface
+P01_106_209,612.69,621.14,move dirt onto hand
+P01_106_21,38.3,38.95,pick up bowl
+P01_106_210,621.39,622.25,wipe surface
+P01_106_211,623.16,624.44,throw dirt
+P01_106_212,625.02,626.0,wipe surface
+P01_106_213,625.86,629.09,put dirt onto hand
+P01_106_214,630.49,632.94,wipe surface
+P01_106_215,632.85,633.76,throw dirt
+P01_106_216,634.5,642.61,wipe surface
+P01_106_217,636.65,637.3,pick up pot holder
+P01_106_218,637.19,639.86,wipe surface
+P01_106_219,639.96,640.75,put down pot holder
+P01_106_22,39.34,43.37,move food into bowl
+P01_106_220,640.89,642.38,wipe surface
+P01_106_221,642.54,646.18,move dirt onto hand
+P01_106_222,646.44,660.5,wipe surface
+P01_106_223,661.04,662.32,throw dirt
+P01_106_224,663.39,664.08,turn on tap
+P01_106_225,664.22,669.36,rinse cloth
+P01_106_226,669.39,670.03,put down cloth
+P01_106_227,670.15,671.94,pour hand wash
+P01_106_228,672.05,676.66,wash hands
+P01_106_229,676.76,681.91,rinse hands
+P01_106_23,43.47,49.82,pour food into container
+P01_106_230,681.35,682.65,turn off tap
+P01_106_231,682.75,685.15,shake hands
+P01_106_232,685.43,686.21,pick up cloth
+P01_106_233,687.03,692.08,dry hands
+P01_106_234,692.1,692.99,put down cloth
+P01_106_235,693.6,694.76,pick up timer
+P01_106_236,694.4,696.42,put down timer
+P01_106_237,693.19,696.29,pick up cleaning product
+P01_106_238,695.9,698.03,turn off light
+P01_106_239,698.98,700.18,open cupboard
+P01_106_24,49.83,53.69,put down bowl
+P01_106_240,700.05,701.99,put cleaning product into cupboard
+P01_106_241,701.79,702.85,close cupboard
+P01_106_242,706.56,708.98,take tea towel
+P01_106_243,712.81,719.62,fold tea towel
+P01_106_244,719.96,720.6,open drawer
+P01_106_245,720.66,721.13,put tea towel into drawer
+P01_106_246,721.13,721.73,close drawer
+P01_106_25,54.04,54.43,move container
+P01_106_26,54.75,64.29,spoon food
+P01_106_27,56.9,58.51,pick up container
+P01_106_28,58.34,70.93,pour food into container
+P01_106_29,71.04,73.15,spoon food
+P01_106_3,13.15,13.98,scrape spoon
+P01_106_30,72.97,76.32,pour food into container
+P01_106_31,76.39,80.23,spoon food
+P01_106_32,80.3,83.27,pour food into container
+P01_106_33,82.94,84.18,put down container
+P01_106_34,83.99,84.75,put down spatula
+P01_106_35,84.6,86.43,take container
+P01_106_36,85.77,87.09,put down container
+P01_106_37,86.88,88.72,pick up wok
+P01_106_38,88.11,89.6,grab spatula
+P01_106_39,88.9,92.05,spoon food
+P01_106_4,14.08,15.25,put down chopsticks and spoon
+P01_106_40,92.94,103.04,pour food into container
+P01_106_41,104.25,108.64,pour food into container
+P01_106_42,109.73,116.72,scrape wok
+P01_106_43,115.93,123.27,pour food into container
+P01_106_44,126.78,127.77,put spatula into wok
+P01_106_45,128.07,129.62,pick up chopsticks and spoon
+P01_106_46,129.29,131.07,put down wok
+P01_106_47,129.28,129.83,put down chopsticks and spoon
+P01_106_48,131.51,132.71,pick up food containers
+P01_106_49,133.03,134.35,put down food containers
+P01_106_5,16.51,17.59,open cupboard
+P01_106_50,135.97,136.92,pick up cutting board
+P01_106_51,136.21,139.76,move cutting board
+P01_106_52,139.52,141.36,put down cutting board
+P01_106_53,141.41,141.68,move drying rack
+P01_106_54,142.32,142.94,pick up sponge
+P01_106_55,143.64,144.01,pick up spatula
+P01_106_56,144.0,153.87,lather spatula
+P01_106_57,160.1,160.96,put down spatulas
+P01_106_58,161.06,162.1,pick up chopstick
+P01_106_59,162.1,163.56,lather chopstick
+P01_106_6,17.32,19.22,pick up container
+P01_106_60,163.57,164.51,put down chopstick
+P01_106_61,164.55,164.98,pick up chopstick
+P01_106_62,165.05,166.35,lather chopstick
+P01_106_63,166.8,167.47,put down chopstick
+P01_106_64,166.99,167.5,pick up spoon
+P01_106_65,167.53,170.83,lather spoon
+P01_106_66,170.93,171.45,put down spoon
+P01_106_67,171.0,172.52,pick up bowl
+P01_106_68,172.57,179.52,lather bowl
+P01_106_69,179.19,180.64,put down bowl
+P01_106_7,17.84,19.64,close cupboard
+P01_106_70,180.58,204.13,grab wok
+P01_106_71,180.95,181.59,move tap
+P01_106_72,181.66,200.62,lather wok
+P01_106_73,200.61,205.07,pick up colander
+P01_106_74,201.92,204.4,put down wok
+P01_106_75,204.93,213.56,lather colander
+P01_106_76,213.43,214.48,put down colander
+P01_106_77,214.97,217.25,pick up saucepan
+P01_106_78,217.37,226.22,lather saucepan
+P01_106_79,226.1,226.6,put down saucepan
+P01_106_8,20.32,21.42,open container
+P01_106_80,226.13,226.5,put down sponge
+P01_106_81,226.7,227.25,move tap
+P01_106_82,227.67,228.62,turn on tap
+P01_106_83,228.06,229.08,turn on tap
+P01_106_84,230.59,231.95,rinse hands
+P01_106_85,234.69,235.44,rinse hand
+P01_106_86,235.54,240.89,rinse saucepan
+P01_106_87,234.92,235.49,rinse hand
+P01_106_88,235.6,246.47,rinse saucepan
+P01_106_89,247.12,247.81,put saucepan into drying rack
+P01_106_9,21.67,22.3,put down lid
+P01_106_90,248.35,249.07,pick up bowl
+P01_106_91,249.2,254.62,rinse bowl
+P01_106_92,254.85,255.97,put bowl onto drying rack
+P01_106_93,256.69,257.88,pick up colander
+P01_106_94,257.91,270.49,rinse colander
+P01_106_95,270.59,273.05,put colander onto drying rack
+P01_106_96,273.15,274.74,pick up spatula
+P01_106_97,274.44,275.06,immerge spatula
+P01_106_98,275.1,280.26,rinse spatula
+P01_106_99,280.23,281.73,put spatula onto drying rack

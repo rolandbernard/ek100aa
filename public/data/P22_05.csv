@@ -1,0 +1,492 @@
+P22_05_0,2.77,4.58,pick up bottle
+P22_05_1,4.37,7.12,place bottle
+P22_05_10,23.55,25.73,pick up cutlery
+P22_05_100,248.54,257.18,wash carafe
+P22_05_101,251.72,265.72,rinse pitcher
+P22_05_102,257.91,265.99,rinse carafe
+P22_05_103,265.82,267.37,empty carafe
+P22_05_104,266.09,267.53,empty carafe
+P22_05_105,266.51,267.58,rinse carafe
+P22_05_106,267.94,268.94,close tap
+P22_05_107,269.58,271.86,put down carafe
+P22_05_108,272.14,273.39,shake hands
+P22_05_109,273.52,274.57,grab cloth
+P22_05_11,24.48,27.74,place knife
+P22_05_110,274.67,279.48,dry hands
+P22_05_111,275.61,284.79,put down cloth
+P22_05_112,280.86,285.89,take filter holder
+P22_05_113,285.65,287.35,take filter
+P22_05_114,288.06,290.78,put down filter
+P22_05_115,290.88,293.05,open coffee machine
+P22_05_116,292.54,295.55,insert filter holder
+P22_05_117,296.06,298.89,remove filter holder
+P22_05_118,299.65,301.58,rotate filter holder
+P22_05_119,301.15,308.4,insert filter holder
+P22_05_12,25.58,26.76,open drawer
+P22_05_120,319.65,320.61,insert filter holder
+P22_05_121,321.53,322.64,take filter
+P22_05_122,326.25,327.61,insert filter
+P22_05_123,327.71,328.97,rotate filter
+P22_05_124,330.67,333.92,insert filter
+P22_05_125,330.79,334.16,fit filter
+P22_05_126,332.68,334.68,rotate filter
+P22_05_127,334.26,335.27,remove filter
+P22_05_128,335.72,337.52,rotate filter
+P22_05_129,337.62,338.18,insert filter
+P22_05_13,27.76,30.14,place potato peeler
+P22_05_130,338.28,340.0,fit filter
+P22_05_131,342.64,343.47,pick up carafe
+P22_05_132,344.93,348.29,dry carafe
+P22_05_133,348.39,349.2,put down carafe
+P22_05_134,349.08,351.94,put down cloth
+P22_05_135,351.58,352.87,pick up carafe
+P22_05_136,352.93,353.72,open carafe
+P22_05_137,353.82,355.15,open water
+P22_05_138,355.25,358.32,pour water
+P22_05_139,358.42,360.19,close bottle
+P22_05_14,29.49,31.26,close drawer
+P22_05_140,359.42,361.63,move carafe
+P22_05_141,361.61,362.9,open bottle
+P22_05_142,361.94,366.92,flatten bottle
+P22_05_143,367.02,368.17,close bottle
+P22_05_144,368.59,372.89,throw away bottle
+P22_05_145,374.5,375.64,pick up carafe
+P22_05_146,375.71,376.84,open water
+P22_05_147,377.39,379.11,open carafe
+P22_05_148,379.21,388.05,pour water
+P22_05_149,384.33,387.78,pour water
+P22_05_15,31.36,32.75,pick up bottle
+P22_05_150,389.32,391.53,close water
+P22_05_151,391.63,392.21,close carafe
+P22_05_152,392.31,393.97,pick up carafe
+P22_05_153,396.64,404.3,pour water
+P22_05_154,404.33,408.07,insert carafe
+P22_05_155,409.45,410.67,open locker
+P22_05_156,410.87,412.66,pick up coffee
+P22_05_157,412.68,414.07,close locker
+P22_05_158,414.23,415.52,open coffee
+P22_05_159,416.67,420.7,pick up coffee
+P22_05_16,33.4,34.28,place bottle
+P22_05_160,417.0,427.28,insert coffee
+P22_05_161,420.76,422.81,insert coffee
+P22_05_162,422.92,424.92,grab coffee
+P22_05_163,422.94,426.29,pick up coffee
+P22_05_164,429.64,431.47,insert coffee
+P22_05_165,431.53,433.97,take coffee
+P22_05_166,434.07,434.94,insert coffee
+P22_05_167,435.04,438.33,sort coffee
+P22_05_168,441.74,443.52,close jar
+P22_05_169,443.12,445.1,close machine
+P22_05_17,35.81,36.86,pick up bottle
+P22_05_170,445.15,449.59,turn on coffee machine
+P22_05_171,449.63,451.34,push button
+P22_05_172,452.11,452.72,open drawer
+P22_05_173,452.79,453.68,put down down jar
+P22_05_174,454.78,456.94,open fridge
+P22_05_175,457.04,459.29,take peach
+P22_05_176,459.18,463.81,take banana
+P22_05_177,463.91,464.82,put down down banana
+P22_05_178,464.91,466.75,take peach
+P22_05_179,466.82,469.17,close fridge
+P22_05_18,36.81,37.37,place bottle
+P22_05_180,468.46,470.52,pick up banana
+P22_05_181,471.42,473.0,put down banana
+P22_05_182,471.61,472.98,put down peach
+P22_05_183,473.64,474.22,move bottle
+P22_05_184,474.77,475.84,put down peach
+P22_05_185,480.35,482.38,pick up plate
+P22_05_186,483.73,485.03,put down plate
+P22_05_187,484.88,488.21,open cabinet
+P22_05_188,488.31,488.98,pick up potato peeler
+P22_05_189,490.19,490.87,pick up peach
+P22_05_19,40.1,41.18,pick up glass
+P22_05_190,493.33,494.5,pick up peach
+P22_05_191,493.75,499.5,rinse peach
+P22_05_192,494.17,494.72,open tap
+P22_05_193,499.32,500.33,close tap
+P22_05_194,500.23,502.06,shake peach
+P22_05_195,501.37,503.55,put down peach
+P22_05_196,504.09,504.98,open tap
+P22_05_197,504.65,507.64,rinse peach
+P22_05_198,507.0,507.74,close tap
+P22_05_199,507.63,508.5,shake peach
+P22_05_2,5.79,7.13,pick up paper
+P22_05_20,41.95,43.13,place glass
+P22_05_200,508.49,509.75,shake hands
+P22_05_201,509.67,511.45,put down peach
+P22_05_202,511.92,515.02,dry hands
+P22_05_203,515.12,516.69,put rag
+P22_05_204,518.49,522.05,peel peach
+P22_05_205,521.73,523.9,peel peach
+P22_05_206,524.0,527.75,peel peach
+P22_05_207,527.85,530.19,peel peach
+P22_05_208,530.23,535.33,peel peach
+P22_05_209,534.55,536.96,peel peach
+P22_05_21,42.99,48.49,fetch fruit juice
+P22_05_210,537.06,539.9,peel peach
+P22_05_211,547.02,557.65,peel peach
+P22_05_212,549.0,563.92,peel peach
+P22_05_213,563.99,565.37,put peach
+P22_05_214,565.7,567.26,pick up peach
+P22_05_215,568.69,571.46,peel peach
+P22_05_216,571.74,573.83,peel peach
+P22_05_217,573.93,575.1,peel peach
+P22_05_218,575.2,577.7,peel peach
+P22_05_219,577.8,582.25,peel peach
+P22_05_22,44.76,46.95,open container
+P22_05_220,582.35,587.01,peel peach
+P22_05_221,597.0,601.21,peel peach
+P22_05_222,601.31,611.96,peel peach
+P22_05_223,605.81,615.38,peel peach
+P22_05_224,615.44,617.52,put down peach
+P22_05_225,617.16,621.38,remove skins
+P22_05_226,620.68,622.18,put down peeler
+P22_05_227,622.02,629.22,take skins
+P22_05_228,629.01,631.65,grab rinds
+P22_05_229,635.64,637.98,move container
+P22_05_23,49.11,50.02,remove straw
+P22_05_230,638.13,639.08,open basket
+P22_05_231,638.74,640.25,toss rinds
+P22_05_232,640.0,640.75,close basket
+P22_05_233,643.23,644.48,open drawer
+P22_05_234,644.83,645.83,grab knife
+P22_05_235,646.34,647.3,take potato peeler
+P22_05_236,647.1,648.1,put down down potato peeler
+P22_05_237,648.45,655.99,cut peach
+P22_05_238,656.09,662.03,cut peach
+P22_05_239,662.13,666.34,cut peach
+P22_05_24,50.29,64.06,flatten container
+P22_05_240,665.69,667.2,remove slice
+P22_05_241,665.98,667.22,remove slice
+P22_05_242,669.44,671.78,cut peach
+P22_05_243,669.46,671.74,cut peach
+P22_05_244,671.99,672.85,remove slice
+P22_05_245,672.58,675.65,cut peach
+P22_05_246,675.46,676.69,remove slice
+P22_05_247,682.0,684.44,remove peelings
+P22_05_248,682.94,684.41,put down slice
+P22_05_249,684.51,685.73,pick up peach
+P22_05_25,61.73,65.33,remove plastic
+P22_05_250,685.77,687.99,cut peach
+P22_05_251,688.09,690.21,remove slice
+P22_05_252,689.17,690.33,put down slice
+P22_05_253,690.6,691.6,remove slice
+P22_05_254,691.7,694.2,remove peelings
+P22_05_255,693.0,706.08,put down slices
+P22_05_256,694.05,695.05,put down slice
+P22_05_257,695.15,696.65,pick up peach
+P22_05_258,697.11,700.43,remove slice
+P22_05_259,697.9,700.15,remove peelings
+P22_05_26,65.12,68.82,throw away plastic
+P22_05_260,700.53,706.14,put down slice
+P22_05_261,701.75,705.25,cut slice
+P22_05_262,706.07,707.88,pick up peach
+P22_05_263,706.7,708.18,take out core
+P22_05_264,707.0,713.12,cut peach
+P22_05_265,712.5,716.62,cut peach
+P22_05_266,717.11,721.31,cut peach
+P22_05_267,721.41,725.21,cut peach
+P22_05_268,725.02,725.65,remove slice
+P22_05_269,725.75,726.68,put down slice
+P22_05_27,70.51,71.95,open drawer
+P22_05_270,725.85,726.54,put down slice
+P22_05_271,726.38,728.3,cut peach
+P22_05_272,727.11,728.0,cut peach
+P22_05_273,728.0,730.03,remove slice
+P22_05_274,729.02,729.94,remove slice
+P22_05_275,729.85,730.56,put down slice
+P22_05_276,730.66,732.3,cut peach
+P22_05_277,732.13,732.92,remove slice
+P22_05_278,732.67,733.55,put down slice
+P22_05_279,733.65,735.74,cut peach
+P22_05_28,72.19,74.02,take scissors
+P22_05_280,733.73,735.51,cut peach
+P22_05_281,735.84,736.56,remove slice
+P22_05_282,736.13,737.02,remove slice
+P22_05_283,736.66,737.76,put down slice
+P22_05_284,738.88,739.39,remove pit
+P22_05_285,748.16,749.74,cut slice
+P22_05_286,748.46,749.11,put down slice
+P22_05_287,749.21,749.9,put down pit
+P22_05_288,749.22,750.07,remove slice
+P22_05_289,753.29,754.1,put down slices
+P22_05_29,74.14,77.49,open container
+P22_05_290,754.77,756.72,cut slice
+P22_05_291,758.13,758.74,put down slices
+P22_05_292,759.44,760.38,pick up pit
+P22_05_293,759.85,760.45,pick up pit
+P22_05_294,760.45,761.45,put down knife
+P22_05_295,760.91,762.93,pick up peelings
+P22_05_296,764.55,765.8,open trash can
+P22_05_297,765.27,766.1,throw away scraps
+P22_05_298,766.27,766.9,close trash can
+P22_05_299,767.1,768.46,open tap
+P22_05_3,6.9,7.6,place paper
+P22_05_30,77.49,78.39,put down scissors
+P22_05_300,768.56,771.31,wash hands
+P22_05_301,771.41,772.16,close tap
+P22_05_302,771.99,773.49,shake hands
+P22_05_303,773.84,774.84,pick up rag
+P22_05_304,774.94,777.94,wipe hands
+P22_05_305,778.54,780.79,put away rag
+P22_05_306,780.89,781.66,open locker
+P22_05_307,782.72,784.06,pick up plate
+P22_05_308,784.15,785.09,close locker
+P22_05_309,785.03,787.02,put away plate
+P22_05_31,79.49,81.24,open container
+P22_05_310,786.29,787.4,pick up banana
+P22_05_311,788.14,799.89,peel banana
+P22_05_312,789.61,790.93,place knife
+P22_05_313,791.13,794.51,peel banana
+P22_05_314,794.32,798.93,remove banana
+P22_05_315,799.03,799.97,pick up knife
+P22_05_316,802.58,806.58,cut banana
+P22_05_317,806.9,809.47,remove peel
+P22_05_318,809.57,812.86,cut banana
+P22_05_319,812.55,815.1,cut banana
+P22_05_32,81.82,82.76,close drawer
+P22_05_320,816.87,826.45,cut banana
+P22_05_321,826.55,829.48,remove peel
+P22_05_322,829.13,830.93,put down peel
+P22_05_323,829.28,831.39,remove peel
+P22_05_324,831.36,832.11,put down peel
+P22_05_325,832.84,836.36,cut banana
+P22_05_326,837.59,838.84,pick up peel
+P22_05_327,838.05,839.23,put down knife
+P22_05_328,842.88,843.38,open container
+P22_05_329,843.48,844.37,throw away peel
+P22_05_33,84.6,85.35,open tap
+P22_05_330,846.22,847.01,open tap
+P22_05_331,847.07,849.32,rinse hands
+P22_05_332,848.81,849.59,close tap
+P22_05_333,849.69,850.92,shake hands
+P22_05_334,850.77,851.97,pick up cloth
+P22_05_335,851.57,854.08,dry hands
+P22_05_336,853.68,856.05,put down cloth
+P22_05_337,856.13,857.41,pick up knife
+P22_05_338,857.54,859.27,pick up peels
+P22_05_339,860.12,862.77,throw away peels
+P22_05_34,85.44,87.94,fill container
+P22_05_340,863.03,864.21,open tap
+P22_05_341,864.06,865.07,pick up sponge
+P22_05_342,864.7,865.42,rinse sponge
+P22_05_343,866.08,867.65,lather potato peeler
+P22_05_344,869.89,870.43,put down potato peeler
+P22_05_345,870.73,872.48,lather knife
+P22_05_346,873.05,873.94,open tap
+P22_05_347,874.5,876.37,rinse knife
+P22_05_348,879.09,880.39,put down knife
+P22_05_349,880.9,883.77,rinse potato peeler
+P22_05_35,88.04,89.04,rinse container
+P22_05_350,884.31,885.05,put down potato peeler
+P22_05_351,885.25,886.31,shake hands
+P22_05_352,886.35,890.1,dry hands
+P22_05_353,886.6,887.21,close tap
+P22_05_354,890.06,891.95,put down cloth
+P22_05_355,892.05,893.05,open drawer
+P22_05_356,893.15,893.65,close drawer
+P22_05_357,893.75,894.5,open drawer
+P22_05_358,894.6,895.6,pick up napkins
+P22_05_359,895.7,898.12,close drawer
+P22_05_36,89.14,91.14,rinse tupperware
+P22_05_360,898.22,899.97,arrange place mat
+P22_05_361,899.56,905.47,arrange place mat
+P22_05_362,900.07,901.32,turn place mat
+P22_05_363,908.85,910.35,open cabinet
+P22_05_364,910.35,912.35,pick up cups
+P22_05_365,912.8,915.8,put down cup
+P22_05_366,915.87,916.74,put down cup
+P22_05_367,918.89,919.63,grab plates
+P22_05_368,919.41,921.92,put away plate
+P22_05_369,922.3,923.42,put away plate
+P22_05_37,91.24,93.99,rinse tupperware
+P22_05_370,924.33,925.97,open cupboard
+P22_05_371,927.02,929.47,remove cover
+P22_05_372,929.69,930.77,close cupboard
+P22_05_373,930.87,931.98,open cupboard
+P22_05_374,932.0,933.04,grab bread
+P22_05_375,932.77,934.05,close cupboard
+P22_05_376,934.5,937.65,open bread
+P22_05_377,937.7,939.92,open bread
+P22_05_378,940.02,941.4,grab slice
+P22_05_379,942.31,943.12,insert slice
+P22_05_38,100.0,100.98,put tupperware
+P22_05_380,943.0,943.96,turn on toaster
+P22_05_381,944.7,951.95,close bread
+P22_05_382,951.87,953.02,open cupboard
+P22_05_383,953.21,955.25,put away bread
+P22_05_384,955.13,956.35,close cupboard
+P22_05_385,957.33,958.29,open cupboard
+P22_05_386,958.29,960.11,grab jar
+P22_05_387,960.03,961.09,put down jar
+P22_05_388,961.13,962.62,grab container
+P22_05_389,962.71,964.26,close cupboard
+P22_05_39,100.58,101.45,open tap
+P22_05_390,964.32,965.36,put down container
+P22_05_391,969.85,973.07,pick up plate
+P22_05_392,969.94,971.07,open cabinet
+P22_05_393,973.36,974.03,close cabinet
+P22_05_394,974.13,976.45,put down plate
+P22_05_395,976.55,978.52,pick up knife
+P22_05_396,978.62,979.53,put down knife
+P22_05_397,979.63,980.95,open drawer
+P22_05_398,980.0,998.03,close cabinet
+P22_05_399,980.98,984.65,pick up forks
+P22_05_4,9.37,10.29,open coffee machine
+P22_05_40,101.54,102.95,rinse hands
+P22_05_400,984.71,985.81,close drawer
+P22_05_401,986.21,988.21,put down fork
+P22_05_402,988.66,989.66,put down fork
+P22_05_403,1000.5,1002.45,open fridge
+P22_05_404,1001.95,1003.44,pick up bottle
+P22_05_405,1005.09,1007.07,remove stopper
+P22_05_406,1007.85,1009.24,replace stopper
+P22_05_407,1009.09,1009.93,remove stopper
+P22_05_408,1010.33,1014.21,put down bottle flat
+P22_05_409,1014.12,1017.41,plug bottle
+P22_05_41,102.39,104.32,rinse sponge
+P22_05_410,1020.09,1022.3,throw away bottle
+P22_05_411,1023.27,1024.74,open tap
+P22_05_412,1025.25,1026.25,pick up cloth
+P22_05_413,1026.6,1030.25,rinse cloth
+P22_05_414,1030.49,1034.68,clean sink
+P22_05_415,1034.78,1036.46,rinse cloth
+P22_05_416,1036.42,1040.6,clean sink
+P22_05_417,1040.7,1041.24,close tap
+P22_05_418,1041.59,1044.34,move dish drying rack
+P22_05_419,1044.7,1045.95,put down cloth
+P22_05_42,104.31,107.3,put soap
+P22_05_420,1047.04,1048.04,pick up detergent
+P22_05_421,1048.33,1050.38,spray detergent
+P22_05_422,1051.17,1052.06,pick up sponge
+P22_05_423,1053.95,1055.05,rinse sponge
+P22_05_424,1055.36,1055.88,close tap
+P22_05_425,1056.97,1059.69,clean floor
+P22_05_426,1059.78,1060.6,spray detergent
+P22_05_427,1060.6,1067.11,clean floor
+P22_05_428,1061.08,1066.38,clean counter
+P22_05_429,1066.96,1076.42,clean counter
+P22_05_43,107.76,112.47,soap bowl
+P22_05_430,1076.92,1077.67,turn on tap
+P22_05_431,1078.28,1080.22,rinse towel
+P22_05_432,1080.1,1080.64,turn off tap
+P22_05_433,1081.29,1084.91,clean counter
+P22_05_434,1084.82,1086.19,turn on tap
+P22_05_435,1085.82,1087.09,clean towel
+P22_05_436,1087.19,1088.17,turn off tap
+P22_05_437,1087.76,1091.94,clean counter
+P22_05_438,1091.21,1097.16,clean counter
+P22_05_439,1097.26,1098.12,turn on tap
+P22_05_44,112.57,113.57,put bowl
+P22_05_440,1098.22,1100.01,rinse towel
+P22_05_441,1099.67,1101.55,turn off tap
+P22_05_442,1101.67,1106.57,clean counter
+P22_05_443,1106.28,1107.78,pick up detergent
+P22_05_444,1108.6,1109.19,open cabinet
+P22_05_445,1109.46,1110.41,put away detergent
+P22_05_446,1110.88,1112.8,move dish drying rack
+P22_05_447,1112.9,1113.77,open tap
+P22_05_448,1113.65,1114.75,rinse cloth
+P22_05_449,1116.44,1119.64,put down cloth
+P22_05_45,113.91,116.34,soap bowl
+P22_05_450,1119.39,1120.52,pick up sponge
+P22_05_451,1120.62,1123.66,rinse sponge
+P22_05_452,1121.73,1122.77,put down sponge
+P22_05_453,1122.37,1124.39,rinse sponge
+P22_05_454,1124.28,1126.85,rinse hands
+P22_05_455,1126.45,1127.12,close tap
+P22_05_456,1126.97,1128.62,shake hands
+P22_05_457,1129.33,1132.4,dry hands
+P22_05_458,1132.42,1133.82,put down cloth
+P22_05_459,1135.89,1137.17,pick up bread
+P22_05_46,116.27,117.27,put bowl
+P22_05_460,1137.21,1138.71,put down bread
+P22_05_461,1138.42,1140.07,open jar
+P22_05_462,1140.42,1141.24,pick up knife
+P22_05_463,1141.43,1145.43,pick up cream
+P22_05_464,1143.19,1155.44,squeeze cream
+P22_05_465,1154.6,1160.65,squeeze cream
+P22_05_466,1160.64,1161.67,put down slice of bread
+P22_05_467,1161.77,1162.65,pick up cream
+P22_05_468,1165.93,1172.68,squeeze cream
+P22_05_469,1171.91,1178.78,squeeze cream
+P22_05_47,116.91,118.23,pick up plate
+P22_05_470,1178.88,1182.88,squeeze cream
+P22_05_471,1179.85,1184.59,squeeze cream
+P22_05_472,1184.54,1185.93,put down slice of bread
+P22_05_473,1185.62,1188.35,put down knife
+P22_05_474,1188.05,1190.94,pick up lid
+P22_05_475,1190.53,1191.89,close jar
+P22_05_476,1191.72,1193.13,open cabinet
+P22_05_477,1192.96,1194.29,put down jar
+P22_05_478,1194.51,1195.45,pick up lid
+P22_05_479,1195.17,1196.55,cover toaster
+P22_05_48,118.33,121.61,soap plate
+P22_05_480,1196.61,1197.49,close cabinet
+P22_05_481,1197.32,1198.33,turn off coffee maker
+P22_05_482,1200.07,1200.95,put down plate
+P22_05_483,1201.45,1202.76,pick up cup
+P22_05_484,1202.73,1203.36,put down cup
+P22_05_485,1204.39,1206.39,pick up carafe
+P22_05_486,1208.33,1213.14,pour coffee
+P22_05_487,1213.24,1220.87,pour coffee
+P22_05_488,1220.49,1224.15,pour coffee
+P22_05_489,1224.22,1227.29,pour coffee
+P22_05_49,121.89,122.67,put plate
+P22_05_490,1227.34,1229.43,pour coffee
+P22_05_491,1230.08,1233.0,put carafe
+P22_05_5,10.15,15.69,remove filter
+P22_05_50,122.67,125.17,soap glass
+P22_05_51,123.66,125.05,soap glass
+P22_05_52,125.24,126.33,put glass
+P22_05_53,125.42,126.41,put glass
+P22_05_54,129.44,130.69,open tap
+P22_05_55,130.77,133.54,rinse glass
+P22_05_56,133.64,136.14,rinse glass
+P22_05_57,136.24,138.99,rinse glass
+P22_05_58,138.74,139.57,put glass
+P22_05_59,140.18,140.77,pick up glass
+P22_05_6,15.79,16.66,close coffee machine
+P22_05_60,141.36,142.2,rinse glass
+P22_05_61,142.15,145.39,rinse glass
+P22_05_62,145.7,146.46,put glass
+P22_05_63,146.56,150.75,rinse bowl
+P22_05_64,150.7,151.71,put bowl
+P22_05_65,151.7,152.39,pick up bowl
+P22_05_66,152.54,154.54,rinse bowl
+P22_05_67,154.76,155.64,put bowl
+P22_05_68,155.73,156.56,pick up dish
+P22_05_69,156.59,159.09,rinse dish
+P22_05_7,16.76,18.72,pick up carafe
+P22_05_70,158.72,160.93,put dish
+P22_05_71,160.53,161.89,close tap
+P22_05_72,161.25,162.59,pick up carafe
+P22_05_73,162.7,175.96,soap carafe
+P22_05_74,175.54,179.54,lather pitcher
+P22_05_75,179.45,181.46,lather pitcher
+P22_05_76,181.31,182.21,close pitcher
+P22_05_77,182.16,183.59,put down down pitcher
+P22_05_78,183.64,185.36,grab filter
+P22_05_79,185.46,191.06,lather filter
+P22_05_8,18.72,22.65,place carafe
+P22_05_80,190.7,193.33,lather filter
+P22_05_81,193.24,194.92,grab filter holder
+P22_05_82,195.42,197.17,rinse filter holder
+P22_05_83,198.17,206.33,lather filter holder
+P22_05_84,201.69,205.83,lather filter holder
+P22_05_85,205.93,210.78,lather filter holder
+P22_05_86,210.89,211.53,open tap
+P22_05_87,211.58,212.28,rinse hands
+P22_05_88,212.06,218.09,rinse filter holder
+P22_05_89,217.73,220.52,rinse filter holder
+P22_05_9,22.24,23.68,place filter
+P22_05_90,218.32,225.39,rinse filter holder
+P22_05_91,219.0,227.65,rinse filter holder
+P22_05_92,220.24,235.93,drain filter holder
+P22_05_93,228.53,235.51,rinse filter holder
+P22_05_94,235.22,236.56,put down down filter holder
+P22_05_95,236.52,240.47,rinse filter
+P22_05_96,239.65,245.38,rinse filter
+P22_05_97,245.42,246.23,put down down filter
+P22_05_98,245.54,246.8,grab pitcher
+P22_05_99,246.87,252.69,rinse pitcher

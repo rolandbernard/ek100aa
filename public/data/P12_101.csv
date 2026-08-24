@@ -1,0 +1,501 @@
+P12_101_0,4.38,5.48,open tap
+P12_101_1,5.59,6.11,wash hands
+P12_101_10,19.21,20.28,take out meat from fridge
+P12_101_100,256.72,258.62,put plastic bag with trash into cupboard
+P12_101_101,259.04,260.15,close cupboard
+P12_101_102,262.23,263.38,open tap
+P12_101_103,263.43,266.0,wash hands
+P12_101_104,265.78,266.73,close tap
+P12_101_105,268.19,269.14,open tap
+P12_101_106,269.08,270.09,wash hands
+P12_101_107,270.19,271.27,close tap
+P12_101_108,272.9,274.55,move saucepan within stove
+P12_101_109,276.07,277.32,pick up meat from cutting board
+P12_101_11,22.29,28.97,throw meat onto countertop
+P12_101_110,277.42,279.24,put meat into saucepan
+P12_101_111,280.61,282.53,move meat from cutting board into saucepan
+P12_101_112,292.45,293.29,open cupboard
+P12_101_113,295.73,297.44,take out saucepan lid from cupboard
+P12_101_114,297.52,298.68,close cupboard
+P12_101_115,299.48,300.78,open tap
+P12_101_116,300.13,302.4,wash saucepan lid
+P12_101_117,303.07,303.58,put saucepan lid onto saucepan
+P12_101_118,305.04,305.87,put meat into saucepan from cutting board
+P12_101_119,307.45,308.19,put meat into saucepan from cutting board
+P12_101_12,22.45,23.92,throw meat onto countertop
+P12_101_120,308.23,310.37,put meat into saucepan from cutting board
+P12_101_121,310.47,317.43,put meat into saucepan from cutting board
+P12_101_122,309.92,310.7,put meat into saucepan from cutting board
+P12_101_123,310.56,311.3,put meat into saucepan from cutting board
+P12_101_124,311.37,312.22,put meat into saucepan from cutting board
+P12_101_125,313.39,316.96,put meat into saucepan from cutting board
+P12_101_126,319.46,320.32,put lid onto saucepan
+P12_101_127,320.41,321.25,open drawer
+P12_101_128,322.65,323.4,take spoon from drawer
+P12_101_129,322.81,324.56,open lid of saucepan
+P12_101_13,24.27,25.48,pick up meat from fridge
+P12_101_130,324.56,326.01,close drawer
+P12_101_131,326.11,328.24,open tap
+P12_101_132,327.9,328.78,wash spoon
+P12_101_133,328.88,329.72,close tap
+P12_101_134,330.37,335.87,stir meat in saucepan using spoon
+P12_101_135,335.79,338.2,put down saucepan lid onto countertop
+P12_101_136,338.3,339.86,adjust heat on stove
+P12_101_137,339.85,358.71,stir meat using spoon in saucepan
+P12_101_138,358.85,360.97,open salt
+P12_101_139,360.75,361.52,pick up salt container from countertop
+P12_101_14,25.75,26.53,take out meat from fridge
+P12_101_140,362.0,364.52,pour salt into saucepan with meat
+P12_101_141,364.58,371.5,stir meat using spoon in saucepan
+P12_101_142,364.74,365.7,put down salt onto cutting board
+P12_101_143,366.34,367.31,put down salt onto countertop
+P12_101_144,366.85,371.1,stir meat using spoon in saucepan
+P12_101_145,372.13,372.98,put down spoon onto countertop
+P12_101_146,374.1,374.87,open tap
+P12_101_147,374.75,375.75,wash hands
+P12_101_148,378.81,379.63,pick up minced meat from cutting board
+P12_101_149,379.7,382.45,break apart minced meat using hands
+P12_101_15,26.62,27.79,throw meat onto countertop
+P12_101_150,382.7,392.13,break apart minced meat using hands
+P12_101_151,391.95,393.8,pick up minced meat from cutting board
+P12_101_152,394.58,403.76,break apart minced meat using hands
+P12_101_153,404.58,405.51,pick up spoon from countertop
+P12_101_154,405.94,419.88,stir minced meat using spoon in saucepan
+P12_101_155,422.59,423.47,open tap
+P12_101_156,423.88,425.88,wash hands
+P12_101_157,426.53,427.5,pick up mug
+P12_101_158,427.8,428.66,wash mug
+P12_101_159,428.77,429.62,wash hand
+P12_101_16,27.7,28.97,throw meat onto countertop
+P12_101_160,429.64,430.47,fill mug with some water
+P12_101_161,431.58,433.93,pour water into saucepan using mug
+P12_101_162,433.87,434.79,put down mug onto countertop
+P12_101_163,435.67,436.7,put down mug onto countertop
+P12_101_164,437.25,438.23,pick up salt from countertop
+P12_101_165,438.22,439.16,open lid of salt container
+P12_101_166,439.12,441.26,pour salt into saucepan with meat
+P12_101_167,441.85,442.69,put down salt container onto countertop
+P12_101_168,442.48,444.59,pick up spice from countertop
+P12_101_169,446.1,451.73,pour some spice over meat in saucepan
+P12_101_17,29.9,33.5,take out onions from fridge
+P12_101_170,451.83,453.65,close lid of spice container
+P12_101_171,453.75,454.54,put down spice container onto countertop
+P12_101_172,454.97,455.5,pick up spoon from countertop
+P12_101_173,455.69,459.73,stir meat in saucepan using spoon
+P12_101_174,459.7,460.45,lift up saucepan with meat and spoon from stove
+P12_101_175,460.66,461.33,put down saucepan with meat and spoon onto stove
+P12_101_176,461.9,481.15,stir meat in saucepan using spoon
+P12_101_177,481.73,483.13,lift up frying pan from stove
+P12_101_178,483.52,484.37,open tap
+P12_101_179,484.44,485.2,wash frying pan
+P12_101_18,34.7,37.23,put down onions onto countertop
+P12_101_180,486.9,487.8,put down frying pan onto stove
+P12_101_181,487.96,488.91,pick up oil from countertop
+P12_101_182,490.06,493.13,adjust heat on stove
+P12_101_183,493.89,494.54,lift up frying pan from stove
+P12_101_184,494.64,495.52,put down frying pan onto stove
+P12_101_185,496.39,497.31,open lid of oil container
+P12_101_186,498.32,500.68,pour oil into frying pan
+P12_101_187,501.27,502.17,close lid of oil container
+P12_101_188,503.17,503.84,put down oil container onto countertop
+P12_101_189,504.71,508.46,spread out oil by lifting frying pan
+P12_101_19,41.48,44.82,take out stock from fridge
+P12_101_190,507.67,509.82,put down frying pan onto stove
+P12_101_191,513.5,516.38,grab minced meat
+P12_101_192,513.99,516.27,break mince meat apart using hands
+P12_101_193,517.75,523.19,break mince meat apart using hands
+P12_101_194,523.57,532.79,break mince meat apart using hands
+P12_101_195,533.61,535.49,pick up meat from cutting board
+P12_101_196,535.94,545.43,break minced meat apart using hands
+P12_101_197,545.94,546.54,pick up meat from cutting board
+P12_101_198,546.9,555.56,break minced meat apart using hands
+P12_101_199,556.03,557.64,pick up minced meat from cutting board
+P12_101_2,6.25,7.19,pick up knives
+P12_101_20,45.48,46.6,take out cheese from fridge
+P12_101_200,557.36,557.97,put down mince meat onto cutting board
+P12_101_201,558.07,568.99,stir meat in saucepan using spoon
+P12_101_202,573.49,574.45,open tap
+P12_101_203,574.21,575.35,wash hands
+P12_101_204,575.5,576.04,close tap
+P12_101_205,577.3,577.97,pick up salt from countertop
+P12_101_206,579.28,582.89,pour salt into saucepan
+P12_101_207,583.8,584.5,put salt container onto countertop
+P12_101_208,584.2,584.54,close salt container
+P12_101_209,584.31,585.55,pick up spice container from countertop
+P12_101_21,46.63,49.98,put down cheese and stock onto countertop
+P12_101_210,585.52,586.19,open salt container
+P12_101_211,586.53,590.14,pour spice into frying pan
+P12_101_212,590.24,591.25,close spice container
+P12_101_213,591.74,592.36,put down spice container onto countertop
+P12_101_214,593.02,594.28,open tap
+P12_101_215,594.24,595.71,fill mug with water
+P12_101_216,596.9,600.4,pour water into frying pan with meat
+P12_101_217,600.62,601.97,put down mug with water onto countertop
+P12_101_218,602.54,603.63,pick up spoon from saucepan
+P12_101_219,603.88,659.45,stir meat in saucepan using spoon
+P12_101_22,53.01,55.16,take out cheese from fridge
+P12_101_220,659.67,668.8,stir meat in saucepan using spoon
+P12_101_221,668.9,670.18,stir meat in frying pan using spoon
+P12_101_222,668.98,670.88,lift up frying pan with meat
+P12_101_223,671.59,674.94,pour meat from frying pan into saucepan using spoon
+P12_101_224,675.24,676.47,put down frying pan onto stove
+P12_101_225,677.54,678.37,pick up oil container
+P12_101_226,678.42,679.42,open oil container
+P12_101_227,679.72,682.45,pour oil into frying pan
+P12_101_228,682.51,683.37,close oil container
+P12_101_229,683.26,684.81,put oil container onto countertop
+P12_101_23,54.84,56.09,pick up cheese from floor
+P12_101_230,684.47,685.93,pick up minced meat from cutting board
+P12_101_231,686.03,696.78,break mince meat apart using hands
+P12_101_232,703.8,704.49,open tap
+P12_101_233,704.47,707.16,wash hands
+P12_101_234,707.23,707.78,close tap
+P12_101_235,709.3,710.05,pick up spoon from cutting board
+P12_101_236,711.03,711.96,pick up salt container from countertop
+P12_101_237,712.48,713.08,open salt container
+P12_101_238,713.73,718.0,pour salt into meat in frying pan
+P12_101_239,718.76,719.76,pick up pepper container
+P12_101_24,60.94,61.8,move meat
+P12_101_240,720.89,721.59,open lid of pepper container
+P12_101_241,721.56,726.22,pour pepper over meat in frying pan
+P12_101_242,726.14,727.76,close lid of pepper container
+P12_101_243,727.65,728.76,put down pepper container onto countertop
+P12_101_244,729.95,731.32,pick up mug
+P12_101_245,731.42,733.56,pour water into frying pan with meat
+P12_101_246,733.66,734.87,put down mug with water onto countertop
+P12_101_247,734.95,735.55,pick up spoon from cutting board
+P12_101_248,735.72,757.35,stir meat in frying pan
+P12_101_249,758.89,759.85,move saucepan with meat on stove
+P12_101_25,62.12,65.13,move cheeses
+P12_101_250,760.2,761.71,adjust heat on stove
+P12_101_251,761.76,765.97,adjust heat on stove
+P12_101_252,770.16,780.01,stir meat in frying pan
+P12_101_253,780.19,795.77,stir meat in saucepan
+P12_101_254,795.7,798.05,adjust heat on stove
+P12_101_255,797.92,800.45,move saucepan
+P12_101_256,800.36,801.03,stir meat using spoon in saucepan
+P12_101_257,801.53,813.74,stir meat in frying pan using spoon
+P12_101_258,814.72,818.72,pour meat from frying pan into saucepan
+P12_101_259,819.08,820.7,put down frying pan onto stove
+P12_101_26,65.99,66.74,pick up saucepan from stove
+P12_101_260,825.97,828.56,put down garlic onto cutting board
+P12_101_261,829.74,840.95,cut garlic using knife on cutting board
+P12_101_262,863.09,863.75,open tap
+P12_101_263,863.83,864.76,wash knife
+P12_101_264,865.09,877.44,cut garlic on cutting board using knife
+P12_101_265,877.51,882.25,chop garlic
+P12_101_266,882.33,885.35,sweep up garlic from cutting board into hand
+P12_101_267,887.45,892.05,put down garlic into saucepan with meat
+P12_101_268,893.25,893.98,open tap
+P12_101_269,894.04,895.29,wash hands
+P12_101_27,67.45,68.75,open tap
+P12_101_270,895.75,897.31,pick up plate with onions
+P12_101_271,898.44,909.2,pour onions from plate into frying pan using fork
+P12_101_272,909.25,917.5,stir onion in frying pan using fork
+P12_101_273,917.93,918.93,put down plate onto countertop
+P12_101_274,920.96,921.68,open tap
+P12_101_275,921.64,922.8,wash hands
+P12_101_276,923.84,924.53,pick up spoon from cutting board
+P12_101_277,925.1,931.52,stir onions in frying pan
+P12_101_278,931.83,934.04,stir minced meat in saucepan
+P12_101_279,935.18,935.95,pick up pepper container
+P12_101_28,67.96,69.33,fill saucepan with water
+P12_101_280,937.7,942.7,pour spice over meat in saucepan
+P12_101_281,943.38,944.65,put down spice container onto countertop
+P12_101_282,944.73,959.28,stir meat in saucepan using spoon
+P12_101_283,961.31,963.15,pick up spoon from saucepan
+P12_101_284,963.16,993.03,stir onions in frying pan using spoon
+P12_101_285,993.71,994.56,put down spoon onto cutting board
+P12_101_286,994.91,996.83,pick up onions from plate
+P12_101_287,997.86,999.58,pour down onions into frying pan
+P12_101_288,1000.5,1003.25,pick up onions from plate
+P12_101_289,1003.36,1005.28,pour down onions into frying pan
+P12_101_29,69.43,70.49,pour out water from saucepan
+P12_101_290,1005.88,1007.34,pick up spoon from cutting board
+P12_101_291,1007.45,1018.44,stir onions in frying pan
+P12_101_292,1020.38,1021.27,move mozzarella on countertop
+P12_101_293,1021.83,1022.74,pick up stock from countertop
+P12_101_294,1022.82,1031.9,open stock packaging
+P12_101_295,1033.31,1035.35,put down stock onto cutting board
+P12_101_296,1035.09,1043.98,open stock container
+P12_101_297,1044.82,1046.16,open tap
+P12_101_298,1045.59,1046.59,wash fork
+P12_101_299,1047.6,1050.75,pour stock into saucepan with meat
+P12_101_3,7.2,8.99,wash knives
+P12_101_30,72.14,74.31,pick up trash from stove
+P12_101_300,1050.79,1051.79,put down stock container
+P12_101_301,1051.82,1052.73,pick up stock container
+P12_101_302,1053.61,1059.26,open stock container
+P12_101_303,1060.49,1061.54,pour stock into saucepan with meat
+P12_101_304,1061.69,1062.53,put down stock container
+P12_101_305,1062.57,1063.53,pick up stock container
+P12_101_306,1063.97,1069.92,open stock container
+P12_101_307,1070.72,1071.86,pour stock into saucepan with meat
+P12_101_308,1071.9,1072.34,put down stock container
+P12_101_309,1072.67,1073.66,pick up stock container
+P12_101_31,74.76,75.56,throw away trash into sink
+P12_101_310,1074.34,1079.24,open stock container
+P12_101_311,1082.33,1083.68,put down stock container
+P12_101_312,1084.37,1085.71,pick up stock container box
+P12_101_313,1085.81,1105.1,reading instructions from box
+P12_101_314,1105.09,1106.62,put down stock container box onto countertop
+P12_101_315,1107.35,1108.82,pick up stock container box from countertop
+P12_101_316,1121.64,1123.11,pick up water boiler
+P12_101_317,1123.19,1125.36,pour out contents of water boiler
+P12_101_318,1125.22,1126.52,open tap
+P12_101_319,1126.66,1133.11,fill water boiler with water
+P12_101_32,75.87,83.68,pick up trash from stove
+P12_101_320,1132.53,1133.33,close tap
+P12_101_321,1133.4,1134.77,close water boiler
+P12_101_322,1138.6,1140.83,reattach water boiler
+P12_101_323,1139.75,1141.42,put down water boiler
+P12_101_324,1143.0,1148.54,stir onions in frying pan using spoon
+P12_101_325,1148.59,1149.94,lift up frying pan
+P12_101_326,1150.04,1157.31,pour onions from frying pan into saucepan
+P12_101_327,1164.62,1166.84,pick up onions in bowl
+P12_101_328,1168.01,1177.96,pour onions into frying pan from bowl
+P12_101_329,1180.01,1181.54,pick up spoon
+P12_101_33,83.56,84.53,put down saucepan onto stove
+P12_101_330,1180.97,1182.11,open tap
+P12_101_331,1182.21,1183.2,wash spoon
+P12_101_332,1192.51,1193.31,open tap
+P12_101_333,1193.65,1195.66,pour water into mug
+P12_101_334,1195.73,1196.3,close tap
+P12_101_335,1196.87,1199.37,pour water into frying pan
+P12_101_336,1200.23,1201.39,open tap
+P12_101_337,1201.33,1202.22,pour water into mug
+P12_101_338,1202.78,1204.17,pour water into frying pan
+P12_101_339,1204.72,1205.69,put down mug on countertop
+P12_101_34,84.9,86.27,throw away trash into sink
+P12_101_340,1207.78,1208.7,wash hands
+P12_101_341,1208.5,1209.19,close tap
+P12_101_342,1209.72,1213.55,pick up onions using hands
+P12_101_343,1211.59,1213.28,pick up onions using hand from bowl
+P12_101_344,1214.72,1216.47,put down onions into frying pan
+P12_101_345,1222.08,1224.48,pick up onions using hand from bowl
+P12_101_346,1225.35,1227.11,put down chopped onions into frying pan
+P12_101_347,1228.24,1230.53,pick up chopped onions from bowl
+P12_101_348,1231.16,1233.09,put down chopped onions into frying pan
+P12_101_349,1235.15,1243.7,stir onions in frying pan using spoon
+P12_101_35,90.2,91.86,open cupboard
+P12_101_350,1246.04,1274.83,stir onions and meat in saucepan using spoon
+P12_101_351,1277.85,1282.71,stir meat and onions in saucepan using spoon
+P12_101_352,1286.63,1306.38,stir onions using spoon in frying pan
+P12_101_353,1308.64,1315.62,throw away empty containers into plastic bag
+P12_101_354,1315.69,1317.56,close plastic bag
+P12_101_355,1317.66,1319.11,put plastic bag into cupboard
+P12_101_356,1319.52,1321.58,close cupboard
+P12_101_357,1321.96,1325.88,pick up cheese
+P12_101_358,1325.95,1334.69,open cheese bag
+P12_101_359,1335.23,1336.32,take out cheese
+P12_101_36,91.92,93.43,take out oil from cupboard
+P12_101_360,1336.58,1343.14,throw away plastic
+P12_101_361,1344.06,1345.11,close cupboard
+P12_101_362,1345.65,1346.55,open drawer
+P12_101_363,1347.07,1348.26,open drawer
+P12_101_364,1348.3,1349.45,close drawers
+P12_101_365,1349.44,1350.65,open drawer
+P12_101_366,1350.74,1351.56,close drawer
+P12_101_367,1352.39,1354.38,open cupboard
+P12_101_368,1355.49,1356.74,pick up grinder
+P12_101_369,1358.31,1359.63,open tap
+P12_101_37,93.5,94.7,close cupboard
+P12_101_370,1358.91,1360.79,wash grinder
+P12_101_371,1361.09,1362.65,put down grinder
+P12_101_372,1362.65,1363.82,pick up water boiler
+P12_101_373,1365.52,1370.51,pour water from water boiler into saucepan
+P12_101_374,1370.61,1372.49,put down water cooker
+P12_101_375,1375.76,1376.79,turn off water cooker
+P12_101_376,1376.51,1394.54,stir meat and onions using spoon in saucepan
+P12_101_377,1394.61,1396.74,pick up frying pan with onions
+P12_101_378,1396.84,1403.86,pour onions into saucepan
+P12_101_379,1403.73,1429.23,stir onions and meat in saucepan using spoon
+P12_101_38,94.64,96.69,open cupboard
+P12_101_380,1429.1,1452.4,grind cheese using grinder
+P12_101_381,1452.65,1469.67,grind cheese using grinder
+P12_101_382,1492.33,1493.35,eat cheese
+P12_101_383,1500.49,1501.63,eat cheese
+P12_101_384,1502.32,1503.12,eat cheese
+P12_101_385,1505.97,1514.68,pick out cheese from cheese grinder
+P12_101_386,1514.4,1518.21,shake cheese grinder to get out cheese
+P12_101_387,1521.23,1522.5,open tap
+P12_101_388,1522.4,1524.63,wash hands
+P12_101_389,1524.76,1525.63,close tap
+P12_101_39,95.27,96.6,put down oil onto countertop
+P12_101_390,1526.83,1528.03,open drawer
+P12_101_391,1530.45,1531.7,open tap
+P12_101_392,1531.12,1531.96,wash spoon
+P12_101_393,1532.05,1532.72,close tap
+P12_101_394,1533.37,1536.98,pick up soup with spoon
+P12_101_395,1536.97,1540.04,taste soup
+P12_101_396,1539.31,1542.2,put down spoon on cutting board
+P12_101_397,1543.48,1554.22,stir soup using spoon
+P12_101_398,1555.05,1560.34,pour onions into soup
+P12_101_399,1565.53,1572.74,scrape up remaining onions from frying pan into saucepan with soup
+P12_101_4,9.61,11.98,move cutting board
+P12_101_40,96.64,99.48,take out salt from cupboard
+P12_101_400,1574.77,1575.67,open tap
+P12_101_401,1575.91,1581.19,wash frying pan
+P12_101_402,1584.95,1586.26,close tap
+P12_101_403,1586.26,1588.28,return frying pan onto stove
+P12_101_404,1588.29,1597.74,stir soup in saucepan using spoon
+P12_101_405,1598.12,1599.26,open tap
+P12_101_406,1599.34,1600.13,wash hands
+P12_101_407,1601.3,1602.49,pick up cheese with hand
+P12_101_408,1602.7,1606.73,pour grated cheese into saucepan with soup
+P12_101_409,1606.83,1609.21,pick up grated cheese with hands
+P12_101_41,99.46,100.8,put down salt onto countertop
+P12_101_410,1609.08,1613.03,pour grated cheese into saucepan with soup
+P12_101_411,1613.55,1616.2,pick up grated cheese from cutting board using hands
+P12_101_412,1615.24,1617.08,pour down cheese into saucepan with soup
+P12_101_413,1617.67,1618.35,eat cheese
+P12_101_414,1618.71,1623.4,scrape up cheese using hands
+P12_101_415,1623.45,1624.42,put cheese into saucepan with soup
+P12_101_416,1630.02,1630.54,open tap
+P12_101_417,1630.74,1632.53,wash hands
+P12_101_418,1635.26,1636.84,pick up cream cheese
+P12_101_419,1637.44,1637.95,put down cream cheese onto countertop
+P12_101_42,105.06,106.02,take out tea from cupboard
+P12_101_420,1638.19,1639.63,pick up mozzarella
+P12_101_421,1641.89,1646.87,open mozzarella bag
+P12_101_422,1641.26,1644.1,open mozzarella bag using knife
+P12_101_423,1645.6,1646.63,take out mozzarella from mozzarella bag
+P12_101_424,1646.51,1648.49,put mozzarella and knife onto cutting board
+P12_101_425,1648.84,1649.96,pick up mozzarella bag
+P12_101_426,1649.52,1651.65,pick up knife
+P12_101_427,1651.71,1655.49,open mozzarella bag with knife
+P12_101_428,1655.28,1656.84,take out mozzarella from mozzarella bag
+P12_101_429,1656.83,1659.06,put down mozzarella onto cutting board
+P12_101_43,106.05,107.52,put down tea on countertop
+P12_101_430,1658.75,1660.34,pick up mozzarella from cutting board
+P12_101_431,1660.23,1668.93,cut mozzarella with knife on cutting board
+P12_101_432,1660.84,1661.59,throw away plastic bag from cutting board
+P12_101_433,1662.19,1670.42,cut mozzarella with knife on cutting board
+P12_101_434,1670.52,1672.15,eat mozzarella
+P12_101_435,1672.25,1683.85,cut mozzarella with knife on cutting board
+P12_101_436,1684.45,1685.15,open tap
+P12_101_437,1685.24,1686.28,wash hands
+P12_101_438,1688.59,1689.61,pick up cream cheese
+P12_101_439,1690.05,1695.3,open cream cheese packaging
+P12_101_44,107.41,110.59,take out tea from cupboard
+P12_101_440,1697.64,1698.14,open tap
+P12_101_441,1698.24,1698.99,wash spoon
+P12_101_442,1701.21,1703.46,scoop out cream cheese from box into saucepan with soup
+P12_101_443,1717.06,1719.0,pick up cream cheese container
+P12_101_444,1718.96,1723.42,open cream cheese container
+P12_101_445,1725.17,1725.7,pick up spoon
+P12_101_446,1725.8,1733.79,scoop out cream cheese from cream cheese container into saucepan with soup
+P12_101_447,1733.89,1735.01,throw away cream cheese container
+P12_101_448,1734.8,1739.34,stir soup using spoon
+P12_101_449,1739.34,1740.26,put down spoon onto cutting board
+P12_101_45,109.7,111.32,put down tea on countertop
+P12_101_450,1740.19,1803.0,stir soup using spoon
+P12_101_451,1803.71,1804.51,pick up mozzarella from cutting board
+P12_101_452,1804.66,1809.92,put down mozzarella slices into soup in saucepan
+P12_101_453,1809.58,1810.87,eat mozzarella
+P12_101_454,1811.16,1811.73,put down mozzarella slices into soup in saucepan
+P12_101_455,1812.2,1825.4,stir sauce soup with spoon
+P12_101_456,1826.38,1827.66,wash hands
+P12_101_457,1827.74,1828.26,close tap
+P12_101_458,1828.29,1829.82,pick up spoon from cutting board
+P12_101_459,1828.88,1829.64,pick up spoon
+P12_101_46,112.21,134.59,take out spices from cupboard
+P12_101_460,1830.99,1837.27,wash spoon
+P12_101_461,1837.37,1838.52,close tap
+P12_101_462,1842.11,1844.96,taste soup using spoon
+P12_101_463,1849.9,1866.81,stir soup using spoon
+P12_101_464,1867.52,1868.16,pick up spice container
+P12_101_465,1868.4,1869.07,open spice container
+P12_101_466,1870.06,1875.03,pour out spice into saucepan with soup
+P12_101_467,1878.69,1890.13,stir soup using spoon
+P12_101_468,1890.53,1891.45,pick up salt container
+P12_101_469,1891.27,1892.47,open salt container
+P12_101_47,134.35,135.41,take out spice from cupboard
+P12_101_470,1892.78,1895.6,pour out salt from salt container into saucepan with soup
+P12_101_471,1896.7,1897.19,put down salt container
+P12_101_472,1896.82,1921.87,stir soup using spoon
+P12_101_473,1921.42,1927.81,stir soup using spoon
+P12_101_474,1928.09,1929.14,pick up spoon from cutting board
+P12_101_475,1929.09,1930.2,open tap
+P12_101_476,1930.38,1931.63,wash spoon
+P12_101_477,1934.76,1937.33,taste soup using spoon
+P12_101_478,1936.65,1941.34,put down spoon onto cutting board
+P12_101_479,1959.3,1960.26,open tap
+P12_101_48,135.61,138.09,put in tea into cupboard
+P12_101_480,1960.29,1961.56,wash hands
+P12_101_481,1961.61,1963.04,close tap
+P12_101_482,1963.58,1964.3,pick up saucepan lid
+P12_101_483,1964.99,1965.9,put saucepan lid onto saucepan
+P12_101_484,1966.64,1972.59,adjust heat on stove
+P12_101_485,1976.67,1977.39,pick up frying pan from stove
+P12_101_486,1977.76,1978.29,open tap
+P12_101_487,1978.19,1983.52,wash frying pan
+P12_101_488,1983.99,1984.24,close tap
+P12_101_489,1984.5,1989.85,scrape off remaining bits from frying pan
+P12_101_49,138.94,139.94,pick up tea from countertop
+P12_101_490,1990.3,1991.53,open tap
+P12_101_491,1992.79,1993.79,close tap
+P12_101_492,1995.02,1996.07,put back frying pan onto stove
+P12_101_493,2000.29,2001.08,pick up paper roll
+P12_101_494,2001.64,2002.59,take paper from paper roll
+P12_101_495,2005.48,2009.76,clean up using paper
+P12_101_496,2010.12,2022.15,clean up floor using paper
+P12_101_497,2024.84,2026.91,take paper from paper roll
+P12_101_498,2028.33,2029.28,open tap
+P12_101_5,12.05,12.71,pick up trash
+P12_101_50,139.31,141.52,put in tea into cupboard
+P12_101_500,2030.23,2030.98,close tap
+P12_101_501,2031.08,2037.1,clean surfaces using paper
+P12_101_51,141.63,142.45,pick up tea
+P12_101_52,142.2,143.11,put tea into cupboard
+P12_101_53,147.54,149.95,start fan
+P12_101_54,151.61,159.52,adjust heat on stove
+P12_101_55,159.37,160.95,put down saucepan onto stove
+P12_101_56,160.84,162.0,pick up oil from countertop
+P12_101_57,162.48,170.49,open oil flask
+P12_101_58,170.25,173.78,pour oil into saucepan
+P12_101_59,175.32,176.4,put down oil onto countertop
+P12_101_6,12.72,13.55,wash hands
+P12_101_60,178.5,179.64,pick up fork
+P12_101_61,179.85,181.72,open tap
+P12_101_62,180.7,181.35,wash fork
+P12_101_63,182.0,183.05,pick up knife
+P12_101_64,182.71,183.53,put down fork
+P12_101_65,183.8,184.35,open tap
+P12_101_66,184.51,185.0,wash fork
+P12_101_67,184.06,184.85,wash knife
+P12_101_68,185.25,187.0,open meat box using knife
+P12_101_69,186.92,187.95,move meat boxes on countertop
+P12_101_7,13.42,15.72,wash hands
+P12_101_70,192.31,194.85,put down meat
+P12_101_71,192.66,196.35,take out meat from box
+P12_101_72,196.0,197.0,put down meat on cutting board
+P12_101_73,197.59,199.04,pick up meat box
+P12_101_74,199.4,202.15,open meat box
+P12_101_75,202.17,203.97,take out meat from box
+P12_101_76,204.02,205.14,put down meat onto cutting board
+P12_101_77,205.62,206.72,put down box
+P12_101_78,206.72,207.78,pick up meat box from countertop
+P12_101_79,207.86,208.71,open meat box using knife
+P12_101_8,15.82,16.48,close tap
+P12_101_80,209.78,211.6,take out meat from box
+P12_101_81,211.72,212.75,put down meat onto cutting board
+P12_101_82,213.0,214.0,put down box onto countertop
+P12_101_83,214.31,215.76,pick up meat box from countertop
+P12_101_84,215.5,217.87,open meat box using knife
+P12_101_85,218.99,220.03,open meat box
+P12_101_86,220.0,221.17,move knives from cutting board
+P12_101_87,220.93,226.37,pour down meat onto cutting board
+P12_101_88,227.75,229.29,put down knife onto cutting board
+P12_101_89,230.45,231.95,put down meat box onto countertop
+P12_101_9,17.46,18.87,open fridge
+P12_101_90,232.12,234.4,take boxes from countertop
+P12_101_91,234.8,236.05,open cupboard
+P12_101_92,238.26,240.65,take out trash bin
+P12_101_93,241.23,242.11,take plastic bag from cupboard
+P12_101_94,242.85,244.34,put boxes into plastic bag
+P12_101_95,247.83,248.99,pick up cloth
+P12_101_96,248.22,250.45,wash countertop using cloth
+P12_101_97,250.69,251.18,put back cloth onto countertop
+P12_101_98,252.01,253.09,open lid of trash bin
+P12_101_99,253.39,256.14,put trash bin into cupboard

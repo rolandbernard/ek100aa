@@ -1,0 +1,473 @@
+P02_123_0,3.76,4.6,set off timer
+P02_123_1,4.7,5.66,pick up glove
+P02_123_10,23.11,24.3,open oven
+P02_123_100,275.41,276.47,pick up wooden spoon
+P02_123_101,276.23,277.02,close drawer
+P02_123_102,277.03,287.91,stir sugar and lemon juice in pan using wooden spoon
+P02_123_103,283.3,286.69,hold pan
+P02_123_104,286.73,294.23,remove lemon seed from pan
+P02_123_105,294.45,295.28,mix sugar and lemon juice so sugar dissolves in pan using wooden spoon
+P02_123_106,295.1,322.17,hold pan
+P02_123_107,322.27,322.98,rest wooden spoon on pan
+P02_123_108,325.75,326.74,pick up pistachio bag
+P02_123_109,329.43,331.87,pour pistachio from bag into pan
+P02_123_11,24.25,25.51,slide tray
+P02_123_110,333.64,334.35,open bin
+P02_123_111,334.35,334.93,throw bag
+P02_123_112,335.03,335.61,close bin
+P02_123_113,336.72,339.78,stir pistachio in pan
+P02_123_114,339.88,350.22,hold pan
+P02_123_115,350.09,351.12,rest wooden spoon on pan
+P02_123_116,351.22,351.87,set off timer
+P02_123_117,351.86,355.48,switch off oven
+P02_123_118,355.56,356.23,pick wooden spoon
+P02_123_119,356.33,362.52,stir mixture in pan
+P02_123_12,25.7,26.66,pick up knife
+P02_123_120,359.82,390.75,hold pan
+P02_123_121,390.31,390.86,rest wooden spoon on pan
+P02_123_122,390.95,392.46,adjust heat
+P02_123_123,390.0,415.63,stir mixture in pan
+P02_123_124,415.43,416.17,rest wooden spoon on pan
+P02_123_125,416.24,417.17,switch off hob
+P02_123_126,417.27,424.19,stir mixture in pan
+P02_123_127,424.47,425.33,pick up pan
+P02_123_128,425.43,426.55,put down pan
+P02_123_129,428.25,429.28,open cupboard
+P02_123_13,26.6,28.98,stab cake
+P02_123_130,429.17,441.11,pick up chopping board
+P02_123_131,441.44,442.29,close cupboard
+P02_123_132,442.72,446.88,put down chopping board
+P02_123_133,445.04,445.84,pick up glove
+P02_123_134,446.99,448.94,wear glove
+P02_123_135,449.11,450.7,open oven
+P02_123_136,451.21,452.15,slide tray
+P02_123_137,452.08,456.41,close oven
+P02_123_138,459.4,459.99,pick up second glove
+P02_123_139,460.24,462.92,wear second glove
+P02_123_14,29.06,31.13,check knife
+P02_123_140,462.98,463.73,open oven
+P02_123_141,464.1,465.43,slide tray
+P02_123_142,465.53,467.63,pick up cake mould
+P02_123_143,467.7,468.5,close oven
+P02_123_144,468.47,469.59,put cake mould on hob
+P02_123_145,469.61,471.64,remove gloves
+P02_123_146,471.74,472.72,put down gloves
+P02_123_147,473.39,483.16,unfold baking paper
+P02_123_148,479.34,488.65,lift cake from mould
+P02_123_149,488.55,490.21,put cake on chopping board
+P02_123_15,31.23,34.76,stab cake
+P02_123_150,512.99,513.56,open drawer
+P02_123_151,513.66,514.66,pick up knife
+P02_123_152,514.76,515.31,close drawer
+P02_123_153,517.64,553.83,slide cake off baking paper using knife
+P02_123_154,559.44,559.91,put down knife
+P02_123_155,560.14,562.19,crumple paper
+P02_123_156,562.09,562.49,open bin
+P02_123_157,562.44,562.83,throw baking paper
+P02_123_158,562.93,563.44,close bin
+P02_123_159,564.94,565.69,pick up wooden spoon
+P02_123_16,34.85,36.01,check knife
+P02_123_160,565.38,567.22,hold pan
+P02_123_161,565.69,566.89,stir mixture in pan
+P02_123_162,567.14,577.96,pick up pan
+P02_123_163,568.18,571.01,pick up chopping board with cake
+P02_123_164,573.45,577.07,put down chopping board
+P02_123_165,577.87,580.19,stir mixture in pan
+P02_123_166,580.54,581.31,pick up knife
+P02_123_167,583.8,591.7,stab cake
+P02_123_168,591.72,592.85,put down knife
+P02_123_169,592.95,615.98,pour glaze from pan onto cake using wooden spoon
+P02_123_17,36.1,36.92,close oven
+P02_123_170,616.02,620.52,distribute pistachio on cake
+P02_123_171,625.77,626.82,put wooden spoon on pan
+P02_123_172,628.34,631.97,put pan in sink with wooden spoon
+P02_123_173,634.16,635.17,move chopping board
+P02_123_174,635.13,636.69,move chopping board
+P02_123_175,639.02,640.26,pick up cleaning cloth
+P02_123_176,641.77,644.66,wipe surface
+P02_123_177,644.64,651.85,wipe surface
+P02_123_178,654.54,655.66,open tap
+P02_123_179,655.63,660.11,wash cleaning cloth
+P02_123_18,36.68,38.4,put down knife
+P02_123_180,660.19,661.01,close tap
+P02_123_181,661.09,662.93,squeeze cleaning cloth
+P02_123_182,663.31,664.03,put down cleaning cloth
+P02_123_183,664.76,668.55,dry hands using towel
+P02_123_184,668.65,670.65,pick up apron
+P02_123_185,672.43,681.1,wear apron
+P02_123_186,681.39,683.91,pick up tray
+P02_123_187,684.43,686.0,pick up tray
+P02_123_188,687.56,688.71,pick up second tray
+P02_123_189,688.74,690.0,catch falling tray
+P02_123_19,38.65,43.16,set timer
+P02_123_190,690.1,693.47,pile trays
+P02_123_191,693.52,694.65,open cupboard
+P02_123_192,694.28,696.34,put trays in cupboard
+P02_123_193,699.65,700.64,close cupboard
+P02_123_194,702.51,703.09,pick up mug
+P02_123_195,705.52,707.05,hang mug on stand
+P02_123_196,709.58,710.18,pick up plate
+P02_123_197,711.59,713.19,open cupboard
+P02_123_198,712.96,715.5,put plate in cupboard
+P02_123_199,715.52,716.82,adjust water bottle
+P02_123_2,6.06,7.09,wear glove
+P02_123_20,45.08,45.74,put down glove
+P02_123_200,718.69,719.87,pick up mugs
+P02_123_201,719.89,720.87,put mugs in cupboard
+P02_123_202,720.97,723.12,pick up juicer pieces
+P02_123_203,724.62,725.38,open cupboard
+P02_123_204,725.41,726.97,put juicer pieces in cupboard
+P02_123_205,726.98,727.65,close cupboard
+P02_123_206,728.66,731.19,pick up food processor piece
+P02_123_207,731.29,733.46,open food processor cover
+P02_123_208,733.26,734.12,attach piece
+P02_123_209,733.99,737.24,return food processor cover
+P02_123_21,45.58,46.59,pick up pan and spatula
+P02_123_210,741.09,747.08,wear gloves
+P02_123_211,747.13,747.96,pick up sponge
+P02_123_212,748.04,748.9,pick up spatula
+P02_123_213,747.5,750.31,sponge spatula
+P02_123_214,750.11,751.17,open tap
+P02_123_215,750.78,751.37,wash sponge
+P02_123_216,751.13,751.85,close tap
+P02_123_217,751.95,752.84,pick up washing liquid
+P02_123_218,752.94,754.17,pour washing liquid onto sponge
+P02_123_219,754.1,755.32,put down washing liquid
+P02_123_22,47.3,48.38,put pan and spatula in sink
+P02_123_220,755.57,758.82,sponge spatula
+P02_123_221,758.83,759.44,put down sponge
+P02_123_222,759.54,760.76,open tap
+P02_123_223,760.22,764.45,rinse spatula
+P02_123_224,764.18,764.75,close tap
+P02_123_225,765.19,766.17,put down spatula
+P02_123_226,766.29,767.72,pick up pan
+P02_123_227,768.59,769.23,open tap
+P02_123_228,769.33,773.69,rinse pan
+P02_123_229,771.48,773.19,soak pan
+P02_123_23,48.78,49.42,open cupboard
+P02_123_230,773.03,773.83,close tap
+P02_123_231,776.84,778.28,move cake mould
+P02_123_232,778.38,779.38,put pan on hob
+P02_123_233,780.0,780.29,pick up sponge
+P02_123_234,780.3,780.99,pick up fork
+P02_123_235,781.11,783.71,sponge fork
+P02_123_236,784.21,784.88,pick up fork
+P02_123_237,785.22,787.65,sponge fork
+P02_123_238,788.03,788.53,pick up wooden spoon
+P02_123_239,789.0,794.94,sponge wooden spoon
+P02_123_24,49.5,50.95,open cupboard
+P02_123_240,794.81,795.34,put down sponge
+P02_123_241,795.63,796.46,open tap
+P02_123_242,796.42,799.99,rinse wooden spoon
+P02_123_243,799.99,800.49,close tap
+P02_123_244,800.62,801.35,put down wooden spoon
+P02_123_245,801.44,802.54,open tap
+P02_123_246,802.64,804.12,rinse forks
+P02_123_247,804.14,804.94,close tap
+P02_123_248,804.93,806.28,put down forks
+P02_123_249,806.3,806.64,pick up plate
+P02_123_25,51.5,53.92,pick up pan and pot
+P02_123_250,806.69,807.19,pick up sponge
+P02_123_251,807.23,812.38,sponge plate
+P02_123_252,812.23,813.33,put down sponge
+P02_123_253,813.05,814.02,open tap
+P02_123_254,813.95,819.09,rinse plate
+P02_123_255,819.27,819.98,close tap
+P02_123_256,819.84,821.55,put plate on dish drainer
+P02_123_257,821.5,822.65,pick up sponge
+P02_123_258,822.04,822.51,pick up washing liquid
+P02_123_259,822.55,823.83,pour washing liquid onto sponge
+P02_123_26,54.09,56.35,return pot to cupboard
+P02_123_260,823.79,824.59,put down washing liquid
+P02_123_261,824.61,826.58,pick up plate
+P02_123_262,826.35,833.61,sponge plate
+P02_123_263,831.0,832.82,put down sponge
+P02_123_264,832.87,834.24,open tap
+P02_123_265,834.25,840.9,rinse plate
+P02_123_266,841.0,841.87,close tap
+P02_123_267,841.97,843.45,put plate on dishes drainer
+P02_123_268,843.51,844.67,pick up glass
+P02_123_269,844.81,845.58,pick up sponge
+P02_123_27,57.57,58.62,put pan on hob
+P02_123_270,845.02,852.39,sponge glass
+P02_123_271,852.49,853.0,put down sponge
+P02_123_272,853.0,853.99,open tap
+P02_123_273,852.83,854.09,turn tap
+P02_123_274,854.19,861.77,rinse glass
+P02_123_275,861.86,862.8,close tap
+P02_123_276,862.83,864.52,put glass in dishes drainer
+P02_123_277,864.62,865.77,pick up glass
+P02_123_278,865.96,875.65,sponge glass
+P02_123_279,875.78,876.88,open tap
+P02_123_28,58.66,59.81,close cupboard
+P02_123_280,876.98,881.7,rinse glass
+P02_123_281,881.61,882.84,close tap
+P02_123_282,882.81,884.32,put glass in drainer
+P02_123_283,884.98,886.07,pick up mug
+P02_123_284,886.16,889.56,sponge mug
+P02_123_285,889.89,890.89,open tap
+P02_123_286,890.86,894.49,rinse mug
+P02_123_287,894.57,895.49,close tap
+P02_123_288,895.69,897.19,put mug in drainer
+P02_123_289,897.24,897.85,pick up hand blender piece
+P02_123_29,59.45,60.44,close cupboard
+P02_123_290,897.91,898.43,pick up sponge
+P02_123_291,898.49,906.05,sponge hand blender piece
+P02_123_292,906.14,906.59,put down sponge
+P02_123_293,906.67,907.64,open tap
+P02_123_294,907.74,915.31,rinse hand blender piece
+P02_123_295,915.33,916.31,close tap
+P02_123_296,917.2,917.83,put piece in drainer
+P02_123_297,917.67,919.78,pick up plate
+P02_123_298,919.88,920.26,pick up sponge
+P02_123_299,920.33,924.06,sponge plate
+P02_123_3,7.15,9.27,open oven
+P02_123_30,63.72,64.88,open fridge
+P02_123_300,924.16,924.88,open tap
+P02_123_301,925.46,929.98,rinse plate
+P02_123_302,929.96,930.62,close tap
+P02_123_303,930.86,931.8,put plate in drainer
+P02_123_304,931.9,933.41,pick up pan
+P02_123_305,933.44,934.47,sponge pan
+P02_123_306,934.52,935.23,open tap
+P02_123_307,935.4,936.3,rinse pan
+P02_123_308,936.32,936.97,close tap
+P02_123_309,936.7,937.82,open tap
+P02_123_31,64.71,66.79,open drawer
+P02_123_310,941.6,942.13,close tap
+P02_123_311,942.23,945.98,sponge pan
+P02_123_312,946.61,948.33,pick up washing liquid
+P02_123_313,947.45,949.09,pour washing liquid onto pan
+P02_123_314,949.05,949.73,put down washing liquid
+P02_123_315,949.73,951.2,pick up sponge
+P02_123_316,951.15,973.23,scrub pan
+P02_123_317,969.95,984.28,sponge pan
+P02_123_318,984.31,985.63,open tap
+P02_123_319,985.64,991.18,rinse pan
+P02_123_32,67.93,69.51,pick up scissors
+P02_123_320,991.28,992.33,close tap
+P02_123_321,994.15,995.37,open tap
+P02_123_322,995.17,996.67,rinse pan
+P02_123_323,996.12,996.83,close tap
+P02_123_324,996.61,998.33,put pan in drainer
+P02_123_325,1011.01,1033.88,empty sink
+P02_123_326,1034.93,1035.65,pick up bowl
+P02_123_327,1035.51,1036.47,pick up sponge
+P02_123_328,1035.87,1049.24,sponge bowl
+P02_123_329,1049.46,1050.57,open tap
+P02_123_33,70.88,72.91,cut mesh bag
+P02_123_330,1050.29,1059.58,rinse bowl
+P02_123_331,1059.79,1060.66,close tap
+P02_123_332,1061.16,1063.24,put bowl in drainer
+P02_123_333,1064.44,1064.77,pick up washing liquid
+P02_123_334,1064.95,1066.28,pour washing liquid onto sponge
+P02_123_335,1066.35,1066.97,put down washing liquid
+P02_123_336,1067.44,1068.02,pick up spoon
+P02_123_337,1068.0,1071.48,sponge spoon
+P02_123_338,1072.22,1072.61,open tap
+P02_123_339,1072.91,1075.52,rinse spoon
+P02_123_34,72.43,73.48,get lemon
+P02_123_340,1075.51,1076.15,put down spoon
+P02_123_341,1076.02,1076.67,close tap
+P02_123_342,1076.24,1078.65,pick up plate
+P02_123_343,1078.4,1082.84,sponge plate
+P02_123_344,1082.76,1083.86,open tap
+P02_123_345,1083.98,1087.78,rinse plate
+P02_123_346,1087.74,1088.33,close tap
+P02_123_347,1088.58,1089.71,put plate in drainer
+P02_123_348,1089.73,1090.28,pick up washing liquid
+P02_123_349,1090.38,1091.62,pour washing liquid onto sponge
+P02_123_35,73.4,74.4,close drawer
+P02_123_350,1091.7,1092.49,put down washing liquid
+P02_123_351,1092.52,1093.48,squeeze sponge
+P02_123_352,1093.04,1094.54,pick up mug
+P02_123_353,1094.23,1097.42,sponge mug
+P02_123_354,1097.94,1099.04,open tap
+P02_123_355,1099.01,1103.2,rinse mug
+P02_123_356,1103.21,1103.94,close tap
+P02_123_357,1104.0,1105.18,put down mug
+P02_123_358,1105.59,1107.36,pick up tea infuser
+P02_123_359,1107.12,1109.96,open tap
+P02_123_36,74.5,76.65,close fridge
+P02_123_360,1109.84,1115.0,rinse tea infuser
+P02_123_361,1114.84,1116.26,close tap
+P02_123_362,1116.48,1119.36,sponge tea infuser
+P02_123_363,1119.76,1120.74,open tap
+P02_123_364,1120.8,1124.09,rinse infuser
+P02_123_365,1124.16,1125.04,close tap
+P02_123_366,1125.04,1126.1,put down infuser
+P02_123_367,1126.1,1127.82,pick up wooden spoon
+P02_123_368,1127.87,1130.98,sponge wooden spoon
+P02_123_369,1131.08,1132.67,open tap
+P02_123_37,79.46,80.92,put scissors back on stand
+P02_123_370,1132.52,1134.07,rinse wooden spoon
+P02_123_371,1134.17,1134.69,close tap
+P02_123_372,1134.77,1135.55,put wooden spoon in drainer
+P02_123_373,1135.91,1136.8,pick up blender
+P02_123_374,1137.24,1138.44,open tap
+P02_123_375,1137.68,1139.4,rinse blender
+P02_123_376,1139.44,1140.05,close tap
+P02_123_377,1140.32,1142.2,open tap
+P02_123_378,1141.38,1143.03,rinse blender
+P02_123_379,1143.13,1143.58,close tap
+P02_123_38,84.51,85.26,pick up knife
+P02_123_380,1143.68,1144.52,pick up sponge
+P02_123_381,1145.62,1146.96,pick up washing liquid
+P02_123_382,1146.98,1148.21,pour washing liquid onto sponge
+P02_123_383,1148.12,1149.11,put down washing liquid
+P02_123_384,1149.91,1159.94,sponge blender
+P02_123_385,1160.08,1161.02,open tap
+P02_123_386,1161.12,1178.7,rinse blender
+P02_123_387,1178.78,1179.48,close tap
+P02_123_388,1179.7,1181.57,put blender in drainer
+P02_123_389,1181.51,1182.54,pick up sponge
+P02_123_39,84.89,85.43,put lemon on chopping board
+P02_123_390,1182.2,1182.77,pick up blender cover
+P02_123_391,1182.79,1186.77,sponge blender cover
+P02_123_392,1186.86,1187.97,open tap
+P02_123_393,1187.15,1192.36,rinse cover
+P02_123_394,1192.22,1194.54,close tap
+P02_123_395,1194.55,1196.54,put cover in drainer
+P02_123_396,1196.48,1199.14,pick up plastic cover
+P02_123_397,1199.2,1201.5,sponge cover
+P02_123_398,1202.01,1203.13,open tap
+P02_123_399,1203.09,1204.49,rinse cover
+P02_123_4,9.36,10.96,slide tray
+P02_123_40,85.52,87.62,cut lemon
+P02_123_400,1204.59,1205.71,close tap
+P02_123_401,1205.89,1207.39,put cover in drainer
+P02_123_402,1207.04,1218.11,empty sink
+P02_123_403,1217.88,1219.43,move washing liquid
+P02_123_404,1219.47,1220.49,pick up glass
+P02_123_405,1220.48,1221.49,put glass in sink
+P02_123_406,1222.33,1223.34,pick up tea infuser
+P02_123_407,1223.9,1224.71,put tea infuser inside glass
+P02_123_408,1225.67,1226.55,pick up tea infuser from glass
+P02_123_409,1245.34,1251.13,wipe surface
+P02_123_41,87.47,88.09,put down knife
+P02_123_410,1250.55,1254.18,move plate
+P02_123_411,1256.11,1256.9,open bin
+P02_123_412,1257.0,1261.19,empty tea infuser
+P02_123_413,1261.14,1262.2,close bin
+P02_123_414,1261.91,1263.64,open tap
+P02_123_415,1263.6,1267.77,rinse tea infuser
+P02_123_416,1267.5,1269.24,close tap
+P02_123_417,1269.5,1270.98,put tea infuser in drainer
+P02_123_418,1273.09,1274.22,pick up glass
+P02_123_419,1274.12,1274.57,pick up sponge
+P02_123_42,88.05,89.06,pick up lemon halves
+P02_123_420,1274.39,1281.76,sponge glass
+P02_123_421,1281.79,1282.77,open tap
+P02_123_422,1282.87,1289.36,rinse glass
+P02_123_423,1289.16,1290.86,close tap
+P02_123_424,1291.24,1293.47,put glass in drainer
+P02_123_425,1294.1,1294.85,pick up plate
+P02_123_426,1294.88,1295.72,put plate in sink
+P02_123_427,1295.5,1296.51,pick up grater
+P02_123_428,1296.57,1298.96,sponge grater
+P02_123_429,1298.9,1299.85,open tap
+P02_123_43,90.73,91.84,put down lemon halves
+P02_123_430,1299.57,1302.21,rinse grater
+P02_123_431,1302.29,1302.87,close tap
+P02_123_432,1303.38,1305.29,put down grater
+P02_123_433,1306.0,1307.3,pick up cutlery
+P02_123_434,1307.4,1309.25,put cutlery in sink
+P02_123_435,1309.06,1309.65,pick up knife
+P02_123_436,1309.7,1310.26,put knife in sink
+P02_123_437,1310.32,1310.78,pick up chopping board
+P02_123_438,1310.77,1312.3,sponge chopping board
+P02_123_439,1312.13,1312.85,put chopping board in sink
+P02_123_44,92.2,94.19,open cupboard
+P02_123_440,1312.91,1313.59,pick up glass
+P02_123_441,1313.66,1315.22,open tap
+P02_123_442,1315.24,1316.47,fill glass
+P02_123_443,1315.44,1316.38,close tap
+P02_123_444,1316.34,1317.62,put glass in sink
+P02_123_445,1320.69,1322.04,pick up pan
+P02_123_446,1322.06,1323.59,put pan in sink
+P02_123_447,1325.32,1326.14,pick up cake mould
+P02_123_448,1329.2,1330.42,open tap
+P02_123_449,1330.28,1341.56,soak cake mould
+P02_123_45,94.18,95.28,pick up water bottle
+P02_123_450,1341.49,1342.3,close tap
+P02_123_451,1343.07,1345.3,put down cake mould
+P02_123_452,1345.38,1346.44,pick up spoon
+P02_123_453,1347.53,1348.63,pick up glass
+P02_123_454,1348.88,1350.02,move glass
+P02_123_455,1351.79,1352.46,pick up lemon peel
+P02_123_456,1352.34,1353.07,pick up squeezer
+P02_123_457,1355.98,1357.04,open compost bin
+P02_123_458,1357.04,1357.55,throw lemon peel
+P02_123_459,1360.54,1361.54,put down squeezer
+P02_123_46,95.25,97.4,pick up squeezer
+P02_123_460,1361.94,1363.49,close cupboard
+P02_123_461,1363.59,1365.59,close cupboard
+P02_123_462,1371.4,1372.44,pick up knife
+P02_123_463,1371.35,1372.16,pick up chopping board
+P02_123_464,1374.16,1374.99,put knife in sink
+P02_123_465,1374.91,1378.05,sponge chopping board
+P02_123_466,1378.04,1379.04,open tap
+P02_123_467,1379.14,1380.65,rinse chopping board
+P02_123_468,1380.42,1381.2,close tap
+P02_123_469,1381.42,1383.75,put down chopping board
+P02_123_47,97.48,98.09,return water bottle to cupboard
+P02_123_470,1385.18,1387.47,dry hands using towel
+P02_123_471,1387.57,1393.99,take off apron
+P02_123_472,1392.16,1396.12,put down apron
+P02_123_48,97.87,98.51,put down squeezer
+P02_123_49,98.77,99.67,close cupboard
+P02_123_5,10.96,13.85,close oven
+P02_123_50,99.71,100.51,pick up lemon half
+P02_123_51,100.85,101.51,hold squeezer
+P02_123_52,101.14,105.27,squeeze lemon
+P02_123_53,130.37,131.4,put down lemon peel
+P02_123_54,131.5,132.39,pick up second lemon half
+P02_123_55,133.1,154.28,squeeze lemon
+P02_123_56,154.36,155.6,pick up first lemon peel
+P02_123_57,158.67,159.38,open compost bin
+P02_123_58,159.22,159.66,throw lemon peels
+P02_123_59,159.74,160.12,close compost bin
+P02_123_6,16.69,17.44,open drawer
+P02_123_60,162.68,163.17,switch on lights
+P02_123_61,165.5,166.27,pick up squeezer
+P02_123_62,166.13,177.63,pour lemon juice from squeezer into pan
+P02_123_63,178.62,180.24,put down squeezer
+P02_123_64,183.63,184.47,open fridge
+P02_123_65,184.84,185.86,open drawer
+P02_123_66,185.86,188.25,pick up lemon
+P02_123_67,188.15,189.16,close drawer
+P02_123_68,189.19,190.08,close fridge
+P02_123_69,190.57,191.15,pick up knife
+P02_123_7,17.43,18.6,pick up knife
+P02_123_70,191.25,191.66,put lemon on chopping board
+P02_123_71,191.51,193.56,cut lemon into halves
+P02_123_72,193.66,194.22,put down knife
+P02_123_73,193.81,194.54,pick up lemon halves
+P02_123_74,195.89,196.75,open fridge
+P02_123_75,197.34,198.32,put lemon half in fridge
+P02_123_76,202.57,204.07,squeeze lemon
+P02_123_77,204.12,216.27,hold squeezer
+P02_123_78,216.13,217.2,put down lemon peel
+P02_123_79,217.3,218.85,pick up squeezer
+P02_123_8,18.24,19.08,close drawer
+P02_123_80,220.29,224.7,pour lemon juice from squeezer onto pan
+P02_123_81,224.89,226.41,put down squeezer
+P02_123_82,228.51,229.89,pick up doritos
+P02_123_83,230.25,231.0,put down doritos
+P02_123_84,231.7,233.88,pick up bag of sugar
+P02_123_85,233.69,234.83,put down bag of sugar
+P02_123_86,235.55,237.64,open cupboard
+P02_123_87,237.84,238.83,pick up glass
+P02_123_88,240.54,241.19,put down glass
+P02_123_89,241.15,245.82,open pack of sugar
+P02_123_9,21.48,22.3,put down knife
+P02_123_90,245.62,246.68,pick up bag of sugar
+P02_123_91,246.51,259.63,pour sugar from bag into glass
+P02_123_92,259.3,261.72,put down bag
+P02_123_93,260.81,264.04,close bag of sugar
+P02_123_94,264.14,266.0,return sugar bag into cupboard
+P02_123_95,266.39,267.01,pick up glass
+P02_123_96,267.33,268.54,pour sugar from glass into pan
+P02_123_97,269.19,271.04,put down glass
+P02_123_98,270.96,273.38,switch on hob
+P02_123_99,273.97,274.9,open drawer

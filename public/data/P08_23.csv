@@ -1,0 +1,294 @@
+P08_23_0,1.3,2.52,enter kitchen
+P08_23_1,3.96,5.02,open fridge
+P08_23_10,36.93,41.6,place spring onion
+P08_23_100,516.81,526.43,chop salad
+P08_23_101,526.67,529.8,put salad in bowl
+P08_23_102,533.61,537.79,get salad leaves
+P08_23_103,537.89,545.08,chop the leaves
+P08_23_104,545.2,547.68,place leaves in bowl
+P08_23_105,548.65,553.77,get mint
+P08_23_106,554.39,581.51,chop mint
+P08_23_108,581.18,582.94,place mint in bowl
+P08_23_109,582.93,587.73,get spinach leaves
+P08_23_11,41.92,45.28,put back spring onion
+P08_23_110,587.6,590.21,wipe water excess
+P08_23_111,589.67,594.31,stem the leaves
+P08_23_112,598.2,633.13,still take off leaves stems
+P08_23_113,627.26,650.78,still take off spinach stems
+P08_23_114,650.88,654.96,place spinach on cutting board
+P08_23_115,655.06,672.17,cutting spinach leaves
+P08_23_116,672.27,675.18,place leaves in bowl
+P08_23_117,675.24,680.35,place leaves on cutting board
+P08_23_118,684.37,693.09,cut leaves
+P08_23_119,694.64,696.57,get one leaf
+P08_23_12,52.27,54.53,close fridge
+P08_23_120,696.67,699.38,place in bowl
+P08_23_121,699.48,700.92,get spring onions
+P08_23_122,702.97,711.92,cut spring onions
+P08_23_123,708.34,719.59,still cutting spring onions
+P08_23_124,734.84,743.17,finish cut spring onions
+P08_23_125,743.27,758.41,chop more
+P08_23_126,761.37,764.59,throw away leaf bits
+P08_23_127,769.4,774.0,cleaning kitchen sink
+P08_23_128,774.1,781.03,getting bits
+P08_23_129,781.1,783.25,throw away lids
+P08_23_13,58.39,61.88,throw bits away
+P08_23_130,783.7,784.55,tap on
+P08_23_131,784.5,786.47,wash hands
+P08_23_132,786.31,787.06,tap off
+P08_23_133,787.7,796.55,cleaning kitchen surface
+P08_23_134,796.64,800.09,clean kitchen sink
+P08_23_135,800.03,801.4,throw away lids
+P08_23_136,801.35,803.85,place potatoes
+P08_23_137,803.36,804.69,get garlic
+P08_23_138,805.19,806.63,close cupboard
+P08_23_139,808.66,810.0,wash off hands
+P08_23_14,62.37,63.76,turn on light
+P08_23_140,810.85,812.52,get plastic bag
+P08_23_141,813.93,816.97,close it
+P08_23_142,818.6,820.52,open fridge
+P08_23_143,820.24,822.55,place bag
+P08_23_144,822.65,824.67,close fridge
+P08_23_145,824.51,825.52,get bowl
+P08_23_146,825.61,826.8,gets chilli
+P08_23_147,829.62,831.09,tap on
+P08_23_148,830.37,831.61,wash chilli
+P08_23_15,64.26,67.71,get the salad
+P08_23_150,838.85,843.82,search for plate
+P08_23_151,844.15,846.45,get plate
+P08_23_152,846.47,847.35,move bowl
+P08_23_153,847.05,848.05,place plate
+P08_23_154,849.15,854.15,place spring onion
+P08_23_155,855.61,874.41,cut chilli
+P08_23_156,863.69,888.98,still cutting chilli
+P08_23_157,881.67,888.6,still cut chilli
+P08_23_158,889.98,891.87,throw away chilli bits
+P08_23_159,895.51,902.84,cut finely
+P08_23_16,70.47,71.01,get the spinach and mint
+P08_23_160,902.94,917.76,cut finely the chilli
+P08_23_161,922.37,938.69,still cut finely chilli
+P08_23_162,939.44,947.68,finish cut chilli
+P08_23_163,951.14,952.07,open microwave
+P08_23_164,952.12,953.3,open drawer
+P08_23_165,953.91,955.29,get fork
+P08_23_166,955.78,968.44,check potato
+P08_23_167,956.08,968.31,check potatoes
+P08_23_168,968.35,970.27,close microwave
+P08_23_169,969.77,970.62,place fork
+P08_23_17,73.1,73.99,open cupboard
+P08_23_170,971.01,971.77,open cupboard
+P08_23_171,973.59,975.24,get bowl
+P08_23_172,975.48,976.54,close cupboard
+P08_23_173,976.64,978.24,open microwave
+P08_23_174,977.34,978.59,place bowl
+P08_23_175,982.73,984.52,close microwave
+P08_23_176,984.12,985.93,start microwave
+P08_23_177,989.72,1001.92,take skins off garlic
+P08_23_178,1006.44,1012.27,put chilli on plate
+P08_23_179,1012.91,1013.83,get garlic
+P08_23_18,74.05,77.1,search bowl
+P08_23_180,1013.9,1016.08,press garlic
+P08_23_181,1016.67,1022.4,press garlic
+P08_23_182,1023.19,1027.44,take skins off garlic
+P08_23_183,1027.83,1034.67,take skins off garlic
+P08_23_184,1034.76,1036.08,place garlic
+P08_23_185,1038.95,1040.82,press garlic
+P08_23_186,1041.28,1045.36,take skins off garlic
+P08_23_187,1050.89,1053.23,press garlic
+P08_23_188,1054.34,1061.09,take skins off garlic
+P08_23_189,1061.01,1069.34,take skins off garlic
+P08_23_19,77.2,83.35,get bowl
+P08_23_190,1072.33,1075.74,throw away garlic bits
+P08_23_191,1076.59,1077.18,tap off
+P08_23_192,1077.17,1078.67,wash hands
+P08_23_193,1079.28,1080.33,wipe off
+P08_23_194,1080.52,1081.85,take garlic press
+P08_23_195,1082.69,1083.55,open cupboard
+P08_23_196,1083.9,1085.11,take bowl
+P08_23_197,1084.44,1088.08,place bowl
+P08_23_198,1089.74,1091.46,put garlic in garlic press
+P08_23_199,1091.56,1094.33,squeeze
+P08_23_2,5.9,7.55,get bowl
+P08_23_20,83.51,85.66,place bowl
+P08_23_200,1094.43,1098.68,put garlic in garlic press
+P08_23_201,1098.65,1101.11,squeeze the press
+P08_23_202,1103.75,1105.77,put garlic in garlic press
+P08_23_203,1105.61,1107.79,squeeze press
+P08_23_204,1107.75,1110.02,use knife
+P08_23_205,1109.44,1112.3,put garlic in bowl
+P08_23_206,1120.22,1130.52,put the rest of garlic
+P08_23_207,1131.16,1131.94,tap on
+P08_23_208,1131.75,1132.83,wash hands
+P08_23_209,1132.95,1134.03,wipe off
+P08_23_21,86.22,89.11,get colander
+P08_23_210,1135.46,1137.18,open microwave
+P08_23_211,1138.02,1141.99,get potatoes
+P08_23_212,1142.09,1144.73,place potatoes in bowl
+P08_23_213,1144.83,1149.23,get potatoes
+P08_23_214,1149.33,1152.22,place potatoes in bowl
+P08_23_215,1152.32,1154.43,get potato
+P08_23_216,1155.0,1156.64,close microwave
+P08_23_217,1157.36,1160.95,start microwave
+P08_23_218,1163.23,1164.31,open cupboard
+P08_23_219,1164.2,1165.39,get olive oil
+P08_23_22,91.45,92.35,place colander
+P08_23_220,1165.46,1166.35,get salt
+P08_23_221,1166.45,1169.38,pour salt
+P08_23_222,1169.35,1172.73,pour olive oil
+P08_23_223,1174.76,1180.65,mix garlic in mortar bowl
+P08_23_224,1177.65,1201.43,still mix garlic
+P08_23_225,1182.01,1185.01,press garlic in mortar bowl
+P08_23_226,1201.19,1204.54,add chilli in bowl
+P08_23_227,1209.02,1214.93,still mix garlic
+P08_23_228,1215.96,1216.97,open cupboard
+P08_23_229,1216.82,1217.94,open fridge
+P08_23_23,92.98,94.91,tap on
+P08_23_230,1219.47,1220.34,get yoghurt
+P08_23_231,1222.87,1225.58,open yoghurt bowl
+P08_23_232,1226.74,1227.98,open drawer
+P08_23_233,1228.06,1233.63,get spoon
+P08_23_234,1236.73,1240.6,pour yoghurt
+P08_23_235,1240.38,1252.92,mix yoghurt in bowl
+P08_23_236,1248.0,1266.48,mix yoghurt in bowl
+P08_23_237,1253.65,1257.01,pour yoghurt
+P08_23_238,1273.71,1276.3,place pesto
+P08_23_239,1275.88,1284.14,add yoghurt
+P08_23_24,95.56,102.34,wash salad in sink
+P08_23_240,1284.24,1291.24,mix yoghurt in bowl
+P08_23_241,1291.34,1293.56,close yoghurt
+P08_23_242,1294.43,1295.63,open fridge
+P08_23_243,1295.57,1296.86,place yoghurt
+P08_23_244,1297.16,1298.1,close fridge
+P08_23_245,1299.61,1301.0,wipe hands
+P08_23_246,1300.88,1304.09,move bowl
+P08_23_247,1304.43,1306.61,take plate
+P08_23_248,1309.03,1311.68,put chilli in salad
+P08_23_249,1311.65,1320.11,pour spring onion over salad
+P08_23_25,102.91,106.46,get salad leaves
+P08_23_250,1320.01,1322.13,place plate
+P08_23_251,1322.11,1323.79,place bowl
+P08_23_252,1324.64,1325.71,tap on
+P08_23_253,1327.23,1328.35,wipe hands
+P08_23_254,1328.39,1329.41,open cupboard
+P08_23_255,1328.6,1330.13,place garlic
+P08_23_256,1330.23,1331.99,wipe hands
+P08_23_257,1333.2,1334.81,open dishwasher
+P08_23_258,1335.61,1336.67,close dishwasher
+P08_23_259,1339.19,1343.69,check kiwi
+P08_23_26,106.32,111.22,wash salad
+P08_23_260,1343.95,1344.81,get bell pepper
+P08_23_261,1346.04,1347.19,tap on
+P08_23_262,1347.02,1348.16,wash bell pepper
+P08_23_263,1350.24,1353.01,cut bell pepper
+P08_23_264,1352.96,1364.47,remove stems
+P08_23_265,1364.57,1372.31,wash bell pepper
+P08_23_266,1372.41,1381.66,wash bell pepper
+P08_23_267,1379.46,1380.97,close tap
+P08_23_268,1383.31,1384.31,get food processor
+P08_23_269,1384.41,1391.76,place food processor back
+P08_23_27,114.69,116.8,still washing salad
+P08_23_270,1391.96,1394.56,open microwave
+P08_23_271,1395.11,1402.37,check potato
+P08_23_272,1402.27,1403.94,close microwave
+P08_23_273,1408.16,1415.26,cut bell pepper
+P08_23_274,1416.3,1421.33,place bell pepper in food processor
+P08_23_275,1422.95,1424.93,close food processor
+P08_23_276,1424.92,1429.51,turn on food processor
+P08_23_277,1429.16,1431.79,turn off
+P08_23_278,1433.66,1435.31,open drawer
+P08_23_279,1434.91,1436.68,get chopstick
+P08_23_28,116.9,117.89,taking stem off
+P08_23_280,1436.53,1442.49,move the bell pepper
+P08_23_281,1451.52,1453.03,start food processor
+P08_23_282,1457.17,1459.74,stop food processor
+P08_23_283,1463.17,1464.52,open food processor
+P08_23_284,1464.37,1491.02,place bell pepper in bowl
+P08_23_285,1489.91,1496.56,mixed salad
+P08_23_286,1496.97,1500.57,place away food processor
+P08_23_287,1500.84,1504.6,get bit
+P08_23_288,1504.7,1506.19,throw away bit
+P08_23_289,1507.03,1513.4,get bell pepper bit
+P08_23_29,119.81,122.98,get more leaf
+P08_23_290,1513.5,1514.69,throw away bit
+P08_23_291,1514.79,1516.57,open water
+P08_23_292,1516.36,1517.69,wash hands
+P08_23_293,1517.79,1518.73,tap off
+P08_23_294,1519.62,1521.69,get kitchen towel
+P08_23_295,1521.21,1524.06,wipe of hands
+P08_23_296,1524.16,1529.53,open microwave
+P08_23_3,8.79,10.21,get spinach
+P08_23_30,123.34,129.91,wash the leaf
+P08_23_31,133.4,149.03,still wash salad leaves
+P08_23_33,156.75,157.84,get knife
+P08_23_34,159.36,173.95,cut spring onion
+P08_23_35,168.67,191.25,still cut spring onion leaves
+P08_23_36,175.29,184.05,cut spring onion skins
+P08_23_37,191.1,191.93,take spring onion
+P08_23_38,192.67,198.67,wash spring onions
+P08_23_39,198.96,200.77,wash bowl
+P08_23_4,10.85,14.09,get mint
+P08_23_40,201.21,203.56,turn water off
+P08_23_41,203.96,210.16,get spinach
+P08_23_42,210.2,211.53,turn water on
+P08_23_43,211.72,216.02,wash spinach leaves
+P08_23_44,217.28,218.86,get spinach leaves
+P08_23_45,219.38,222.14,wash spinach leaves
+P08_23_46,223.49,223.99,place spinach
+P08_23_47,226.32,229.56,wash spinach
+P08_23_48,229.6,231.1,place spinach
+P08_23_49,237.05,237.56,place spinach
+P08_23_5,12.4,15.07,get salad
+P08_23_50,239.74,250.0,wash spinach leaves
+P08_23_51,250.09,252.49,place spinach leaves
+P08_23_52,250.74,252.07,place spinach
+P08_23_53,256.48,259.18,wash spinach leaves
+P08_23_54,264.88,266.7,get mint stems
+P08_23_55,267.67,280.1,take mint leaves
+P08_23_56,267.89,281.39,take mint stem
+P08_23_57,280.75,283.59,get mint leaves
+P08_23_58,298.82,300.24,wash mint leaves
+P08_23_59,300.26,304.33,turn water off
+P08_23_6,17.22,19.04,open salad
+P08_23_60,304.93,308.72,place mint leaves
+P08_23_61,313.32,315.53,get chopping board
+P08_23_62,315.93,317.85,get kitchen towel
+P08_23_63,318.41,320.26,place kitchen towel
+P08_23_64,321.2,323.18,get salad leaves
+P08_23_65,323.64,327.09,place salad leaves on kitchen towel
+P08_23_66,328.4,329.99,get kitchen towel
+P08_23_67,329.89,335.32,wipe salad leaves
+P08_23_68,335.42,336.33,open cupboard
+P08_23_69,337.81,341.28,open plastic bag
+P08_23_7,18.85,21.04,get one salad
+P08_23_70,341.8,345.48,get sweet potato
+P08_23_71,345.86,357.46,get baby potatoes
+P08_23_72,357.75,359.25,open tap
+P08_23_73,359.05,367.01,clean baby potatoes
+P08_23_74,366.96,369.11,place potatoes
+P08_23_75,369.3,375.87,get baby potatoes
+P08_23_76,375.56,380.62,wash potatoes
+P08_23_77,378.68,380.0,turn tap off
+P08_23_78,381.3,383.21,place potatoes
+P08_23_79,383.71,384.82,open cupboard
+P08_23_8,24.91,27.64,get spring onion
+P08_23_80,385.34,387.57,get plate
+P08_23_81,388.88,395.42,place potatoes
+P08_23_82,397.1,398.83,open microwave
+P08_23_83,398.65,400.42,place pan
+P08_23_84,400.81,401.54,close microwave
+P08_23_85,401.71,405.55,turn on microwave
+P08_23_86,407.36,408.52,close cupboard
+P08_23_87,410.45,421.93,get salad leaves
+P08_23_88,421.36,423.32,get knife
+P08_23_89,424.22,440.72,chop salad leaves
+P08_23_9,30.01,36.06,open spring onion
+P08_23_90,431.39,454.61,still cut salad leaves
+P08_23_91,454.99,459.81,place salad leaves in bowl
+P08_23_92,461.89,471.92,get more salad leaves
+P08_23_93,471.12,474.62,wipe water off salad leaves
+P08_23_94,475.1,494.11,chop salad
+P08_23_95,493.82,494.82,throw bit away
+P08_23_96,495.03,497.59,put salad in bowl
+P08_23_97,497.39,500.46,get more salad
+P08_23_98,500.31,501.88,wipe off salad
+P08_23_99,515.85,517.04,throw salad bits away

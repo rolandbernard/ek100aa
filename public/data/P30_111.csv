@@ -1,0 +1,635 @@
+P30_111_0,2.33,3.25,pick up teapot
+P30_111_1,3.34,4.06,pick up teapot strainer
+P30_111_10,18.5,19.26,put tonic water bottle in fridge
+P30_111_100,187.65,188.25,move knife
+P30_111_101,188.2,200.11,break garlic clove into pieces
+P30_111_102,200.08,201.46,put garlic clove on chopping board
+P30_111_103,201.73,203.42,put garlic bulb into cupboard
+P30_111_104,214.24,216.37,move olive oil bottle
+P30_111_105,220.98,222.16,pick up onion
+P30_111_106,222.26,222.81,close cupboard
+P30_111_107,222.9,223.96,put down onion
+P30_111_108,224.05,224.78,pick up knife
+P30_111_109,224.87,227.04,chop up garlic
+P30_111_11,20.26,21.56,close fridge
+P30_111_110,227.13,229.67,press garlic
+P30_111_111,228.82,230.91,move garlic skin
+P30_111_112,231.07,240.38,scrape garlic skin off chopping board
+P30_111_113,243.82,244.91,pick up knife
+P30_111_114,244.93,248.2,chop garlic
+P30_111_115,256.82,257.72,pick up garlic piece
+P30_111_116,257.35,265.91,chop garlic
+P30_111_117,266.01,282.08,dice garlic
+P30_111_118,282.07,283.92,scrape garlic pieces off knife
+P30_111_119,283.94,286.26,gather garlic pieces with knife
+P30_111_12,24.33,25.29,open cupboard
+P30_111_120,286.32,287.48,pick up chopping board
+P30_111_121,288.07,295.29,scrape garlic pieces into pan
+P30_111_122,296.78,297.58,put down chopping board
+P30_111_123,297.12,297.81,put down knife
+P30_111_124,298.86,299.61,move onion
+P30_111_125,296.0,299.5,gather garlic skin pieces
+P30_111_126,302.6,309.44,scrape garlic skin pieces into hand
+P30_111_127,307.3,312.23,throw garlic skin pieces into bin
+P30_111_128,312.3,313.05,gather garlic skin pieces into hand
+P30_111_129,313.15,313.65,throw garlic skin pieces into bin
+P30_111_13,25.74,27.05,open bread bin
+P30_111_130,321.81,329.18,shake pan
+P30_111_131,323.98,329.82,put down pan
+P30_111_132,329.92,331.11,open drawer
+P30_111_133,331.21,333.3,pick up spoon
+P30_111_134,331.89,332.8,put down spoon
+P30_111_135,331.0,333.52,close drawer
+P30_111_136,334.38,335.59,adjust heat
+P30_111_137,336.45,337.36,move pizza base
+P30_111_138,337.72,338.39,turn on tap
+P30_111_139,338.4,339.75,move tap
+P30_111_14,28.36,29.52,put roll into bread bin
+P30_111_140,341.61,343.19,wash hand
+P30_111_141,344.54,345.2,apply soap to hands
+P30_111_142,345.27,347.31,wash hands
+P30_111_143,348.18,349.17,rinse hands
+P30_111_144,351.25,351.79,turn off tap
+P30_111_145,353.75,356.5,dry hands
+P30_111_146,356.67,358.74,open fridge
+P30_111_147,359.75,360.95,pick up water jug
+P30_111_148,362.2,362.9,open cupboard
+P30_111_149,363.03,364.25,pick up glass
+P30_111_15,30.0,32.5,take cheese from bag
+P30_111_150,364.7,365.21,close cupboard
+P30_111_151,365.3,366.18,put down glass
+P30_111_152,366.56,369.38,fill glass with water from water jug
+P30_111_153,370.58,371.54,open fridge
+P30_111_154,371.6,372.47,put water jug into fridge
+P30_111_155,372.26,373.17,close fridge
+P30_111_156,373.39,374.9,pick up pizza bases
+P30_111_157,375.21,375.97,pick up glass
+P30_111_158,375.8,380.84,drink water
+P30_111_159,380.82,381.61,put down glass
+P30_111_16,32.24,33.22,take radishes from bag
+P30_111_160,381.58,384.94,put down pizza bases
+P30_111_161,386.13,386.56,pick up knife
+P30_111_162,386.66,387.17,pick up onion
+P30_111_163,387.68,390.22,cut onion in half
+P30_111_164,390.57,393.1,remove skin from onion
+P30_111_165,393.97,394.75,cut top off onion
+P30_111_166,395.35,396.95,scrape onion skin off chopping board
+P30_111_167,397.05,397.55,pick up onion
+P30_111_168,397.71,403.05,remove skin from onion
+P30_111_169,403.02,403.76,put down onion
+P30_111_17,32.95,37.25,take hummus from bag
+P30_111_170,403.85,404.86,pick up knife
+P30_111_171,404.72,409.71,slice onion
+P30_111_172,409.2,412.2,move onion piece off chopping board
+P30_111_173,414.37,414.65,put down knife
+P30_111_174,417.15,417.9,pick up spoon
+P30_111_175,417.93,428.75,stir garlic
+P30_111_176,429.83,433.69,break up garlic pieces
+P30_111_177,433.02,441.29,stir garlic
+P30_111_178,440.7,441.76,put down spoon
+P30_111_179,449.0,450.01,pick up passata bottle
+P30_111_18,36.4,37.16,take butter from bag
+P30_111_180,449.96,451.12,open passata bottle
+P30_111_181,451.18,457.17,smell passata
+P30_111_182,453.46,455.03,inspect passata
+P30_111_183,460.16,461.44,pour passata into pan
+P30_111_184,464.0,464.83,put down passata lid
+P30_111_185,465.14,465.72,turn on tap
+P30_111_186,465.78,466.86,pour water into passata bottle
+P30_111_187,466.8,467.56,pick up passata lid
+P30_111_188,467.59,468.51,close passata bottle
+P30_111_189,468.54,470.17,shake passata bottle
+P30_111_19,37.0,38.0,put bag down side board
+P30_111_190,470.11,470.84,open passata bottle
+P30_111_191,470.94,473.08,pour passata into pan
+P30_111_192,475.19,475.69,turn on tap
+P30_111_193,475.83,478.09,fill passata bottle with water
+P30_111_194,477.72,478.11,turn off tap
+P30_111_195,477.75,478.0,pour water from bottle into sink
+P30_111_196,479.17,480.04,turn on tap
+P30_111_197,480.14,480.72,rinse bottle lid
+P30_111_198,481.25,482.14,rinse bottle
+P30_111_199,482.79,484.87,fill bottle with water
+P30_111_2,4.12,5.02,put teapot strainer in teapot
+P30_111_20,39.44,39.74,pick up butter
+P30_111_200,484.12,484.75,turn off tap
+P30_111_201,484.9,485.4,put lid on bottle
+P30_111_202,485.92,488.87,shake bottle
+P30_111_203,488.85,489.41,open bottle
+P30_111_204,489.55,490.47,empty water from passata bottle into sink
+P30_111_205,491.0,493.12,move recycling box
+P30_111_206,499.5,499.89,put passata bottle in recycling box
+P30_111_207,500.51,502.9,move recycling box
+P30_111_208,507.5,507.94,put passata bottle lid into recycling box
+P30_111_209,508.05,508.99,pick up iron packaging
+P30_111_21,39.95,40.75,pick up hummus
+P30_111_210,509.25,509.57,put iron packaging in recycling box
+P30_111_211,509.42,510.62,move recycling box
+P30_111_212,511.45,512.95,pick up spoon
+P30_111_213,512.39,519.11,stir passata mixture
+P30_111_214,519.21,519.77,adjust heat
+P30_111_215,519.0,529.52,stir passata mixture
+P30_111_216,520.23,536.35,pick up pepper cellar
+P30_111_217,533.28,535.62,grind pepper into passata mixture
+P30_111_218,537.64,539.14,pick up salt cellar
+P30_111_219,538.87,544.29,grind salt into passata mixture
+P30_111_22,42.79,43.73,open fridge
+P30_111_220,545.64,547.39,open cupboards
+P30_111_221,549.74,552.34,pick up herb jar
+P30_111_222,553.64,554.14,unscrew herb jar
+P30_111_223,554.23,555.79,smell herbs
+P30_111_224,556.5,561.69,pour herbs into passata mixture
+P30_111_225,561.35,562.65,close herb jar
+P30_111_226,563.66,566.28,put herb jar into cupboard
+P30_111_227,566.37,567.76,close cupboard
+P30_111_228,569.67,572.23,gather onion skin pieces
+P30_111_229,572.21,573.17,pick up onion skin pieces
+P30_111_23,43.7,45.88,put hummus in fridge
+P30_111_230,573.18,575.52,gather onion skin pieces
+P30_111_231,575.56,576.71,pick up onion skin pieces
+P30_111_232,577.28,579.57,throw onion skin pieces into bin
+P30_111_233,581.75,582.35,pick up knife
+P30_111_234,582.28,586.98,cut packaging of pizza bases
+P30_111_235,587.28,588.2,pick up pizza bases
+P30_111_236,589.71,590.71,put pizza bases down
+P30_111_237,590.79,591.96,open oven
+P30_111_238,591.62,593.09,take grill pan from oven
+P30_111_239,592.94,593.98,close oven
+P30_111_24,45.3,47.05,put butter in fridge
+P30_111_240,594.49,595.33,pick up olive oil
+P30_111_241,595.29,596.34,pick up pizza bases
+P30_111_242,596.41,597.63,put grill tray down
+P30_111_243,597.51,600.14,put pizza bases on grill tray
+P30_111_244,599.73,602.11,separate pizza bases
+P30_111_245,604.05,605.29,put pizza base packaging in recycling box
+P30_111_246,604.41,606.85,put pizza base packaging in bin
+P30_111_247,609.06,610.2,put olive oil down
+P30_111_248,613.76,616.0,stir mixture
+P30_111_249,616.01,618.41,adjust temperature on oven
+P30_111_25,47.25,49.25,take pizza bases from fridge
+P30_111_250,618.39,620.3,turn oven on
+P30_111_251,620.25,624.57,stir mixture
+P30_111_252,622.7,629.45,shake saucepan
+P30_111_253,630.39,632.46,pick up cheese packet
+P30_111_254,632.13,633.15,open drawer
+P30_111_255,631.0,633.66,take scissors
+P30_111_256,634.01,638.35,open cheese packet
+P30_111_257,638.45,639.08,put scissors in drawer
+P30_111_258,639.4,640.15,pick up packaging
+P30_111_259,640.21,641.75,put packaging in bin
+P30_111_26,48.89,52.18,take passata from fridge
+P30_111_260,641.71,642.88,close drawer
+P30_111_261,642.98,645.02,open cheese packet
+P30_111_262,645.05,646.5,shake cheese packet
+P30_111_263,647.71,648.29,pick up radishes
+P30_111_264,649.4,650.69,open fridge
+P30_111_265,650.24,652.02,put radishes in fridge
+P30_111_266,652.12,654.92,take tonic water bottle from fridge
+P30_111_267,655.02,655.75,close fridge
+P30_111_268,655.85,656.76,open freezer
+P30_111_269,656.86,658.32,put tonic water bottle in freezer
+P30_111_27,51.73,52.41,put down pizza bases
+P30_111_270,660.29,661.95,adjust tonic water bottle position
+P30_111_271,661.54,662.79,close freezer
+P30_111_272,667.67,668.7,open fridge
+P30_111_273,668.73,670.12,take salami packets
+P30_111_274,670.22,671.26,close fridge
+P30_111_275,672.32,673.28,move packet of cheese
+P30_111_276,673.16,674.07,put salami packets down
+P30_111_277,674.84,676.38,open fridge
+P30_111_278,676.84,677.93,take scotch egg box
+P30_111_279,678.52,680.29,open scotch egg box
+P30_111_28,52.49,54.14,open passata bottle
+P30_111_280,680.36,681.35,take scotch egg
+P30_111_281,681.45,681.95,put scotch egg
+P30_111_282,682.1,682.49,pick up scotch egg box lid
+P30_111_283,682.41,686.46,put scotch egg box lid on
+P30_111_284,686.99,689.66,put scotch egg box in fridge
+P30_111_285,688.21,688.91,take salad bowl from fridge
+P30_111_286,689.4,690.52,close fridge
+P30_111_287,690.07,695.2,put salad bowl on top of fridge
+P30_111_288,695.53,696.39,pick up knife
+P30_111_289,696.4,697.4,cut scotch egg in half
+P30_111_29,54.2,57.26,smell passata
+P30_111_290,697.5,698.5,pick up scotch egg
+P30_111_291,697.97,699.9,eat scotch egg
+P30_111_292,700.0,724.7,stir passata mixture
+P30_111_293,726.9,727.41,pick up scotch egg piece
+P30_111_294,727.51,728.4,eat scotch egg piece
+P30_111_295,736.85,737.63,pick up glass
+P30_111_296,737.55,743.63,drink water
+P30_111_297,743.73,745.03,put down glass
+P30_111_298,749.89,763.06,stir passata mixture
+P30_111_299,762.55,765.41,turn on tap
+P30_111_3,5.12,5.66,open cupboards
+P30_111_30,57.36,58.1,close passata bottle
+P30_111_300,765.11,765.6,pick up sponge
+P30_111_301,765.4,766.32,wet sponge
+P30_111_302,766.3,766.81,pick up washing up liquid
+P30_111_303,766.62,767.47,apply washing up liquid to sponge
+P30_111_304,767.53,768.16,put down washing up liquid
+P30_111_305,768.25,768.75,wet sponge
+P30_111_306,768.85,769.35,pick up saucepan
+P30_111_307,769.97,785.5,scrub saucepan
+P30_111_308,785.15,785.52,put down sponge
+P30_111_309,785.51,786.65,rinse hand
+P30_111_31,57.94,59.37,put down passata bottle
+P30_111_310,786.63,795.95,rinse saucepan
+P30_111_311,796.05,797.74,put saucepan on drying rack
+P30_111_312,797.84,798.98,pick up spoon
+P30_111_313,798.15,798.85,pick up sponge
+P30_111_314,798.9,804.15,scrub spoon with sponge
+P30_111_315,803.89,806.53,rinse spoon
+P30_111_316,806.63,807.95,put spoon in drying rack
+P30_111_317,807.2,808.73,pick up mug
+P30_111_318,808.83,809.37,pick up sponge
+P30_111_319,809.47,814.24,scrub mug
+P30_111_32,59.47,66.87,close fridge
+P30_111_320,813.73,814.17,put down sponge
+P30_111_321,813.92,817.47,rinse mug
+P30_111_322,817.38,818.5,put mug on drying rack
+P30_111_323,818.1,818.99,pick up plate
+P30_111_324,818.86,829.08,rinse plate
+P30_111_325,817.0,820.28,pick up sponge
+P30_111_326,820.1,821.1,scrub plate
+P30_111_327,821.18,825.43,rinse plate
+P30_111_328,826.6,827.35,put plate in drying rack
+P30_111_329,828.95,829.31,pick up sponge
+P30_111_33,68.24,69.08,pick up plate from drying board
+P30_111_330,829.46,830.62,pick up v60
+P30_111_331,829.5,833.27,scrub v60
+P30_111_332,829.95,834.58,rinse v60
+P30_111_333,834.3,838.3,put down sponge
+P30_111_334,841.35,842.04,put v60 on drying rack
+P30_111_335,842.03,842.81,turn off tap
+P30_111_336,842.69,846.44,empty washing up bowl
+P30_111_337,846.15,850.16,pick up container
+P30_111_338,850.09,850.99,put container in washing up bowl
+P30_111_339,850.86,851.86,pick up sponge
+P30_111_34,68.78,69.63,open cupboard
+P30_111_340,851.88,852.49,pick up washing up liquid
+P30_111_341,852.47,853.09,apply washing up liquid to sponge
+P30_111_342,853.09,853.74,put down washing up liquid
+P30_111_343,853.84,861.31,scrub container
+P30_111_344,860.61,861.45,drop container
+P30_111_345,861.29,861.94,pick up container lid
+P30_111_346,861.78,863.11,scrub container lid
+P30_111_347,863.39,863.68,put down sponge
+P30_111_348,863.77,864.23,turn on tap
+P30_111_349,864.21,868.94,rinse container lid
+P30_111_35,69.3,71.02,put plate in cupboard
+P30_111_350,868.87,869.6,put container lid on drying rack
+P30_111_351,869.6,870.35,pick up container
+P30_111_352,869.86,873.21,rinse container
+P30_111_353,873.27,873.73,turn off tap
+P30_111_354,873.83,874.39,put container lid on drying rack
+P30_111_355,878.84,902.7,stir mixture
+P30_111_356,905.69,906.19,pick up glass
+P30_111_357,906.7,911.2,drink water
+P30_111_358,911.24,912.55,put down glass
+P30_111_359,912.16,912.49,pick up sponges
+P30_111_36,71.32,72.14,pick up mug from drying rack
+P30_111_360,914.14,915.25,move chopping board
+P30_111_361,916.08,917.61,wipe surface
+P30_111_362,920.2,923.7,scrape pieces off sponge into bin
+P30_111_363,924.52,925.52,put sponge in washing up bowl
+P30_111_364,925.65,929.15,rinse sponge
+P30_111_365,927.96,928.49,put down sponge
+P30_111_366,931.0,955.13,stir passata mixture
+P30_111_367,961.07,962.51,open fridge
+P30_111_368,963.06,965.72,take pepper from fridge
+P30_111_369,966.05,967.65,close fridge
+P30_111_37,72.15,73.01,hang mug on mug tray
+P30_111_370,966.98,967.63,pick up knife
+P30_111_371,967.24,967.92,move chopping board
+P30_111_372,968.32,969.31,chop top off pepper
+P30_111_373,969.45,970.46,pick up pepper top
+P30_111_374,970.76,981.95,remove stalk from pepper top
+P30_111_375,973.68,974.63,pick up knife
+P30_111_376,973.59,974.92,pick up pepper
+P30_111_377,975.06,982.13,remove inside of pepper
+P30_111_378,982.12,982.73,put down knife
+P30_111_379,983.75,984.43,put down pepper core
+P30_111_38,75.05,75.64,pick up glass
+P30_111_380,985.95,986.65,turn on tap
+P30_111_381,986.49,987.69,wash hands
+P30_111_382,987.72,990.82,rinse pepper
+P30_111_383,988.77,989.23,put down pepper piece
+P30_111_384,990.99,991.71,pick up pepper piece
+P30_111_385,991.01,991.59,pick up pepper piece
+P30_111_386,991.69,992.74,rinse pepper piece
+P30_111_387,992.54,992.95,pick up pepper piece
+P30_111_388,992.78,993.65,rinse pepper piece
+P30_111_389,993.75,994.71,turn off tap
+P30_111_39,75.74,76.14,pick up mug
+P30_111_390,995.35,995.79,put down pepper piece
+P30_111_391,995.67,996.22,put down pepper
+P30_111_392,996.27,996.75,pick up knife
+P30_111_393,996.86,999.73,remove part of pepper piece
+P30_111_394,1000.33,1000.93,put down pepper piece
+P30_111_395,1000.44,1001.63,pick up pepper piece
+P30_111_396,1001.26,1005.29,remove part of pepper piece
+P30_111_397,1006.79,1008.58,put down pepper pieces
+P30_111_398,1009.12,1011.89,chop pepper piece
+P30_111_399,1011.53,1015.14,chop pepper piece
+P30_111_4,5.64,8.39,pick up teabag rest
+P30_111_40,76.24,76.86,put glass in cupboard
+P30_111_400,1015.19,1017.89,slice pepper
+P30_111_401,1015.4,1015.65,pick up pepper
+P30_111_402,1017.68,1018.22,put down pepper
+P30_111_403,1019.52,1026.69,chop pepper piece
+P30_111_404,1027.5,1028.29,pick up pepper
+P30_111_405,1027.68,1028.63,eat pepper
+P30_111_406,1028.47,1031.05,gather pepper pieces
+P30_111_407,1030.96,1031.56,pick up pepper pieces
+P30_111_408,1031.91,1032.68,throw pepper pieces into bin
+P30_111_409,1032.76,1034.55,gather pepper pieces
+P30_111_41,77.44,77.74,hang mug on mug tree
+P30_111_410,1034.98,1035.87,throw pepper pieces into bin
+P30_111_411,1035.82,1037.18,pick up knife
+P30_111_412,1037.19,1038.29,cut pepper
+P30_111_413,1038.39,1039.08,eat pepper piece
+P30_111_414,1039.18,1041.42,put down pepper piece
+P30_111_415,1041.54,1043.21,pick up sponge
+P30_111_416,1043.31,1045.35,gather pepper seeds
+P30_111_417,1044.89,1049.82,wipe pepper seeds into hand
+P30_111_418,1049.87,1050.81,hit sponge on sink
+P30_111_419,1051.4,1052.95,put pepper seeds into bin
+P30_111_42,79.12,80.68,close cupboards
+P30_111_420,1055.19,1056.24,turn off hob
+P30_111_421,1055.93,1060.75,stir passata mixture
+P30_111_422,1062.61,1063.19,put down pan
+P30_111_423,1064.46,1065.11,pick up olive oil
+P30_111_424,1066.36,1070.97,drizzle olive oil on pizza base
+P30_111_425,1066.83,1071.0,drizzle olive oil on pizza base
+P30_111_426,1071.08,1072.1,put down olive oil
+P30_111_427,1073.26,1074.15,pick up pan containing passata
+P30_111_428,1076.05,1079.17,spoon passata onto pizza base
+P30_111_429,1079.55,1083.45,spoon passata onto pizza base
+P30_111_43,81.03,81.64,pick up hummus
+P30_111_430,1084.22,1089.7,scrape passata mixture
+P30_111_431,1087.94,1089.64,spoon passata mixture onto pizza
+P30_111_432,1089.59,1098.29,spoon passata mixture onto pizza
+P30_111_433,1098.29,1100.69,put spoon in pan
+P30_111_434,1101.66,1104.83,put down pan
+P30_111_435,1105.0,1105.75,pick up spoon
+P30_111_436,1105.99,1117.85,spread passata mixture over pizza base
+P30_111_437,1117.94,1128.35,spread passata mixture over pizza base
+P30_111_438,1128.7,1129.4,put spoon in pan
+P30_111_439,1129.8,1130.55,pick up cheese bag
+P30_111_44,81.54,81.79,pick up plate
+P30_111_440,1131.6,1145.85,sprinkle cheese over pizza base
+P30_111_441,1145.79,1161.75,sprinkle cheese over pizza base
+P30_111_442,1161.64,1185.89,close cheese bag
+P30_111_443,1186.09,1187.64,open fridge
+P30_111_444,1187.45,1188.8,put cheese bag in fridge
+P30_111_445,1190.69,1192.31,take salami
+P30_111_446,1192.43,1193.22,separate salami pieces
+P30_111_447,1193.23,1195.47,put salami pieces on pizza
+P30_111_448,1195.54,1196.02,take salami packaging
+P30_111_449,1196.12,1196.97,put salami packaging
+P30_111_45,81.76,82.66,put plate in washing up bowl
+P30_111_450,1197.3,1204.48,open packet of salami
+P30_111_451,1204.58,1206.94,pick up salami pieces
+P30_111_452,1207.23,1208.27,put salami piece on pizza
+P30_111_453,1208.37,1211.64,put salami piece on pizza
+P30_111_454,1209.49,1214.75,put salami piece on pizza
+P30_111_455,1208.0,1209.57,put salami pieces on pizza
+P30_111_456,1212.4,1215.28,pick up salami pieces
+P30_111_457,1215.19,1216.97,put salami piece on pizza
+P30_111_458,1217.01,1218.36,put salami piece on pizza
+P30_111_459,1218.4,1219.58,move salami piece
+P30_111_46,82.6,83.6,open hummus
+P30_111_460,1221.55,1225.72,pick up pepper pieces
+P30_111_461,1225.38,1232.48,distribute pepper pieces onto pizza
+P30_111_462,1232.45,1235.11,distribute pepper pieces onto pizza
+P30_111_463,1235.68,1242.04,pick up onion pieces
+P30_111_464,1241.97,1243.55,break up onion piece
+P30_111_465,1241.0,1244.0,put onion piece onto pizza
+P30_111_466,1244.1,1245.85,break up onion pieces
+P30_111_467,1245.94,1259.12,put onion pieces onto pizza
+P30_111_468,1259.1,1261.05,pick up onion piece
+P30_111_469,1261.04,1261.79,remove part of onion piece
+P30_111_47,83.69,85.43,pick up washing up bowl
+P30_111_470,1261.76,1263.83,pick up onion pieces
+P30_111_471,1263.83,1280.64,put onion pieces on pizza
+P30_111_472,1269.44,1273.77,pick up pepper and onion pieces
+P30_111_473,1283.94,1296.29,put pepper pieces on pizza
+P30_111_474,1296.39,1300.1,pick up onion pieces
+P30_111_475,1300.88,1302.94,put onion pieces on pizza
+P30_111_476,1304.11,1306.68,pick up onion pieces
+P30_111_477,1306.78,1307.54,put onion pieces in bin
+P30_111_478,1307.93,1309.0,turn on tap
+P30_111_479,1308.65,1310.82,wash hands
+P30_111_48,85.39,86.15,put hummus into sink
+P30_111_480,1310.81,1311.58,turn off tap
+P30_111_481,1311.68,1313.01,pick up packaging
+P30_111_482,1312.93,1314.88,put packaging in bin
+P30_111_483,1315.42,1316.42,open fridge
+P30_111_484,1316.18,1317.42,put salami packet in fridge
+P30_111_485,1317.19,1318.06,close fridge
+P30_111_486,1318.21,1318.99,pick up pepper
+P30_111_487,1319.01,1321.06,eat pepper
+P30_111_488,1323.54,1325.27,open cupboard
+P30_111_489,1325.29,1326.88,take chilli flakes
+P30_111_49,86.05,86.88,turn on tap
+P30_111_490,1326.41,1328.02,open chilli flakes jar
+P30_111_491,1327.86,1338.24,sprinkle chilli flakes on pizza
+P30_111_492,1329.57,1330.2,sprinkle chilli flakes on pizza
+P30_111_493,1338.3,1339.08,close chilli flakes jar
+P30_111_494,1339.18,1340.35,put chilli flakes in cupboard
+P30_111_495,1339.93,1340.9,close cupboard
+P30_111_496,1341.94,1343.04,pick up tray of pizzas
+P30_111_497,1343.01,1343.58,open oven
+P30_111_498,1343.69,1348.56,put tray of pizzas into oven
+P30_111_499,1349.61,1354.52,rearrange pizzas
+P30_111_5,5.75,6.25,put tea pot in cupboard
+P30_111_50,87.59,100.59,wash hummus tub
+P30_111_500,1354.33,1357.06,push pizza tray into oven
+P30_111_501,1363.14,1364.81,close oven
+P30_111_502,1365.19,1366.04,pick
+P30_111_503,1372.53,1374.23,put down pan
+P30_111_504,1374.49,1375.15,pick up sponge
+P30_111_505,1376.76,1386.26,wipe wall
+P30_111_506,1385.94,1397.34,wipe kettle
+P30_111_507,1397.55,1405.26,wipe wall
+P30_111_508,1404.66,1411.1,wipe surface
+P30_111_509,1412.16,1412.64,turn on tap
+P30_111_51,100.88,113.04,scrape bits of hummus into sink hole
+P30_111_510,1412.7,1415.33,wash sponge
+P30_111_511,1415.29,1415.86,turn off tap
+P30_111_512,1415.87,1416.37,squeeze sponge
+P30_111_513,1416.62,1417.21,pick up washing up liquid
+P30_111_514,1417.0,1417.83,apply washing up liquid to sponge
+P30_111_515,1415.6,1417.01,put down washing up liquid
+P30_111_516,1415.85,1420.35,put sponge into washing up bowl
+P30_111_517,1420.54,1421.16,squeeze sponge
+P30_111_518,1422.29,1429.83,wipe wall
+P30_111_519,1428.81,1430.76,wipe surface
+P30_111_52,113.01,121.14,rinse hummus tub
+P30_111_520,1430.87,1436.93,wipe wall
+P30_111_521,1436.59,1440.09,wipe surface
+P30_111_522,1438.25,1441.87,wipe hob
+P30_111_523,1441.76,1443.2,wipe surface
+P30_111_524,1442.93,1444.09,pick up saucepan
+P30_111_525,1444.78,1445.46,pick up sponge
+P30_111_526,1445.56,1446.39,put saucepan in washing up bowl
+P30_111_527,1445.56,1446.15,put down sponge
+P30_111_528,1446.58,1448.28,wipe surface
+P30_111_529,1449.32,1455.24,wipe surface
+P30_111_53,120.79,121.41,pick up hummus tub lid
+P30_111_530,1456.91,1457.69,put down sponge
+P30_111_531,1457.79,1458.43,turn on tap
+P30_111_532,1458.43,1458.95,pick up spoon
+P30_111_533,1459.05,1459.87,pick up sponge
+P30_111_534,1459.97,1467.08,scrub spoon
+P30_111_535,1466.8,1470.04,rinse spoon
+P30_111_536,1470.72,1472.05,put spoon in drying rack
+P30_111_537,1471.76,1472.62,rinse hand
+P30_111_538,1472.72,1473.34,pick up pan
+P30_111_539,1473.39,1479.18,rinse pan
+P30_111_54,121.2,123.34,rinse hummus tub lid
+P30_111_540,1479.28,1479.66,pick up sponge
+P30_111_541,1479.76,1482.12,scrub pan
+P30_111_542,1482.42,1482.93,turn off tap
+P30_111_543,1495.7,1496.16,put down sponge
+P30_111_544,1496.26,1497.02,pick up washing up liquid
+P30_111_545,1495.0,1497.75,apply washing up liquid to sponge
+P30_111_546,1497.31,1498.25,put down washing up liquid
+P30_111_547,1498.29,1498.91,pick up sponge
+P30_111_548,1499.01,1499.86,dip sponge in washing up bowl
+P30_111_549,1499.32,1512.93,scrub pan
+P30_111_55,123.0,124.27,put washing up bowl into sink
+P30_111_550,1512.98,1513.47,put down sponge
+P30_111_551,1514.35,1514.84,turn on tap
+P30_111_552,1514.91,1516.66,rinse hands
+P30_111_553,1516.67,1532.68,rinse pan
+P30_111_554,1532.78,1533.43,turn off tap
+P30_111_555,1532.0,1535.75,put pan on drying rack
+P30_111_556,1535.49,1538.89,empty washing up bowl
+P30_111_557,1538.44,1538.97,turn on tap
+P30_111_558,1539.35,1542.1,rinse washing up bowl
+P30_111_559,1543.82,1544.57,turn off tap
+P30_111_56,124.23,126.18,pick up mug
+P30_111_560,1545.17,1548.52,dry hands
+P30_111_561,1548.25,1550.23,pick up pepper
+P30_111_562,1549.91,1550.32,eat pepper
+P30_111_563,1551.22,1554.22,rotate chopping board
+P30_111_564,1552.64,1553.23,pick up pepper
+P30_111_565,1567.0,1571.74,eat pepper
+P30_111_566,1574.79,1575.89,open cupboard
+P30_111_567,1579.87,1580.57,take glass
+P30_111_568,1581.42,1582.11,close cupboard
+P30_111_569,1582.12,1582.82,put glass down
+P30_111_57,126.28,127.25,put mug into washing up bowl
+P30_111_570,1583.78,1587.49,pick up gin
+P30_111_571,1588.7,1589.26,put down gin
+P30_111_572,1590.29,1591.59,open freezer
+P30_111_573,1592.54,1593.31,take ice cube tray
+P30_111_574,1594.32,1595.64,crack ice cubes
+P30_111_575,1594.46,1595.44,take ice cube
+P30_111_576,1595.64,1595.99,put ice cube in glass
+P30_111_577,1596.67,1597.37,take ice cube
+P30_111_578,1597.47,1598.29,put ice cube in glass
+P30_111_579,1598.39,1599.97,put ice cube tray in freezer
+P30_111_58,129.48,131.7,apply soap to hands
+P30_111_580,1600.23,1600.8,take tonic water bottle from freezer
+P30_111_581,1601.02,1601.84,close freezer
+P30_111_582,1601.93,1604.8,open tonic water bottle
+P30_111_583,1604.87,1606.64,pour tonic water into glass
+P30_111_584,1606.74,1613.74,pour tonic water into glass
+P30_111_585,1636.05,1637.86,screw lid on tonic water bottle
+P30_111_586,1637.96,1639.17,open fridge
+P30_111_587,1639.2,1640.5,put tonic water in fridge
+P30_111_588,1640.47,1641.22,close fridge
+P30_111_589,1641.54,1642.15,pick up bottle of gin
+P30_111_59,131.7,134.38,wash hands
+P30_111_590,1642.22,1645.24,open gin bottle
+P30_111_591,1645.32,1647.47,pour gin into glass
+P30_111_592,1647.57,1649.05,close gin bottle
+P30_111_593,1649.08,1651.1,put gin bottle on top of cupboard
+P30_111_594,1651.5,1652.5,open drawer
+P30_111_595,1651.0,1653.81,take spoon
+P30_111_596,1653.77,1654.28,close drawer
+P30_111_597,1654.38,1658.56,stir drink
+P30_111_598,1659.09,1659.86,put spoon in washing up bowl
+P30_111_599,1659.23,1660.91,pick up drink
+P30_111_6,7.8,8.58,put teabag rest on top of teapot
+P30_111_60,131.7,134.57,rinse hands
+P30_111_600,1660.89,1663.69,drink gin and tonic
+P30_111_601,1663.74,1665.87,put down gin and tonic
+P30_111_602,1665.43,1674.15,pick up plastic
+P30_111_603,1673.64,1675.8,put plastic in recycling box
+P30_111_604,1675.85,1680.99,pick up dustpan and brush
+P30_111_605,1680.37,1727.42,sweep floor
+P30_111_606,1727.52,1730.17,empty dustpan into bin
+P30_111_607,1730.43,1730.97,move bin
+P30_111_608,1731.5,1739.0,sweep floor
+P30_111_609,1739.14,1740.37,empty dustpan into bin
+P30_111_61,134.32,135.06,turn off tap
+P30_111_610,1740.47,1742.57,move bin
+P30_111_611,1744.63,1745.32,put dustpan and brush down
+P30_111_612,1747.04,1748.17,turn on tap
+P30_111_613,1747.49,1757.38,wash hands
+P30_111_614,1757.48,1758.26,pick up knife
+P30_111_615,1759.19,1759.46,pick up sponge
+P30_111_616,1759.38,1763.1,scrub knife
+P30_111_617,1763.54,1767.99,rinse knife
+P30_111_618,1768.05,1769.92,put knife in drying rack
+P30_111_619,1770.28,1771.4,pick up chopping board
+P30_111_62,135.14,137.92,dry hands
+P30_111_620,1771.55,1772.68,put chopping board on top of washing up bowl
+P30_111_621,1772.58,1776.0,rinse chopping board
+P30_111_622,1776.09,1777.69,pick up sponge
+P30_111_623,1776.02,1776.46,turn off tap
+P30_111_624,1777.67,1784.49,scrub chopping board
+P30_111_625,1783.0,1784.8,turn on tap
+P30_111_626,1784.58,1785.05,put down sponge
+P30_111_627,1784.77,1786.07,wash hands
+P30_111_628,1786.09,1790.97,rinse chopping board
+P30_111_629,1791.39,1791.99,turn off tap
+P30_111_63,139.17,140.39,pick up saucepan
+P30_111_630,1792.27,1796.26,put chopping board on drying rack
+P30_111_631,1797.99,1800.68,dry hands
+P30_111_632,1804.11,1804.83,pick up gin and tonic
+P30_111_633,1805.81,1820.69,drink gin and tonic
+P30_111_634,1821.14,1822.38,put down gin and tonic
+P30_111_64,141.53,142.32,pick up sponge
+P30_111_65,140.0,142.16,put down sponge
+P30_111_66,142.31,143.57,put down saucepan
+P30_111_67,144.07,144.76,open cupboard
+P30_111_68,144.56,146.8,take saucepan
+P30_111_69,146.9,147.77,remove kitchen towel from saucepan
+P30_111_7,8.68,13.09,take tonic water from bag
+P30_111_70,147.74,148.53,put kitchen towel on top of saucepans
+P30_111_71,148.43,149.47,close cupboard
+P30_111_72,150.51,152.18,put saucepan on hob
+P30_111_73,152.28,153.92,turn on hob
+P30_111_74,155.63,156.51,pick up olive oil
+P30_111_75,155.0,159.0,drizzle olive oil into pan
+P30_111_76,158.65,159.51,put down olive oil
+P30_111_77,159.49,160.51,open cupboards
+P30_111_78,160.54,162.04,take olive oil from cupboard
+P30_111_79,161.86,162.79,unscrew olive oil bottle
+P30_111_8,13.09,15.61,open fridge
+P30_111_80,161.93,163.52,pour olive oil into pan
+P30_111_81,164.03,165.61,screw cap back onto olive oil
+P30_111_82,165.67,166.44,put olive oil into cupboard
+P30_111_83,166.54,169.79,take garlic
+P30_111_84,171.03,172.45,pick up saucepan
+P30_111_85,171.0,173.0,pick up spoon
+P30_111_86,173.04,173.6,put spoon in washing up bowl
+P30_111_87,173.69,174.2,move tap
+P30_111_88,174.29,176.69,empty saucepan into sink
+P30_111_89,176.25,178.04,put saucepan into washing up bowl
+P30_111_9,15.53,18.43,put tonic water bottle in fridge
+P30_111_90,178.02,178.7,move tap
+P30_111_91,178.65,179.41,turn on tap
+P30_111_92,179.5,180.05,pick up jug
+P30_111_93,180.15,182.13,put down jug
+P30_111_94,181.64,183.89,pick up pizza bases
+P30_111_95,182.0,184.78,pick up sponge
+P30_111_96,185.3,185.79,pick up sponge
+P30_111_97,185.7,186.25,put down sponges
+P30_111_98,186.15,186.59,turn off tap
+P30_111_99,186.82,187.54,move chopping board and knife

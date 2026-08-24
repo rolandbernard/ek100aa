@@ -1,0 +1,137 @@
+P03_02_0,3.29,4.26,put lunch box
+P03_02_1,4.8,5.77,put lunch box
+P03_02_10,15.4,17.18,open lid
+P03_02_100,222.71,234.45,continue filling bin
+P03_02_101,236.52,237.25,pick up sponge
+P03_02_102,237.47,247.85,wash bin
+P03_02_103,247.67,255.83,continue washing bin
+P03_02_104,255.93,258.19,squeeze sponge
+P03_02_105,259.71,263.83,pour water out of bin
+P03_02_106,264.91,270.11,wipe bin
+P03_02_107,264.94,267.49,wash outside of bin
+P03_02_108,270.36,271.86,squeeze sponge
+P03_02_109,272.21,273.21,turn on tap
+P03_02_11,17.95,18.77,pick up lunch box
+P03_02_110,273.56,282.66,rinse bin
+P03_02_111,282.82,284.83,turn off tap
+P03_02_112,286.11,288.86,pour bin
+P03_02_113,291.2,295.15,pick up towel
+P03_02_114,294.93,302.21,wipe bin
+P03_02_115,303.16,322.17,continue wiping bin
+P03_02_116,322.11,333.3,wipe outside of bin
+P03_02_117,333.64,336.86,put bin down
+P03_02_118,337.39,339.11,put towel in bin
+P03_02_119,342.48,352.23,get bag
+P03_02_12,18.78,21.34,empty lunch box
+P03_02_120,352.27,357.51,open bag
+P03_02_121,357.08,358.55,shake bag
+P03_02_122,357.61,363.26,put bag in bin
+P03_02_123,363.36,368.69,open bag
+P03_02_124,368.34,371.69,put lid on bin
+P03_02_125,371.79,372.64,push bin back
+P03_02_126,373.19,376.62,turn on tap
+P03_02_127,377.73,378.46,turn off tap
+P03_02_128,378.56,382.05,throw away sponge
+P03_02_129,383.17,384.08,open cupboard
+P03_02_13,21.46,22.11,place lunch box
+P03_02_130,390.32,392.07,take new sponge
+P03_02_131,392.56,394.59,place sponge
+P03_02_132,393.35,394.59,pick up plate
+P03_02_133,396.57,397.52,close cupboard
+P03_02_134,399.89,403.03,brush crumbs
+P03_02_135,405.45,407.7,put crumbs in bin
+P03_02_136,410.62,414.62,wash side
+P03_02_14,22.45,23.69,pick up rubbish
+P03_02_15,23.79,24.6,put rubbish in the bin
+P03_02_16,24.31,25.51,push bin back
+P03_02_17,26.3,29.84,pick up lunch box
+P03_02_18,31.35,32.8,pick up towel
+P03_02_19,33.66,40.09,clean lunch box
+P03_02_2,6.36,7.18,pick up lunch box
+P03_02_20,41.38,44.66,put kitchen towel in bin
+P03_02_21,46.36,47.15,pick up lunch box
+P03_02_22,47.09,47.69,place lunch box
+P03_02_23,48.0,49.25,pick up sandwiches
+P03_02_24,51.27,51.92,put sandwiches in lunch box
+P03_02_25,52.3,53.37,pick up sandwiches
+P03_02_26,54.13,55.25,put in lunch box
+P03_02_27,57.0,58.07,pick up lid
+P03_02_28,58.17,59.85,put lid on lunch box
+P03_02_29,59.7,61.78,pick up lunch box
+P03_02_3,6.49,7.18,pick up lunch box
+P03_02_30,61.69,62.63,open fridge
+P03_02_31,62.66,64.34,place lunch box
+P03_02_32,64.92,65.42,close fridge
+P03_02_33,65.57,66.22,open cupboard
+P03_02_34,66.97,68.14,grab crisp packet
+P03_02_35,69.56,70.55,grab crisps
+P03_02_36,69.61,70.7,put crisp packet
+P03_02_37,71.0,71.58,close cupboard
+P03_02_38,71.73,72.35,open cupboard
+P03_02_39,72.69,76.19,grab chocolate
+P03_02_4,7.21,9.46,open lid
+P03_02_40,75.86,77.3,close cupboard
+P03_02_41,77.89,78.64,put crisps in lunch box
+P03_02_42,79.04,79.54,put chocolate in lunch box
+P03_02_43,79.64,82.39,close lunch box
+P03_02_44,82.24,82.99,pick up lunch box
+P03_02_45,83.61,84.36,close fridge
+P03_02_46,83.84,84.59,open fridge
+P03_02_47,84.69,85.19,put lunch box
+P03_02_48,85.75,87.03,pick up bottles
+P03_02_49,88.03,89.19,open bottle
+P03_02_5,9.11,9.78,put lunch box
+P03_02_50,89.32,90.17,turn on water
+P03_02_51,90.27,92.26,fill bottle
+P03_02_52,92.55,94.75,close bottle
+P03_02_53,95.88,97.63,close bottle
+P03_02_54,98.09,100.63,shake bottle
+P03_02_55,102.69,103.73,open bottle
+P03_02_56,103.79,104.54,pour out water
+P03_02_57,104.8,105.65,place bottle
+P03_02_58,105.86,106.4,pick up bottle
+P03_02_59,106.56,107.17,open lid
+P03_02_6,9.66,10.16,put lid
+P03_02_60,107.35,109.16,fill up
+P03_02_61,109.76,112.69,close bottle
+P03_02_62,112.4,114.87,shake bottle
+P03_02_63,115.66,116.96,pour out water
+P03_02_64,117.84,118.68,shake
+P03_02_65,118.95,119.97,open bottle
+P03_02_66,120.05,121.38,pour out bottle
+P03_02_67,122.16,126.28,fill up bottle
+P03_02_68,127.71,130.91,close bottle
+P03_02_69,133.67,134.47,open fridge
+P03_02_7,10.26,12.01,open bin
+P03_02_70,136.28,139.18,place bottle in fridge
+P03_02_71,141.24,146.39,pour squash
+P03_02_72,147.36,147.9,put down bottle
+P03_02_73,149.1,150.24,fill bottle
+P03_02_74,150.67,152.0,close bottle
+P03_02_75,151.1,152.23,close bottle
+P03_02_76,152.24,154.2,shake bottle
+P03_02_77,154.43,155.19,open bottle
+P03_02_78,154.92,157.4,pour bottle
+P03_02_79,158.55,159.17,place bottle
+P03_02_8,12.21,14.12,empty lunch box
+P03_02_80,160.31,161.34,pick up bottle
+P03_02_81,161.63,168.35,fill bottle
+P03_02_82,168.55,169.38,turn off tap
+P03_02_83,169.6,171.1,pick up lid
+P03_02_84,170.95,172.3,close bottle
+P03_02_85,173.56,175.18,test bottle
+P03_02_86,175.83,176.68,open fridge
+P03_02_87,176.14,179.54,put bottle in fridge
+P03_02_88,180.13,180.83,close fridge
+P03_02_89,181.61,183.56,pick up bin bag
+P03_02_9,14.18,14.82,place lunch box
+P03_02_90,183.21,187.65,place bin
+P03_02_91,188.71,190.22,put in bin bag
+P03_02_92,192.04,193.13,pick up bin
+P03_02_93,196.16,197.41,turn on water
+P03_02_94,203.17,204.11,place bin
+P03_02_95,203.61,206.36,open cupboard
+P03_02_96,211.96,213.21,take cleaning liquid
+P03_02_97,214.22,215.98,pour cleaning liquid
+P03_02_98,217.35,218.5,test water
+P03_02_99,220.21,222.78,fill bin

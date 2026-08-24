@@ -1,0 +1,132 @@
+P26_117_0,3.68,6.25,open oven
+P26_117_1,6.23,8.08,turn off oven
+P26_117_10,47.32,48.16,pick up baking tray
+P26_117_100,566.46,568.66,pour salt
+P26_117_101,568.45,570.5,pick up chicken
+P26_117_102,570.49,571.54,pick up plate
+P26_117_103,571.63,572.06,put down chicken
+P26_117_104,589.46,598.23,turn chicken
+P26_117_105,598.82,599.51,put down fork
+P26_117_106,604.15,605.72,put down pot holders
+P26_117_107,609.09,610.22,open oven
+P26_117_108,610.3,614.38,pick up baking tray
+P26_117_109,615.43,617.25,put down baking tray
+P26_117_11,48.96,50.06,put down baking tray
+P26_117_110,620.81,621.41,pick up spatula
+P26_117_111,621.53,623.11,put down spatula
+P26_117_112,625.78,626.68,take fork
+P26_117_113,627.11,627.96,pick up chicken
+P26_117_114,629.14,630.64,put down chicken
+P26_117_115,630.49,632.01,turn chicken
+P26_117_116,632.1,637.44,turn chicken
+P26_117_117,639.93,641.09,pick up salt
+P26_117_118,640.9,642.09,put down fork
+P26_117_119,643.77,648.07,pour salt
+P26_117_12,54.03,54.76,pick up cloth
+P26_117_120,647.56,648.6,pick up spatula
+P26_117_121,648.39,655.21,stir potatoes
+P26_117_122,663.31,664.19,take fork
+P26_117_123,664.55,666.02,turn chicken
+P26_117_124,680.89,682.29,pick up chicken
+P26_117_125,683.36,684.58,put down chicken
+P26_117_126,685.65,703.02,turn chicken
+P26_117_127,702.82,703.95,pick up chicken
+P26_117_128,704.85,705.98,put down chicken
+P26_117_129,705.8,707.05,turn off hob
+P26_117_13,54.8,57.91,pick up baking tray
+P26_117_130,707.15,709.05,pick up plate
+P26_117_131,709.33,710.51,put down plate
+P26_117_14,59.51,61.71,close oven
+P26_117_15,62.91,64.16,open cupboard
+P26_117_16,64.13,65.23,turn on gas
+P26_117_17,65.92,66.87,close cupboard
+P26_117_18,66.93,67.98,pick up pan
+P26_117_19,68.08,69.43,put down pan
+P26_117_2,9.64,10.69,pick up cloth
+P26_117_20,69.38,78.68,turn on hob
+P26_117_21,78.75,82.54,put down lighter
+P26_117_22,83.1,83.82,pick up pan
+P26_117_23,83.5,85.75,put down pan
+P26_117_24,89.67,90.32,pick up knife
+P26_117_25,91.39,92.2,pick up lighter
+P26_117_26,91.75,92.28,put down lighter
+P26_117_27,92.29,94.38,open chicken package
+P26_117_28,94.27,95.08,put down knife
+P26_117_29,94.87,102.53,open chicken package
+P26_117_3,10.67,16.09,pick up baking tray
+P26_117_30,104.88,105.73,open cupboard
+P26_117_31,105.81,106.94,pick up salt
+P26_117_32,108.24,109.19,put down salt
+P26_117_33,110.0,110.68,open fridge
+P26_117_34,111.37,112.66,pick up lemons
+P26_117_35,112.69,113.3,close fridge
+P26_117_36,114.65,115.52,put down lemons
+P26_117_37,118.94,121.37,pick up potato
+P26_117_38,124.62,126.26,adjust gas
+P26_117_39,127.53,128.59,pick up lighter
+P26_117_4,16.19,18.68,put down baking tray
+P26_117_40,129.23,134.46,turn on hob
+P26_117_41,134.41,135.36,put down lighter
+P26_117_42,136.47,137.02,pick up pan
+P26_117_43,137.04,140.95,put down pan
+P26_117_44,141.65,142.33,pick up salt
+P26_117_45,142.8,143.55,put down salt
+P26_117_46,152.69,153.44,pick up pan
+P26_117_47,155.19,155.66,put down pan
+P26_117_48,174.9,176.62,pick up spatula
+P26_117_49,178.04,179.16,put down spatula
+P26_117_5,19.02,20.02,pick up spatula
+P26_117_50,179.66,180.13,pick up cloth
+P26_117_51,179.99,181.77,pick up baking tray
+P26_117_52,183.1,183.97,open oven
+P26_117_53,184.49,186.74,put down baking tray
+P26_117_54,187.32,188.1,close oven
+P26_117_55,189.24,190.21,put down cloth
+P26_117_56,191.18,194.06,pick up chicken
+P26_117_57,194.05,201.09,put down chicken
+P26_117_58,202.78,204.53,pick up chicken
+P26_117_59,205.41,208.08,put down chicken
+P26_117_6,20.12,32.43,stir potatoes
+P26_117_60,209.83,212.24,pick up chicken
+P26_117_61,212.33,218.07,put down chicken
+P26_117_62,219.48,222.49,pick up salt
+P26_117_63,222.59,226.78,pour salt
+P26_117_64,225.94,231.2,pick up salt
+P26_117_65,236.02,236.89,pick up spatula
+P26_117_66,236.94,237.69,put down spatula
+P26_117_67,237.89,238.49,pick up plate
+P26_117_68,238.66,239.43,put down plate
+P26_117_69,239.95,240.99,take fork
+P26_117_7,30.86,34.38,pick up cloth
+P26_117_70,243.12,253.12,turn pan
+P26_117_71,263.99,267.11,turn chicken
+P26_117_72,282.0,286.04,pick up pan
+P26_117_73,285.84,287.07,turn pan
+P26_117_74,287.17,330.17,turn chicken
+P26_117_75,332.77,341.27,turn chicken
+P26_117_76,343.47,350.43,turn chicken
+P26_117_77,355.76,356.89,pick up chicken
+P26_117_78,357.05,360.68,put down chicken
+P26_117_79,360.67,363.79,pick up salt
+P26_117_8,41.85,43.48,pick up pan
+P26_117_80,363.99,367.53,pour salt
+P26_117_81,366.63,425.62,turn chicken
+P26_117_82,472.68,473.76,turn chicken
+P26_117_83,475.59,476.39,turn chicken
+P26_117_84,477.93,478.61,turn chicken
+P26_117_85,500.19,503.57,turn chicken
+P26_117_86,503.96,505.06,turn chicken
+P26_117_87,506.39,508.61,turn chicken
+P26_117_88,508.71,513.12,turn chicken
+P26_117_89,535.02,537.88,turn chicken
+P26_117_9,43.58,46.41,put down pan
+P26_117_90,539.11,539.96,pick up plate
+P26_117_91,540.0,540.61,put down chicken
+P26_117_92,540.47,541.33,put down plate
+P26_117_93,541.43,542.73,pick up chicken
+P26_117_94,542.71,547.42,pick up chicken
+P26_117_95,547.52,549.86,put down chicken
+P26_117_96,549.91,557.33,pick up chicken
+P26_117_97,557.4,561.15,put down chicken
+P26_117_98,561.58,563.86,pick up salt
+P26_117_99,563.83,566.67,pour salt

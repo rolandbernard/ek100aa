@@ -1,0 +1,564 @@
+P29_05_0,4.67,5.9,put phone down
+P29_05_1,9.58,10.74,pick up carton
+P29_05_10,36.23,38.03,stack bowls
+P29_05_100,269.3,270.87,check temperature of water
+P29_05_101,272.24,273.91,check temperature of water
+P29_05_102,276.24,278.89,put plug into sink
+P29_05_103,278.88,283.37,put detergent in the sink
+P29_05_104,286.47,288.94,pick up wine glass
+P29_05_105,290.54,297.86,wash wine glass
+P29_05_106,300.28,301.33,put wine glass on side
+P29_05_107,302.05,303.48,pick up wine glass
+P29_05_108,304.41,310.74,wash wine glass
+P29_05_109,310.64,313.06,rinse wine glass
+P29_05_11,38.13,39.66,put bowls in cupboard
+P29_05_110,314.09,315.94,put wine glass on side
+P29_05_111,317.22,318.73,pick up wine glass
+P29_05_112,318.83,324.61,wash wine glass
+P29_05_113,323.97,327.71,rinse wine glass
+P29_05_114,328.15,329.53,put wine glass on side
+P29_05_115,330.58,331.8,pick up wine glass
+P29_05_116,332.15,333.86,rinse wine glass
+P29_05_117,338.95,339.74,put wine glass onto side
+P29_05_118,340.79,341.49,pick up wine glass
+P29_05_119,342.84,344.9,wash wine glass
+P29_05_12,40.82,41.82,pick up bowl
+P29_05_120,345.2,347.66,rinse wine glass
+P29_05_121,347.88,348.96,put wine glass on side
+P29_05_122,349.52,351.26,pick up wine glass
+P29_05_123,351.07,356.28,wash wine glass
+P29_05_124,357.3,358.71,put wine glass onto side
+P29_05_125,358.94,360.89,flip gloves
+P29_05_126,362.54,364.74,turn oven on
+P29_05_127,367.9,373.53,adjust oven
+P29_05_128,373.63,374.94,turn oven light on
+P29_05_129,380.89,382.34,open kitchen door
+P29_05_13,43.12,46.05,put bowl in cupboard
+P29_05_130,388.37,389.72,close kitchen door
+P29_05_131,390.67,391.97,adjust oven
+P29_05_132,396.0,398.87,wash mug
+P29_05_133,396.58,400.79,wash mug
+P29_05_134,397.87,398.58,wash mug
+P29_05_135,402.38,403.55,put down mug on side
+P29_05_136,404.14,405.25,pick up mug
+P29_05_137,405.22,407.93,wash mug
+P29_05_138,408.03,412.65,rinse mug
+P29_05_139,412.75,413.81,put mug on side
+P29_05_14,45.57,48.14,close cupboard door
+P29_05_140,412.98,413.63,put mug on side
+P29_05_141,415.44,416.02,pick up mug
+P29_05_142,416.22,421.77,wash mug
+P29_05_143,421.87,424.54,wash mug
+P29_05_144,427.26,427.94,pick up mug
+P29_05_145,437.08,445.92,wash mug
+P29_05_146,449.56,452.01,rinse mug
+P29_05_147,452.73,454.47,put mug on side
+P29_05_148,455.54,456.89,pick up mug
+P29_05_149,458.22,465.94,wash mug
+P29_05_15,46.02,47.37,adjust glove
+P29_05_150,467.82,468.99,put mug down
+P29_05_151,471.07,472.23,pick up mug
+P29_05_152,473.38,479.68,wash mug
+P29_05_153,479.61,480.34,inspect mug
+P29_05_154,480.93,481.88,put mug on side
+P29_05_155,482.63,483.38,pick up scissors
+P29_05_156,483.73,488.5,wash scissors
+P29_05_157,489.33,490.58,put scissors away
+P29_05_158,490.93,491.93,pick up grater
+P29_05_159,492.28,498.78,wash grater
+P29_05_16,49.17,50.73,pick up glove
+P29_05_160,499.88,500.88,put grater on drying rack
+P29_05_161,502.23,503.57,pick up plate
+P29_05_162,503.83,511.87,wash plate
+P29_05_163,512.89,514.93,put plate on drying rack
+P29_05_164,517.03,522.78,wash plate
+P29_05_165,522.47,527.14,put plates on drying rack
+P29_05_166,528.23,531.58,pick up washing up
+P29_05_167,530.01,533.6,put washing up down
+P29_05_168,533.7,535.59,pick up utensils
+P29_05_169,535.81,538.02,submerge utensils
+P29_05_17,50.83,52.43,put glove on
+P29_05_170,537.87,539.39,pick up spoon
+P29_05_171,539.59,540.71,submerge spoon
+P29_05_172,540.33,541.84,pick up knife
+P29_05_173,541.97,543.54,submerge knife
+P29_05_174,543.5,544.36,pick up spoon
+P29_05_175,543.9,544.86,submerge spoon
+P29_05_176,545.24,546.14,pick up spoon
+P29_05_177,546.0,554.86,pick up spatula
+P29_05_178,546.24,547.19,submerge spoon
+P29_05_179,547.42,548.49,pick up bowl
+P29_05_18,53.06,56.2,put glove on
+P29_05_180,548.24,549.88,stacks bowls
+P29_05_181,549.02,549.82,put down bowl
+P29_05_182,550.55,551.69,pick up knife
+P29_05_183,551.79,552.89,put down knife
+P29_05_184,552.61,553.24,pick up fork
+P29_05_185,553.29,553.84,submerge fork
+P29_05_186,555.15,555.76,submerge spatula
+P29_05_187,556.07,557.38,pick up fork
+P29_05_188,558.29,559.16,pick up knife
+P29_05_189,560.08,560.85,submerge utensils
+P29_05_19,56.95,59.1,pick up bowl
+P29_05_190,561.11,563.19,pick up peeler
+P29_05_191,563.29,564.72,submerge peeler
+P29_05_192,565.28,566.01,pick up bowl
+P29_05_193,566.11,566.98,pick up fork
+P29_05_194,568.19,568.76,submerge fork
+P29_05_195,572.35,574.76,pick up spatula
+P29_05_196,575.3,576.49,submerge spatula
+P29_05_197,577.21,580.86,pick up bowl
+P29_05_198,580.44,582.19,put down plate
+P29_05_199,582.06,586.45,wash plate
+P29_05_2,11.51,15.78,put carton in fridge
+P29_05_20,59.51,61.11,put bowl in cupboard
+P29_05_200,586.55,588.14,put plates onto drying rack
+P29_05_201,592.55,594.68,pick up knife
+P29_05_202,593.48,596.08,wash knife
+P29_05_203,594.02,596.14,wash knife
+P29_05_204,596.46,599.26,put away knife
+P29_05_205,597.2,597.78,put away knife
+P29_05_206,598.71,601.35,pick up knife
+P29_05_207,598.78,599.7,pick up knife
+P29_05_208,600.0,601.69,wash knife
+P29_05_209,601.79,603.59,put away knife
+P29_05_21,60.0,72.33,pick up glass
+P29_05_210,610.05,610.94,pick up peeler
+P29_05_211,610.69,613.61,wash peeler
+P29_05_212,613.64,615.17,put away peeler
+P29_05_213,615.87,616.73,pick up fork
+P29_05_214,618.48,619.62,wash fork
+P29_05_215,619.58,620.5,put away fork
+P29_05_216,621.14,622.3,pick up spoon
+P29_05_217,623.23,624.98,put away spoon
+P29_05_218,627.75,629.41,pick up spatula
+P29_05_219,629.43,634.93,wash spatula
+P29_05_22,61.97,63.5,pick up bowl
+P29_05_220,635.53,636.28,put away spatula
+P29_05_221,636.89,638.85,pick up knife
+P29_05_222,638.95,641.53,wash knife
+P29_05_223,641.85,643.31,put away knife
+P29_05_224,643.41,645.88,pick up fork
+P29_05_225,645.82,648.94,wash fork
+P29_05_226,647.34,648.98,rinse fork
+P29_05_227,649.21,650.83,put away fork
+P29_05_228,652.92,653.76,pick up spoon
+P29_05_229,655.67,656.98,put away spoon
+P29_05_23,64.38,65.94,put bowl in cupboard
+P29_05_230,657.02,658.21,pick up spoon
+P29_05_231,658.31,659.79,wash spoon
+P29_05_232,659.85,661.41,put away spoon
+P29_05_233,661.14,662.74,pick up spoon
+P29_05_234,662.79,664.52,wash spoon
+P29_05_235,663.74,665.18,put away spoon
+P29_05_236,665.58,667.14,pick up fork
+P29_05_237,667.23,668.77,wash fork
+P29_05_238,669.97,671.18,put away fork
+P29_05_239,671.47,673.22,pick up spoon
+P29_05_24,66.68,68.5,pick up blade
+P29_05_240,674.32,675.85,put away spoon
+P29_05_241,676.34,678.15,pick up spatula
+P29_05_242,678.25,680.64,wash spatula
+P29_05_243,680.68,682.67,put away spatula
+P29_05_244,683.21,685.21,pick up fork
+P29_05_245,687.33,688.08,put away fork
+P29_05_246,690.07,691.4,pick up spoon
+P29_05_247,691.5,693.03,wash spoon
+P29_05_248,693.11,694.34,put away spoon
+P29_05_249,694.29,695.75,pick up fork
+P29_05_25,68.6,69.79,put blade in cupboard
+P29_05_250,696.0,696.79,wash fork
+P29_05_251,696.74,697.98,put away fork
+P29_05_252,697.95,700.45,pick up knife
+P29_05_253,700.55,702.51,wash knife
+P29_05_254,702.61,703.81,put away knife
+P29_05_255,704.63,706.67,pick up spoon
+P29_05_256,707.05,711.8,wash spoon
+P29_05_257,711.65,712.73,put away spoon
+P29_05_258,713.14,715.52,pick up plate
+P29_05_259,714.67,719.43,scour plate
+P29_05_26,72.25,75.74,put glass on side
+P29_05_260,719.52,728.08,scour plate
+P29_05_261,729.79,731.51,put plate on drying rack
+P29_05_262,732.1,733.39,submerge plate
+P29_05_263,734.38,736.67,scour plate
+P29_05_264,739.2,743.38,wash plate
+P29_05_265,744.43,746.48,put plate on drying rack
+P29_05_266,747.71,750.24,pick up bowl
+P29_05_267,750.44,751.75,pick up bowl
+P29_05_268,752.84,760.15,scour bowl
+P29_05_269,760.25,761.87,submerge bowl
+P29_05_27,75.7,80.7,pick up plate
+P29_05_270,762.38,764.54,wash bowl
+P29_05_271,764.64,766.25,put bowl in drying rack
+P29_05_272,769.4,770.32,pick up bowl
+P29_05_273,771.36,774.53,wash bowl
+P29_05_274,775.57,778.16,wash bowl
+P29_05_275,778.75,780.61,put bowl on drying rack
+P29_05_276,780.84,787.45,wash bowl
+P29_05_277,787.55,790.64,scour bowl
+P29_05_278,790.39,791.75,put bowl in drying rack
+P29_05_279,791.38,792.62,pick up bowl
+P29_05_28,80.99,84.56,put plate into cupboard
+P29_05_280,792.55,793.69,submerge bowl
+P29_05_281,793.78,795.96,wash bowl
+P29_05_282,796.92,798.07,put bowl in drying rack
+P29_05_283,797.87,798.8,pick up pan
+P29_05_284,798.87,800.0,submerge pan
+P29_05_285,799.46,802.87,wash pan
+P29_05_286,802.8,805.9,put pan on drying rack
+P29_05_287,807.14,808.79,pick up pan
+P29_05_288,810.98,819.4,wash pan
+P29_05_289,818.37,828.49,wash pan
+P29_05_29,84.66,87.08,pick up bowl
+P29_05_290,827.39,829.86,put pan on drying rack
+P29_05_291,831.9,833.63,pick up chopping board
+P29_05_292,836.72,838.65,submerge chopping board
+P29_05_293,839.05,847.29,wash chopping board
+P29_05_294,847.78,854.99,dry chopping board
+P29_05_295,854.28,855.78,put chopping board down
+P29_05_296,856.75,857.53,pick up bowl
+P29_05_297,857.44,859.07,wipe surface
+P29_05_298,859.73,861.81,wash bowl
+P29_05_299,861.91,866.7,pull plug out of sink
+P29_05_3,16.67,17.5,close fridge door
+P29_05_30,86.86,90.74,put bowl into cupboard
+P29_05_300,866.11,867.44,put plug down
+P29_05_301,867.65,874.27,wipe drying board
+P29_05_302,878.76,879.82,pick up wok
+P29_05_303,879.92,881.4,put down wok
+P29_05_304,882.18,883.46,adjust drying chopping board
+P29_05_305,885.25,889.17,wash bowl
+P29_05_306,889.36,896.85,remove glove
+P29_05_307,896.76,897.78,put down glove
+P29_05_308,897.45,907.2,remove glove
+P29_05_309,906.89,907.57,put down glove
+P29_05_31,92.64,94.59,pick up cafetiere top
+P29_05_310,907.61,908.6,pick up detergent
+P29_05_311,911.34,912.4,put detergent on hands
+P29_05_312,912.35,919.6,wash hands
+P29_05_313,920.88,921.55,turn tap off
+P29_05_314,922.3,924.63,dry hands
+P29_05_315,931.02,935.07,pick up eggs
+P29_05_316,933.05,934.14,put down eggs
+P29_05_317,935.27,937.17,pick up potatoes
+P29_05_318,936.68,937.93,put down potatoes
+P29_05_319,938.03,940.5,open potato packet
+P29_05_32,95.79,96.98,pick up cafetiere
+P29_05_320,940.18,941.91,pick up potato
+P29_05_321,941.51,944.86,pick up potato
+P29_05_322,943.15,944.59,inspect potato
+P29_05_323,944.69,945.9,pick up potato
+P29_05_324,945.11,946.36,pick up potato
+P29_05_325,949.18,950.15,pick up potato
+P29_05_326,951.56,958.69,pick up potato
+P29_05_327,951.86,952.91,pick up potato
+P29_05_328,961.22,963.93,put potatoes to one side
+P29_05_329,965.98,967.23,pick up knife
+P29_05_33,97.08,99.0,put top on top of cafetiere
+P29_05_330,968.24,970.17,put down knife
+P29_05_331,970.53,971.71,open oven
+P29_05_332,973.29,974.54,remove baking tray
+P29_05_333,975.67,977.74,put baking tray down
+P29_05_334,978.93,980.01,pick up kettle
+P29_05_335,980.65,981.5,remove kettle lid
+P29_05_336,981.9,982.95,turn on tap
+P29_05_337,982.56,986.81,fill kettle
+P29_05_338,986.78,987.48,turn off tap
+P29_05_339,987.51,988.26,put kettle lid on
+P29_05_34,99.1,100.84,put cafetiere on side
+P29_05_340,989.75,990.54,put kettle on power base
+P29_05_341,992.36,993.05,open cupboard
+P29_05_342,994.81,1002.06,remove pan
+P29_05_343,1002.16,1003.01,close cupboard
+P29_05_344,1003.11,1004.76,close cupboard
+P29_05_345,1005.46,1006.72,put pan on
+P29_05_346,1009.71,1011.46,remove pan lid
+P29_05_347,1012.12,1013.52,place pan lid down
+P29_05_348,1015.68,1019.71,put salt into pan
+P29_05_349,1025.0,1027.6,chop potato
+P29_05_35,101.58,103.35,pick up chopping board
+P29_05_350,1029.25,1032.63,chop potato
+P29_05_351,1029.96,1032.64,chop potato
+P29_05_352,1030.52,1032.43,chop potato
+P29_05_353,1039.09,1040.37,chop potato
+P29_05_354,1039.74,1041.52,chop potato
+P29_05_355,1040.35,1042.09,chop potato
+P29_05_356,1040.47,1042.48,chop potato
+P29_05_357,1041.8,1043.38,chop potato
+P29_05_358,1042.58,1043.72,chop potato
+P29_05_359,1047.06,1049.03,chop potato
+P29_05_36,103.38,106.1,put chopping board away
+P29_05_360,1049.1,1052.17,chop potato
+P29_05_361,1051.15,1053.96,chop potato
+P29_05_362,1061.64,1062.74,chop potato
+P29_05_363,1062.77,1064.24,chop potato
+P29_05_364,1064.0,1065.43,chop potato
+P29_05_365,1069.1,1070.49,chop potato
+P29_05_366,1072.72,1073.86,chop potato
+P29_05_367,1073.84,1074.98,chop potato
+P29_05_368,1075.02,1076.42,chop potato
+P29_05_369,1076.52,1078.26,put potatoes in pan
+P29_05_37,107.89,109.59,pick up baking tray
+P29_05_370,1079.2,1081.02,chop potato
+P29_05_371,1081.01,1082.63,chop potato
+P29_05_372,1082.73,1083.75,chop potato
+P29_05_373,1083.85,1085.24,put potatoes in pan
+P29_05_374,1085.34,1086.8,put potato in pan
+P29_05_375,1088.94,1090.3,chop potato
+P29_05_376,1089.99,1093.72,chop potato
+P29_05_377,1094.52,1096.73,chop potato
+P29_05_378,1096.93,1102.12,chop potato
+P29_05_379,1100.99,1103.05,chop potato
+P29_05_38,109.79,113.13,put baking tray in cupboard
+P29_05_380,1103.04,1104.21,put potato in pan
+P29_05_381,1103.26,1104.54,put potatoes in pan
+P29_05_383,1104.37,1105.62,adjust potato
+P29_05_384,1104.92,1107.44,chop potato
+P29_05_385,1105.72,1107.25,chop potato
+P29_05_386,1107.21,1108.39,put potato in pan
+P29_05_387,1107.87,1108.63,put potato in pan
+P29_05_388,1108.49,1116.52,chop potato
+P29_05_389,1112.61,1117.54,put potato in pan
+P29_05_39,111.98,113.18,close cupboard door
+P29_05_390,1120.91,1122.14,chop potato
+P29_05_391,1124.49,1126.07,split potato
+P29_05_392,1131.77,1134.69,inspect potato
+P29_05_393,1136.34,1139.05,collect potato from packet
+P29_05_394,1144.44,1147.19,chop potato
+P29_05_395,1153.0,1155.28,chop potato
+P29_05_396,1165.62,1167.65,put potato in pan
+P29_05_397,1168.8,1173.18,chop potato
+P29_05_398,1173.68,1174.51,put potato in pan
+P29_05_399,1176.15,1184.5,chop potato
+P29_05_4,20.83,25.92,pick up jug
+P29_05_40,114.14,115.61,pick up bowl
+P29_05_400,1178.6,1185.92,split potato
+P29_05_401,1186.02,1189.9,chop potato
+P29_05_402,1194.02,1197.06,put potato in bin
+P29_05_403,1196.14,1197.34,pick up potato
+P29_05_404,1197.44,1198.6,put potato in pan
+P29_05_405,1201.16,1202.41,pick up kettle
+P29_05_406,1203.01,1213.76,pour kettle into pan
+P29_05_407,1204.42,1206.42,pour kettle into pan
+P29_05_408,1214.32,1214.95,put kettle down
+P29_05_409,1216.31,1218.56,turn on hob
+P29_05_41,115.71,118.42,put bowl in cupboard
+P29_05_410,1230.77,1232.72,move knife
+P29_05_411,1233.32,1234.57,open refrigerator
+P29_05_412,1234.61,1236.11,pick up chicken
+P29_05_413,1237.31,1238.07,put down chicken
+P29_05_414,1241.56,1242.56,close drawer
+P29_05_415,1243.83,1244.92,close refrigerator
+P29_05_416,1246.44,1248.06,pick up cheese
+P29_05_417,1248.04,1251.45,pick up cheese
+P29_05_418,1251.55,1252.96,pick up cheese
+P29_05_419,1253.72,1257.24,put cheese in refrigerator
+P29_05_42,119.2,120.76,pick up grater and baking tray
+P29_05_420,1256.9,1258.18,open refrigerator drawer
+P29_05_421,1258.85,1259.7,close refrigerator drawer
+P29_05_422,1259.57,1260.58,close refrigerator
+P29_05_423,1260.25,1266.01,rinse knife
+P29_05_424,1267.94,1269.71,open chicken packet
+P29_05_425,1272.25,1274.77,remove chicken breast from packet
+P29_05_426,1274.87,1277.11,remove chicken breast from packet
+P29_05_427,1277.07,1279.51,remove chicken breast from packet
+P29_05_428,1279.09,1285.1,put packets into bin
+P29_05_429,1284.83,1286.14,close bin
+P29_05_43,120.86,122.97,open cupboard
+P29_05_430,1287.48,1298.29,wash hands
+P29_05_431,1299.94,1305.73,dry hands
+P29_05_432,1306.02,1307.39,open drawer
+P29_05_433,1310.58,1314.97,adjust tray
+P29_05_434,1325.28,1326.91,return tray
+P29_05_435,1326.95,1327.68,close drawer
+P29_05_436,1329.08,1331.16,pick up knife
+P29_05_437,1331.24,1345.16,slice chicken
+P29_05_438,1346.88,1353.07,slice chicken
+P29_05_439,1356.95,1362.9,slice chicken
+P29_05_44,123.22,124.24,put grater in cupboard
+P29_05_440,1363.54,1364.31,put down knife
+P29_05_441,1365.83,1367.46,pick up cheese
+P29_05_442,1368.71,1370.24,pick up salt
+P29_05_443,1369.11,1371.43,pour salt into hands
+P29_05_444,1371.53,1373.09,rub salt on hands
+P29_05_445,1371.9,1377.22,rub salt on chicken
+P29_05_446,1376.97,1379.08,pour salt into hands
+P29_05_447,1379.1,1383.81,rub salt on chicken
+P29_05_448,1384.54,1388.59,open cheese
+P29_05_449,1388.52,1394.87,insert cheese into chicken
+P29_05_45,123.83,126.9,put baking tray in cupboard
+P29_05_450,1393.57,1397.57,chop cheese in half
+P29_05_451,1397.67,1400.87,insert cheese into chicken
+P29_05_452,1400.89,1402.91,insert cheese into chicken
+P29_05_453,1402.97,1406.91,seal chicken
+P29_05_454,1417.43,1421.8,rinse hands
+P29_05_455,1421.59,1423.28,dry hands
+P29_05_456,1425.52,1426.52,open cupboard
+P29_05_457,1428.02,1429.46,take out baking tray
+P29_05_458,1429.54,1431.13,close cupboard
+P29_05_459,1431.23,1434.18,put baking tray down
+P29_05_46,126.83,127.5,close cupboard door
+P29_05_460,1433.97,1439.39,pick up chicken
+P29_05_461,1439.37,1441.77,put chicken on tray
+P29_05_462,1444.58,1446.52,open cheese
+P29_05_463,1451.85,1452.77,slice open cheese
+P29_05_464,1453.39,1456.56,remove cheese from packet
+P29_05_465,1457.91,1460.15,cut cheese in half
+P29_05_466,1461.3,1467.29,place cheese inside chicken
+P29_05_467,1467.58,1474.51,pick up chicken
+P29_05_468,1474.57,1476.77,put chicken on baking tray
+P29_05_469,1480.41,1482.62,slice cheese packet
+P29_05_47,127.0,129.55,pick up tin
+P29_05_470,1482.84,1483.86,take cheese out of packet
+P29_05_471,1485.0,1488.09,cut cheese in half
+P29_05_472,1489.37,1494.67,put cheese inside chicken
+P29_05_473,1496.28,1498.68,put chicken on baking tray
+P29_05_474,1500.72,1502.81,wash hands
+P29_05_475,1508.26,1518.02,season chicken
+P29_05_476,1518.9,1521.68,check phone
+P29_05_477,1521.78,1523.16,get spatula
+P29_05_478,1523.4,1525.63,stir potatoes in pan
+P29_05_479,1525.0,1526.94,adjust heat on oven
+P29_05_48,129.33,136.68,put tin in cupboard
+P29_05_480,1529.08,1530.58,put down spatula
+P29_05_481,1530.7,1534.5,pick up cheese packets
+P29_05_482,1534.6,1537.35,put cheese packets into bin
+P29_05_483,1537.88,1539.13,pick up chopping board
+P29_05_484,1539.93,1541.98,put chopping board into sink
+P29_05_485,1541.38,1542.0,turn on tap
+P29_05_486,1542.23,1543.23,wash hands
+P29_05_487,1544.54,1547.61,dry hands
+P29_05_488,1547.93,1549.18,pick up baking tray
+P29_05_489,1549.12,1550.28,put down baking tray
+P29_05_49,135.89,137.2,close cupboard door
+P29_05_490,1553.88,1554.91,pick up olive oil
+P29_05_491,1555.9,1564.23,put olive oil on chicken
+P29_05_492,1564.75,1565.8,put down olive oil
+P29_05_493,1572.74,1576.92,pick up knife
+P29_05_494,1578.55,1589.21,stab potato
+P29_05_495,1578.88,1581.4,stab potato
+P29_05_496,1582.33,1585.27,stab potato
+P29_05_497,1582.65,1584.19,stab potato
+P29_05_498,1584.29,1587.19,stab potato
+P29_05_499,1589.05,1590.47,put down knife
+P29_05_5,21.62,25.12,put jug in cupboard
+P29_05_50,138.02,140.17,pick up pan lid
+P29_05_500,1593.0,1594.07,pick up olive oil
+P29_05_501,1594.73,1600.28,pour olive oil onto baking tray
+P29_05_502,1602.33,1604.64,pick up pastry brush
+P29_05_503,1605.68,1613.86,brush oil on olive tray
+P29_05_504,1609.76,1627.18,brush olive oil onto baking tray
+P29_05_505,1615.55,1626.07,brush olive oil onto baking tray
+P29_05_506,1628.24,1630.76,put pastry brush down
+P29_05_507,1631.56,1633.77,pick up potatoes
+P29_05_508,1634.61,1636.13,put down potatoes
+P29_05_509,1636.48,1637.7,pick up eggs
+P29_05_51,141.21,143.57,put pan lid on pan
+P29_05_510,1637.79,1638.96,put down eggs
+P29_05_511,1640.66,1642.42,adjust heat on oven
+P29_05_512,1652.89,1655.24,stab potato
+P29_05_513,1653.0,1654.75,stab potato
+P29_05_514,1655.13,1656.37,stab potato
+P29_05_515,1655.91,1656.71,stab potato
+P29_05_516,1658.02,1660.01,stab potato
+P29_05_517,1659.94,1663.6,stab potato
+P29_05_518,1660.7,1661.23,stab potato
+P29_05_519,1662.34,1663.05,stab potato
+P29_05_52,144.07,147.14,close cupboard door
+P29_05_520,1673.65,1674.77,turn off heat on oven
+P29_05_521,1675.69,1676.69,pick up oven glove
+P29_05_522,1678.12,1678.73,pick up oven glove
+P29_05_523,1679.78,1681.03,put on oven glove
+P29_05_524,1683.17,1684.47,pick up pan
+P29_05_525,1686.44,1692.84,tip pan over sink
+P29_05_526,1693.42,1695.47,shake pan
+P29_05_527,1695.67,1699.1,tip pan over sink
+P29_05_528,1697.52,1710.96,drain water from pan
+P29_05_529,1710.76,1712.05,shake pan
+P29_05_53,147.9,149.26,pick up knife
+P29_05_530,1712.75,1713.9,put pan on hob
+P29_05_531,1718.61,1719.4,pick up salt
+P29_05_532,1719.5,1723.15,shake salt onto potatoes
+P29_05_533,1724.13,1724.67,pick up olive oil
+P29_05_534,1725.63,1727.59,pour olive oil onto potatoes
+P29_05_535,1729.3,1730.03,pick up glove
+P29_05_536,1732.06,1733.27,pick up glove
+P29_05_537,1733.37,1735.65,put on glove
+P29_05_538,1735.75,1737.34,pick up pan lid
+P29_05_539,1737.44,1738.72,put pan lid on pan
+P29_05_54,150.29,152.19,put knife away
+P29_05_540,1738.82,1745.0,shake potatoes in pan
+P29_05_541,1745.06,1745.68,put down pan
+P29_05_542,1745.77,1746.44,remove lid from pan
+P29_05_543,1747.0,1758.76,pick up pan
+P29_05_544,1747.96,1750.25,put down pan lid
+P29_05_545,1753.69,1755.34,put down glove
+P29_05_546,1757.2,1758.17,pick up spatula
+P29_05_547,1758.83,1762.43,scoop potatoes onto baking tray
+P29_05_548,1762.3,1772.75,scoop potatoes onto baking tray
+P29_05_549,1773.31,1781.78,spread potatoes with spatula onto baking tray
+P29_05_55,153.0,155.95,pick up utensils
+P29_05_550,1781.69,1785.01,put pan into sink
+P29_05_551,1785.69,1787.02,put spatula onto sink
+P29_05_552,1788.49,1791.1,pick up pastry brush
+P29_05_553,1789.45,1799.43,paste olive oil onto potatoes
+P29_05_554,1798.47,1800.12,put pastry brush onto sink
+P29_05_555,1800.12,1802.12,pick up baking tray
+P29_05_556,1803.47,1805.97,put baking tray into oven
+P29_05_557,1805.87,1809.57,adjust oven height of tray
+P29_05_558,1810.42,1811.92,pick up baking tray
+P29_05_559,1811.79,1814.31,put baking tray into oven
+P29_05_56,156.05,159.88,put utensils in pot
+P29_05_560,1814.17,1815.17,close oven door
+P29_05_561,1816.17,1817.82,remove oven glove
+P29_05_562,1818.18,1819.43,put oven glove down
+P29_05_563,1820.75,1821.75,end the video
+P29_05_564,1820.75,1821.5,adjust phone
+P29_05_57,161.36,162.77,pick up knives
+P29_05_58,162.87,166.79,put knives in drawer
+P29_05_59,166.14,167.39,put fork in drawer
+P29_05_6,26.55,27.99,pick up blender
+P29_05_60,167.49,168.52,close drawer
+P29_05_61,168.78,169.55,pick up detergent
+P29_05_62,170.14,171.31,pick up detergent
+P29_05_63,170.79,171.79,put down detergent
+P29_05_64,172.14,174.64,pick up bowl
+P29_05_65,174.75,176.5,put down bowl
+P29_05_66,176.85,177.85,pick up grater
+P29_05_67,178.08,178.81,put down grater
+P29_05_68,179.76,181.51,pick up spoon
+P29_05_69,180.89,182.61,pick up tea bag
+P29_05_7,27.99,31.15,put blender in cupboard
+P29_05_70,184.96,186.71,put down spoon
+P29_05_71,185.72,187.23,put away spoon
+P29_05_72,188.66,190.66,put tea bag into bin
+P29_05_73,193.53,195.27,empty mug into sink
+P29_05_74,197.59,199.49,empty mug into sink
+P29_05_75,198.3,199.8,empty mug into sink
+P29_05_76,204.24,205.59,pick up tea towel
+P29_05_77,205.38,206.6,put down tea towel
+P29_05_78,207.75,211.05,pick up cutlery
+P29_05_79,209.8,211.45,put down cutlery
+P29_05_8,31.67,33.14,pick up bowl
+P29_05_80,211.79,213.91,empty mug into sink
+P29_05_81,213.96,215.46,put mug down
+P29_05_82,215.31,219.42,pick up plate
+P29_05_83,219.04,220.61,put down plate
+P29_05_84,220.55,222.13,pick up scissors
+P29_05_85,221.87,223.12,put down scissors
+P29_05_86,223.1,226.75,wipe sink with hand
+P29_05_87,225.43,228.48,empty drain
+P29_05_88,230.02,232.99,put contents into bin
+P29_05_89,234.71,236.29,turn on tap
+P29_05_9,33.24,36.13,pick up bowl
+P29_05_90,235.38,236.8,rinse glove
+P29_05_91,236.84,238.6,turn tap to hot
+P29_05_92,241.48,252.23,insert plug into sink
+P29_05_93,243.18,247.32,ensure sink is sealed
+P29_05_94,249.24,255.68,remove plug
+P29_05_95,251.09,255.73,ensure sink is sealed
+P29_05_96,257.59,260.72,check temperature of water
+P29_05_97,259.41,260.91,check temperature of water
+P29_05_98,261.95,265.34,check temperature of water
+P29_05_99,266.56,267.97,check temperature of water

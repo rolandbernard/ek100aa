@@ -1,0 +1,517 @@
+P04_113_0,0.0,3.53,turn on oven
+P04_113_1,3.59,5.73,select oven setting
+P04_113_10,36.35,37.92,close oven door
+P04_113_100,195.3,196.92,put spoon in drawer
+P04_113_101,197.55,198.3,put spoon in drawer
+P04_113_102,198.7,199.55,put spoon in drawer
+P04_113_103,200.4,201.15,put spoon in drawer
+P04_113_104,201.45,202.25,put knife in drawer
+P04_113_105,202.05,205.35,take spoon out of cutlery tray
+P04_113_106,204.65,205.55,put spoon in drawer
+P04_113_107,204.64,206.65,put teaspoon in drawer
+P04_113_108,206.58,208.48,put knife in drawer
+P04_113_109,208.11,211.49,put knife in knife rack
+P04_113_11,39.1,40.2,pick up tea towel
+P04_113_110,211.21,213.69,put fork in drawer
+P04_113_111,213.78,216.07,put spoon in drawer
+P04_113_112,215.97,218.02,put teaspoon in drawer
+P04_113_113,218.08,219.89,put teaspoon in drawer
+P04_113_114,219.94,223.43,put teaspoons in drawer
+P04_113_115,224.2,226.05,pick up teaspoon
+P04_113_116,225.79,227.69,put teaspoons in tupperware tub
+P04_113_117,227.75,229.07,pick up measuring spoon
+P04_113_118,229.1,230.1,put measuring spoon in drawer
+P04_113_119,230.18,232.59,pick up garlic press inside
+P04_113_12,40.37,43.97,wipe tea towel on floor with foot
+P04_113_120,232.69,233.37,put garlic press inside in drawer
+P04_113_121,232.95,233.95,rotate cutlery tray
+P04_113_122,234.05,234.37,close drawer
+P04_113_123,234.45,235.1,open drawer
+P04_113_124,235.46,236.37,put knife in drawer
+P04_113_125,236.3,237.8,put knife in drawer
+P04_113_126,237.9,238.62,pick up garlic press
+P04_113_127,238.25,239.04,put garlic press in drawer
+P04_113_128,239.38,240.27,put fork in drawer
+P04_113_129,240.43,241.73,put teaspoon in drawer
+P04_113_13,46.02,47.63,pick up chopping board
+P04_113_130,243.09,244.84,close drawer
+P04_113_131,244.53,245.48,put cutlery tray in dishwasher
+P04_113_132,247.74,248.99,pick up fork
+P04_113_133,249.53,250.18,put fork in dishwasher
+P04_113_134,251.23,252.45,pick up ramekin
+P04_113_135,253.29,254.35,take spoons from ramekin
+P04_113_136,255.14,256.23,put spoons in cutlery tray
+P04_113_137,256.51,257.36,open dishwasher drawer
+P04_113_138,257.15,258.4,put ramekin in dishwasher
+P04_113_139,259.2,260.3,pick up plate
+P04_113_14,47.83,49.15,put chopping board next to knife rack
+P04_113_140,260.9,261.48,close dishwasher drawer
+P04_113_141,262.29,264.85,put plate in dishwasher
+P04_113_142,265.7,266.8,pick up plates
+P04_113_143,268.36,270.66,put plate in dishwasher
+P04_113_144,270.95,271.45,pick up spoon
+P04_113_145,271.45,272.43,put spoon in cutlery tray
+P04_113_146,272.36,273.96,put plate in dishwasher
+P04_113_147,275.56,277.04,pick up knife and fork
+P04_113_148,276.85,278.75,put knife and fork in cutlery tray
+P04_113_149,278.7,281.0,lift up dishwasher drawer
+P04_113_15,49.1,50.3,pull out dishwasher drawer
+P04_113_150,281.17,282.8,close dishwasher drawer
+P04_113_151,282.33,282.9,pick up fork
+P04_113_152,282.7,283.25,open dishwasher drawer
+P04_113_153,283.3,283.6,put fork in cutlery tray
+P04_113_154,283.65,285.43,pick up plate
+P04_113_155,286.55,289.65,put plate in dishwasher
+P04_113_156,292.83,295.43,put plate in dishwasher
+P04_113_157,290.63,291.59,pick up plate
+P04_113_158,291.65,292.4,pick up scissors
+P04_113_159,292.59,294.26,put plate in dishwasher
+P04_113_16,50.2,51.46,pick up spatula
+P04_113_160,294.36,295.84,put scissors in dishwasher
+P04_113_161,296.63,297.4,lift rice cooker lid
+P04_113_162,297.64,298.94,put lid in frying pan
+P04_113_163,299.11,301.45,pick up pan
+P04_113_164,301.56,303.46,pull open bao bun
+P04_113_165,303.76,305.01,feel bao bun
+P04_113_166,305.05,305.56,close bao bun
+P04_113_167,304.0,305.85,feel bao bun
+P04_113_168,305.5,307.54,smell bao bun
+P04_113_169,307.49,312.28,put bao bun on chopping board
+P04_113_17,52.42,53.16,open drawer
+P04_113_170,312.4,313.52,lift up steamer tray
+P04_113_171,313.6,314.44,put down steamer tray
+P04_113_172,315.13,316.53,pick up rice cooker bowl
+P04_113_173,317.78,318.93,turn on tap
+P04_113_174,318.85,321.74,fill rice cooker bowl with water
+P04_113_175,321.55,323.77,turn off tap
+P04_113_176,323.87,327.29,put rice cooker bowl in rice cooker
+P04_113_177,327.98,328.62,turn rice cooker
+P04_113_178,329.31,331.64,pick up plug
+P04_113_179,331.68,336.99,put plug in socket
+P04_113_18,54.1,54.59,close drawer
+P04_113_180,337.62,339.22,put steamer tray in rice cooker
+P04_113_181,338.83,340.48,put on steamer tray
+P04_113_182,340.3,340.9,turn on rice cooker
+P04_113_183,340.93,341.5,pick up rice cooker lid
+P04_113_184,341.38,343.4,put lid on rice cooker
+P04_113_185,344.33,346.58,pick up tea towel
+P04_113_186,346.65,348.37,put tea towel on oven door
+P04_113_187,349.52,350.68,pick up rolling pin
+P04_113_188,350.72,351.37,open dishwasher drawer
+P04_113_189,351.43,352.53,put rolling pin in dishwasher
+P04_113_19,54.78,55.56,open drawer
+P04_113_190,353.77,354.6,pick up scissors
+P04_113_191,354.38,355.43,open scissors
+P04_113_192,355.2,355.83,push dishwasher drawer
+P04_113_193,356.27,356.89,put scissors in cutlery tray
+P04_113_194,357.48,358.17,pick up tofu packet
+P04_113_195,358.88,360.2,pick up rubbish
+P04_113_196,362.84,363.78,open bin
+P04_113_197,361.0,364.07,put rubbish in bin
+P04_113_198,363.92,366.26,peel plastic film off tofu packet
+P04_113_199,366.36,367.17,put plastic film in bin
+P04_113_2,4.95,10.29,adjust oven heat
+P04_113_20,55.56,56.51,put spatula in drawer
+P04_113_200,367.82,368.74,open bin
+P04_113_201,368.61,369.43,push down rubbish
+P04_113_202,369.43,370.49,close bin
+P04_113_203,373.28,374.5,put tofu packet in recycling
+P04_113_204,378.94,380.41,pick up oven dish
+P04_113_205,380.55,381.47,push dishwasher drawer
+P04_113_206,381.88,387.32,turn over oven dish
+P04_113_207,383.68,388.05,put oven dish in dishwasher
+P04_113_208,389.52,390.08,pick up saucepan
+P04_113_209,390.12,392.06,empty water from saucepan
+P04_113_21,56.29,57.92,close drawer
+P04_113_210,392.34,393.36,open dishwasher drawer
+P04_113_211,393.34,394.76,put saucepan in dishwasher
+P04_113_212,394.84,395.51,close dishwasher drawer
+P04_113_213,395.41,398.84,pick up spoon and fork
+P04_113_214,397.59,398.44,pick up fork
+P04_113_215,398.79,399.73,pick up spoon
+P04_113_216,399.42,404.53,put cutlery in cutlery tray
+P04_113_217,405.96,406.7,pick up spoons
+P04_113_218,406.8,407.96,empty water from spoons
+P04_113_219,408.06,409.17,put measuring spoon on chopping board
+P04_113_22,56.79,57.43,pick up knife
+P04_113_220,409.27,410.5,put teaspoon in cutlery tray
+P04_113_221,411.31,411.84,move measuring spoon onto counter
+P04_113_222,412.3,413.41,pick up chopstick
+P04_113_223,413.51,415.09,put chopstick in cutlery tray
+P04_113_224,414.96,418.93,take spoon out of jar
+P04_113_225,419.9,420.62,put spoon in cutlery tray
+P04_113_226,420.98,422.92,pick up spicy bean paste jar
+P04_113_227,422.54,423.55,pick up saucepan lid
+P04_113_228,423.84,424.87,put down spicy bean paste jar
+P04_113_229,425.1,426.08,pick up measuring spoon
+P04_113_23,57.73,59.05,put knife in knife rack
+P04_113_230,426.18,427.26,pick up rubbish
+P04_113_231,427.36,428.16,put down rubbish
+P04_113_232,428.52,429.33,drop measuring spoon into cutlery tray
+P04_113_233,429.31,430.25,pull out dishwasher drawer
+P04_113_234,429.9,431.8,put saucepan lid in dishwasher drawer
+P04_113_235,432.44,433.4,pick up jar
+P04_113_236,433.35,433.97,turn on tap
+P04_113_237,434.25,436.79,fill jar with water
+P04_113_238,436.8,437.77,empty jar
+P04_113_239,438.45,441.95,fill jar with water
+P04_113_24,58.96,61.65,try to pick up tupperware lid
+P04_113_240,441.85,442.8,empty jar
+P04_113_241,443.4,446.42,fill jar with water
+P04_113_242,446.37,447.33,empty jar
+P04_113_243,447.66,450.39,fill jar with water
+P04_113_244,450.5,451.31,empty jar
+P04_113_245,451.35,457.1,rinse rim of jar
+P04_113_246,457.2,466.95,rinse rim of jar
+P04_113_247,462.72,465.35,inspect jar
+P04_113_248,465.96,466.92,rub sauce off thumb
+P04_113_249,465.7,466.7,shake water out of jar
+P04_113_25,61.44,62.17,pick up tupperware pot and lid
+P04_113_250,466.8,467.8,turn off tap
+P04_113_251,467.9,468.74,turn on tap
+P04_113_252,468.75,470.29,rinse thumb
+P04_113_253,470.22,471.78,scratch sauce off thumb
+P04_113_254,472.13,472.86,turn off tap
+P04_113_255,472.8,474.31,put down jar
+P04_113_256,474.41,475.47,pick up tea towel
+P04_113_257,474.19,476.11,wipe hands with tea towel
+P04_113_258,476.32,477.77,put tea towel on oven door
+P04_113_259,479.32,481.63,put jar in recycling
+P04_113_26,62.08,63.45,put lid on tupperware
+P04_113_260,484.62,485.63,pick up ramekin
+P04_113_261,486.82,487.94,take brush out of ramekin
+P04_113_262,486.33,488.91,put pastry brush in cutlery tray
+P04_113_263,489.43,490.39,pull out dishwasher drawer
+P04_113_264,490.41,491.31,put ramekin in dishwasher drawer
+P04_113_265,491.91,492.71,pick up spatula
+P04_113_266,493.27,494.08,pull open dishwasher drawer
+P04_113_267,492.0,494.14,put spatula in dishwasher drawer
+P04_113_268,494.68,495.19,close dishwasher drawer
+P04_113_269,494.91,496.08,pick up frying pan
+P04_113_27,61.69,64.75,close tupperware
+P04_113_270,496.18,498.14,put frying pan in dishwasher
+P04_113_271,497.74,500.84,adjust frying pan handle
+P04_113_272,499.98,501.05,rearrange chopstick
+P04_113_273,500.52,502.39,close dishwasher drawer
+P04_113_274,502.25,503.2,close dishwasher
+P04_113_275,503.23,508.12,pick up bowl
+P04_113_276,508.78,509.92,open food bin
+P04_113_277,509.0,515.12,scrape flour out of bowl and into food bin
+P04_113_278,515.22,515.99,close food bin
+P04_113_279,516.91,518.05,turn on tap
+P04_113_28,65.09,66.06,put down tupperware
+P04_113_280,518.01,518.77,put bowl in sink
+P04_113_281,518.11,518.65,fill bowl with water
+P04_113_282,518.65,519.53,pick up washing up liquid
+P04_113_283,519.4,520.42,squirt washing up liquid into bowl
+P04_113_284,520.48,521.23,put down washing up liquid
+P04_113_285,525.03,526.34,pick up soy sauce and sesame oil
+P04_113_286,527.19,528.35,open cupboard
+P04_113_287,527.5,529.67,put soya sauce in cupboard
+P04_113_288,529.97,531.26,push bottle back
+P04_113_289,530.94,531.6,put sesame oil in cupboard
+P04_113_29,65.74,67.49,pick up tupperware pot
+P04_113_290,531.95,532.76,close cupboard
+P04_113_291,533.96,534.5,pick up coriander packet
+P04_113_292,534.79,536.73,fold coriander packet
+P04_113_293,537.13,538.61,open fridge
+P04_113_294,539.38,540.57,put coriander in fridge
+P04_113_295,542.2,543.21,close fridge
+P04_113_296,545.32,546.34,pick up jar lid
+P04_113_297,546.86,547.94,rinse jar lid
+P04_113_298,547.57,551.33,rub jar lid
+P04_113_299,550.57,551.2,shake jar lid
+P04_113_3,10.68,11.89,pick up baking tray
+P04_113_30,67.06,69.09,pick up tupperware lid
+P04_113_300,552.77,553.65,throw jar lid onto recycling
+P04_113_301,554.52,555.98,move jar lid into recycling with foot
+P04_113_302,558.39,559.51,pick up tea towel
+P04_113_303,560.47,561.43,wipe hands with tea towel
+P04_113_304,558.68,560.85,put tea towel on oven door
+P04_113_305,560.74,562.07,pick up chopping board
+P04_113_306,563.93,564.73,turn off tap
+P04_113_307,564.0,566.18,open food bin
+P04_113_308,566.53,570.69,wipe flour into food bin
+P04_113_309,570.77,571.91,close food bin
+P04_113_31,69.29,69.64,shake lid
+P04_113_310,572.7,573.66,open dishwasher
+P04_113_311,577.36,580.93,move oven dish
+P04_113_312,579.58,582.85,slide chopping board into dishwasher
+P04_113_313,584.87,586.85,move frying pan
+P04_113_314,586.76,589.21,move oven dish
+P04_113_315,589.23,589.88,put down frying pan
+P04_113_316,590.42,594.95,slide chopping board into dishwasher
+P04_113_317,592.0,595.47,close dishwasher drawer
+P04_113_318,595.57,597.16,close dishwasher
+P04_113_319,597.26,599.0,pick up sponge
+P04_113_32,69.99,71.66,hit lid on dishwasher drawer
+P04_113_320,599.11,600.53,wet sponge
+P04_113_321,600.39,604.21,wash teaspoon
+P04_113_322,603.78,605.41,put down sponge
+P04_113_323,605.39,606.89,turn on tap
+P04_113_324,606.97,609.24,rinse spoon
+P04_113_325,609.33,611.58,put down spoon on counter
+P04_113_326,611.19,613.57,pick up sponge
+P04_113_327,611.36,612.4,pick up teaspoon
+P04_113_328,612.49,613.23,rinse teaspoon
+P04_113_329,613.24,618.99,wash teaspoon with sponge
+P04_113_33,71.64,73.39,put lid on tupperware
+P04_113_330,619.09,620.45,rinse teaspoon
+P04_113_331,620.54,621.7,put teaspoon on counter
+P04_113_332,621.79,622.29,pick up tupperware tub
+P04_113_333,622.62,623.34,dip tupperware tub in water
+P04_113_334,623.38,626.59,wash tupperware tub
+P04_113_335,626.98,627.37,turn off tap
+P04_113_336,627.91,633.32,wash tupperware tub
+P04_113_337,640.0,641.81,pick food off tupperware tub
+P04_113_338,641.92,649.75,pick food off tupperware tub
+P04_113_339,649.85,650.47,dip sponge in water
+P04_113_34,73.64,74.39,pick up tupperware
+P04_113_340,650.37,651.68,wash tupperware tub
+P04_113_341,652.59,653.58,turn on tap
+P04_113_342,653.68,656.04,rinse tupperware tub
+P04_113_343,656.59,658.73,shake tupperware tub
+P04_113_344,659.3,660.27,rinse tupperware tub
+P04_113_345,660.37,661.12,put tub on countertop
+P04_113_346,661.49,662.24,turn off tap
+P04_113_347,662.41,663.13,pick up measuring spoon
+P04_113_348,663.6,664.85,turn on tap
+P04_113_349,664.84,665.19,rinse spoon
+P04_113_35,74.75,75.54,pick up tupperware lid
+P04_113_350,665.37,666.16,pick up sponge
+P04_113_351,666.25,668.22,wash spoon
+P04_113_352,667.62,669.35,rinse spoon
+P04_113_353,669.6,670.46,turn off tap
+P04_113_354,670.43,671.48,shake spoon
+P04_113_355,671.56,673.31,pick up tea towel
+P04_113_356,673.41,681.03,dry spoon
+P04_113_357,681.52,682.53,lift lid of rice cooker
+P04_113_358,682.78,683.73,put down rice cooker lid
+P04_113_359,685.1,688.71,dry spoon
+P04_113_36,76.29,77.04,open cupboard door
+P04_113_360,688.69,689.56,open drawer
+P04_113_361,689.64,690.16,put spoon in drawer
+P04_113_362,690.24,690.51,close drawer
+P04_113_363,691.07,691.78,pick up tupperware tub
+P04_113_364,691.88,692.5,shake tupperware tub
+P04_113_365,692.64,701.24,dry tupperware tub with tea towel
+P04_113_366,701.34,702.04,put down tupperware tub on counter
+P04_113_367,702.7,703.56,pick up spoons
+P04_113_368,703.91,707.49,dry spoons
+P04_113_369,708.11,709.31,open drawer
+P04_113_37,75.49,77.87,put tupperware in cupboard
+P04_113_370,709.33,710.22,put spoons in drawer
+P04_113_371,710.96,711.74,close drawer
+P04_113_372,711.84,712.86,pick up tupperware tub
+P04_113_373,713.24,714.39,open cupboard
+P04_113_374,714.48,716.12,put tupperware tub in cupboard
+P04_113_375,715.57,717.84,close cupboard
+P04_113_376,718.42,722.02,take flour
+P04_113_377,721.0,724.05,roll flour bag closed
+P04_113_378,724.15,726.35,take bag of flour
+P04_113_379,725.56,726.86,put down bag of flour
+P04_113_38,78.07,79.24,pick up tupperware
+P04_113_380,726.96,727.92,pick up bag of flour
+P04_113_381,727.91,728.6,put bag of flour under arm
+P04_113_382,728.7,729.24,pick up bag of flour
+P04_113_383,729.3,731.64,put down bag of flour
+P04_113_384,731.63,734.23,put down bag of flour
+P04_113_385,734.29,736.55,put down bag of flour
+P04_113_386,736.41,742.33,pick up bag of flour
+P04_113_387,737.95,740.82,roll bag of flour closed
+P04_113_388,741.98,742.68,put bag of flour on shelf
+P04_113_389,743.52,744.08,pick up garlic skin
+P04_113_39,79.12,79.48,throw tupperware into cupboard
+P04_113_390,746.48,747.19,open food bin
+P04_113_391,747.17,747.66,put garlic skin in food bin
+P04_113_392,747.69,748.5,pick up sponge
+P04_113_393,748.6,749.6,dip sponge in water
+P04_113_394,749.2,751.96,tip bowl to empty water from bowl
+P04_113_395,752.05,755.66,wash bowl
+P04_113_396,755.76,757.15,put down sponge
+P04_113_397,757.45,758.66,turn on tap
+P04_113_398,758.4,768.74,rinse bowl
+P04_113_399,768.75,769.85,put down bowl
+P04_113_4,13.0,14.2,turn on tap
+P04_113_40,79.54,79.99,throw lid into cupboard
+P04_113_400,769.95,770.89,turn off tap
+P04_113_401,771.29,772.12,pick up knife
+P04_113_402,772.22,772.65,pick up sponge
+P04_113_403,772.75,779.93,wash knife
+P04_113_404,780.03,780.76,put down sponge
+P04_113_405,781.02,781.33,shake hand
+P04_113_406,782.07,783.38,pick up tea towel
+P04_113_407,783.99,791.4,dry knife
+P04_113_408,791.2,792.26,put tea towel on oven door
+P04_113_409,793.8,795.14,put knife in knife rack
+P04_113_41,80.56,81.41,close cupboard door
+P04_113_410,796.15,796.9,pick up peanut packet
+P04_113_411,798.45,799.25,open cupboard
+P04_113_412,799.27,800.1,chuck peanut packet into cupboard
+P04_113_413,803.7,804.47,move bag of flour
+P04_113_414,804.57,807.43,pick up rubbish
+P04_113_415,808.5,809.1,open food bin
+P04_113_416,809.09,809.66,put rubbish in food bin
+P04_113_417,809.11,809.64,close food bin
+P04_113_418,810.19,811.08,pick up scraper
+P04_113_419,811.63,812.89,turn on tap
+P04_113_42,82.22,85.11,adjust dressing gown
+P04_113_420,812.37,814.09,rinse scraper
+P04_113_421,813.84,814.26,turn off tap
+P04_113_422,814.3,815.07,shake scraper
+P04_113_423,815.42,816.6,pick up tea towel
+P04_113_424,816.8,819.09,dry scraper
+P04_113_425,819.19,820.29,put tea towel on oven door
+P04_113_426,821.85,823.11,open drawer
+P04_113_427,820.0,822.49,put scraper in drawer
+P04_113_428,822.09,823.08,close drawer
+P04_113_429,823.18,824.61,pick up bowl with dough
+P04_113_43,85.16,86.26,pick up mug
+P04_113_430,825.68,826.94,put down bowl
+P04_113_431,828.72,832.79,pick up dustpan and brush
+P04_113_432,832.89,834.92,take brush off dustpan
+P04_113_433,834.58,842.36,sweep flour off countertop
+P04_113_434,842.39,848.89,sweep flour off hob
+P04_113_435,848.92,853.29,sweep flour from under toaster
+P04_113_436,852.93,855.57,open dishwasher
+P04_113_437,854.0,856.34,close dishwasher
+P04_113_438,857.55,884.44,sweep bits from floor
+P04_113_439,884.54,887.34,open bin
+P04_113_44,88.26,89.71,take cling film off bread dough
+P04_113_440,887.44,888.24,tip bits into bin
+P04_113_441,887.94,889.44,close bin
+P04_113_442,889.54,890.89,put brush on dustpan
+P04_113_443,891.9,893.88,put down dustpan and brush
+P04_113_444,896.93,898.44,pick up sponge
+P04_113_445,898.19,899.21,turn on tap
+P04_113_446,899.39,901.39,squeeze sponge
+P04_113_447,900.25,913.57,wipe countertop
+P04_113_448,913.13,921.23,wipe hob
+P04_113_449,921.33,922.22,put down sponge
+P04_113_45,89.77,91.07,press bread dough
+P04_113_450,922.32,925.75,dry hands on tea towel
+P04_113_451,925.8,926.6,lift lid of rice cooker
+P04_113_452,926.56,927.7,put down lid of rice cooker
+P04_113_453,940.8,942.11,pick up kettle
+P04_113_454,943.23,946.67,move kettle pot
+P04_113_455,946.65,947.72,put down kettle pot
+P04_113_456,947.14,948.2,put down kettle
+P04_113_457,950.22,953.99,plug in kettle
+P04_113_458,954.54,955.35,pick up kettle
+P04_113_459,955.31,956.34,put down kettle
+P04_113_46,91.51,92.47,touch bread dough
+P04_113_460,956.29,956.69,turn on kettle
+P04_113_461,957.18,959.04,open oven
+P04_113_462,959.19,962.54,inspect oven
+P04_113_463,962.35,963.99,close oven door
+P04_113_464,990.04,990.9,pick up cling film
+P04_113_465,990.9,991.44,put down cling film
+P04_113_466,991.53,999.85,pull tea towel
+P04_113_467,992.0,993.73,separate dough from tea towel
+P04_113_468,993.81,998.56,feel dough
+P04_113_469,998.3,1000.24,pick up bowl
+P04_113_47,91.01,95.45,unfurl cling film
+P04_113_470,1000.13,1001.49,tip bowl
+P04_113_471,1001.32,1004.11,tip bowl
+P04_113_472,1003.65,1004.59,jiggle dough in bowl
+P04_113_473,1004.69,1007.0,put down bowl
+P04_113_474,1006.92,1009.77,pick up bowl
+P04_113_475,1009.62,1010.94,move tea towel from under bowl
+P04_113_476,1010.82,1012.06,put down bowl
+P04_113_477,1010.0,1014.49,pull out tea towel
+P04_113_478,1024.56,1025.74,open drawer
+P04_113_479,1025.28,1026.21,move measuring spoon
+P04_113_48,94.59,96.83,lay cling film over dough
+P04_113_480,1026.22,1026.86,move garlic press
+P04_113_481,1026.91,1027.67,pick up knife
+P04_113_482,1027.72,1028.68,take sheath off knife
+P04_113_483,1028.75,1030.95,put knife into sheath
+P04_113_484,1030.96,1032.33,put down knife
+P04_113_485,1071.47,1072.61,turn on extractor fan
+P04_113_486,1108.71,1110.48,pick up kettle
+P04_113_487,1110.89,1113.32,open oven
+P04_113_488,1113.38,1116.39,pick up oven gloves
+P04_113_489,1116.38,1117.67,put down kettle
+P04_113_49,97.35,98.7,open cupboard
+P04_113_490,1117.21,1120.8,put on oven gloves
+P04_113_491,1120.02,1123.14,pull out baking tray
+P04_113_492,1123.24,1129.13,pour water from kettle onto baking tray
+P04_113_493,1129.04,1131.0,put down kettle
+P04_113_494,1131.08,1131.86,slide baking tray into oven
+P04_113_495,1131.41,1133.19,pick up kettle
+P04_113_496,1133.29,1134.44,put down kettle
+P04_113_497,1135.88,1137.67,take pan out of oven
+P04_113_498,1138.25,1139.15,put cast iron pan onto counter
+P04_113_499,1140.31,1142.16,close oven
+P04_113_5,13.92,17.64,fill baking tray with water
+P04_113_50,98.59,101.17,put mug in cupboard
+P04_113_500,1142.21,1144.05,put oven gloves on oven door
+P04_113_501,1142.83,1144.09,feel temperature of cast iron pan
+P04_113_502,1144.3,1145.85,pick up bowl of dough
+P04_113_503,1145.92,1148.68,upturn bowl of dough
+P04_113_504,1149.08,1155.01,empty dough onto cast iron pan
+P04_113_505,1155.11,1156.57,pick up knife
+P04_113_506,1156.32,1157.15,unsheathe knife
+P04_113_507,1157.81,1164.01,score dough
+P04_113_508,1161.63,1169.89,score dough
+P04_113_509,1170.12,1171.75,sheathe knife
+P04_113_51,101.63,104.67,pick up cast iron pan
+P04_113_510,1173.06,1173.69,take sheath off knife
+P04_113_511,1172.43,1173.86,sheathe knife
+P04_113_512,1174.5,1175.34,open oven
+P04_113_513,1176.64,1177.57,pick up cast iron pan
+P04_113_514,1177.34,1179.34,put cast iron pan in oven
+P04_113_515,1179.04,1180.54,close oven
+P04_113_516,1180.55,1181.21,put oven gloves on oven door
+P04_113_52,104.74,105.47,open oven
+P04_113_53,105.78,106.96,put cast iron pan in oven
+P04_113_54,106.99,107.62,close oven
+P04_113_55,109.52,110.71,pick up bowl
+P04_113_56,112.45,113.8,stack bowls
+P04_113_57,113.68,114.7,open cupboard door
+P04_113_58,114.79,116.24,put bowls on plate in cupboard
+P04_113_59,117.29,118.79,pick up saucepan
+P04_113_6,16.55,18.17,turn off tap
+P04_113_60,118.65,120.16,open cupboard
+P04_113_61,119.84,122.3,put saucepan in cupboard
+P04_113_62,122.39,123.6,close cupboard door
+P04_113_63,123.54,124.99,pick up glass mug
+P04_113_64,125.09,128.72,put glass mug in cupboard
+P04_113_65,128.82,130.39,pick up cheese grater
+P04_113_66,130.47,131.34,open cupboard
+P04_113_67,130.54,132.42,throw cheese grater into cupboard
+P04_113_68,132.5,133.55,close cupboard
+P04_113_69,133.55,135.3,close dishwasher drawer
+P04_113_7,23.23,25.78,open oven
+P04_113_70,135.07,136.9,pick up plate bowls
+P04_113_71,136.97,139.5,put plate bowls in cupboard
+P04_113_72,141.71,143.05,pick up frying pan
+P04_113_73,143.33,144.89,open cupboard
+P04_113_74,143.8,146.11,put frying pan in cupboard
+P04_113_75,146.21,147.59,close cupboard
+P04_113_76,147.7,148.75,pick up measuring spoon
+P04_113_77,148.63,149.4,open drawer
+P04_113_78,149.61,150.19,put spoon in drawer
+P04_113_79,150.29,150.97,close drawer
+P04_113_8,25.73,30.36,put baking tray in oven
+P04_113_80,151.07,152.09,pick up tupperware tub
+P04_113_81,152.84,154.06,inspect tupperware tub
+P04_113_82,154.3,156.73,scratch food off tupperware tub
+P04_113_83,157.42,157.85,put down tupperware tub
+P04_113_84,158.63,160.1,pick up colander
+P04_113_85,160.06,161.18,turn over colander
+P04_113_86,161.28,162.24,open cupboard
+P04_113_87,161.68,163.95,put colander in cupboard
+P04_113_88,164.01,164.73,close cupboard
+P04_113_89,166.3,167.3,pick up glass
+P04_113_9,30.33,33.33,look at kettle
+P04_113_90,168.83,169.55,open cupboard door
+P04_113_91,169.75,171.04,put glass in cupboard
+P04_113_92,170.99,172.95,close cupboard door
+P04_113_93,172.71,179.07,pick up bowl
+P04_113_94,178.27,182.01,try to put bowl in cupboard
+P04_113_95,182.11,183.79,pick up bowls from cupboard
+P04_113_96,183.89,189.81,stack bowls
+P04_113_97,184.1,189.2,put bowls into cupboard
+P04_113_98,191.45,192.7,pick up cutlery tray
+P04_113_99,193.62,195.8,open drawer

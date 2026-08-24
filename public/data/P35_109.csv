@@ -1,0 +1,283 @@
+P35_109_0,2.9,3.75,pick up container
+P35_109_1,4.25,5.06,put down container
+P35_109_10,22.36,27.65,move tray
+P35_109_100,305.03,312.2,pour milk
+P35_109_101,312.12,321.14,pour milk
+P35_109_102,321.0,324.32,pick up milk
+P35_109_103,324.28,325.71,open fridge
+P35_109_104,325.67,327.25,put down milk
+P35_109_105,327.7,328.7,close fridge
+P35_109_106,330.99,331.6,pick up saucepan
+P35_109_107,331.65,332.65,pick up mug
+P35_109_108,332.68,335.25,pour milk
+P35_109_109,335.58,336.31,put down mug
+P35_109_11,31.25,33.34,move sieve
+P35_109_110,336.84,337.51,pick up mug
+P35_109_111,337.63,340.14,pour milk
+P35_109_112,339.53,341.22,put down mug
+P35_109_113,339.0,343.06,put down saucepan
+P35_109_114,342.37,347.06,turn on hob
+P35_109_115,346.84,352.26,pick up container
+P35_109_116,352.18,353.9,put down container
+P35_109_117,353.73,356.42,pick up cloth
+P35_109_118,356.52,357.22,put down cloth
+P35_109_119,357.92,359.32,pick up coffee holder
+P35_109_12,33.8,35.05,put down container
+P35_109_120,359.38,360.12,put down coffee holder
+P35_109_121,359.44,361.39,turn on machine
+P35_109_122,360.98,368.03,open cupboard
+P35_109_123,368.0,371.35,pick up container
+P35_109_124,371.85,372.93,close cupboard
+P35_109_125,374.11,375.01,put down coffee
+P35_109_126,375.11,376.49,pick up coffee holder
+P35_109_127,376.45,378.35,pick up filter
+P35_109_128,378.15,383.91,clean filter
+P35_109_129,384.18,389.48,put down filter
+P35_109_13,35.45,37.35,close cupboard
+P35_109_130,389.98,391.61,open container
+P35_109_131,391.71,392.24,put down lid
+P35_109_132,392.34,393.42,pick up container
+P35_109_133,398.0,430.61,pour coffee
+P35_109_134,430.63,432.15,put down container
+P35_109_135,432.12,466.6,adjust coffee
+P35_109_136,466.7,468.01,pick up coffee holder
+P35_109_137,468.07,473.42,insert coffee holder
+P35_109_138,477.41,478.29,pick up lid
+P35_109_139,477.6,477.92,pick up container
+P35_109_14,37.35,41.76,open drawer
+P35_109_140,478.02,479.69,close container
+P35_109_141,479.79,481.08,open cupboard
+P35_109_142,481.17,483.11,put down container
+P35_109_143,483.1,484.25,close cupboard
+P35_109_144,486.34,487.34,pick up cup
+P35_109_145,487.44,489.32,pick up mug
+P35_109_146,489.92,491.23,put down mug
+P35_109_147,492.72,493.66,turn on machine
+P35_109_148,493.76,498.43,adjust cup
+P35_109_149,503.73,507.26,adjust cup
+P35_109_15,42.27,43.79,pick up containers
+P35_109_150,520.32,525.94,turn down machine
+P35_109_151,527.27,529.91,pick up mug
+P35_109_152,529.41,536.81,wash cup
+P35_109_153,544.08,545.54,put down mug
+P35_109_154,545.7,548.46,pour coffee
+P35_109_155,548.15,553.82,put down cup
+P35_109_156,552.03,557.95,stir milk
+P35_109_157,557.88,559.02,turn off hob
+P35_109_158,559.05,561.8,pick up saucepan
+P35_109_159,561.13,573.22,move pot rest
+P35_109_16,44.88,45.68,pick up containers
+P35_109_160,573.32,575.36,move machine
+P35_109_161,575.29,577.06,turn on steam
+P35_109_162,577.16,594.92,move saucepan
+P35_109_163,622.39,625.53,turn off steam
+P35_109_164,625.29,648.23,move saucepan
+P35_109_165,646.91,648.72,turn off steam
+P35_109_166,651.9,652.64,turn down machine
+P35_109_167,656.58,658.86,put down saucepan
+P35_109_168,662.63,666.98,remove coffee holder
+P35_109_169,668.55,669.55,open drawer
+P35_109_17,46.04,48.38,put down containers
+P35_109_170,669.78,670.81,pick up teaspoon
+P35_109_171,670.91,671.59,close drawer
+P35_109_172,672.67,674.12,pick up coffee holder
+P35_109_173,675.1,676.71,put down coffee holder
+P35_109_174,676.35,677.6,open bucket
+P35_109_175,677.7,679.74,pick up coffee holder
+P35_109_176,679.84,710.53,throw coffee
+P35_109_177,710.48,711.91,close bucket
+P35_109_178,712.01,714.65,turn on tap
+P35_109_179,714.68,716.06,wash teaspoon
+P35_109_18,47.28,48.31,put down containers
+P35_109_180,716.04,731.11,wash coffee holder
+P35_109_181,730.98,732.33,turn off tap
+P35_109_182,732.43,736.22,put down coffee holder
+P35_109_183,733.0,736.17,put down filter
+P35_109_184,738.81,739.35,pick up cloth
+P35_109_185,740.7,741.7,turn on tap
+P35_109_186,741.63,763.66,wash cloth
+P35_109_187,763.65,765.15,turn off tap
+P35_109_188,767.35,779.58,wash coffee machine
+P35_109_189,779.73,781.71,move machine
+P35_109_19,48.1,49.85,pick up container
+P35_109_190,781.69,790.16,wash coffee machine
+P35_109_191,793.18,795.26,turn on tap
+P35_109_192,794.81,805.99,rinse cloth
+P35_109_193,809.75,810.51,turn off tap
+P35_109_194,815.84,820.44,put down cloth
+P35_109_195,821.82,824.16,dry hands
+P35_109_196,826.01,827.38,pick up saucepan
+P35_109_197,827.99,829.81,move cup
+P35_109_198,829.77,830.86,move cup
+P35_109_199,830.61,852.17,pour milk
+P35_109_2,5.31,6.8,pick up colander
+P35_109_20,49.95,51.95,pick up containers
+P35_109_200,852.09,854.25,put down saucepan
+P35_109_201,853.8,855.93,pick cups
+P35_109_202,855.76,860.03,put down mug
+P35_109_203,858.0,861.0,put down mug
+P35_109_204,861.87,864.68,pick up object
+P35_109_205,864.66,866.28,throw object
+P35_109_206,866.05,869.8,pick up spoon
+P35_109_207,870.42,872.48,pick up spoon
+P35_109_208,871.35,874.97,open cupboard
+P35_109_209,875.81,877.69,pick up cereals
+P35_109_21,51.95,52.64,put down container
+P35_109_210,877.34,883.21,pick biscuits
+P35_109_211,882.61,884.15,close cupboard
+P35_109_212,884.15,889.93,put down biscuits
+P35_109_213,891.45,892.7,put down spoon
+P35_109_214,892.54,894.68,put down spoon
+P35_109_215,894.78,896.69,put down cereals
+P35_109_216,896.6,898.54,pick biscuits
+P35_109_217,898.64,899.96,pick up package
+P35_109_218,902.77,904.72,throw packaging
+P35_109_219,907.96,909.62,pick up cloth
+P35_109_22,52.74,53.42,put down containers
+P35_109_220,909.72,913.08,clean counter top
+P35_109_221,913.14,914.68,turn on tap
+P35_109_222,914.75,918.93,rinse cloth
+P35_109_223,921.25,923.28,put down cloth
+P35_109_224,923.38,925.86,rinse hands
+P35_109_225,925.15,928.6,adjust tap
+P35_109_226,928.21,935.68,wash glass
+P35_109_227,935.78,936.63,put down glass
+P35_109_228,936.59,942.07,wash glass
+P35_109_229,942.16,943.17,put down glass
+P35_109_23,52.0,55.99,pick up container
+P35_109_230,943.25,957.31,wash saucepan
+P35_109_231,957.19,958.91,put down saucepan
+P35_109_232,959.01,961.62,wash teaspoon
+P35_109_233,961.46,962.26,put down teaspoon
+P35_109_234,962.69,964.77,wash cup
+P35_109_235,965.08,965.7,put down cup
+P35_109_236,966.39,967.04,pick up sponge
+P35_109_237,966.94,969.85,rinse sponge
+P35_109_238,969.79,970.61,turn off tap
+P35_109_239,972.69,973.82,pick up soap
+P35_109_24,56.09,56.89,put down container
+P35_109_240,974.03,975.03,pour washing up liquid
+P35_109_241,975.05,976.43,put down washing up liquid
+P35_109_242,976.48,978.73,pick up cup
+P35_109_243,977.0,985.33,lather cup
+P35_109_244,985.82,986.95,pick up teaspoon
+P35_109_245,986.95,991.32,lather teaspoon
+P35_109_246,991.76,992.75,pick up glass
+P35_109_247,992.8,1000.91,lather glass
+P35_109_248,1001.26,1003.22,pick up glass
+P35_109_249,1003.12,1011.58,lather glass
+P35_109_25,56.95,57.73,pick up container
+P35_109_250,1011.68,1012.71,pick up saucepan
+P35_109_251,1012.82,1031.98,lather saucepan
+P35_109_252,1032.05,1034.28,put down sponge
+P35_109_253,1034.0,1036.3,turn on tap
+P35_109_254,1036.07,1038.39,rinse hands
+P35_109_255,1037.85,1044.01,rinse glass
+P35_109_256,1044.11,1045.21,put down glass
+P35_109_257,1045.04,1051.57,rinse glass
+P35_109_258,1051.28,1052.57,put down glass
+P35_109_259,1052.65,1056.18,rinse cup
+P35_109_26,58.0,58.8,put down container
+P35_109_260,1055.62,1056.74,put down cup
+P35_109_261,1056.63,1058.26,rinse teaspoon
+P35_109_262,1058.19,1059.45,put down teaspoon
+P35_109_263,1060.56,1068.1,rinse saucepan
+P35_109_264,1068.62,1069.41,put down saucepan
+P35_109_265,1070.38,1070.94,turn off tap
+P35_109_266,1073.06,1075.81,dry hands
+P35_109_267,1078.37,1094.95,dry saucepan
+P35_109_268,1095.07,1096.49,put down saucepan
+P35_109_269,1099.04,1099.48,pick up glass
+P35_109_27,59.36,60.29,pick up lid
+P35_109_270,1099.89,1101.35,drain glass
+P35_109_271,1102.19,1102.82,put down glass
+P35_109_272,1103.89,1104.85,pick up cup
+P35_109_273,1104.22,1105.75,drain cup
+P35_109_274,1106.52,1107.55,put down cup
+P35_109_275,1108.53,1108.95,pick up glass
+P35_109_276,1108.97,1110.04,drain glass
+P35_109_277,1110.82,1112.07,put down glass
+P35_109_278,1113.12,1114.17,pick up filter
+P35_109_279,1115.02,1116.27,put down filter
+P35_109_28,60.5,61.5,close container
+P35_109_280,1117.1,1118.39,pick up coffee holder
+P35_109_281,1119.72,1122.72,put down coffee holder
+P35_109_282,1125.14,1127.38,put down cloth
+P35_109_29,62.6,63.62,pick up lid
+P35_109_3,5.0,8.24,put down colander
+P35_109_30,63.72,66.09,close container
+P35_109_31,66.19,69.04,pick up containers
+P35_109_32,68.9,69.65,open cupboard
+P35_109_33,70.56,73.32,put down containers
+P35_109_34,73.65,74.4,close cupboard
+P35_109_35,76.42,77.2,pick up plate
+P35_109_36,77.43,78.1,put down plate
+P35_109_37,78.14,80.46,pick up plates
+P35_109_38,80.56,82.39,put down plates
+P35_109_39,82.75,84.72,pick up plates
+P35_109_4,8.04,9.35,pick up container
+P35_109_40,85.95,87.39,put down plates
+P35_109_41,88.48,89.84,pick up plates
+P35_109_42,90.1,91.56,put down plates
+P35_109_43,92.84,94.27,open cupboard
+P35_109_44,94.11,96.9,pick up plates
+P35_109_45,97.84,100.47,put down plates
+P35_109_46,102.54,103.04,pick up plates
+P35_109_47,104.52,106.46,put down plates
+P35_109_48,110.68,111.49,pick up glass
+P35_109_49,111.62,114.19,pick up glass
+P35_109_5,9.8,10.55,put down container
+P35_109_50,115.1,120.83,put down glass
+P35_109_51,121.12,123.61,put down glass
+P35_109_52,126.47,128.42,pick glasses
+P35_109_53,129.5,131.5,put down glass
+P35_109_54,131.57,135.7,put down glass
+P35_109_55,133.2,141.7,pick up cup
+P35_109_56,138.78,141.34,put down cup
+P35_109_57,142.33,143.11,pick up mug
+P35_109_58,143.17,145.49,pick up cutting board
+P35_109_59,145.84,146.84,put down mug
+P35_109_6,10.58,11.85,pick up container
+P35_109_60,146.83,148.19,pick up mug
+P35_109_61,148.29,149.29,put down mug
+P35_109_62,149.14,151.86,pick up cutting board
+P35_109_63,150.0,152.94,put down cutting board
+P35_109_64,152.61,153.89,put down cutting board
+P35_109_65,153.81,156.9,pick glasses
+P35_109_66,156.94,160.16,put down glasses
+P35_109_67,160.26,162.96,close cupboard
+P35_109_68,163.0,166.64,pick up drying rack
+P35_109_69,166.27,172.99,drain drying rack
+P35_109_7,11.88,12.85,put down container
+P35_109_70,177.51,179.47,put down drying rack
+P35_109_71,178.98,180.31,turn on tap
+P35_109_72,180.39,183.77,turn on light
+P35_109_73,195.89,197.4,turn off tap
+P35_109_74,197.6,233.6,wash drying rack
+P35_109_75,232.86,244.09,drain drying rack
+P35_109_76,243.49,247.33,put down drying rack
+P35_109_77,247.25,248.25,turn on tap
+P35_109_78,251.59,251.82,turn off tap
+P35_109_79,253.45,255.75,close drawer
+P35_109_8,15.15,15.7,pick up container
+P35_109_80,256.0,260.25,dry hands
+P35_109_81,261.85,262.61,open drawer
+P35_109_82,262.7,264.21,pick up saucepan
+P35_109_83,263.67,264.75,close drawer
+P35_109_84,264.85,265.6,put down saucepan
+P35_109_85,265.7,266.95,pick glasses
+P35_109_86,267.28,268.03,put down glasses
+P35_109_87,270.81,271.72,open fridge
+P35_109_88,274.77,275.69,close fridge
+P35_109_89,277.0,277.83,open cupboard
+P35_109_9,16.43,19.0,open cupboard
+P35_109_90,278.1,279.45,pick up milk
+P35_109_91,279.2,279.93,close cupboard
+P35_109_92,280.99,282.15,put down milk
+P35_109_93,283.0,289.5,pick up scissors
+P35_109_94,288.66,292.01,open milk
+P35_109_95,292.09,297.36,put down scissors
+P35_109_96,296.85,300.98,pick up mug
+P35_109_97,301.08,302.2,put down mug
+P35_109_98,302.82,303.71,pick up mug
+P35_109_99,304.19,305.03,put down mug

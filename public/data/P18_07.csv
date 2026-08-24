@@ -1,0 +1,53 @@
+P18_07_0,2.54,3.89,open cupboard
+P18_07_1,5.37,8.65,take pot
+P18_07_10,30.2,32.2,close cupboard
+P18_07_11,33.04,34.79,take coffee pot
+P18_07_12,35.56,39.84,put lid on coffee pot
+P18_07_13,35.75,37.0,take lid
+P18_07_14,39.92,41.6,put coffee pot in coffee machine
+P18_07_15,41.8,43.05,take mug
+P18_07_16,43.13,44.79,take bowl
+P18_07_17,46.27,50.68,open cupboard
+P18_07_18,50.62,51.95,put mug in cupboard
+P18_07_19,52.11,54.56,put bowl in cupboard
+P18_07_2,10.27,11.16,put lid on counter
+P18_07_20,54.6,56.66,take plate
+P18_07_21,56.58,58.33,put on counter
+P18_07_22,58.31,60.21,close cupboard
+P18_07_23,62.06,63.44,take spoon
+P18_07_24,63.48,65.13,take cup
+P18_07_25,66.39,67.65,open drawer
+P18_07_26,67.59,69.12,put spoon in drawer
+P18_07_27,69.22,70.31,take fork from drawer
+P18_07_28,70.41,71.69,close drawer
+P18_07_29,72.35,73.32,open drawer
+P18_07_3,11.25,14.55,throw out tissue
+P18_07_30,73.21,74.34,put cup in drawer
+P18_07_31,74.21,75.55,close drawer
+P18_07_32,78.05,79.54,open cupboard
+P18_07_33,80.22,82.68,take out pasta
+P18_07_34,86.2,93.55,open pasta container
+P18_07_35,94.83,124.62,pour pasta on bowl
+P18_07_36,126.97,139.08,close pasta container
+P18_07_37,140.39,142.32,take elastic wrap
+P18_07_38,142.23,145.23,wrap it over pasta
+P18_07_39,146.56,148.43,put pasta in cupboard
+P18_07_4,14.85,15.91,close cupboard
+P18_07_40,148.21,149.72,close cupboard
+P18_07_41,152.36,153.66,open tap
+P18_07_42,153.27,166.44,wash hands
+P18_07_43,154.38,159.37,put the soap on hand and on sponge
+P18_07_44,166.57,167.52,take sponge
+P18_07_45,169.51,189.23,wash plate
+P18_07_46,188.94,191.51,put plate on dish rack
+P18_07_47,190.47,191.89,take cup
+P18_07_48,193.83,202.36,wash cup
+P18_07_49,199.09,225.83,still rising cup
+P18_07_5,16.06,24.04,pour water in pot
+P18_07_50,225.67,226.52,close tap
+P18_07_51,228.72,230.06,put cup on dish rack
+P18_07_52,231.9,237.23,dry hands with towel
+P18_07_6,23.39,24.38,close tap
+P18_07_7,25.9,27.36,put pot on stove top
+P18_07_8,26.8,28.25,put lid on pot
+P18_07_9,28.02,29.43,turn on stove top

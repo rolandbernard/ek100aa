@@ -1,0 +1,314 @@
+P24_05_0,3.14,4.44,open door
+P24_05_1,4.15,5.16,open door
+P24_05_10,36.2,37.78,open tap
+P24_05_100,543.11,545.35,open tap
+P24_05_101,545.23,546.62,rinse hands
+P24_05_102,550.53,551.65,pick up dish cloth
+P24_05_103,551.87,553.07,dry hands
+P24_05_104,553.26,554.25,pick up spoon
+P24_05_105,553.99,569.05,move onion in the pan
+P24_05_106,569.61,572.03,put spoon
+P24_05_107,571.9,574.63,raise lid
+P24_05_108,574.73,576.07,lower lid
+P24_05_109,593.39,594.66,open fridge
+P24_05_11,37.78,52.51,put water in the pot
+P24_05_110,594.7,596.84,pick up
+P24_05_111,596.86,597.8,pick up bag
+P24_05_112,598.64,610.7,open bag
+P24_05_113,610.8,617.25,stir onion in pan
+P24_05_114,625.54,626.56,put down spoon
+P24_05_115,629.04,632.37,take capers from bag
+P24_05_116,632.78,633.77,put down capers
+P24_05_117,635.92,642.46,close bag
+P24_05_118,643.18,644.03,open fridge
+P24_05_119,643.93,645.16,put away bag
+P24_05_12,59.44,60.86,close tap
+P24_05_120,645.26,646.21,close fridge
+P24_05_121,646.31,647.49,pick up knife
+P24_05_122,650.43,676.41,cut capers
+P24_05_123,677.27,677.89,put down knife
+P24_05_124,679.94,686.48,move onion in pan
+P24_05_125,690.88,694.42,rise up cooker
+P24_05_126,695.83,701.85,move onion in pan
+P24_05_127,702.05,702.88,put down spoon
+P24_05_128,704.28,706.09,take bottle sauce
+P24_05_129,707.02,708.55,pour sauce in pan
+P24_05_13,65.54,74.29,turn on stove
+P24_05_130,736.52,748.53,adjust flame
+P24_05_131,756.19,757.52,put down bottle
+P24_05_132,758.61,765.55,put down pan
+P24_05_133,758.71,759.4,lift up pan
+P24_05_134,759.52,763.01,adjust heat
+P24_05_135,765.14,770.46,stir sauce in pan
+P24_05_136,770.63,772.44,put down spoon
+P24_05_137,772.06,773.03,pick up knife
+P24_05_138,772.72,776.67,cut capers
+P24_05_139,785.2,786.87,pick up cutting board
+P24_05_14,73.66,75.83,put pot on stove
+P24_05_140,787.02,791.16,put capers into pan
+P24_05_141,791.7,795.09,put down cutting board
+P24_05_142,794.98,795.78,put down knife
+P24_05_143,796.34,797.73,pick up spoon
+P24_05_144,797.0,801.39,stir sauce in pan
+P24_05_145,801.73,803.89,pick up cloth
+P24_05_146,803.05,804.13,pick up box
+P24_05_147,804.23,806.87,open box
+P24_05_148,806.97,812.35,take salt
+P24_05_149,812.38,824.25,put salt in sauce
+P24_05_15,75.93,80.68,put lid on pot
+P24_05_150,824.41,845.21,stir sauce in pan
+P24_05_151,847.18,848.73,take sugar
+P24_05_152,855.49,865.89,put sugar in sauce
+P24_05_153,866.82,869.11,put down sugar
+P24_05_154,871.81,872.58,take spoon
+P24_05_155,872.68,877.4,stir sauce in pan
+P24_05_156,877.5,879.51,lift lid
+P24_05_157,879.61,882.97,put down lid
+P24_05_158,885.53,888.41,rinse spoon
+P24_05_159,891.58,892.61,close tap
+P24_05_16,81.34,83.06,open door
+P24_05_160,896.22,897.63,pick up sauce
+P24_05_161,898.86,901.63,take salt
+P24_05_162,901.73,903.97,put salt in water
+P24_05_163,904.37,906.05,take salt
+P24_05_164,906.19,907.62,put salt in water
+P24_05_165,907.72,909.4,take salt
+P24_05_166,909.05,911.68,put salt in water
+P24_05_167,917.44,921.41,close box of salt
+P24_05_168,921.3,922.6,put down box of salt
+P24_05_169,924.78,929.16,move sauce into pan
+P24_05_17,82.86,86.82,pick up pasta
+P24_05_170,937.31,939.06,pick up plate
+P24_05_171,939.75,941.59,put pasta in pot
+P24_05_172,943.42,947.17,stir pasta in saucepan
+P24_05_173,950.86,953.18,take pasta
+P24_05_174,954.0,967.01,pour pasta into saucepan
+P24_05_175,967.58,971.46,take pasta
+P24_05_176,971.38,975.04,pour pasta into saucepan
+P24_05_177,975.75,981.14,stir pasta in saucepan
+P24_05_178,984.5,985.29,put down pasta bag
+P24_05_179,985.32,986.81,close door
+P24_05_18,86.16,89.44,pick up tomato
+P24_05_180,991.78,992.42,pick up sponge
+P24_05_181,995.02,996.37,open tap
+P24_05_182,996.47,997.34,rinse knife
+P24_05_183,997.44,1000.55,lather knife
+P24_05_184,1000.76,1002.11,pick up cutting board
+P24_05_185,1001.53,1009.56,lather cutting board
+P24_05_186,1009.66,1011.62,open tap
+P24_05_187,1011.15,1019.08,rinse cutting board
+P24_05_188,1019.0,1021.46,rinse knife
+P24_05_189,1024.06,1025.19,close tap
+P24_05_19,95.61,97.18,close door
+P24_05_190,1026.0,1027.19,put down cutting board
+P24_05_191,1027.0,1033.5,move knife
+P24_05_192,1028.63,1030.15,open tap
+P24_05_193,1030.25,1031.38,rinse knife
+P24_05_194,1032.58,1033.72,open door
+P24_05_195,1036.09,1039.59,rinse top
+P24_05_196,1040.69,1043.69,close bottle
+P24_05_197,1044.79,1045.79,open fridge
+P24_05_198,1045.89,1047.39,put bottle in fridge
+P24_05_199,1046.81,1048.11,close fridge
+P24_05_2,6.14,13.25,pick up pot
+P24_05_20,101.02,102.22,pick up spoon
+P24_05_200,1049.91,1051.84,pick up plate
+P24_05_201,1051.99,1057.07,rinse plate
+P24_05_202,1058.54,1059.79,close tap
+P24_05_203,1061.12,1062.91,pick up dish cloth
+P24_05_204,1062.29,1070.67,dry plate
+P24_05_205,1071.44,1072.51,put down plate
+P24_05_206,1072.89,1074.04,pick up spoon
+P24_05_207,1073.95,1077.24,stir pasta
+P24_05_208,1083.58,1094.35,set flame
+P24_05_209,1101.91,1104.52,pick up spoon
+P24_05_21,102.31,103.54,put down spoon
+P24_05_210,1104.55,1107.2,turn past
+P24_05_211,1108.67,1112.4,move sauce in the pan
+P24_05_212,1116.58,1119.83,move pasta in the pot
+P24_05_213,1120.0,1123.64,pick up spoon
+P24_05_214,1123.88,1129.23,put lid
+P24_05_215,1130.25,1131.05,put spoon
+P24_05_216,1147.06,1147.82,open door
+P24_05_217,1147.78,1149.67,pick up glass
+P24_05_218,1149.76,1152.01,put glass on the table
+P24_05_219,1152.11,1158.11,pick up knife and fork
+P24_05_22,103.45,105.07,open door
+P24_05_220,1158.21,1160.21,put knife and fork on the table
+P24_05_221,1161.16,1164.44,open fridge
+P24_05_222,1164.41,1168.41,take water
+P24_05_223,1168.51,1171.26,put water on table
+P24_05_224,1174.25,1175.0,take salad
+P24_05_225,1174.88,1176.37,close refrigerator
+P24_05_226,1176.19,1177.94,put salad back
+P24_05_227,1179.29,1191.79,mix salad
+P24_05_228,1194.34,1200.63,get lid
+P24_05_229,1200.69,1201.41,put away lid
+P24_05_23,104.92,108.36,pick up plate
+P24_05_230,1200.8,1202.11,take lid
+P24_05_231,1203.8,1209.74,mix pasta
+P24_05_232,1215.04,1222.54,mix salad
+P24_05_233,1217.19,1225.81,put fork away
+P24_05_234,1224.95,1225.94,get bottle of oil
+P24_05_235,1226.09,1229.39,open bottle of oil
+P24_05_236,1229.33,1233.99,put oil in salad
+P24_05_237,1234.12,1238.01,close oil bottle
+P24_05_238,1238.11,1239.64,put down oil bottle
+P24_05_239,1241.32,1255.6,mix salad
+P24_05_24,108.31,111.39,put down plate
+P24_05_240,1262.12,1262.97,take spoon
+P24_05_241,1262.93,1266.29,mix pasta
+P24_05_242,1292.42,1293.64,take salad
+P24_05_243,1294.02,1295.23,put salad onto table
+P24_05_244,1298.99,1300.58,take bag
+P24_05_245,1302.07,1304.75,put bag onto table
+P24_05_246,1307.76,1309.18,take spoon
+P24_05_247,1309.28,1315.13,mix pasta
+P24_05_248,1315.31,1326.94,spoon pasta
+P24_05_249,1318.05,1322.1,stir pasta
+P24_05_25,111.13,112.08,pick up pasta
+P24_05_250,1336.37,1337.46,put down spoon
+P24_05_251,1340.22,1341.4,open door
+P24_05_252,1341.48,1342.19,open door
+P24_05_253,1342.29,1346.13,take colander
+P24_05_254,1343.14,1346.59,place colander into the sink
+P24_05_255,1347.03,1348.4,close doors
+P24_05_256,1353.7,1354.98,take box
+P24_05_257,1355.42,1356.8,open box
+P24_05_258,1357.55,1359.7,take salt
+P24_05_259,1359.9,1361.91,put salt onto pasta
+P24_05_26,112.67,116.42,open pasta
+P24_05_260,1372.22,1375.57,close box
+P24_05_261,1375.91,1376.75,take spoon
+P24_05_262,1375.92,1380.49,stir pasta
+P24_05_263,1378.34,1384.57,take pasta with spoon
+P24_05_264,1395.65,1396.16,put down spoon
+P24_05_265,1396.26,1397.2,take box
+P24_05_266,1396.83,1397.8,open box
+P24_05_267,1398.45,1400.13,take salt
+P24_05_268,1400.11,1403.74,put salt on pasta
+P24_05_269,1403.29,1404.99,close box
+P24_05_27,116.52,117.87,pick up knife
+P24_05_270,1406.34,1407.4,put down box
+P24_05_271,1407.9,1409.04,take spoon
+P24_05_272,1409.03,1413.81,stir pasta
+P24_05_273,1413.91,1415.23,spoon pasta
+P24_05_274,1426.48,1428.16,take cup
+P24_05_275,1428.51,1431.12,scoop water with cup
+P24_05_276,1431.0,1433.37,put down cup
+P24_05_277,1434.87,1436.83,turn off cooker
+P24_05_278,1436.66,1439.36,take rag
+P24_05_279,1445.26,1451.34,take saucepan
+P24_05_28,118.15,121.75,open pasta
+P24_05_280,1452.49,1456.26,drain pasta into colander
+P24_05_281,1456.32,1457.44,put down saucepan
+P24_05_282,1457.54,1460.98,put pasta into saucepan
+P24_05_283,1462.56,1467.43,put saucepan
+P24_05_284,1468.39,1469.74,put down saucepan
+P24_05_285,1471.06,1472.53,turn on hob
+P24_05_286,1475.69,1479.19,take saucepan
+P24_05_287,1479.29,1480.29,put saucepan onto hob
+P24_05_288,1481.65,1482.38,take pan
+P24_05_289,1482.49,1490.27,pour sauce onto pasta
+P24_05_29,123.45,125.19,put knife
+P24_05_290,1489.09,1492.44,stir pasta
+P24_05_291,1492.29,1501.65,put sauce into pasta
+P24_05_292,1501.64,1511.89,stir pasta
+P24_05_293,1511.99,1513.25,pick up small cup
+P24_05_294,1512.64,1515.51,put water into pasta
+P24_05_295,1517.82,1521.24,stir pasta
+P24_05_296,1529.21,1529.74,put spoon
+P24_05_297,1538.66,1542.31,pick up spoon
+P24_05_298,1543.09,1545.79,put spoon
+P24_05_299,1545.6,1546.61,open door
+P24_05_3,15.55,20.09,pick up lid
+P24_05_30,127.26,141.36,put pasta in the plate
+P24_05_300,1549.15,1551.18,pick up pasta
+P24_05_301,1550.48,1553.03,pick up pasta
+P24_05_302,1551.71,1553.29,put pasta on plate
+P24_05_303,1554.14,1556.22,pick up pasta
+P24_05_304,1556.83,1557.48,put pasta on plate
+P24_05_305,1560.3,1561.9,put pasta on plate
+P24_05_306,1562.0,1566.85,pick up pasta
+P24_05_307,1566.83,1569.3,put pasta on plate
+P24_05_308,1568.47,1572.95,pick up pasta
+P24_05_309,1572.47,1575.45,put pasta on plate
+P24_05_31,148.84,149.77,open door
+P24_05_310,1575.25,1584.14,take pasta
+P24_05_311,1581.23,1584.98,put pasta on plate
+P24_05_312,1585.08,1596.88,take plate
+P24_05_313,1596.98,1598.4,place plate on table
+P24_05_32,149.62,151.4,put pasta
+P24_05_33,150.57,152.24,close door
+P24_05_34,156.95,158.62,pick up plate
+P24_05_35,158.25,161.27,put plate
+P24_05_36,159.14,172.91,pick up sauce bottle
+P24_05_37,177.51,180.79,pick up bottle opener
+P24_05_38,181.85,188.79,open sauce bottle
+P24_05_39,189.74,192.84,put bottle opener
+P24_05_4,19.81,20.63,put lid
+P24_05_40,194.63,196.43,pick up chopping board
+P24_05_41,200.9,204.48,pick up onion
+P24_05_42,208.2,209.98,pick up knife
+P24_05_43,209.39,233.39,peel onion
+P24_05_44,214.53,232.68,cut onion
+P24_05_45,235.11,245.57,pick up onion peel
+P24_05_46,250.51,256.03,throw onion peel into the garbage
+P24_05_47,258.91,259.63,pick up onion
+P24_05_48,260.75,261.89,open fridge
+P24_05_49,262.01,265.6,put onion in fridge
+P24_05_5,20.52,23.1,pick up lid
+P24_05_50,265.5,266.97,close fridge
+P24_05_51,268.3,269.21,pick up onion
+P24_05_52,269.31,302.18,peel onion
+P24_05_53,298.62,303.67,cut onion
+P24_05_54,307.73,309.39,rinse onion
+P24_05_55,317.92,321.31,rinse cutting board
+P24_05_56,321.6,322.6,put down cutting board
+P24_05_57,322.7,323.45,close tap
+P24_05_58,323.55,325.55,put onion on cutting board
+P24_05_59,326.64,363.8,cut onion
+P24_05_6,27.78,29.86,put lid
+P24_05_60,367.66,368.77,open water tap
+P24_05_61,369.41,371.24,rinse hands
+P24_05_62,371.74,372.56,close water tap
+P24_05_63,373.62,379.26,close cupboard
+P24_05_64,375.64,381.4,grab pan
+P24_05_65,384.66,387.6,put pan down
+P24_05_66,387.32,391.45,switch on hob
+P24_05_67,393.27,395.77,move pot
+P24_05_68,396.61,398.77,put pan on switched on hob
+P24_05_69,398.66,403.59,grab oil
+P24_05_7,29.96,32.65,close doors
+P24_05_70,404.03,407.47,open oil bottle
+P24_05_71,408.29,411.53,pour oil into pan
+P24_05_72,413.18,414.58,take pan
+P24_05_73,415.47,421.93,put down pan
+P24_05_74,422.93,424.19,close oil bottle
+P24_05_75,424.24,428.84,put down oil bottle
+P24_05_76,428.98,431.51,take knife
+P24_05_77,432.07,434.98,cut onion
+P24_05_78,440.54,441.39,put down knife
+P24_05_79,441.37,442.98,take pan
+P24_05_8,32.75,35.51,pick up lid
+P24_05_80,442.95,449.33,turn down gas
+P24_05_81,452.84,453.69,take cutting board
+P24_05_82,453.41,454.43,take knife
+P24_05_83,454.81,459.69,put onion into pan
+P24_05_84,470.43,471.34,put down cutting board
+P24_05_85,471.27,472.3,put down knife
+P24_05_86,473.66,475.11,open door
+P24_05_87,475.21,476.31,take spoon
+P24_05_88,476.01,477.12,close door
+P24_05_89,477.48,492.54,move onion on the pan
+P24_05_9,35.85,36.37,put lid
+P24_05_90,496.79,508.95,pick up onion peel
+P24_05_91,509.05,517.79,pick up onion peel
+P24_05_92,517.21,517.96,pick up remaining onion
+P24_05_93,519.77,520.91,pick up knife
+P24_05_94,522.21,522.94,pick up chopping board
+P24_05_95,523.67,524.65,put chopping board
+P24_05_96,524.48,526.97,throw onion peel
+P24_05_97,529.42,534.12,clean chopping board
+P24_05_98,534.21,541.63,put chopping board
+P24_05_99,541.26,542.59,put knife

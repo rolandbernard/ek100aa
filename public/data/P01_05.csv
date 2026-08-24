@@ -1,0 +1,259 @@
+P01_05_0,4.14,5.93,open fridge
+P01_05_1,6.51,8.08,take mushrooms
+P01_05_10,30.75,33.5,put cup into cupboard
+P01_05_100,334.82,337.7,turn on hob
+P01_05_101,337.82,340.42,open cupboard
+P01_05_102,341.03,343.47,take frying pan
+P01_05_103,343.84,346.5,close cupboard
+P01_05_104,347.48,349.65,put pan on hob
+P01_05_105,374.48,378.0,take kettle
+P01_05_106,379.96,381.66,pour water into saucepan
+P01_05_107,384.26,390.73,still pouring water
+P01_05_108,390.3,394.23,put down kettle
+P01_05_109,396.68,407.41,take salt
+P01_05_11,34.79,36.91,take plate
+P01_05_110,398.72,399.6,open drawer
+P01_05_111,399.68,400.68,take spoon
+P01_05_112,400.78,402.28,close drawer
+P01_05_113,402.72,404.07,open salt
+P01_05_114,404.95,408.5,pour salt into spoon
+P01_05_115,408.58,410.33,pour salt
+P01_05_116,412.98,414.15,put down salt
+P01_05_117,413.83,414.53,put down spoon
+P01_05_118,414.86,417.2,take cutting board
+P01_05_119,417.52,425.12,pour potatoes into saucepan
+P01_05_12,36.95,39.95,take plate
+P01_05_120,425.69,427.79,put down cutting board
+P01_05_121,432.35,434.99,throw sausage sleeve
+P01_05_122,439.19,440.27,take sausages
+P01_05_123,440.38,455.22,open sausage box
+P01_05_124,459.24,461.73,throw plastic into bin
+P01_05_125,461.42,462.42,close bin
+P01_05_126,465.0,467.72,dry hands
+P01_05_127,468.96,469.96,open cupboard
+P01_05_128,470.59,472.53,take cutting board
+P01_05_129,472.37,474.25,close cupboard
+P01_05_13,40.3,41.55,put down plate
+P01_05_130,475.67,476.84,move bottle
+P01_05_131,477.54,478.3,move glass
+P01_05_132,478.52,479.22,move glass
+P01_05_133,480.62,481.57,put down cutting board
+P01_05_134,481.67,483.16,open drawer
+P01_05_135,483.18,484.55,take knife
+P01_05_136,485.43,486.68,take bread
+P01_05_137,490.03,490.78,put down bread
+P01_05_138,492.19,497.69,slice bread
+P01_05_139,498.23,503.48,continue slicing bread
+P01_05_14,42.15,44.65,put plate into cupboard
+P01_05_140,507.63,508.93,put down knife
+P01_05_141,510.46,511.35,take bread bag
+P01_05_142,512.02,514.55,put bread in bag
+P01_05_143,515.89,517.8,fold bag
+P01_05_144,518.89,519.95,put down bag
+P01_05_145,523.08,524.13,put down cutting board
+P01_05_146,525.68,528.27,take table cloth
+P01_05_147,529.55,531.92,unfold table cloth
+P01_05_148,532.63,533.89,move plate
+P01_05_149,537.34,539.43,dry blades
+P01_05_15,46.0,47.85,take saucepan
+P01_05_150,538.5,541.0,put blade down
+P01_05_151,543.06,544.81,open drawer
+P01_05_152,544.56,546.07,take fork
+P01_05_153,546.05,546.89,close drawer
+P01_05_154,547.36,549.32,put down fork
+P01_05_155,562.19,563.36,take bottle
+P01_05_156,564.6,567.04,open bottle
+P01_05_157,567.51,570.3,turn on tap
+P01_05_158,569.0,582.3,pour water into bottle
+P01_05_159,581.98,582.98,turn off tap
+P01_05_16,48.45,49.2,open cupboard
+P01_05_160,584.21,586.5,put bottle down
+P01_05_161,629.77,634.48,take fruit box
+P01_05_162,636.51,644.31,open fruit box
+P01_05_163,645.96,647.96,take mesh
+P01_05_164,649.63,650.68,open bin
+P01_05_165,649.99,650.68,throw mesh into bin
+P01_05_166,650.52,651.77,close bin
+P01_05_167,653.45,654.46,take fruit box
+P01_05_168,655.96,670.07,wash fruit
+P01_05_169,658.73,682.65,continue washing fruit
+P01_05_17,50.91,52.06,move saucepans
+P01_05_170,678.77,679.69,turn off tap
+P01_05_171,687.07,688.47,put fruit onto table
+P01_05_172,689.42,691.06,dry hands
+P01_05_173,691.76,692.4,adjust hob
+P01_05_174,695.04,696.72,take sausages
+P01_05_175,696.99,705.59,put sausages onto pan
+P01_05_176,705.86,706.95,adjust hob
+P01_05_177,708.14,713.1,put sausages onto pan
+P01_05_178,716.84,719.09,throw box into lid into bin
+P01_05_179,725.99,735.61,dry hands
+P01_05_18,54.4,55.65,put saucepan into cupboard
+P01_05_180,737.45,738.26,hang clothes
+P01_05_181,739.79,744.42,take clothes
+P01_05_182,749.04,750.85,hang clothes
+P01_05_183,780.42,781.28,open drawer
+P01_05_184,781.67,784.12,take tongs
+P01_05_185,788.1,789.23,put down tongs
+P01_05_186,789.44,790.21,take spoon
+P01_05_187,791.31,798.98,stir
+P01_05_188,799.81,800.55,put down spoon
+P01_05_189,806.93,808.8,adjust hop
+P01_05_19,56.31,60.0,take saucepan
+P01_05_190,884.59,888.08,move saucepan
+P01_05_191,910.05,911.73,adjust hob
+P01_05_192,945.73,948.42,open drawer
+P01_05_193,948.74,952.33,open drawer
+P01_05_194,951.04,952.27,close drawer
+P01_05_195,952.37,955.32,take lighter
+P01_05_196,956.92,958.58,take candle
+P01_05_197,957.86,967.22,turn on candle
+P01_05_198,968.23,970.61,put down candle
+P01_05_199,971.8,974.06,open drawer
+P01_05_2,8.03,8.7,move container
+P01_05_20,60.22,61.42,put on saucepan
+P01_05_200,972.73,973.35,close drawer
+P01_05_201,973.2,974.2,open drawer
+P01_05_202,976.8,977.3,take tong
+P01_05_203,978.15,980.61,flip sausage
+P01_05_204,982.43,983.35,flip sausage
+P01_05_205,985.84,989.55,flip sausage
+P01_05_206,990.27,992.8,flip sausage
+P01_05_207,994.26,996.68,flip sausage
+P01_05_208,997.0,1000.6,flip sausage
+P01_05_209,1000.7,1003.18,flip sausage
+P01_05_21,64.53,68.44,take bowls
+P01_05_210,1030.75,1033.47,flip sausage
+P01_05_211,1034.3,1035.95,flip sausage
+P01_05_212,1039.52,1040.95,flip sausage
+P01_05_213,1050.09,1051.8,flip sausage
+P01_05_214,1058.38,1081.33,heat sausage
+P01_05_215,1081.43,1082.48,put down tong
+P01_05_216,1082.58,1083.37,take knife
+P01_05_217,1084.2,1086.86,check potato
+P01_05_218,1087.99,1089.02,put down knife
+P01_05_219,1089.17,1091.48,adjust hob
+P01_05_22,70.29,73.82,put bowls into cupboard
+P01_05_220,1092.72,1094.42,take tong
+P01_05_221,1094.47,1095.48,adjust hob
+P01_05_222,1099.78,1106.74,turn sausage
+P01_05_223,1106.84,1110.76,turn sausage
+P01_05_224,1112.59,1126.99,turn sausage
+P01_05_225,1127.0,1130.27,turn sausage
+P01_05_226,1130.37,1133.34,turn sausage
+P01_05_227,1133.44,1139.76,turn sausage
+P01_05_228,1140.57,1141.93,put down tong
+P01_05_229,1148.95,1150.05,adjust hob
+P01_05_23,77.35,79.58,take colander
+P01_05_230,1165.84,1167.73,turn off hob
+P01_05_231,1167.5,1168.73,take saucepan
+P01_05_232,1170.01,1171.86,take colander
+P01_05_233,1172.03,1175.27,drain potato
+P01_05_234,1176.22,1177.72,put down saucepan
+P01_05_235,1183.12,1187.78,pour potato onto plate
+P01_05_236,1188.98,1190.2,put down colander
+P01_05_237,1191.06,1192.59,take oil
+P01_05_238,1192.58,1193.59,put down oil
+P01_05_239,1194.44,1195.12,take sausages
+P01_05_24,79.62,81.27,take lid
+P01_05_240,1195.71,1196.94,take fork
+P01_05_241,1196.86,1198.16,move potatoes
+P01_05_242,1198.26,1211.63,place sausages into pan
+P01_05_243,1213.29,1219.65,wash pan
+P01_05_244,1213.32,1214.79,put down frying pan
+P01_05_245,1219.65,1226.73,wash pan
+P01_05_246,1226.14,1227.17,close tap
+P01_05_247,1227.11,1228.06,take olive oil
+P01_05_248,1228.16,1230.91,open oil
+P01_05_249,1230.97,1237.74,pour oil
+P01_05_25,81.37,82.76,take glass
+P01_05_250,1237.55,1242.16,close oil
+P01_05_251,1241.53,1244.43,put down oil
+P01_05_252,1244.25,1244.99,take rosemary
+P01_05_253,1245.15,1247.23,open rosemary
+P01_05_254,1248.49,1255.88,sprinkle rosemary
+P01_05_255,1255.94,1258.73,close rosemary
+P01_05_256,1258.78,1260.0,put rosemary down
+P01_05_257,1262.52,1263.74,take knife
+P01_05_258,1263.73,1268.99,mix food
+P01_05_26,83.22,84.66,put glass into cupboard
+P01_05_27,85.87,87.57,take ladle
+P01_05_28,93.23,94.45,take cloth
+P01_05_29,94.52,104.65,dry ladle
+P01_05_3,8.74,14.23,take sausages
+P01_05_30,94.55,104.86,dry ladle
+P01_05_31,104.75,105.95,open drawer
+P01_05_32,106.05,106.88,put ladle back into drawer
+P01_05_33,109.86,110.85,take knife
+P01_05_34,110.9,111.76,dry knife
+P01_05_35,111.94,112.51,put down knife
+P01_05_36,112.75,113.82,take spatula
+P01_05_37,115.02,118.09,take cutlery
+P01_05_38,119.65,121.77,open drawer
+P01_05_39,120.25,121.5,put down cloth
+P01_05_4,14.15,16.23,put mushrooms into fridge
+P01_05_40,121.7,122.66,put down spatula
+P01_05_41,121.85,122.6,put spatula into drawer
+P01_05_42,122.94,126.36,put down cutleries
+P01_05_43,126.46,127.84,open drawer
+P01_05_44,128.94,140.36,put down cutleries
+P01_05_45,139.79,141.79,close drawers
+P01_05_46,142.09,144.41,close cupboard
+P01_05_47,142.18,143.82,close cupboard
+P01_05_48,144.51,146.32,close cupboard
+P01_05_49,146.57,148.43,open cupboard
+P01_05_5,16.33,19.87,close fridge
+P01_05_50,148.26,150.33,take potato
+P01_05_51,152.52,156.94,put lid into cupboard
+P01_05_52,156.88,158.3,close cupboard
+P01_05_53,159.46,160.55,move sausages
+P01_05_54,161.56,162.92,move cutting board
+P01_05_55,164.89,165.94,take kettle
+P01_05_56,166.43,167.18,open kettle
+P01_05_57,168.05,168.92,turn off top
+P01_05_58,168.84,180.57,pour water into kettle
+P01_05_59,180.35,181.65,close kettle
+P01_05_6,22.33,24.31,put down sausages
+P01_05_60,180.67,181.42,close tap
+P01_05_61,182.3,184.22,put down kettle
+P01_05_62,184.18,185.19,turn on kettle
+P01_05_63,186.77,187.81,take spoon
+P01_05_64,190.41,191.28,open drawer
+P01_05_65,191.24,192.18,put spoon
+P01_05_66,191.57,192.93,close drawer
+P01_05_67,192.78,194.62,take cloth
+P01_05_68,195.11,196.21,hang cloth
+P01_05_69,196.86,197.81,open drawer
+P01_05_7,25.5,27.88,take cutting board
+P01_05_70,197.68,199.2,take knife
+P01_05_71,199.24,199.82,close drawer
+P01_05_72,200.5,201.39,put down knife
+P01_05_73,201.38,202.1,move knife
+P01_05_74,202.76,223.05,peel potato
+P01_05_75,223.15,238.87,peel potato
+P01_05_76,236.82,242.11,continue peeling potato
+P01_05_77,243.2,264.62,continue peeling potato
+P01_05_78,247.83,252.08,still peeling potato
+P01_05_79,264.72,268.35,put down potato
+P01_05_8,27.53,29.29,put down cutting board
+P01_05_80,267.23,288.9,continue slicing potato
+P01_05_81,267.88,276.81,slice potato
+P01_05_82,288.03,288.61,put down knife
+P01_05_83,288.46,289.16,take knife
+P01_05_84,290.15,291.36,open drawer
+P01_05_85,291.21,291.98,put knife in drawer
+P01_05_86,292.02,293.06,close drawer
+P01_05_87,293.84,294.62,take saucepan
+P01_05_88,294.86,296.1,put saucepan on hob
+P01_05_89,296.29,299.27,dry hands
+P01_05_9,30.03,31.1,open cupboard
+P01_05_90,296.85,298.1,take cloth
+P01_05_91,299.37,300.85,move cutting board
+P01_05_92,301.93,308.05,take potato skin
+P01_05_93,310.13,311.01,open bin
+P01_05_94,311.11,311.67,throw skin into bin
+P01_05_95,313.2,314.41,take cloth
+P01_05_96,314.46,315.85,dry hands
+P01_05_97,325.58,326.48,open bin
+P01_05_98,326.87,328.04,close bin
+P01_05_99,329.56,335.15,dry hands

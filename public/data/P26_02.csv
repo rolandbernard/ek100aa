@@ -1,0 +1,94 @@
+P26_02_0,3.06,4.4,open door
+P26_02_1,4.4,9.05,pick up salt
+P26_02_10,41.65,42.82,open fridge
+P26_02_11,42.84,46.13,put chicken breast
+P26_02_12,46.23,47.97,close fridge
+P26_02_13,48.23,50.22,open tap
+P26_02_14,50.56,54.4,wash hands
+P26_02_15,53.91,54.94,close tap
+P26_02_16,57.94,63.02,dry hands
+P26_02_17,68.6,70.55,pick up salt
+P26_02_18,73.83,79.34,put salt on chicken breasts
+P26_02_19,79.36,80.36,place salt
+P26_02_2,9.67,11.98,pick up oil
+P26_02_20,86.48,87.3,open door
+P26_02_21,88.95,91.49,pick up dish
+P26_02_22,92.4,93.32,close door
+P26_02_23,94.48,96.02,place dish
+P26_02_24,96.14,98.1,pick up fork
+P26_02_25,98.95,125.9,turn chicken breast
+P26_02_26,126.0,150.35,turn chicken breast
+P26_02_27,150.44,152.53,put fork
+P26_02_28,154.25,155.0,move salt
+P26_02_29,155.41,156.87,pick up plate
+P26_02_3,12.08,14.36,close door
+P26_02_30,161.41,163.23,put plate
+P26_02_31,169.79,171.05,pick up fork
+P26_02_32,171.65,176.76,increase cooker
+P26_02_33,202.11,207.24,pick up fork
+P26_02_34,211.25,219.51,turn chicken breast
+P26_02_35,221.38,224.86,turn chicken breast
+P26_02_36,228.25,230.35,put down fork
+P26_02_37,244.87,246.54,open fridge
+P26_02_38,247.18,247.98,take lemon
+P26_02_39,247.84,249.04,close fridge
+P26_02_4,16.71,21.08,remove plastic
+P26_02_40,250.05,250.76,take knife
+P26_02_41,250.96,253.56,cut lemon
+P26_02_42,253.57,254.46,put down knife
+P26_02_43,255.35,256.08,put down lemon
+P26_02_44,257.5,258.5,open fridge
+P26_02_45,258.4,260.26,put down lemon
+P26_02_46,260.22,261.38,close fridge
+P26_02_47,268.55,270.3,take fork
+P26_02_48,271.35,273.65,flip chicken breast
+P26_02_49,273.52,275.09,flip chicken breast
+P26_02_5,21.18,24.79,pick up chicken breast
+P26_02_50,277.34,279.93,put down fork
+P26_02_51,300.55,301.8,pick up fork
+P26_02_52,302.15,305.46,turn chicken breast
+P26_02_53,304.34,306.46,turn chicken breast
+P26_02_54,310.8,312.32,put fork
+P26_02_55,320.59,321.55,pick up salt
+P26_02_56,321.65,322.43,open door
+P26_02_57,322.49,323.51,put salt
+P26_02_58,323.47,325.42,close door
+P26_02_59,342.83,343.75,open door
+P26_02_6,26.38,30.72,put chicken breast in the pan
+P26_02_60,344.47,346.27,pick up bread
+P26_02_61,346.21,347.47,close door
+P26_02_62,349.7,350.98,pick up knife
+P26_02_63,351.21,359.33,open bread
+P26_02_64,359.88,364.89,slice bread
+P26_02_65,370.17,370.93,take bread
+P26_02_66,371.8,372.83,put down bread
+P26_02_67,374.46,376.22,take bread
+P26_02_68,376.1,379.09,put in bag
+P26_02_69,383.25,384.86,open door
+P26_02_7,31.58,35.53,pick up chicken breast
+P26_02_70,384.96,386.66,put down bread
+P26_02_71,386.76,387.7,close door
+P26_02_72,388.01,389.21,take knife
+P26_02_73,389.28,390.24,put down knife
+P26_02_74,390.61,392.51,flip chicken breast
+P26_02_75,391.95,393.78,flip chicken breast
+P26_02_76,400.11,403.19,put down fork
+P26_02_77,415.29,419.64,turn off gas
+P26_02_78,419.88,421.13,take fork
+P26_02_79,421.23,422.99,take chicken breast
+P26_02_8,35.63,39.02,put chicken breast in the pan
+P26_02_80,422.16,423.67,put chicken breast onto plate
+P26_02_81,424.34,425.41,take chicken breast
+P26_02_82,426.01,427.1,put chicken breast onto plate
+P26_02_83,433.24,434.77,grab plate
+P26_02_84,434.54,436.46,put plate down
+P26_02_85,438.2,439.79,put cutlery down
+P26_02_86,439.77,441.27,grab oil
+P26_02_87,440.99,449.08,season chicken breast with oil
+P26_02_88,449.06,451.56,close oil
+P26_02_89,452.75,453.44,open cupboard
+P26_02_9,40.24,41.22,pick up chicken breasts
+P26_02_90,453.52,454.61,put oil down
+P26_02_91,454.69,455.54,close cupboard
+P26_02_92,455.65,457.04,grab plate
+P26_02_93,457.14,458.83,put plate on table

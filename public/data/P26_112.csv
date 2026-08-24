@@ -1,0 +1,125 @@
+P26_112_0,2.25,3.59,turn on tap
+P26_112_1,3.6,4.21,pick up lid
+P26_112_10,21.77,22.54,pick up plate
+P26_112_100,330.23,334.73,rinse fork
+P26_112_101,334.75,336.33,put down fork
+P26_112_102,336.6,337.01,take fork
+P26_112_103,337.06,338.65,rinse fork
+P26_112_104,338.81,342.57,lather fork
+P26_112_105,340.0,346.31,rinse fork
+P26_112_106,346.35,347.31,put down fork
+P26_112_107,347.85,348.67,pick up knife
+P26_112_108,348.42,351.12,rinse knife
+P26_112_109,351.06,353.44,lather knife
+P26_112_11,22.21,24.7,rinse plate
+P26_112_110,353.42,356.79,rinse knife
+P26_112_111,356.72,358.86,put down knife
+P26_112_112,358.93,359.73,pick up teaspoon
+P26_112_113,359.78,361.16,rinse teaspoon
+P26_112_114,361.18,364.63,lather teaspoon
+P26_112_115,362.0,367.43,rinse teaspoon
+P26_112_116,366.97,367.88,put down teaspoon
+P26_112_117,369.2,370.76,rinse sponge
+P26_112_118,376.11,377.83,pick glasses
+P26_112_119,377.51,378.64,pick up glass
+P26_112_12,25.91,26.98,pick up sponge
+P26_112_120,381.03,382.35,put down glasses
+P26_112_121,382.96,385.13,rinse glass
+P26_112_122,384.98,385.32,pick up sponge
+P26_112_123,385.42,391.52,lather glass
+P26_112_124,391.34,392.35,rinse glass
+P26_112_13,26.72,34.96,lather plate
+P26_112_14,35.04,43.38,rinse plate
+P26_112_15,35.02,36.24,put down sponge
+P26_112_16,46.42,48.1,pick up colander
+P26_112_17,51.19,51.92,pick up spoon
+P26_112_18,51.58,52.33,put down plate
+P26_112_19,52.78,54.76,rinse spoon
+P26_112_2,4.87,6.22,rinse lid
+P26_112_20,53.01,55.08,pick up sponge
+P26_112_21,55.17,60.96,lather spoon
+P26_112_22,64.28,65.72,put down spoon
+P26_112_23,66.0,66.55,pick up washing up liquid
+P26_112_24,67.83,69.15,pick up plate
+P26_112_25,67.0,69.74,put down plate
+P26_112_26,69.84,70.73,put down detergent
+P26_112_27,74.64,76.25,pick up plate
+P26_112_28,77.62,78.95,put down plate
+P26_112_29,79.59,80.35,open cupboard
+P26_112_3,5.01,6.21,pick up washing up liquid
+P26_112_30,80.48,82.69,pick up bag
+P26_112_31,82.69,83.26,close cupboard
+P26_112_32,83.13,86.7,hang bag
+P26_112_33,87.09,89.05,pick up plate
+P26_112_34,89.63,91.59,open bag
+P26_112_35,90.57,93.47,throw garbage
+P26_112_36,95.34,95.85,put down cutlery
+P26_112_37,96.12,98.7,rinse plate
+P26_112_38,98.25,98.96,pick up sponge
+P26_112_39,98.94,110.59,lather plate
+P26_112_4,6.1,7.0,put down detergent
+P26_112_40,99.71,110.59,rinse plate
+P26_112_41,110.66,111.61,put down sponge
+P26_112_42,118.58,119.39,pick up sponge
+P26_112_43,119.43,121.38,lather plate
+P26_112_44,121.27,125.2,rinse plate
+P26_112_45,124.0,127.6,put down plate
+P26_112_46,127.62,132.06,pick up plate
+P26_112_47,132.1,135.21,put down plate
+P26_112_48,135.55,136.3,put down plate
+P26_112_49,137.01,137.78,pick up sponge
+P26_112_5,7.27,8.82,pick up pot
+P26_112_50,137.98,138.66,pick up washing up liquid
+P26_112_51,137.81,139.0,rinse sponge
+P26_112_52,138.55,142.99,pour washing up liquid
+P26_112_53,143.09,143.96,put down detergent
+P26_112_54,143.25,143.87,rinse sponge
+P26_112_55,144.78,146.18,pick up plate
+P26_112_56,145.85,150.94,lather plate
+P26_112_57,150.69,161.29,rinse plate
+P26_112_58,160.89,163.47,put down plate
+P26_112_59,163.54,164.83,pick up plate
+P26_112_6,11.81,13.34,pick up colander
+P26_112_60,164.91,165.98,rinse plate
+P26_112_61,165.99,172.64,lather plate
+P26_112_62,173.03,184.0,rinse plate
+P26_112_63,183.76,186.39,put down plate
+P26_112_64,189.75,191.29,pick up plate
+P26_112_65,189.46,192.35,pick up plate
+P26_112_66,193.6,194.89,put down plate
+P26_112_67,195.3,198.5,rinse plate
+P26_112_68,198.04,209.29,lather plate
+P26_112_69,209.66,221.99,rinse plate
+P26_112_7,13.51,16.45,put down pot
+P26_112_70,222.83,224.42,put down plate
+P26_112_71,224.84,225.5,pick up plate
+P26_112_72,225.78,232.85,lather plate
+P26_112_73,232.89,238.5,rinse plate
+P26_112_74,238.74,240.74,lather plate
+P26_112_75,240.65,248.53,rinse plate
+P26_112_76,249.25,251.66,put down plate
+P26_112_77,254.1,255.85,pick up plate
+P26_112_78,257.77,263.51,rinse plate
+P26_112_79,262.53,273.12,lather plate
+P26_112_8,16.12,18.14,put down lid
+P26_112_80,273.15,284.0,rinse plate
+P26_112_81,284.24,287.31,put down plate
+P26_112_82,287.41,288.34,pick up knife
+P26_112_83,288.03,288.8,rinse knife
+P26_112_84,288.9,293.17,lather knife
+P26_112_85,293.08,295.66,rinse knife
+P26_112_86,295.69,297.49,put down knife
+P26_112_87,298.56,299.53,pick up knife
+P26_112_88,299.34,300.61,rinse knife
+P26_112_89,300.71,303.37,lather knife
+P26_112_9,18.69,20.97,put down colander
+P26_112_90,303.23,305.14,rinse knife
+P26_112_91,305.24,305.98,put down knife
+P26_112_92,306.48,307.18,take fork
+P26_112_93,307.14,308.1,rinse fork
+P26_112_94,308.15,313.75,lather fork
+P26_112_95,311.0,317.65,rinse fork
+P26_112_96,318.08,319.49,put down fork
+P26_112_97,319.82,320.4,take fork
+P26_112_98,320.41,321.73,rinse fork
+P26_112_99,321.76,330.29,lather fork

@@ -1,0 +1,256 @@
+P06_07_0,3.9,6.05,switch off extractor fan
+P06_07_1,7.23,8.31,take glove
+P06_07_10,32.37,34.42,put pizza on counter
+P06_07_100,375.8,378.51,brush flour off dough
+P06_07_101,379.42,380.19,pick up knife
+P06_07_102,380.66,395.13,cut dough
+P06_07_103,395.8,397.55,move fork
+P06_07_104,398.5,399.75,pick up pizza base
+P06_07_105,399.97,400.97,put pizza base down
+P06_07_106,401.44,404.57,pick up dough
+P06_07_107,404.26,405.07,pick up lid
+P06_07_108,404.96,405.63,put dough in pan
+P06_07_109,408.71,409.7,pick up tomato
+P06_07_11,35.67,37.37,close oven
+P06_07_110,412.8,417.61,pour tomatoes
+P06_07_111,417.58,418.92,spread tomatoes
+P06_07_112,419.69,422.88,pour tomatoes
+P06_07_113,424.28,425.12,put tomatoes
+P06_07_114,425.48,426.73,pick up chopping board
+P06_07_115,427.02,435.29,put chillies
+P06_07_116,427.25,436.0,put chillies
+P06_07_117,436.18,437.3,put down chopping board and spoon
+P06_07_118,437.39,457.95,squeeze tomatoes
+P06_07_119,459.08,463.75,spread tomatoes
+P06_07_12,46.13,49.4,put plate down
+P06_07_120,463.65,464.48,pick up tomatoes
+P06_07_121,465.31,468.66,pour tomatoes
+P06_07_122,468.76,469.97,put down tomatoes
+P06_07_123,470.07,484.75,spread tomatoes
+P06_07_124,485.6,488.63,pick up sweetcorn
+P06_07_125,488.02,489.15,pull lid
+P06_07_126,489.57,496.08,sprinkle sweetcorn
+P06_07_127,496.15,503.75,sprinkle sweetcorn
+P06_07_128,503.85,510.78,sprinkle sweetcorn
+P06_07_129,513.47,517.51,sprinkle sweetcorn
+P06_07_13,49.5,50.35,put fork down
+P06_07_130,519.24,520.55,put lid on sweetcorn
+P06_07_131,520.65,521.84,put down sweetcorn
+P06_07_132,521.67,523.04,pick up onion
+P06_07_133,522.97,528.1,sprinkle onion
+P06_07_134,528.2,529.15,pick up onion
+P06_07_135,529.25,536.19,sprinkle onion
+P06_07_136,530.19,536.19,sprinkle onion
+P06_07_137,536.26,538.44,pick up onion
+P06_07_138,545.22,547.52,pick up onion
+P06_07_139,548.07,554.08,sprinkle onion
+P06_07_14,50.21,53.87,take off gloves
+P06_07_140,554.55,555.71,pick up pesto
+P06_07_141,555.51,556.95,take lid off pesto
+P06_07_142,557.05,557.92,pick up spoon
+P06_07_143,559.93,567.42,sprinkle pesto
+P06_07_144,568.54,572.89,spread pesto
+P06_07_145,571.33,587.46,spread pesto
+P06_07_146,586.78,587.69,lick spoon
+P06_07_147,587.85,590.85,put lid on pesto
+P06_07_148,590.67,591.7,put down pesto
+P06_07_149,591.8,593.87,pick up sun-dried tomatoes
+P06_07_15,54.69,58.43,test pizza
+P06_07_150,594.5,596.0,open sun-dried tomatoes
+P06_07_151,595.88,597.81,pick up chopping board
+P06_07_152,598.42,599.44,move knife
+P06_07_153,599.8,600.3,put down chopping board
+P06_07_154,601.41,602.52,put lid down
+P06_07_155,603.6,622.26,take sun-dried tomato out of jar
+P06_07_156,621.63,622.34,put jar
+P06_07_157,622.56,623.84,pick up sun-dried tomatoes
+P06_07_158,623.94,634.46,chop sun-dried tomatoes
+P06_07_159,634.16,643.53,sprinkle sun-dried tomatoes
+P06_07_16,58.24,61.73,pick up pizza
+P06_07_160,644.03,656.09,chop sun-dried tomatoes
+P06_07_161,652.82,656.72,pick up sun-dried tomatoes
+P06_07_162,656.81,667.2,sprinkle sun-dried tomatoes
+P06_07_163,672.41,674.2,turn on tap
+P06_07_164,674.67,694.7,wash hands
+P06_07_165,689.84,695.93,turn off tap
+P06_07_166,694.8,695.71,turn off tap
+P06_07_167,698.51,699.48,open fridge
+P06_07_168,699.96,701.7,take out cheese
+P06_07_169,706.34,711.99,open cheese with knife
+P06_07_17,61.71,62.96,put pizza on plate
+P06_07_170,712.04,714.37,drain cheese
+P06_07_171,714.4,717.18,put lid on sun-dried tomatoes
+P06_07_172,717.23,718.18,put sun-dried tomatoes
+P06_07_173,718.9,724.74,take cheese out of packet
+P06_07_174,726.12,729.69,cut cheese
+P06_07_175,730.8,769.56,sprinkle cheese
+P06_07_176,758.5,760.4,pick up cheese
+P06_07_177,760.5,793.51,sprinkle cheese
+P06_07_178,793.61,795.48,turn on tap
+P06_07_179,795.28,797.51,wash hands
+P06_07_18,63.11,67.19,take tray from under pizza
+P06_07_180,795.92,798.11,turn off tap
+P06_07_181,798.18,799.56,open cupboard
+P06_07_182,799.16,803.45,take out plate
+P06_07_183,803.41,806.18,put pizza on plate
+P06_07_184,806.28,808.81,open oven
+P06_07_185,808.91,811.36,put pizza in oven
+P06_07_186,811.25,815.26,pick up pizza and plate
+P06_07_187,815.6,818.1,put pizza in oven
+P06_07_188,818.2,819.2,close oven
+P06_07_189,819.3,826.05,put down plate
+P06_07_19,67.05,68.69,pick up pizza
+P06_07_190,825.9,827.65,pick up knife
+P06_07_191,827.75,829.19,pick up chopping board
+P06_07_192,829.1,831.7,open dishwasher
+P06_07_193,831.43,836.31,put knife and chopping board in dishwasher
+P06_07_194,836.4,838.4,close dishwasher
+P06_07_195,839.75,849.25,pick up sun-dried tomatoes and sweetcorn
+P06_07_196,846.74,848.12,pick up pesto
+P06_07_197,850.49,852.09,open fridge
+P06_07_198,851.67,855.06,put food in fridge
+P06_07_199,854.97,856.1,close fridge
+P06_07_2,8.21,12.35,put on glove
+P06_07_20,69.07,70.11,put pizza
+P06_07_200,857.96,859.99,pick up rolling pin
+P06_07_201,860.5,861.16,open dishwasher
+P06_07_202,861.24,863.2,put rolling pin in dishwasher
+P06_07_203,863.19,864.47,close dishwasher
+P06_07_204,864.31,865.42,pick up flour
+P06_07_205,865.24,868.38,roll up bag
+P06_07_206,868.28,869.32,open cupboard
+P06_07_207,869.35,870.26,put flour in bag
+P06_07_208,870.31,871.34,close cupboard
+P06_07_209,871.36,872.33,pick up tomatoes
+P06_07_21,71.26,73.04,put tray
+P06_07_210,874.48,876.48,pick up chillies
+P06_07_211,877.08,878.38,pick bowl of onions
+P06_07_212,880.84,882.63,open fridge
+P06_07_213,882.68,888.35,put food in fridge
+P06_07_214,888.51,889.12,close fridge
+P06_07_215,892.59,893.54,pick up bag
+P06_07_216,893.25,895.35,put bag in bag
+P06_07_217,896.86,897.62,pick up fork
+P06_07_218,897.72,898.5,open dishwasher
+P06_07_219,898.17,898.86,put fork in dishwasher
+P06_07_22,74.05,74.97,turn off extractor fan
+P06_07_220,898.66,899.63,close dishwasher
+P06_07_221,900.36,901.3,pick up plate
+P06_07_222,901.6,902.87,move plate
+P06_07_223,904.4,905.69,pick up sponge
+P06_07_224,905.32,907.41,put down sponge
+P06_07_225,908.74,912.75,put rubbish in bag
+P06_07_226,908.91,910.83,pick up rubbish
+P06_07_227,914.59,915.63,pick up spoon
+P06_07_228,916.69,918.0,put spoon in dishwasher
+P06_07_229,919.73,920.76,pick up sponge
+P06_07_23,75.44,76.98,rub hands
+P06_07_230,921.0,924.1,squeeze sponge
+P06_07_231,924.73,937.25,wipe counter
+P06_07_232,937.35,938.86,move pan
+P06_07_233,938.96,957.4,still wiping counter
+P06_07_234,956.77,961.61,put down pan
+P06_07_235,962.33,963.19,turn on tap
+P06_07_236,963.1,967.82,rinse sponge
+P06_07_237,968.89,969.65,turn off tap
+P06_07_238,970.64,971.39,open cupboard
+P06_07_239,971.77,972.95,take cleaner
+P06_07_24,77.38,78.51,pick up scissors
+P06_07_240,972.82,973.87,close cupboard
+P06_07_241,973.7,976.99,open cleaner
+P06_07_242,975.0,976.14,turn on
+P06_07_243,977.15,986.67,squirt cleaner
+P06_07_244,987.92,988.83,open cupboard
+P06_07_245,988.62,989.94,put cleaner away
+P06_07_246,991.29,1014.76,scrub counter and cooker
+P06_07_247,1015.05,1020.1,rinse sponge
+P06_07_248,1015.16,1015.97,turn on tap
+P06_07_249,1020.0,1022.93,wipe tiles
+P06_07_25,79.36,80.3,put scissors
+P06_07_250,1022.93,1028.57,wash counter and cooker
+P06_07_251,1035.91,1040.67,wipe cooker
+P06_07_252,1044.36,1046.36,wipe cooker
+P06_07_253,1046.53,1050.37,rinse sponge
+P06_07_254,1051.41,1052.39,turn off tap
+P06_07_255,1052.39,1054.26,rinse hands
+P06_07_26,80.35,81.45,pick up fork
+P06_07_27,81.55,82.51,put fork
+P06_07_28,82.42,83.4,check oven
+P06_07_29,84.75,86.07,pick up lid
+P06_07_3,12.37,14.5,take glove
+P06_07_30,86.16,87.54,put down lid
+P06_07_31,87.61,90.61,take dough
+P06_07_32,91.51,96.38,roll up dough
+P06_07_33,96.55,98.83,take flour
+P06_07_34,98.33,105.28,put flour on counter
+P06_07_35,98.68,100.53,spread flour on counter
+P06_07_36,100.23,102.74,pick up dough flour
+P06_07_37,105.84,113.04,squeeze dough
+P06_07_38,113.1,114.06,put dough down
+P06_07_39,114.78,115.75,pick up rolling pin
+P06_07_4,14.6,17.02,put on glove
+P06_07_40,115.86,133.22,roll dough
+P06_07_41,125.79,132.22,still rolling dough
+P06_07_42,134.56,146.11,still rolling dough
+P06_07_43,146.21,168.43,still rolling dough
+P06_07_44,168.25,170.12,pick up tray
+P06_07_45,172.13,173.7,flip dough
+P06_07_46,172.96,179.39,spread dough
+P06_07_47,179.59,185.37,brush flour
+P06_07_48,181.74,185.31,brush flour
+P06_07_49,188.89,190.6,rub off knife
+P06_07_5,17.12,19.85,open drawer
+P06_07_50,191.8,205.77,cut dough
+P06_07_51,206.28,206.9,put knife
+P06_07_52,206.95,207.7,pick up excess dough
+P06_07_53,207.77,208.75,rub hands
+P06_07_54,209.74,210.7,open cupboard
+P06_07_55,210.81,214.91,take plate out of cupboard
+P06_07_56,212.25,215.38,close cupboard
+P06_07_57,215.28,216.33,pick up fork
+P06_07_58,216.2,217.81,open oven
+P06_07_59,219.37,222.08,take pizza out of oven onto plate
+P06_07_6,18.74,21.25,take fork
+P06_07_60,223.14,224.67,close oven
+P06_07_61,226.69,229.29,put lid on pan
+P06_07_62,229.59,232.76,put pizza down
+P06_07_63,232.94,238.94,take tray from under pizza
+P06_07_64,240.27,242.35,put tray down
+P06_07_65,241.89,245.42,pick up pizza
+P06_07_66,246.55,248.54,move tray
+P06_07_67,250.0,251.36,move pizza
+P06_07_68,251.11,254.08,put down pizza
+P06_07_69,254.96,256.7,pick up pizza base
+P06_07_7,21.91,23.71,pick up plate
+P06_07_70,256.86,258.08,put pizza base
+P06_07_71,259.33,261.92,pick up tray
+P06_07_72,263.61,264.36,take lid off pan
+P06_07_73,264.44,269.69,take dough
+P06_07_74,269.54,270.39,put lid on pan
+P06_07_75,270.89,273.99,pick up dough
+P06_07_76,271.0,276.0,roll dough
+P06_07_77,276.0,277.7,move knife
+P06_07_78,283.26,284.3,move fork
+P06_07_79,284.66,285.45,squeeze dough
+P06_07_8,23.71,28.96,open oven
+P06_07_80,286.07,287.8,take flour
+P06_07_81,287.45,290.26,spread flour on counter
+P06_07_82,293.23,295.62,put dough
+P06_07_83,294.47,296.57,press dough
+P06_07_84,296.62,311.48,roll dough
+P06_07_85,310.71,311.95,take flour
+P06_07_86,311.47,312.29,sprinkle flour on counter
+P06_07_87,312.27,313.4,spread flour
+P06_07_88,313.84,315.25,spread flour on dough
+P06_07_89,315.42,323.21,roll dough
+P06_07_9,29.04,32.0,take pizza into oven onto plate
+P06_07_90,326.27,338.94,still rolling dough
+P06_07_91,340.21,349.62,still rolling dough
+P06_07_92,349.52,351.0,pick up base
+P06_07_93,350.88,352.82,put tray
+P06_07_94,353.27,361.81,roll dough
+P06_07_95,361.67,363.65,pick up tray
+P06_07_96,362.18,364.18,put tray on pizza
+P06_07_97,364.27,365.79,put down rolling pin
+P06_07_98,367.33,368.87,flip dough
+P06_07_99,369.37,375.62,spread dough

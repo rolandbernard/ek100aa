@@ -1,0 +1,187 @@
+P24_07_0,1.29,2.02,grab coffee maker
+P24_07_1,2.89,6.12,put coffee maker down
+P24_07_10,30.73,33.93,close drawer
+P24_07_100,394.99,407.43,cut tomato in salad bowl
+P24_07_101,408.09,409.09,pick up tomato
+P24_07_102,409.14,419.68,cut tomato into salad bowl
+P24_07_103,419.78,420.98,pick up tomato
+P24_07_104,420.97,431.11,cut tomato into salad bowl
+P24_07_105,431.21,432.09,pick up tomato
+P24_07_106,432.17,442.44,cut tomato into salad bowl
+P24_07_107,442.87,444.3,pick up tomato
+P24_07_108,443.09,455.41,cut tomato into salad bowl
+P24_07_109,455.51,469.29,put in lettuce
+P24_07_11,33.76,36.39,grab lettuce
+P24_07_110,472.88,473.43,take salad bowl
+P24_07_111,473.8,477.05,take salad bowl
+P24_07_112,474.15,475.34,put salad bowl in the colander
+P24_07_113,479.73,480.73,take fork
+P24_07_114,480.83,483.93,turn meat in frying pan
+P24_07_115,488.45,491.45,take dish
+P24_07_116,491.16,493.53,put dish
+P24_07_117,493.36,498.86,move meat in frying pan
+P24_07_118,494.6,499.03,push meat in frying pan
+P24_07_119,499.14,502.84,take meat
+P24_07_12,35.89,37.32,put lettuce down
+P24_07_120,499.31,500.33,turn off flame of stove
+P24_07_121,502.94,504.9,put meat in dish
+P24_07_122,506.37,512.08,pick up carrot
+P24_07_123,512.94,521.18,peel carrot
+P24_07_124,526.09,528.09,pick up potato peeler
+P24_07_125,527.71,528.7,close door
+P24_07_126,529.35,530.45,pick up fork
+P24_07_127,529.5,533.19,put fork
+P24_07_128,533.89,537.76,peel carrot
+P24_07_129,551.05,562.23,peel carrot
+P24_07_13,36.69,39.05,put sachet
+P24_07_130,562.33,602.64,peel carrot
+P24_07_132,609.58,611.15,cut carrot
+P24_07_133,611.25,615.0,cut carrot
+P24_07_134,621.16,665.48,cut carrot
+P24_07_135,669.25,674.17,pick up salad bowl
+P24_07_136,674.27,675.19,put down salad bowl
+P24_07_137,674.9,679.15,put carrot in colander
+P24_07_138,679.43,683.8,rinse carrots
+P24_07_139,683.9,687.79,pick up colander
+P24_07_14,38.98,40.45,open door
+P24_07_140,687.89,690.69,put down colander
+P24_07_141,689.76,691.73,pick up carrots
+P24_07_142,692.74,695.3,put carrots in salad bowl
+P24_07_143,695.4,710.86,put down knife
+P24_07_144,713.74,714.96,pick up oil
+P24_07_145,715.73,722.54,put oil on salad
+P24_07_146,724.38,726.11,close oil bottle
+P24_07_147,727.14,734.3,put oil on the cream
+P24_07_148,734.81,739.12,close oil bottle
+P24_07_149,736.37,739.63,place oil bottle
+P24_07_15,40.44,43.99,pick up salad bowl
+P24_07_150,740.08,741.35,open salt package
+P24_07_151,744.46,760.41,put salt on the salad bowl
+P24_07_152,762.7,765.79,close salt package
+P24_07_153,768.13,769.14,pick up fork
+P24_07_154,769.92,775.65,mix salad
+P24_07_155,776.13,778.49,put salad bowl on the table
+P24_07_156,779.78,780.68,pick up meat dish
+P24_07_157,780.49,782.48,place dish with meat
+P24_07_158,783.62,784.44,open door
+P24_07_159,784.54,786.54,pick up knife
+P24_07_16,43.62,47.25,put salad bowl
+P24_07_160,786.42,787.35,place knife
+P24_07_161,789.38,791.83,pick up glass
+P24_07_162,791.9,793.15,place glass
+P24_07_163,793.24,795.39,open fridge
+P24_07_164,796.18,797.63,put carrot in the fridge
+P24_07_165,797.46,799.48,close fridge
+P24_07_166,799.58,801.32,open tap
+P24_07_167,801.42,803.4,rinse hands
+P24_07_168,801.63,805.73,rinse colander
+P24_07_169,805.83,826.7,clean colander
+P24_07_17,46.95,52.04,close drawer
+P24_07_170,826.32,827.52,close tap
+P24_07_171,827.62,829.58,place colander
+P24_07_172,829.69,837.58,clean sink
+P24_07_173,837.82,838.77,pick up cooking pan
+P24_07_174,838.8,839.81,put pan in sink
+P24_07_175,839.49,840.67,open tap
+P24_07_176,844.55,845.92,take cutting board
+P24_07_177,846.02,848.38,put cutting board in sink
+P24_07_178,849.14,849.77,take knife and peeler
+P24_07_179,851.39,853.72,put knife and peeler in sink
+P24_07_18,51.43,54.06,close fridge
+P24_07_180,856.14,857.48,close door
+P24_07_181,858.93,865.94,take carrot skin
+P24_07_182,868.25,870.81,throw carrot skin
+P24_07_183,876.93,877.64,turn on tap
+P24_07_184,877.72,878.96,rinse hands
+P24_07_185,878.92,879.67,turn off tap
+P24_07_186,881.89,884.63,dry hands
+P24_07_187,884.52,887.18,put down rag
+P24_07_19,53.92,55.44,pick up salad bowl
+P24_07_2,7.45,9.77,switch on hob
+P24_07_20,55.42,58.45,put salad bowl
+P24_07_21,60.24,61.39,open door
+P24_07_22,61.29,62.98,pick up chopping board
+P24_07_23,63.12,64.42,put chopping board
+P24_07_24,63.39,64.44,close door
+P24_07_25,66.08,67.27,open drawer
+P24_07_26,70.94,72.33,pick up meat
+P24_07_27,72.43,86.04,put meat in the pan
+P24_07_28,75.34,94.35,place meat in the pan
+P24_07_29,94.83,96.08,pick up paper
+P24_07_3,10.32,11.16,grab pan
+P24_07_30,99.47,100.36,throw paper
+P24_07_31,102.54,105.5,open bag
+P24_07_32,105.6,107.08,pick up tomato
+P24_07_33,107.43,108.14,put tomato
+P24_07_34,109.03,111.0,pick up tomato
+P24_07_35,111.39,112.58,put tomato
+P24_07_36,115.35,116.5,pick up tomato
+P24_07_37,116.29,117.26,put tomato
+P24_07_38,117.0,117.72,put tomato
+P24_07_39,121.19,122.07,pick up tomato
+P24_07_4,11.3,12.21,put pan on hob
+P24_07_40,122.16,123.4,put tomato
+P24_07_41,124.92,127.04,pick up tomato
+P24_07_42,127.03,127.96,put tomato
+P24_07_43,128.36,129.37,pick up bag
+P24_07_44,131.26,132.46,open fridge
+P24_07_45,132.53,135.33,put down bag
+P24_07_46,135.37,138.56,close fridge
+P24_07_47,139.28,141.18,take lettuce
+P24_07_48,142.5,143.88,put down salad bowl
+P24_07_49,144.63,145.87,take colander
+P24_07_5,14.8,16.6,open fridge
+P24_07_50,145.73,146.98,put down colander
+P24_07_51,147.01,151.73,open lettuce
+P24_07_52,153.02,153.89,open door
+P24_07_53,154.16,155.03,take knife
+P24_07_54,158.49,159.88,open salt box
+P24_07_55,159.98,164.86,take salt
+P24_07_56,164.58,167.99,put salt in meat
+P24_07_57,166.99,192.83,compress meat in pan
+P24_07_58,175.79,182.37,move meat in pan
+P24_07_59,182.47,192.63,crush it in pan
+P24_07_6,16.46,18.22,grab meat
+P24_07_60,192.73,193.75,put fork
+P24_07_61,195.47,196.32,open door
+P24_07_62,196.33,198.12,pick up knife
+P24_07_63,198.85,205.97,pick up lettuce
+P24_07_64,207.5,259.26,cut lettuce inside colander
+P24_07_65,259.49,263.07,put lettuce inside sachet
+P24_07_66,263.17,264.62,put knife
+P24_07_67,264.72,269.45,close sachet
+P24_07_68,270.73,272.13,open fridge
+P24_07_69,272.06,273.51,put lettuce in fridge
+P24_07_7,22.66,23.8,grab remote
+P24_07_70,273.47,275.01,pick up carrots
+P24_07_71,274.95,276.07,close fridge
+P24_07_72,276.5,277.51,put carrots
+P24_07_73,278.6,279.87,pick up tomato
+P24_07_74,280.21,283.08,wash tomato
+P24_07_75,283.01,288.09,wash lettuce
+P24_07_76,288.19,291.87,wash tomato
+P24_07_77,289.56,294.54,wash tomato
+P24_07_78,294.31,295.11,close tap
+P24_07_79,296.35,298.31,pick up cloth
+P24_07_8,23.65,25.78,put remote down
+P24_07_80,299.72,300.82,pick up oregano
+P24_07_81,306.3,310.1,put oregano on meat
+P24_07_82,310.2,325.48,put oregano on meat
+P24_07_83,325.45,326.43,pick up fork
+P24_07_84,326.29,328.48,turn meat in pan
+P24_07_85,333.9,334.75,put fork
+P24_07_86,335.14,345.49,put oregano on meat
+P24_07_87,346.62,354.1,put oregano on meat
+P24_07_88,354.59,358.3,close oregano bag
+P24_07_89,358.1,359.1,put down oregano
+P24_07_9,29.98,30.59,open drawer
+P24_07_90,358.95,360.59,take salt
+P24_07_91,360.54,362.81,put salt on meat
+P24_07_92,362.91,365.31,close salt box
+P24_07_93,367.04,367.81,take knife
+P24_07_94,367.62,368.92,take fork
+P24_07_95,368.58,377.23,cut meat
+P24_07_96,377.2,379.45,put down fork and knife
+P24_07_97,382.56,385.07,drain tomato and salad
+P24_07_98,387.33,388.83,take salad bowl
+P24_07_99,389.84,391.53,take tomato

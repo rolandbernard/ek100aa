@@ -1,0 +1,98 @@
+P01_103_0,1.43,4.83,close door
+P01_103_1,7.34,8.75,pick up plate
+P01_103_10,20.71,21.9,put wok into cupboard
+P01_103_11,21.71,22.78,put pans onto cupboard
+P01_103_12,22.82,24.99,close cupboard
+P01_103_13,25.04,26.62,pick up cutting board
+P01_103_14,28.1,29.63,open cupboard
+P01_103_15,29.45,31.76,put cutting board into cupboard
+P01_103_16,33.96,35.21,pick up cup
+P01_103_17,35.28,36.14,put down cup
+P01_103_18,36.69,37.53,take spatula
+P01_103_19,37.94,38.53,take knife
+P01_103_2,9.09,10.0,open cupboard
+P01_103_20,38.63,39.5,attach knife onto magnetic holder
+P01_103_21,39.42,40.58,pick up knife
+P01_103_22,40.55,41.59,attach knife onto magnetic holder
+P01_103_23,42.03,43.85,pick up cutlery
+P01_103_24,44.51,45.48,open drawer
+P01_103_25,45.52,46.7,put spatula into drawer
+P01_103_26,46.87,47.6,move cutlery tray
+P01_103_27,47.55,48.57,put down peeler
+P01_103_28,48.54,49.35,put down knife
+P01_103_29,49.36,50.03,put down fork
+P01_103_3,10.48,11.95,put plate into cupboard
+P01_103_30,50.31,50.89,close drawer
+P01_103_31,51.81,52.91,move colander
+P01_103_32,53.06,54.01,pick up cafetiere
+P01_103_33,54.11,54.86,pick up cafetiere plunger
+P01_103_34,54.94,56.14,put cafetiere plunger into cafetiere
+P01_103_35,58.59,59.01,open cupboard
+P01_103_36,59.11,60.51,put cafetiere into cupboard
+P01_103_37,60.47,61.11,close cupboard
+P01_103_38,60.72,63.9,close cupboard
+P01_103_39,65.98,67.43,pick up spoon
+P01_103_4,12.0,12.83,close cupboard
+P01_103_40,67.26,67.8,put down spoon
+P01_103_41,68.64,69.63,open rice cooker
+P01_103_42,69.82,71.06,take rice cooker
+P01_103_43,71.05,72.35,close rice cooker
+P01_103_44,72.36,72.91,put down rice cooker pot
+P01_103_45,72.97,73.99,turn on tap
+P01_103_46,74.0,81.02,rinse pot
+P01_103_47,80.97,81.71,turn off tap
+P01_103_48,82.25,83.03,pick up colander
+P01_103_49,84.03,85.05,put down colander
+P01_103_5,13.01,14.65,pick up wok
+P01_103_50,86.5,86.81,pick up cup
+P01_103_51,87.29,87.79,put down cup
+P01_103_52,88.24,88.9,open cupboard
+P01_103_53,89.5,90.39,pick up cereals
+P01_103_54,90.41,90.91,close cupboard
+P01_103_55,91.36,92.71,open cereal box
+P01_103_56,92.16,92.49,put down cereal
+P01_103_57,93.22,94.29,take cereal bag
+P01_103_58,93.89,94.34,move cereal box
+P01_103_59,94.89,98.09,open cereal bag
+P01_103_6,16.17,17.3,open cupboard
+P01_103_60,98.48,107.83,pour cereals into cup
+P01_103_61,108.88,109.48,pick up nuts
+P01_103_62,109.49,109.79,put down nuts
+P01_103_63,110.38,116.97,fold cereal bag
+P01_103_64,117.01,118.61,put cereal bag into box
+P01_103_65,119.09,120.59,close cereals box
+P01_103_66,121.38,122.14,pick up cereals box
+P01_103_67,122.18,123.28,open cupboard
+P01_103_68,121.0,124.59,put cereals into cupboard
+P01_103_69,124.59,125.39,close cupboard
+P01_103_7,18.73,19.37,pick up paper
+P01_103_70,125.79,126.84,open fridge
+P01_103_71,127.24,127.9,pick up soy milk
+P01_103_72,127.8,128.8,put down soy milk
+P01_103_73,129.22,130.17,pick up food container
+P01_103_74,130.35,131.25,close fridge
+P01_103_75,131.27,132.4,put down food container
+P01_103_76,132.5,134.24,pick up soy milk
+P01_103_77,133.81,136.98,shake soy milk
+P01_103_78,136.82,137.9,twist off cap
+P01_103_79,138.09,143.05,pour milk
+P01_103_8,18.12,19.6,put paper onto wok
+P01_103_80,143.45,145.34,twist off cap
+P01_103_81,145.68,147.55,open fridge
+P01_103_82,147.2,148.6,put soy milk into fridge
+P01_103_83,148.4,149.05,close fridge
+P01_103_84,149.9,150.55,open drawer
+P01_103_85,150.5,151.6,take tea towel
+P01_103_86,151.35,152.1,close drawer
+P01_103_87,152.7,154.1,open drawer
+P01_103_88,152.0,154.97,pick up spoon
+P01_103_89,155.11,156.03,close drawer
+P01_103_9,19.47,20.84,move pans
+P01_103_90,155.87,156.91,put spoon into cup
+P01_103_91,156.92,163.41,pick up cup
+P01_103_92,163.47,165.28,put down cup
+P01_103_93,167.37,168.44,turn on lights
+P01_103_94,168.81,171.54,unfold tea towel
+P01_103_95,171.92,173.63,put down tea towel
+P01_103_96,173.48,175.61,move tea towel
+P01_103_97,175.27,176.52,put down cup

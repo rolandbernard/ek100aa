@@ -1,0 +1,25 @@
+P26_01_0,3.57,5.08,open door
+P26_01_1,5.68,9.42,pick up pan
+P26_01_10,29.0,30.5,open drawer
+P26_01_11,29.01,30.71,open tray
+P26_01_12,30.6,32.28,pick up knife
+P26_01_13,32.38,33.3,pick up knife
+P26_01_14,33.02,34.02,close drawer
+P26_01_15,36.26,37.36,put down fork
+P26_01_16,41.06,42.29,open cabinet
+P26_01_17,43.92,45.32,close cabinet
+P26_01_18,45.94,50.89,move pan
+P26_01_19,49.74,57.72,turn on stove
+P26_01_2,9.46,10.4,close door
+P26_01_20,57.54,60.9,turn on stove
+P26_01_21,62.01,65.06,grab pan
+P26_01_22,64.28,65.48,put down pan
+P26_01_23,65.79,71.02,turn up stove
+P26_01_24,74.38,77.28,move chicken breasts
+P26_01_3,11.28,13.35,put pan
+P26_01_4,13.55,15.74,pick up dish
+P26_01_5,15.75,17.36,put dish
+P26_01_6,19.35,20.85,open fridge
+P26_01_7,20.95,22.7,pick up chicken breasts
+P26_01_8,22.8,24.3,close fridge
+P26_01_9,24.65,26.4,put chicken breasts

@@ -1,0 +1,116 @@
+P02_135_0,4.07,4.84,pick up mug from drainer
+P02_135_1,5.79,6.16,lift coffee machine base
+P02_135_10,19.7,24.71,open bag
+P02_135_100,234.66,235.76,scoop jam from bagel using knife
+P02_135_101,235.86,238.09,spread jam on bagel using knife
+P02_135_102,238.17,239.21,scoop jam from bagel using knife
+P02_135_103,239.57,247.23,spread jam on bagel using knife
+P02_135_104,247.33,247.67,pick up bagel from chopping board
+P02_135_105,247.64,248.89,put bagel on plate
+P02_135_106,248.49,249.3,put down knife
+P02_135_107,249.44,250.05,pick up lid
+P02_135_108,249.69,250.41,pick up jam jar
+P02_135_109,250.39,251.5,close jar
+P02_135_11,24.81,25.7,put down bag
+P02_135_110,251.63,253.65,open fridge
+P02_135_111,253.75,254.94,put jam jar in fridge
+P02_135_112,254.94,255.71,close fridge
+P02_135_113,255.64,257.34,pick up coffee mug
+P02_135_114,257.44,258.46,pick up plate with bagels
+P02_135_115,258.55,260.13,put down mug
+P02_135_12,25.67,28.65,remove bagel from bag
+P02_135_13,28.68,29.35,put down bagel
+P02_135_14,29.31,31.81,crumple bag
+P02_135_15,32.16,32.86,open bin
+P02_135_16,32.49,33.29,throw bag
+P02_135_17,33.35,35.07,close bin
+P02_135_18,37.58,38.08,press button
+P02_135_19,43.97,44.87,open fridge
+P02_135_2,6.19,6.7,put mug down
+P02_135_20,44.96,45.96,open drawer of fridge
+P02_135_21,46.31,48.25,pick up oranges mesh
+P02_135_22,48.25,49.63,put down oranges
+P02_135_23,49.2,50.89,pick up orange
+P02_135_24,50.78,51.62,put down orange
+P02_135_25,51.9,52.9,close drawer
+P02_135_26,53.24,53.75,pick up milk from fridges door
+P02_135_27,53.92,55.0,close fridge
+P02_135_28,56.98,57.76,open milk
+P02_135_29,58.18,60.05,pour milk from bottle into mug
+P02_135_3,6.79,8.04,turn on coffee machine
+P02_135_30,60.18,61.93,close milk bottle
+P02_135_31,64.05,64.74,open fridge
+P02_135_32,64.67,65.74,put milk in fridges door
+P02_135_33,65.89,66.57,close fridge
+P02_135_34,68.67,69.25,press button
+P02_135_35,69.73,71.09,pick up wooden stirrer from box
+P02_135_36,71.74,73.74,stir coffee in mug using wooden stirrer
+P02_135_37,78.14,79.24,pick knife from stand
+P02_135_38,82.59,83.26,turn bagel to its side
+P02_135_39,83.4,90.54,cut bagel using knife
+P02_135_4,7.78,15.39,pick up coffee capsule
+P02_135_40,90.53,91.13,turn bagel
+P02_135_41,91.48,91.86,put down knife
+P02_135_42,91.79,92.86,pick up half of bagel
+P02_135_43,92.22,92.97,put bagel in toaster
+P02_135_44,92.98,93.52,pick up bagel half
+P02_135_45,93.62,94.54,put bagel half in toaster
+P02_135_46,94.41,95.34,turn on toaster
+P02_135_47,95.74,96.69,pick up knife
+P02_135_48,96.36,100.69,put knife into stand
+P02_135_49,103.21,104.76,pick up mug
+P02_135_5,14.6,18.11,adjust coffee blender
+P02_135_50,104.51,106.71,stir mug coffee using wooden stirrer
+P02_135_51,107.65,108.28,open bin
+P02_135_52,107.99,108.68,throw wooden stirrer
+P02_135_53,108.53,109.41,wooden stirrer falls on floor
+P02_135_54,109.96,111.81,pick up wooden stirrer from floor
+P02_135_55,111.91,112.85,throw wooden stirrer in bin
+P02_135_56,112.55,113.24,close bin
+P02_135_57,114.6,115.45,put down mug
+P02_135_58,117.37,118.35,open fridge
+P02_135_59,118.52,119.87,pick up jar of jam
+P02_135_6,15.0,17.9,open coffee machine
+P02_135_60,120.08,120.67,close fridge
+P02_135_61,120.93,121.78,open drawer
+P02_135_62,122.17,123.08,pick up knife
+P02_135_63,122.94,123.95,close drawer
+P02_135_64,124.53,125.05,move knife
+P02_135_65,124.84,125.74,put down jar of jam
+P02_135_66,124.08,125.79,put down knife
+P02_135_67,125.89,127.05,open jam jar
+P02_135_68,127.08,127.6,put down lid
+P02_135_69,128.91,129.86,pick up mug
+P02_135_7,17.98,18.9,put capsule in coffee machine
+P02_135_70,131.16,132.03,move lid
+P02_135_71,132.04,132.81,put down mug
+P02_135_72,139.51,141.01,pick up plate from cupboard
+P02_135_73,142.69,143.71,close cupboard
+P02_135_74,146.54,148.04,move water filter
+P02_135_75,147.83,149.11,put down plate
+P02_135_76,155.58,157.57,pick up glass from drainer
+P02_135_77,157.71,158.33,pick up water filter
+P02_135_78,158.43,160.69,pour water from water filter into glass
+P02_135_79,160.77,161.51,put down water filter
+P02_135_8,18.86,19.76,close coffee machine
+P02_135_80,161.47,165.4,drink water from glass
+P02_135_81,166.38,168.21,put down glass
+P02_135_82,184.13,186.81,pick up knife
+P02_135_83,205.36,206.83,press button on toaster to release bagel
+P02_135_84,207.11,208.3,stab bagel using knife
+P02_135_85,208.13,208.9,pick up bagel from toaster
+P02_135_86,208.12,210.02,put bagel down on chopping board
+P02_135_87,209.71,211.63,scoop jam from jar using knife
+P02_135_88,211.56,213.75,spread jam on bagel using knife
+P02_135_89,213.66,215.25,scoop jam from jar using knife
+P02_135_9,19.7,23.3,pick up bag with bagel
+P02_135_90,215.35,217.67,spread jam on bagel
+P02_135_91,217.74,219.2,scoop jam from jar using knife
+P02_135_92,218.97,225.92,spread jam on bagel
+P02_135_93,222.53,226.56,pick up bagel from chopping board
+P02_135_94,226.31,226.95,put bagel in plate
+P02_135_95,227.05,229.51,stab bagel using knife
+P02_135_96,227.87,228.82,pick up bagel from toaster
+P02_135_97,228.71,229.94,put bagel down on chopping board
+P02_135_98,230.52,231.82,scoop jam from jar using knife
+P02_135_99,231.59,234.56,spread jam on bagel using knife

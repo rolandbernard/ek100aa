@@ -1,0 +1,42 @@
+P01_03_0,0.27,2.11,open door
+P01_03_1,3.25,5.88,close door
+P01_03_10,24.77,25.93,put down container
+P01_03_11,24.93,25.87,put down soy milk
+P01_03_12,27.36,28.98,take table cloth
+P01_03_13,30.48,33.39,move bottle
+P01_03_14,32.98,34.46,move glass
+P01_03_15,35.74,39.04,unfold tablecloth
+P01_03_16,38.09,42.42,pull down tablecloth
+P01_03_17,45.67,47.7,open cupboard
+P01_03_18,48.03,49.25,take cup
+P01_03_19,50.75,51.6,put down cup
+P01_03_2,4.88,6.04,switch on lights
+P01_03_20,51.7,52.95,take soy milk
+P01_03_21,53.06,55.72,shake soy milk
+P01_03_22,55.68,57.63,open soy milk
+P01_03_23,57.87,64.78,pour soy milk
+P01_03_24,64.87,66.48,close soy milk
+P01_03_25,69.59,71.17,open fridge
+P01_03_26,71.27,72.11,put down the soy milk
+P01_03_27,72.14,73.46,close fridge
+P01_03_28,76.3,77.05,open drawer
+P01_03_29,78.34,79.35,take spoon
+P01_03_3,6.57,8.42,adjust lights
+P01_03_30,79.45,80.45,close drawer
+P01_03_31,81.84,82.6,put down spoon
+P01_03_32,83.34,84.22,open cupboard
+P01_03_33,85.24,87.39,take cereals
+P01_03_34,87.74,89.45,close cupboard
+P01_03_35,92.35,95.01,put down cereals
+P01_03_36,95.01,97.28,open cereal bag
+P01_03_37,97.61,98.71,extract bag
+P01_03_38,100.11,102.44,unfold bag
+P01_03_39,103.84,108.85,pour cereals
+P01_03_4,11.61,13.12,open fridge
+P01_03_40,107.66,112.7,still pouring cereals
+P01_03_41,113.34,114.65,put down bag
+P01_03_5,13.57,14.56,take soy milk
+P01_03_6,14.86,15.67,take container
+P01_03_7,16.87,17.98,put back container
+P01_03_8,18.54,19.25,take container
+P01_03_9,19.68,22.53,close fridge

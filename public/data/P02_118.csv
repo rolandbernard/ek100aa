@@ -1,0 +1,290 @@
+P02_118_0,4.24,7.35,put down plate and glasses next to sink
+P02_118_1,8.03,9.4,pick up bowl
+P02_118_10,24.14,41.9,open butter wrapping
+P02_118_100,310.16,310.7,open drawer
+P02_118_101,311.16,311.57,put tong in drawer
+P02_118_102,311.64,312.13,put wooden spoon in drawer
+P02_118_103,312.1,312.92,close drawer
+P02_118_104,314.42,315.34,pick up knives
+P02_118_105,315.42,317.91,pick up cutlery
+P02_118_106,320.48,321.55,open drawer
+P02_118_107,321.57,325.16,put down spoons
+P02_118_108,325.09,326.64,put forks
+P02_118_109,326.6,327.54,put knives
+P02_118_11,41.68,59.97,cut butter
+P02_118_110,328.4,329.21,close drawer
+P02_118_111,331.36,332.34,pick up garlic presser
+P02_118_112,332.99,334.19,open drawer
+P02_118_113,334.16,334.66,put garlic presser in drawer
+P02_118_114,334.81,335.24,close drawer
+P02_118_115,336.37,337.31,pick up grater
+P02_118_116,337.97,338.77,open cupboard
+P02_118_117,338.9,340.25,put grater in cupboard
+P02_118_118,340.4,341.01,close cupboard
+P02_118_119,341.25,341.73,pick up knife
+P02_118_12,64.1,74.05,cut butter into cubes
+P02_118_120,342.11,343.66,put knife on stand
+P02_118_121,344.06,345.73,pick up glass bowl
+P02_118_122,346.54,347.51,open cupboard
+P02_118_123,347.61,349.82,put glass bowl in cupboard
+P02_118_124,349.81,351.33,close cupboard
+P02_118_125,354.36,356.39,pick up apron
+P02_118_126,358.0,360.03,wear apron
+P02_118_127,360.48,367.12,tie apron
+P02_118_128,367.22,371.52,wear gloves
+P02_118_129,371.95,372.8,pick up strainer
+P02_118_13,73.79,80.03,put butter cubes in bowl
+P02_118_130,375.5,376.4,open bin
+P02_118_131,376.5,380.79,empty strainer
+P02_118_132,380.89,382.06,close bin
+P02_118_133,383.27,384.32,open tap
+P02_118_134,384.42,396.09,rinse strainer
+P02_118_135,395.54,396.5,pick up sponge
+P02_118_136,396.84,398.36,rinse sponge
+P02_118_137,398.46,400.02,close tap
+P02_118_138,400.48,401.42,pick up washing liquid
+P02_118_139,401.52,403.14,pour washing liquid onto sponge
+P02_118_14,79.75,87.88,separate butter cubes
+P02_118_140,403.04,404.0,put down washing liquid
+P02_118_141,405.69,425.92,sponge strainer
+P02_118_142,426.01,427.06,open tap
+P02_118_143,426.98,436.86,rinse strainer
+P02_118_144,436.96,437.56,close tap
+P02_118_145,437.55,441.23,put down strainer
+P02_118_146,441.08,441.69,pick up juicer part
+P02_118_147,441.71,444.0,sponge juicer part
+P02_118_148,443.71,445.0,open tap
+P02_118_149,444.9,447.52,rinse juicer part
+P02_118_15,88.35,91.02,wrap remaining butter
+P02_118_150,447.31,448.33,close tap
+P02_118_151,448.64,449.66,put down juicer part
+P02_118_152,449.42,450.29,pick up juicer part
+P02_118_153,450.3,454.26,sponge juicer part
+P02_118_154,454.24,455.7,open tap
+P02_118_155,455.69,459.66,rinse juicer part
+P02_118_156,459.76,460.37,close tap
+P02_118_157,460.59,461.55,put down juicer part
+P02_118_158,461.63,462.31,pick up tray
+P02_118_159,462.5,472.26,sponge tray
+P02_118_16,90.6,91.39,put down knife
+P02_118_160,473.46,474.55,open tap
+P02_118_161,474.6,483.91,rinse tray
+P02_118_162,483.93,484.73,close tap
+P02_118_163,485.35,487.03,put down tray
+P02_118_164,487.51,488.96,pick up tray from sink
+P02_118_165,489.06,502.66,sponge tray
+P02_118_166,502.91,503.85,open tap
+P02_118_167,519.72,520.47,close tap
+P02_118_168,521.12,524.07,put down tray
+P02_118_169,525.0,526.42,pick up tray from sink
+P02_118_17,95.74,96.79,open fridge
+P02_118_170,526.45,541.52,sponge tray
+P02_118_171,541.59,543.02,open tap
+P02_118_172,543.13,551.23,rinse tray
+P02_118_173,551.28,551.94,close tap
+P02_118_174,552.11,552.39,pick up sponge
+P02_118_175,552.5,554.46,open tap
+P02_118_176,554.34,555.17,rinse sponge
+P02_118_177,555.03,557.02,squeeze sponge
+P02_118_178,557.12,557.92,close tap
+P02_118_179,559.36,559.93,pick up washing liquid
+P02_118_18,96.63,97.41,return butter
+P02_118_180,559.36,561.59,pour washing liquid onto sponge
+P02_118_181,561.69,562.62,put down washing liquid
+P02_118_182,562.63,574.87,sponge tray
+P02_118_183,575.82,576.52,open tap
+P02_118_184,576.52,590.23,rinse tray
+P02_118_185,590.31,591.25,close tap
+P02_118_186,591.71,593.09,put down tray
+P02_118_187,593.95,613.8,empty sink
+P02_118_188,613.65,614.45,pick up plate from sink
+P02_118_189,614.82,615.29,pick up sponge
+P02_118_19,97.42,98.34,close fridge
+P02_118_190,615.23,619.36,sponge plate
+P02_118_191,619.4,619.92,put down sponge
+P02_118_192,620.02,620.74,open tap
+P02_118_193,620.69,624.29,rinse plate
+P02_118_194,624.38,624.99,close tap
+P02_118_195,625.09,626.22,put down plate
+P02_118_196,626.32,626.81,pick up sponge
+P02_118_197,626.79,627.62,pick up washing liquid
+P02_118_198,627.62,628.95,pour washing liquid on sponge
+P02_118_199,629.03,629.95,put down washing liquid
+P02_118_2,11.31,13.15,put down bowl
+P02_118_20,99.78,101.28,move bag
+P02_118_200,629.27,630.23,squeeze sponge
+P02_118_201,630.3,631.02,pick up mug
+P02_118_202,631.09,634.4,sponge mug
+P02_118_203,634.42,634.84,put down sponge
+P02_118_204,634.92,636.04,open tap
+P02_118_205,636.06,640.64,rinse mug
+P02_118_206,640.44,641.31,close tap
+P02_118_207,641.68,642.61,put down mug
+P02_118_208,643.12,643.71,pick up mug
+P02_118_209,644.07,645.43,open tap
+P02_118_21,101.36,103.37,move jar
+P02_118_210,644.3,646.39,fill mug with water
+P02_118_211,646.14,646.64,close tap
+P02_118_212,646.74,647.28,put mug in sink
+P02_118_213,647.53,648.18,pick up glass
+P02_118_214,648.25,649.17,open tap
+P02_118_215,649.24,650.57,rinse glass
+P02_118_216,650.58,650.85,pick up sponge
+P02_118_217,651.05,657.85,sponge glass
+P02_118_218,657.83,658.31,put down sponge
+P02_118_219,658.4,659.47,open tap
+P02_118_22,104.07,105.66,remove food processor lid
+P02_118_220,659.3,665.85,rinse glass
+P02_118_221,665.86,666.64,close tap
+P02_118_222,666.74,669.34,put down glass
+P02_118_223,669.44,670.18,pick up sponge
+P02_118_224,670.28,671.0,pick up mug
+P02_118_225,670.66,674.96,sponge mug
+P02_118_226,674.95,675.52,put down sponge
+P02_118_227,675.41,676.36,open tap
+P02_118_228,676.35,679.13,rinse mug
+P02_118_229,679.23,681.8,close tap
+P02_118_23,105.76,107.84,pick up blender
+P02_118_230,682.0,683.5,put down mug
+P02_118_231,685.06,686.1,pick up wiping cloth
+P02_118_232,686.17,690.51,wipe surface
+P02_118_233,690.64,691.89,adjust bottle
+P02_118_234,692.26,693.37,pick up plate with spoon
+P02_118_235,693.41,694.22,open tap
+P02_118_236,694.17,694.87,put plate with spoon into sink
+P02_118_237,694.97,695.6,pick up tea infuser
+P02_118_238,696.87,697.69,put down tea infuser
+P02_118_239,697.6,698.83,pick up tea infuser
+P02_118_24,107.79,117.62,attach blender to processor
+P02_118_240,700.12,700.78,open bin
+P02_118_241,701.19,715.58,empty tea infuser
+P02_118_242,715.86,716.49,close bin
+P02_118_243,717.72,718.48,put down tea infuser
+P02_118_244,718.77,719.3,pick up plate with spoons
+P02_118_245,719.6,720.35,open tap
+P02_118_246,720.45,721.7,fill water into plate
+P02_118_247,721.2,721.9,close tap
+P02_118_248,722.0,722.49,put plate in sink
+P02_118_249,722.7,723.55,pick up mug
+P02_118_25,119.0,121.82,remove blender lid
+P02_118_250,721.0,721.73,open tap
+P02_118_251,723.75,725.04,fill mug with water
+P02_118_252,725.11,725.45,close tap
+P02_118_253,725.49,725.84,pick up sponge
+P02_118_254,725.93,729.04,sponge mug
+P02_118_255,729.01,729.44,put down sponge
+P02_118_256,729.53,730.29,open tap
+P02_118_257,730.47,733.02,rinse mug
+P02_118_258,733.59,734.28,close tap
+P02_118_259,734.64,736.43,put down mug
+P02_118_26,121.84,124.42,put down lid
+P02_118_260,736.65,737.51,pick up glass
+P02_118_261,737.71,738.58,open tap
+P02_118_262,738.62,739.78,fill glass with water
+P02_118_263,739.59,740.3,close tap
+P02_118_264,740.26,740.95,put glass in sink
+P02_118_265,740.65,741.65,pick up glass
+P02_118_266,741.75,742.34,open tap
+P02_118_267,741.88,743.3,fill glass with water
+P02_118_268,743.19,743.5,close tap
+P02_118_269,743.95,744.74,put glass in sink
+P02_118_27,124.31,124.99,pick up pistachio bag
+P02_118_270,744.28,745.24,pick up mug
+P02_118_271,744.92,745.59,open tap
+P02_118_272,745.73,746.77,fill mug with water
+P02_118_273,746.7,747.3,close tap
+P02_118_274,747.18,748.2,put mug in sink
+P02_118_275,748.01,748.84,pick up mug
+P02_118_276,748.82,749.29,open tap
+P02_118_277,749.12,750.51,fill mug with water
+P02_118_278,750.56,751.05,close tap
+P02_118_279,751.14,751.78,put mug in sink
+P02_118_28,127.33,128.19,pick up scissors
+P02_118_280,751.85,755.89,wipe surface
+P02_118_281,755.94,757.24,move plate
+P02_118_282,757.54,760.3,take off gloves
+P02_118_283,763.21,764.31,pick up knife
+P02_118_284,764.54,766.38,check butter in bowl
+P02_118_285,766.64,767.37,put down knife
+P02_118_286,767.68,772.21,pick up empty bag
+P02_118_287,773.85,774.49,open bin
+P02_118_288,774.36,774.75,throw bag
+P02_118_289,774.85,775.49,close bin
+P02_118_29,129.7,132.54,open pistachio bag using scissors
+P02_118_3,12.93,14.98,open drawer
+P02_118_30,132.25,133.24,put down scissors
+P02_118_31,133.29,135.92,pour pistachio into blender
+P02_118_32,136.02,137.68,pick up lid
+P02_118_33,137.55,142.57,cover blender with lid
+P02_118_34,142.67,147.33,turn on blender
+P02_118_35,147.25,150.36,turn off blender
+P02_118_36,153.61,155.2,remove blender lid
+P02_118_37,155.23,158.71,pour pistachio into blender
+P02_118_38,158.78,160.23,put down lid
+P02_118_39,160.29,161.3,pick up pistachio bag
+P02_118_4,15.04,16.55,pick up knife
+P02_118_40,160.86,161.35,pick up scissors
+P02_118_41,161.42,162.7,open pistachio bag using scissors
+P02_118_42,162.8,163.55,put down scissors
+P02_118_43,163.53,169.89,pour pistachio in blender
+P02_118_44,169.75,171.26,put down bag
+P02_118_45,171.32,172.72,pick up lid
+P02_118_46,172.5,174.25,cover blender with lid
+P02_118_47,174.08,176.02,turn on blender
+P02_118_48,183.7,186.05,turn off blender
+P02_118_49,185.96,192.03,remove blender lid
+P02_118_5,16.65,17.24,close drawer
+P02_118_50,191.67,194.61,open blender cover
+P02_118_51,196.19,197.29,open drawer
+P02_118_52,197.21,197.86,get knife
+P02_118_53,197.91,198.58,close drawer
+P02_118_54,200.03,204.84,stir pistachio mixture using knife
+P02_118_55,204.81,205.89,close blender cover
+P02_118_56,206.1,206.77,pick up lid
+P02_118_57,206.87,208.92,cover blender using lid
+P02_118_58,209.02,213.43,turn on blender
+P02_118_59,213.18,218.09,turn off blender
+P02_118_6,17.22,19.13,open fridge
+P02_118_60,219.23,221.45,remove blender lid
+P02_118_61,221.55,222.2,pick up knife
+P02_118_62,222.47,223.12,open blender cover
+P02_118_63,223.2,229.59,stir pistachio in blender
+P02_118_64,229.69,230.67,close blender cover
+P02_118_65,230.0,230.95,put down knife
+P02_118_66,231.0,231.71,pick up lid
+P02_118_67,231.6,232.55,cover blender with lid
+P02_118_68,232.93,239.15,turn on blender
+P02_118_69,238.72,240.45,turn off blender
+P02_118_7,18.13,20.46,pick up butter
+P02_118_70,241.1,241.99,remove blender lid
+P02_118_71,242.45,243.68,pick up knife
+P02_118_72,243.77,248.62,stir pistachio in blender
+P02_118_73,248.72,249.67,put down knife
+P02_118_74,249.73,252.62,put lid on blender
+P02_118_75,254.96,256.42,pick up pan
+P02_118_76,256.15,257.87,pick up pan
+P02_118_77,258.28,259.35,put first pan on second pan
+P02_118_78,259.42,260.45,put pans on stove
+P02_118_79,262.19,263.39,pick up bowl
+P02_118_8,20.33,22.33,close fridge
+P02_118_80,265.0,269.67,put bowl on processor
+P02_118_81,270.66,272.25,pick up processor cover
+P02_118_82,272.13,276.83,put down processor cover
+P02_118_83,276.44,277.4,lock processor cover
+P02_118_84,279.06,280.15,pick up plate
+P02_118_85,280.68,281.53,pick up plate
+P02_118_86,282.44,283.78,pick up plate
+P02_118_87,285.18,285.94,open cupboard
+P02_118_88,286.27,290.0,put plates in cupboard
+P02_118_89,291.28,292.45,pick up mug
+P02_118_9,22.18,24.32,put down butter
+P02_118_90,292.61,293.68,open cupboard
+P02_118_91,293.64,294.42,put mug in cupboard
+P02_118_92,295.31,296.09,pick up glass
+P02_118_93,296.06,296.72,put glass in cupboard
+P02_118_94,296.82,297.82,close cupboard
+P02_118_95,297.75,298.75,pick up plate
+P02_118_96,298.78,302.89,put plate in cupboard
+P02_118_97,304.45,305.27,close cupboard
+P02_118_98,306.8,308.02,pick up tongs
+P02_118_99,307.76,308.5,pick up wooden spoon

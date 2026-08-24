@@ -1,0 +1,41 @@
+P03_10_0,1.75,2.92,place bag
+P03_10_1,3.97,4.97,open fridge
+P03_10_10,25.36,27.07,close fridge
+P03_10_11,27.86,29.36,put bottle in bag
+P03_10_12,29.89,31.16,take lunch box
+P03_10_13,31.27,32.08,put lunch box
+P03_10_14,32.63,33.96,place bag
+P03_10_15,34.61,35.38,open fridge
+P03_10_16,35.67,37.25,grab butter
+P03_10_17,37.25,37.94,close fridge
+P03_10_18,37.76,39.1,place butter
+P03_10_19,40.03,41.01,open cupboard
+P03_10_2,6.07,7.32,grab pancakes
+P03_10_20,40.66,41.72,grab plate
+P03_10_21,41.55,43.3,put plate
+P03_10_22,44.24,47.33,grab knife
+P03_10_23,48.67,49.67,place knife
+P03_10_24,64.64,65.68,open cupboard
+P03_10_25,65.87,66.6,grab glass
+P03_10_26,67.22,68.08,close cupboard
+P03_10_27,67.47,68.47,put glass
+P03_10_28,69.53,70.78,open fridge
+P03_10_29,70.88,71.88,grab juice
+P03_10_3,7.91,8.41,close fridge
+P03_10_30,72.03,73.05,close fridge
+P03_10_31,73.5,74.98,shake juice
+P03_10_32,75.08,77.48,open juice
+P03_10_33,78.13,83.59,pour juice
+P03_10_34,83.69,84.68,place glass
+P03_10_35,85.2,86.95,close juice
+P03_10_36,87.54,88.55,open fridge
+P03_10_37,89.38,90.05,place juice
+P03_10_38,89.94,90.63,close fridge
+P03_10_39,91.51,92.5,pick up juice
+P03_10_4,11.0,15.32,take pancakes
+P03_10_40,99.13,100.94,place cup
+P03_10_5,16.12,17.88,put pancakes in toaster
+P03_10_6,17.72,18.97,turn toaster on
+P03_10_7,20.92,21.64,open fridge
+P03_10_8,21.94,22.58,put pancakes in fridge
+P03_10_9,24.77,26.52,grab bottle

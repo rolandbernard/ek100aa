@@ -1,0 +1,146 @@
+P30_03_0,3.66,5.59,open door
+P30_03_1,6.32,7.32,close door
+P30_03_10,34.02,35.67,turn tap on
+P30_03_100,324.86,326.01,put balsamic reduction
+P30_03_101,326.46,329.21,put salt on toast
+P30_03_102,329.62,333.81,pour water into v60
+P30_03_103,333.91,339.88,pour water into v60
+P30_03_104,335.19,339.47,continue pour water
+P30_03_105,338.87,342.95,continue pour water
+P30_03_106,339.87,343.29,continue pour water
+P30_03_107,342.66,345.38,continue pour water
+P30_03_108,343.39,351.37,continue pour water
+P30_03_109,344.71,346.89,continue pour water
+P30_03_11,35.39,41.79,clean washing up bowl
+P30_03_110,346.99,350.76,continue pour water
+P30_03_111,350.86,351.96,put jug
+P30_03_112,353.74,360.45,pour water
+P30_03_113,361.88,362.68,pour water
+P30_03_114,362.78,363.29,continue pour water
+P30_03_115,378.62,380.99,continue pour water
+P30_03_116,402.51,405.6,empty jug
+P30_03_117,403.65,408.18,put jug in drying rack
+P30_03_118,418.64,420.35,take sponge
+P30_03_119,420.45,422.63,take knife
+P30_03_12,41.11,42.23,turn tap on
+P30_03_120,422.88,424.48,move chopping board
+P30_03_121,425.48,428.63,clean chopping board with knife
+P30_03_122,431.21,432.49,put sponge in water
+P30_03_123,434.06,444.68,wipe surface
+P30_03_124,442.12,453.32,continue wipe surface
+P30_03_125,443.53,444.82,move plate
+P30_03_126,444.57,451.83,continue wipe surface
+P30_03_127,445.25,447.16,move cup
+P30_03_128,447.69,451.31,continue wipe surface
+P30_03_129,451.41,453.46,continue wipe surface
+P30_03_13,43.65,49.85,clean washing up bowl
+P30_03_130,453.56,456.16,continue wipe surface
+P30_03_131,455.74,461.3,continue wipe surface
+P30_03_132,455.82,457.26,continue wipe surface
+P30_03_133,464.86,467.38,clean sponge
+P30_03_134,468.59,470.26,rinse sponge
+P30_03_135,471.73,473.07,wash hands
+P30_03_136,474.4,478.09,clean knife
+P30_03_137,477.91,481.05,clean knife
+P30_03_138,481.15,482.78,put knife in drying rack
+P30_03_139,483.98,485.5,put chopping board on surface
+P30_03_14,50.66,55.3,rinse mug
+P30_03_140,487.56,489.31,take v60
+P30_03_141,489.95,493.93,empty v60 into bin
+P30_03_142,494.03,495.75,put mug
+P30_03_143,495.66,497.36,rinse v60
+P30_03_144,497.34,502.25,wash v60
+P30_03_145,506.11,508.29,dry hands
+P30_03_15,55.4,59.84,wash mug
+P30_03_16,55.83,60.46,rinse mug
+P30_03_17,60.32,64.56,continue rinsing mug
+P30_03_18,64.66,66.59,put mug on drying rack
+P30_03_19,68.62,71.46,dry hands
+P30_03_2,10.22,11.44,take kettle
+P30_03_20,72.73,73.65,open bread bin
+P30_03_21,73.75,75.05,take bread from bread bin
+P30_03_22,75.05,76.66,put bread in bread bin
+P30_03_23,77.59,78.91,put bread in bread bin
+P30_03_24,78.91,79.72,take bread from bread bin
+P30_03_25,81.0,84.67,take bread from packaging
+P30_03_26,86.56,87.1,put bread in bread bin
+P30_03_27,89.74,91.99,put bread in toaster
+P30_03_28,95.14,95.83,open cupboard
+P30_03_29,95.84,98.09,open cupboard
+P30_03_3,11.56,16.37,fill kettle
+P30_03_30,98.19,99.72,take plate
+P30_03_31,102.02,103.24,close cupboards
+P30_03_32,103.52,104.66,take mug
+P30_03_33,104.76,105.87,put mug
+P30_03_34,105.5,109.51,take coffee scoop
+P30_03_35,106.54,107.38,take v60
+P30_03_36,107.48,108.64,put v60
+P30_03_37,109.59,111.1,take filters
+P30_03_38,111.2,116.53,take filter from box
+P30_03_39,121.04,127.21,fold filter
+P30_03_4,19.79,21.45,take mug
+P30_03_40,123.82,126.96,continue to fold filter
+P30_03_41,127.06,131.15,put filter in v60
+P30_03_42,133.86,136.83,take coffee
+P30_03_43,138.03,139.11,open fridge
+P30_03_44,140.35,142.86,put box in fridge
+P30_03_45,143.61,146.2,move screw driver
+P30_03_46,146.67,148.96,open coffee bag
+P30_03_47,149.7,151.76,scoop coffee from bag
+P30_03_48,151.5,154.08,put coffee into grinder
+P30_03_49,153.8,156.24,grind coffee
+P30_03_5,21.62,23.88,remove tea bag from mug
+P30_03_50,157.72,164.18,continue grind coffee
+P30_03_51,163.31,165.75,continue grind coffee
+P30_03_52,163.7,165.17,stop coffee grinder
+P30_03_53,165.16,166.98,take grounds from coffee grinder
+P30_03_54,166.65,170.01,put coffee grounds in v60
+P30_03_55,172.88,173.74,open cupboard
+P30_03_56,174.03,175.29,take jug
+P30_03_57,175.14,177.81,put jug
+P30_03_58,179.82,182.26,take washing basket
+P30_03_59,182.36,183.32,open washing machine
+P30_03_6,21.83,24.15,put in bin
+P30_03_60,183.2,184.39,set washing machine
+P30_03_61,184.47,186.14,turn washing machine on
+P30_03_62,190.0,195.06,put clothes into washing machine
+P30_03_63,191.24,193.5,put clothes into washing machine
+P30_03_64,193.27,195.23,put clothes into washing machine
+P30_03_65,194.27,196.58,put clothes into washing machine
+P30_03_66,195.22,197.19,put clothes into washing machine
+P30_03_67,197.11,209.95,put clothes into washing machine
+P30_03_68,199.54,204.58,put clothes into washing machine
+P30_03_69,205.18,212.0,put clothes into washing machine
+P30_03_7,26.25,28.76,clean mug
+P30_03_70,214.22,230.3,put washing up liquid in washing machine
+P30_03_71,217.07,217.78,open drawer
+P30_03_72,232.72,243.28,check time
+P30_03_73,241.98,250.47,continue set washing machine
+P30_03_74,242.76,248.31,set washing machine
+P30_03_75,247.59,249.74,continue set washing machine
+P30_03_76,250.44,251.4,continue set washing machine
+P30_03_77,250.55,251.57,start washing machine
+P30_03_78,254.04,255.5,boil kettle
+P30_03_79,255.6,258.18,take bottle
+P30_03_8,28.75,29.75,close tap
+P30_03_80,259.27,260.88,turn tap on
+P30_03_81,260.38,266.94,fill up water bottle
+P30_03_82,266.88,268.79,screw cap on water bottle
+P30_03_83,268.23,271.85,put water bottle in fridge
+P30_03_84,269.4,271.18,take water bottle from fridge
+P30_03_85,275.09,280.34,fill up jug from kettle
+P30_03_86,284.98,288.27,pour water into v60
+P30_03_87,287.89,290.8,continue pouring water into v60
+P30_03_88,292.24,294.18,take toast from toaster
+P30_03_89,294.29,296.01,put toast on plate
+P30_03_9,31.99,33.99,put up washing up sponge
+P30_03_90,296.99,297.86,take olive oil
+P30_03_91,298.05,301.92,pour olive oil
+P30_03_92,298.94,302.75,continue pour olive oil
+P30_03_93,303.33,305.43,pour olive oil
+P30_03_94,306.3,307.51,continue pour olive oil
+P30_03_95,309.45,310.99,take balsamic reduction
+P30_03_96,310.33,317.0,put balsamic reduction on toast
+P30_03_97,314.85,318.43,continue put balsamic reduction on toast
+P30_03_98,317.81,323.78,continue put balsamic reduction on toast
+P30_03_99,324.12,324.88,close balsamic reduction

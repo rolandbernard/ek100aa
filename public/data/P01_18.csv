@@ -1,0 +1,689 @@
+P01_18_0,3.17,5.42,open fridge
+P01_18_1,5.87,8.08,take mushrooms
+P01_18_10,20.76,22.76,move plate
+P01_18_100,472.59,481.48,chop squash
+P01_18_101,485.01,492.81,chop squash
+P01_18_102,497.34,508.12,chop squash
+P01_18_103,511.2,521.76,continue chopping squash
+P01_18_104,536.01,554.13,continue chopping squash
+P01_18_105,561.62,577.13,continue chopping squash
+P01_18_106,582.09,589.21,still chopping squash
+P01_18_107,582.44,600.28,still chopping squash
+P01_18_108,603.98,607.07,put down saucepan
+P01_18_109,606.76,608.52,turn on hob
+P01_18_11,21.46,22.95,put down plate
+P01_18_110,612.27,634.88,chop squash
+P01_18_111,630.53,635.89,chop squash
+P01_18_112,636.1,636.75,put down knife
+P01_18_113,639.91,657.95,pour squash into saucepan
+P01_18_114,659.1,660.48,put down cutting board
+P01_18_115,661.95,662.84,take kettle
+P01_18_116,665.27,679.45,pour water into saucepan
+P01_18_117,680.6,682.47,put down kettle
+P01_18_118,684.76,686.35,take salt
+P01_18_119,686.16,687.62,put down salt
+P01_18_12,26.83,28.82,open drawer
+P01_18_120,687.46,688.07,open drawer
+P01_18_121,688.74,689.76,close drawer
+P01_18_122,690.59,692.48,open salt
+P01_18_123,693.27,696.15,pour salt
+P01_18_124,697.94,703.24,stir squash
+P01_18_125,703.46,704.74,close salt
+P01_18_126,705.45,706.36,put down spoon
+P01_18_127,707.88,709.03,put down salt
+P01_18_128,710.77,712.84,take mushrooms
+P01_18_129,714.07,715.66,turn on tap
+P01_18_13,33.52,34.77,close drawer
+P01_18_130,715.65,720.7,wash mushrooms
+P01_18_131,720.44,721.1,put down mushroom
+P01_18_132,721.2,721.92,take mushroom
+P01_18_133,721.84,724.78,wash mushroom
+P01_18_134,724.53,725.3,put down mushroom
+P01_18_135,725.27,725.99,take mushroom
+P01_18_136,726.08,733.76,wash mushroom
+P01_18_137,728.08,737.4,wash mushroom
+P01_18_138,733.53,734.28,put down mushroom
+P01_18_139,734.35,735.24,take mushroom
+P01_18_14,34.8,37.08,close fridge
+P01_18_140,737.01,737.76,turn off tap
+P01_18_141,743.73,760.77,remove label
+P01_18_142,761.75,764.85,take plastics
+P01_18_143,765.68,767.21,throw box into bin
+P01_18_144,772.23,773.14,open bin
+P01_18_145,773.13,773.65,throw plastic into bin
+P01_18_146,776.47,777.79,take knife
+P01_18_147,779.87,789.23,slice mushroom
+P01_18_148,790.85,812.5,slice mushroom
+P01_18_149,801.67,813.01,slice mushroom
+P01_18_15,40.36,41.61,open cupboard
+P01_18_150,815.25,823.7,slice mushroom
+P01_18_151,823.8,826.16,put down
+P01_18_152,826.38,827.86,put down knife
+P01_18_153,828.04,832.29,dry hands
+P01_18_154,832.28,834.07,hang cloth
+P01_18_155,836.74,837.86,open container
+P01_18_156,838.24,840.11,take onion
+P01_18_157,838.9,840.35,put down onion
+P01_18_158,840.34,840.97,put down onion
+P01_18_159,841.04,842.4,take onion
+P01_18_16,44.0,45.44,taste squash
+P01_18_160,841.07,843.06,take onion
+P01_18_161,842.5,843.51,put down onion
+P01_18_162,845.76,846.48,take lid
+P01_18_163,846.42,849.83,close container
+P01_18_164,851.05,852.42,open fridge
+P01_18_165,852.27,854.55,put container into fridge
+P01_18_166,857.63,860.35,close fridge
+P01_18_167,865.65,866.62,take knife
+P01_18_168,870.17,870.89,take knife
+P01_18_169,871.24,883.7,chop onion
+P01_18_17,45.54,46.97,put down squash
+P01_18_170,883.3,888.73,chop onions
+P01_18_171,888.83,897.03,continue chopping onions
+P01_18_172,896.01,918.39,continue chopping onions
+P01_18_173,918.88,919.58,put down knife
+P01_18_174,921.32,922.24,open cupboard
+P01_18_175,922.29,923.71,dry hands
+P01_18_176,924.83,928.92,take pan
+P01_18_177,930.1,931.99,put down pan
+P01_18_178,931.89,938.78,close cupboard
+P01_18_179,932.09,933.63,open cupboard
+P01_18_18,47.32,48.51,close cupboard
+P01_18_180,933.76,937.26,take saucepan
+P01_18_181,937.11,939.11,close cupboard
+P01_18_182,939.26,941.61,put down saucepan
+P01_18_183,943.98,945.31,open cupboard
+P01_18_184,946.41,949.16,take stock
+P01_18_185,952.51,954.76,take stock
+P01_18_186,954.85,957.61,put stock into box
+P01_18_187,957.93,959.71,put stock into cupboard
+P01_18_188,960.15,961.56,close cupboard
+P01_18_189,961.79,964.83,take saucepan
+P01_18_19,49.25,50.0,take cutting board
+P01_18_190,964.21,965.46,close cupboard
+P01_18_191,965.31,966.56,put down saucepan
+P01_18_192,966.66,979.75,open stock
+P01_18_193,979.8,981.05,put down stock
+P01_18_194,981.26,984.51,dry hands
+P01_18_195,984.86,985.86,open cupboard
+P01_18_196,985.91,987.57,take rice
+P01_18_197,988.31,989.91,close cupboard
+P01_18_198,990.22,995.23,read label
+P01_18_199,997.17,998.42,put down rice
+P01_18_2,9.92,11.28,put down mushrooms
+P01_18_20,50.9,51.71,put down cutting board
+P01_18_200,1005.05,1006.24,open fridge
+P01_18_201,1007.52,1008.3,take olive
+P01_18_202,1008.4,1009.4,close fridge
+P01_18_203,1010.86,1012.37,open olives
+P01_18_204,1012.72,1013.91,put down olives
+P01_18_205,1014.21,1015.08,take olive
+P01_18_206,1015.88,1017.26,eat olive
+P01_18_207,1019.37,1022.8,take olive
+P01_18_208,1019.9,1022.65,take olive
+P01_18_209,1022.8,1023.65,eat olive
+P01_18_21,51.74,53.41,take grater
+P01_18_210,1022.95,1023.86,eat olive
+P01_18_211,1025.33,1030.21,take olive
+P01_18_212,1036.25,1037.0,take lid
+P01_18_213,1036.65,1041.51,close lid
+P01_18_214,1037.18,1038.66,eat olive
+P01_18_215,1038.93,1042.19,close olives
+P01_18_216,1044.35,1045.51,open fridge
+P01_18_217,1045.61,1046.91,put olives into fridge
+P01_18_218,1046.81,1047.67,close fridge
+P01_18_219,1052.25,1054.12,take something from the floor
+P01_18_22,53.58,55.05,open cupboard
+P01_18_220,1057.09,1058.23,open bin
+P01_18_221,1057.58,1058.17,throw something into bin
+P01_18_222,1058.27,1059.15,close bin
+P01_18_223,1061.06,1062.81,turn on tap
+P01_18_224,1062.6,1070.02,wash hands
+P01_18_225,1069.87,1070.75,close tap
+P01_18_226,1072.27,1073.3,take sponge and washing up liquid
+P01_18_227,1073.4,1074.95,pour washing up liquid
+P01_18_228,1075.0,1076.0,put down washing up liquid
+P01_18_229,1076.67,1077.77,take knife
+P01_18_23,55.08,56.43,put grater into cupboard
+P01_18_230,1077.87,1081.51,wash knife
+P01_18_231,1080.99,1081.86,put down knife
+P01_18_232,1082.44,1083.38,take plate
+P01_18_233,1083.48,1091.25,wash plate
+P01_18_234,1091.2,1091.7,put down plate
+P01_18_235,1091.39,1093.26,turn on tap
+P01_18_236,1093.03,1102.15,rinse plate
+P01_18_237,1103.03,1105.62,put down plate
+P01_18_238,1105.26,1106.31,take knife
+P01_18_239,1105.45,1107.71,rinse knife
+P01_18_24,57.34,58.48,take knife
+P01_18_240,1107.7,1108.72,put down knife
+P01_18_241,1108.58,1110.43,turn off tap
+P01_18_242,1109.61,1110.87,move sponge
+P01_18_243,1112.43,1113.87,take cloth
+P01_18_244,1113.6,1118.59,dry hands
+P01_18_245,1118.66,1120.62,hand cloth
+P01_18_246,1121.35,1122.47,take bottle
+P01_18_247,1122.57,1123.94,open bottle
+P01_18_248,1124.38,1127.01,turn on tap
+P01_18_249,1128.67,1138.68,pour water into bottle
+P01_18_25,59.05,59.58,put down knife
+P01_18_250,1136.14,1138.5,turn off tap
+P01_18_251,1138.89,1141.45,turn on tap
+P01_18_252,1141.05,1141.9,turn off tap
+P01_18_253,1145.17,1146.2,take glass
+P01_18_254,1146.92,1152.53,pour water into glass
+P01_18_255,1152.63,1158.91,drink water
+P01_18_256,1158.58,1163.12,pour water into glass
+P01_18_257,1163.19,1172.17,drink water
+P01_18_258,1171.97,1173.4,put down glass
+P01_18_259,1174.51,1175.91,close bottle
+P01_18_26,59.29,60.82,take spoon
+P01_18_260,1176.58,1177.36,put down bottle
+P01_18_261,1179.0,1179.8,take cloth
+P01_18_262,1179.88,1182.58,dry hands
+P01_18_263,1183.66,1184.99,hang cloth
+P01_18_264,1187.96,1189.15,take tablecloth
+P01_18_265,1193.68,1196.69,put down tablecloth
+P01_18_266,1198.06,1199.18,open cupboard
+P01_18_267,1199.16,1200.75,take plate
+P01_18_268,1200.82,1201.58,close cupboard
+P01_18_269,1201.99,1202.95,put down plate
+P01_18_27,60.83,62.19,take cup
+P01_18_270,1206.28,1207.42,open drawer
+P01_18_271,1207.91,1209.29,take spoon
+P01_18_272,1209.39,1210.01,close drawer
+P01_18_273,1211.09,1211.97,put down spoon
+P01_18_274,1214.08,1221.08,looking for something
+P01_18_275,1222.43,1224.33,take container
+P01_18_276,1230.12,1234.3,open container
+P01_18_277,1236.37,1242.37,take containers
+P01_18_278,1239.65,1240.42,take container
+P01_18_279,1242.67,1243.35,take container
+P01_18_28,62.53,63.86,open cupboard
+P01_18_280,1245.35,1248.06,take lid
+P01_18_281,1245.61,1251.1,put down lid
+P01_18_282,1252.78,1253.55,put down container
+P01_18_283,1253.21,1256.08,put containers into container
+P01_18_284,1256.3,1259.55,take lids into container
+P01_18_285,1259.53,1260.15,take lid
+P01_18_286,1260.38,1261.88,close container
+P01_18_287,1263.87,1268.95,put down containers
+P01_18_288,1272.25,1273.79,open container
+P01_18_289,1272.76,1274.45,put down lid
+P01_18_29,62.77,64.52,put cup into cupboard
+P01_18_290,1282.28,1283.48,take knife
+P01_18_291,1282.84,1283.87,move cutting board
+P01_18_292,1283.87,1285.05,move rice
+P01_18_293,1285.71,1288.93,move tray
+P01_18_294,1289.13,1290.41,put down saucepan
+P01_18_295,1291.95,1293.31,adjust hob
+P01_18_296,1294.33,1298.06,take kettle
+P01_18_297,1298.16,1305.75,pour water into saucepan
+P01_18_298,1307.11,1308.73,open kettle
+P01_18_299,1308.62,1310.28,turn on tap
+P01_18_3,10.94,12.33,open container
+P01_18_30,64.54,65.04,close cupboard
+P01_18_300,1310.36,1324.24,pour water into kettle
+P01_18_301,1324.11,1324.7,turn off tap
+P01_18_302,1324.53,1325.37,close kettle
+P01_18_303,1326.19,1328.16,put down kettle
+P01_18_304,1328.33,1329.35,turn on kettle
+P01_18_305,1335.62,1336.96,take stock
+P01_18_306,1337.06,1337.72,put down stock
+P01_18_307,1338.3,1343.55,wait for water to boil
+P01_18_308,1343.65,1380.93,continue waiting
+P01_18_309,1381.29,1383.09,take saucepan
+P01_18_31,67.16,68.52,open drawer
+P01_18_310,1383.67,1386.92,pour water into saucepan
+P01_18_311,1388.14,1390.77,put down saucepan
+P01_18_312,1391.07,1392.16,take cloth
+P01_18_313,1392.01,1399.41,dry saucepan
+P01_18_314,1399.36,1400.87,put down saucepan
+P01_18_315,1401.17,1406.92,dry pan
+P01_18_316,1407.02,1408.41,put down pan
+P01_18_317,1409.37,1410.9,hang cloth
+P01_18_318,1410.9,1411.59,take saucepan
+P01_18_319,1411.13,1412.19,open cupboard
+P01_18_32,68.54,70.44,put spoon down
+P01_18_320,1412.37,1415.71,put saucepan into cupboard
+P01_18_321,1416.02,1417.29,close cupboard
+P01_18_322,1424.03,1424.9,open cupboard
+P01_18_323,1424.92,1426.18,take bowl
+P01_18_324,1426.21,1426.84,close cupboard
+P01_18_325,1427.78,1428.45,put down bowl
+P01_18_326,1428.55,1429.26,take rice
+P01_18_327,1429.23,1439.3,open rice
+P01_18_328,1439.65,1443.86,pour rice into bowl
+P01_18_329,1449.47,1453.49,pour rice into bowl
+P01_18_33,70.54,71.48,close drawer
+P01_18_330,1453.59,1454.98,shake bowl
+P01_18_331,1455.99,1461.99,close rice box
+P01_18_332,1462.23,1463.14,open cupboard
+P01_18_333,1463.55,1488.07,seal rice box
+P01_18_334,1479.08,1480.08,open drawer
+P01_18_335,1480.16,1483.71,take clip
+P01_18_336,1483.9,1484.97,close drawer
+P01_18_337,1485.27,1486.53,take clip from the floor
+P01_18_338,1486.64,1488.64,put clip on
+P01_18_339,1489.1,1490.7,put rice into cupboard
+P01_18_34,73.19,74.44,close cupboard
+P01_18_340,1491.05,1492.3,close cupboard
+P01_18_341,1498.4,1501.4,move saucepan
+P01_18_342,1513.5,1516.7,take kettle
+P01_18_343,1517.35,1527.6,pour water into saucepan
+P01_18_344,1529.2,1531.7,put down kettle
+P01_18_345,1533.8,1536.05,take olive oil
+P01_18_346,1537.9,1538.9,adjust hob
+P01_18_347,1538.92,1546.5,pour oil into pan
+P01_18_348,1540.79,1550.66,put down oil
+P01_18_349,1546.85,1549.1,close oil
+P01_18_35,76.04,96.41,cut squash
+P01_18_350,1551.08,1552.84,take stock
+P01_18_351,1553.41,1554.07,put stock into saucepan
+P01_18_352,1555.32,1557.49,open bin
+P01_18_353,1557.37,1557.97,throw something into bin
+P01_18_354,1559.33,1561.16,take spoon
+P01_18_355,1561.54,1566.52,break stock
+P01_18_356,1566.04,1568.54,stir stock
+P01_18_357,1570.89,1571.86,put down spoon
+P01_18_358,1573.11,1602.02,wait for oil to be hot
+P01_18_359,1603.57,1604.82,take spoon
+P01_18_36,105.06,107.09,take cling film
+P01_18_360,1604.92,1619.99,stir stock
+P01_18_361,1624.4,1640.73,wait
+P01_18_362,1640.04,1641.02,take spoon
+P01_18_363,1641.7,1642.7,check oil
+P01_18_364,1643.05,1672.17,wait for oil
+P01_18_365,1672.29,1673.54,take national geographic
+P01_18_366,1677.21,1692.55,read national geographic
+P01_18_367,1684.02,1693.38,continue reading
+P01_18_368,1693.48,1709.47,still reading national geographic
+P01_18_369,1728.44,1729.28,put down national geographic
+P01_18_37,107.99,120.19,unroll film
+P01_18_370,1732.79,1733.66,take spoon
+P01_18_371,1733.76,1740.39,stir stock
+P01_18_372,1741.85,1742.39,put down spoon
+P01_18_373,1742.38,1743.69,adjust hob
+P01_18_374,1744.73,1745.31,take knife
+P01_18_375,1745.35,1747.55,take cutting board
+P01_18_376,1748.15,1752.25,pour onion into pan
+P01_18_377,1753.01,1754.46,put down knife and cutting board
+P01_18_378,1754.97,1756.81,open drawer
+P01_18_379,1757.61,1761.67,take spatula
+P01_18_38,123.11,134.43,wrap squash
+P01_18_380,1758.34,1759.18,close drawer
+P01_18_381,1759.05,1761.66,put down spatula
+P01_18_382,1766.48,1767.34,take spatula
+P01_18_383,1767.76,1774.65,stir onion
+P01_18_384,1774.77,1777.57,put down spatula
+P01_18_385,1824.97,1827.39,take spatula
+P01_18_386,1826.97,1836.25,stir onion
+P01_18_387,1836.52,1840.12,put down spatula
+P01_18_388,1840.31,1845.0,take spoon
+P01_18_389,1842.14,1843.16,stir squash
+P01_18_39,133.68,136.56,put cling film into cupboard
+P01_18_390,1843.26,1845.18,spoon squash
+P01_18_391,1849.03,1850.09,taste squash
+P01_18_392,1850.16,1850.88,put down spoon
+P01_18_393,1851.2,1852.67,adjust hop
+P01_18_394,1859.95,1861.91,take coriander
+P01_18_395,1861.74,1863.24,put down coriander
+P01_18_396,1864.92,1866.14,take spatula
+P01_18_397,1866.06,1867.29,stir onion
+P01_18_398,1867.35,1869.57,adjust hop
+P01_18_399,1871.32,1873.23,take saucepan
+P01_18_4,11.16,12.34,open lid
+P01_18_40,138.06,139.61,open fridge
+P01_18_400,1875.0,1878.88,pour squash into colander
+P01_18_401,1879.9,1886.1,drain squash
+P01_18_402,1888.86,1891.62,put down saucepan
+P01_18_403,1893.15,1894.14,take knife
+P01_18_404,1893.72,1894.72,take spoon
+P01_18_405,1894.75,1896.29,take cutting board
+P01_18_406,1896.79,1901.65,pour mushrooms into pan
+P01_18_407,1904.05,1905.71,put down cutting board and knife
+P01_18_408,1905.81,1907.44,take spatula
+P01_18_409,1907.71,1909.18,put down spatula
+P01_18_41,140.14,141.06,open drawer
+P01_18_410,1911.12,1912.53,take pot holder
+P01_18_411,1912.49,1913.38,put down pot holder
+P01_18_412,1916.76,1918.72,take spatula
+P01_18_413,1918.83,1924.63,serve food
+P01_18_414,1924.23,1950.04,cut mushrooms
+P01_18_415,1935.98,1958.07,continue cutting mushrooms
+P01_18_416,1953.48,1957.54,stir food
+P01_18_417,1957.64,1961.05,cut mushrooms
+P01_18_418,1961.15,1971.18,stir food
+P01_18_419,1967.54,1985.26,cut mushrooms
+P01_18_42,140.99,141.92,put squash into drawer
+P01_18_420,1985.95,1996.7,stir food
+P01_18_421,1997.12,1998.07,put down spatula
+P01_18_422,1997.64,2001.14,take pepper
+P01_18_423,2001.69,2005.31,pour pepper
+P01_18_424,2005.57,2006.72,put down paper
+P01_18_425,2006.41,2007.52,take spatula
+P01_18_426,2007.83,2016.71,stir food
+P01_18_427,2017.11,2017.74,put down spatula
+P01_18_428,2017.46,2019.52,pour rice into pan
+P01_18_429,2017.58,2018.45,take bowl
+P01_18_43,141.84,142.59,close drawer
+P01_18_430,2020.17,2020.97,put down bowl
+P01_18_431,2020.94,2022.39,open drawer
+P01_18_432,2024.99,2025.79,take ladle
+P01_18_433,2027.53,2029.09,spoon stock
+P01_18_434,2029.6,2032.18,pour stock
+P01_18_435,2032.9,2035.92,spoon stock
+P01_18_436,2036.42,2038.69,pour stock
+P01_18_437,2039.41,2040.45,spoon stock
+P01_18_438,2041.35,2042.49,take spatula
+P01_18_439,2042.46,2052.24,stir food
+P01_18_44,142.69,145.18,close fridge
+P01_18_440,2052.34,2059.9,pour squash
+P01_18_441,2069.44,2070.44,put down spatula
+P01_18_442,2078.29,2079.29,take spatula
+P01_18_443,2079.06,2090.05,stir food
+P01_18_444,2090.15,2101.09,continue stirring food
+P01_18_445,2101.94,2105.69,continue stirring food
+P01_18_446,2119.98,2130.51,continue stirring food
+P01_18_447,2130.97,2159.66,continue stirring food
+P01_18_448,2176.36,2182.04,stir food
+P01_18_449,2176.66,2178.14,take spatula
+P01_18_45,147.3,148.97,open drawer
+P01_18_450,2181.79,2182.85,take ladle
+P01_18_451,2182.95,2185.12,spoon stock
+P01_18_452,2185.22,2187.84,pour stock
+P01_18_453,2187.91,2189.54,put down ladle
+P01_18_454,2189.64,2193.78,stir food
+P01_18_455,2193.88,2197.29,spoon squash
+P01_18_456,2197.15,2200.56,pour squash
+P01_18_457,2201.9,2203.15,put down spatula
+P01_18_458,2215.23,2216.34,take spatula
+P01_18_459,2215.55,2224.34,stir food
+P01_18_46,149.32,150.93,take knife
+P01_18_460,2223.69,2224.55,put down spatula
+P01_18_461,2225.59,2227.0,take container
+P01_18_462,2226.6,2227.91,put down container
+P01_18_463,2227.31,2229.07,open container
+P01_18_464,2232.72,2233.86,take lid
+P01_18_465,2233.96,2236.18,close container
+P01_18_466,2236.28,2238.22,put container into cupboard
+P01_18_467,2239.25,2241.15,take spatula
+P01_18_468,2244.63,2246.13,take colander
+P01_18_469,2245.56,2251.98,pour squash into container
+P01_18_47,150.91,151.84,close drawer
+P01_18_470,2252.08,2254.39,put down spatula
+P01_18_471,2254.49,2256.69,put down colander
+P01_18_472,2258.5,2259.51,take spatula
+P01_18_473,2260.85,2276.87,stir food
+P01_18_474,2264.71,2293.84,continue stirring food
+P01_18_475,2293.14,2315.74,continue stirring food
+P01_18_476,2307.13,2337.66,continue stirring food
+P01_18_477,2337.76,2339.02,take spoon
+P01_18_478,2339.03,2340.63,spoon rice
+P01_18_479,2341.02,2343.24,taste rice
+P01_18_48,152.61,154.27,take squash
+P01_18_480,2343.34,2345.12,put down spoon
+P01_18_481,2348.59,2349.74,take spatula
+P01_18_482,2350.41,2351.61,take ladle
+P01_18_483,2364.9,2376.37,stir food
+P01_18_484,2376.45,2378.3,put down spatula
+P01_18_485,2391.79,2393.52,take saucepan
+P01_18_486,2393.52,2395.24,put down saucepan
+P01_18_487,2395.34,2397.2,put down
+P01_18_488,2398.02,2398.89,take sponge
+P01_18_489,2398.85,2411.05,wash saucepan
+P01_18_49,152.73,170.72,cut squash
+P01_18_490,2410.65,2411.65,put down saucepan
+P01_18_491,2411.75,2412.65,take knife
+P01_18_492,2412.52,2417.45,wash knife
+P01_18_493,2417.05,2417.86,put down knife
+P01_18_494,2417.76,2419.06,take knife
+P01_18_495,2419.2,2423.87,wash knife
+P01_18_496,2423.72,2424.22,put down knife
+P01_18_497,2424.24,2425.49,take cutting board
+P01_18_498,2425.49,2435.01,wash cutting board
+P01_18_499,2435.14,2437.46,turn on tap
+P01_18_5,12.36,13.85,close lid
+P01_18_50,170.82,192.97,remove squash seeds
+P01_18_500,2437.16,2438.67,rinse hands
+P01_18_501,2438.77,2445.51,rinse cutting board
+P01_18_502,2445.61,2453.87,continue rinsing cutting board
+P01_18_503,2456.33,2457.88,put down cutting board
+P01_18_504,2457.87,2461.29,rinse knife
+P01_18_505,2460.83,2461.79,put down knife
+P01_18_506,2461.51,2462.34,take knife
+P01_18_507,2462.03,2465.93,rinse knife
+P01_18_508,2465.87,2467.26,put down knife
+P01_18_509,2467.27,2471.52,empty pan
+P01_18_51,182.95,192.61,continue removing squash seeds
+P01_18_510,2471.62,2472.51,rinse saucepan
+P01_18_511,2472.16,2472.91,take colander
+P01_18_512,2473.01,2478.76,wash colander
+P01_18_513,2478.24,2491.01,rinse colander
+P01_18_514,2491.04,2493.26,put down colander
+P01_18_515,2493.75,2495.42,empty saucepan
+P01_18_516,2496.3,2507.13,rinse saucepan
+P01_18_517,2508.25,2510.22,put down saucepan
+P01_18_518,2510.03,2511.84,take sponge
+P01_18_519,2511.28,2512.09,rinse sponge
+P01_18_52,192.61,193.86,take knife
+P01_18_520,2512.48,2514.23,put down sponge
+P01_18_521,2515.62,2516.42,turn off tap
+P01_18_522,2521.66,2522.58,open bin
+P01_18_523,2522.36,2523.26,throw squash into bin
+P01_18_524,2522.91,2523.42,close bin
+P01_18_525,2525.18,2528.46,dry hands
+P01_18_526,2528.44,2529.31,take spatula
+P01_18_527,2529.57,2542.38,stir food
+P01_18_528,2542.37,2543.46,adjust hob
+P01_18_529,2551.76,2552.83,put down spatula
+P01_18_53,198.69,200.69,put down knife
+P01_18_530,2553.37,2554.11,adjust hob
+P01_18_531,2571.2,2572.2,take glass
+P01_18_532,2572.58,2573.32,put down glass
+P01_18_533,2573.04,2574.07,take bottle
+P01_18_534,2574.24,2575.3,open bottle
+P01_18_535,2575.84,2579.84,pour water into glass
+P01_18_536,2580.94,2581.94,put down bottle
+P01_18_537,2582.25,2587.77,drink water
+P01_18_538,2588.14,2588.75,put down glass
+P01_18_539,2589.5,2590.5,take spatula
+P01_18_54,205.07,205.85,open bin
+P01_18_540,2591.12,2621.06,stir food
+P01_18_541,2622.95,2624.32,put down spatula
+P01_18_542,2624.42,2625.27,take spoon
+P01_18_543,2625.36,2626.86,spoon rice
+P01_18_544,2626.99,2630.49,taste rice
+P01_18_545,2630.59,2635.09,put down spoon
+P01_18_546,2666.19,2667.21,adjust hob
+P01_18_547,2680.29,2681.54,take spatula
+P01_18_548,2681.85,2693.24,stir food
+P01_18_549,2693.53,2695.3,take ladle
+P01_18_55,206.19,218.14,throw seeds into bin
+P01_18_550,2695.07,2699.25,pour stock into pan
+P01_18_551,2695.4,2696.99,spoon stock
+P01_18_552,2699.31,2701.33,spoon stock
+P01_18_553,2701.33,2705.25,pour stock into pan
+P01_18_554,2705.35,2706.5,put down ladle
+P01_18_555,2706.6,2718.49,stir food
+P01_18_556,2718.59,2720.14,put down spatula
+P01_18_557,2719.97,2754.75,wait for risotto
+P01_18_558,2754.85,2773.75,adjust poster
+P01_18_559,2759.6,2769.63,continue adjusting poster
+P01_18_56,218.77,221.7,close bin
+P01_18_560,2771.58,2790.3,still adjusting poster
+P01_18_561,2788.14,2826.14,still adjusting poster
+P01_18_562,2829.69,2831.31,take spatula
+P01_18_563,2833.12,2841.0,stir food
+P01_18_564,2844.27,2852.63,continue stirring food
+P01_18_565,2864.71,2886.74,continue stirring food
+P01_18_566,2887.29,2888.19,put down spatula
+P01_18_567,2888.41,2895.21,wait for risotto
+P01_18_568,2895.82,2896.46,adjust hob
+P01_18_569,2906.25,2907.0,take bowl
+P01_18_57,222.55,224.2,put down cutting board
+P01_18_570,2907.99,2908.86,open cupboard
+P01_18_571,2908.94,2910.2,put bowl into cupboard
+P01_18_572,2909.77,2911.04,close cupboard
+P01_18_573,2916.14,2916.89,take lid
+P01_18_574,2917.04,2918.58,close container
+P01_18_575,2921.99,2924.09,open fridge
+P01_18_576,2924.82,2925.94,move container
+P01_18_577,2925.92,2926.79,put container into fridge
+P01_18_578,2926.85,2928.55,close fridge
+P01_18_579,2933.15,2934.31,take spatula
+P01_18_58,224.03,225.03,take squash
+P01_18_580,2934.59,2943.76,stir food.
+P01_18_581,2937.44,2960.98,continue stirring food.
+P01_18_582,2960.18,2975.42,pat rice.
+P01_18_583,2974.31,2982.17,stir food.
+P01_18_584,2981.45,2992.48,continue stirring food.
+P01_18_585,2989.13,3030.03,still stirring food
+P01_18_586,3029.96,3031.48,take spoon
+P01_18_587,3030.96,3033.04,spoon rice
+P01_18_588,3033.11,3037.89,taste rice
+P01_18_589,3038.63,3040.02,put down spoon
+P01_18_59,225.26,241.26,peel the squash
+P01_18_590,3041.04,3042.68,take ladle
+P01_18_591,3042.75,3044.39,spoon stock
+P01_18_592,3044.7,3047.77,pour stock
+P01_18_593,3048.43,3050.11,spoon stock
+P01_18_594,3050.98,3052.54,pour stock
+P01_18_595,3052.98,3053.61,put down ladle
+P01_18_596,3054.12,3059.3,stir food
+P01_18_597,3060.69,3083.43,continue stirring food
+P01_18_598,3083.94,3085.6,put down spatula
+P01_18_599,3084.2,3115.0,wait for risotto
+P01_18_6,13.62,16.05,take container
+P01_18_60,241.36,260.64,continue peeling squash
+P01_18_600,3104.78,3118.7,continue waiting for risotto
+P01_18_601,3119.11,3120.11,take spatula
+P01_18_602,3119.85,3129.4,stir food
+P01_18_603,3129.67,3155.62,continue stirring food
+P01_18_604,3156.04,3195.85,wait for risotto
+P01_18_605,3195.92,3196.87,take spatula
+P01_18_606,3197.09,3211.1,stir food
+P01_18_607,3211.2,3229.13,continue stirring food
+P01_18_608,3229.62,3230.48,take spoon
+P01_18_609,3230.5,3232.29,spoon rice
+P01_18_61,260.74,278.41,continue peeling squash
+P01_18_610,3233.46,3236.19,taste rice
+P01_18_611,3236.2,3238.2,put down spoon
+P01_18_612,3237.29,3238.61,take spatula
+P01_18_613,3238.81,3249.3,stir food
+P01_18_614,3250.24,3251.46,take pepper
+P01_18_615,3251.69,3255.19,pour pepper
+P01_18_616,3255.29,3256.49,put down pepper
+P01_18_617,3256.4,3267.99,stir food
+P01_18_618,3267.63,3269.13,take ladle
+P01_18_619,3268.04,3270.29,take ladle
+P01_18_62,278.75,293.37,still peeling squash
+P01_18_620,3268.25,3276.0,pour stock
+P01_18_621,3268.6,3271.1,pour stock
+P01_18_622,3269.01,3270.03,spoon stock
+P01_18_623,3270.13,3275.55,pour stock
+P01_18_624,3275.65,3276.61,put down ladle
+P01_18_625,3276.7,3278.74,stir food
+P01_18_626,3278.84,3280.3,continue stirring food
+P01_18_627,3280.33,3284.1,continue stirring food
+P01_18_628,3339.26,3340.5,put down spatula
+P01_18_629,3340.75,3375.04,wait for risotto
+P01_18_63,293.47,317.61,still peeling squash
+P01_18_630,3375.05,3376.05,take spatula
+P01_18_631,3375.94,3402.51,stir food
+P01_18_632,3384.71,3408.17,continue stirring food
+P01_18_633,3408.77,3409.77,take spoon
+P01_18_634,3409.87,3411.87,spoon rice
+P01_18_635,3411.97,3415.72,taste rice
+P01_18_636,3415.76,3417.4,put down spoon
+P01_18_637,3417.27,3418.02,take spatula
+P01_18_638,3417.93,3432.38,stir food
+P01_18_639,3426.8,3448.17,continue stirring food
+P01_18_64,307.17,350.42,still peeling squash
+P01_18_640,3428.26,3484.58,continue stirring food
+P01_18_641,3483.6,3485.29,turn off hob
+P01_18_642,3485.38,3502.51,stir food
+P01_18_643,3502.61,3507.79,continue stirring food
+P01_18_644,3508.96,3510.03,take spoon
+P01_18_645,3509.68,3512.39,spoon rice
+P01_18_646,3512.49,3515.4,taste rice
+P01_18_647,3515.5,3516.76,put down spoon
+P01_18_648,3519.07,3533.49,stir food
+P01_18_649,3532.67,3533.59,take ladle
+P01_18_65,350.95,353.08,put down knife
+P01_18_650,3533.85,3534.44,spoon stock
+P01_18_651,3534.79,3537.14,pour stock
+P01_18_652,3537.46,3538.14,put down ladle
+P01_18_653,3538.59,3551.52,stir food
+P01_18_654,3552.87,3568.05,continue stirring food
+P01_18_655,3568.4,3580.14,wait for risotto
+P01_18_656,3580.29,3582.69,take plate
+P01_18_657,3583.14,3584.89,put down plate
+P01_18_658,3586.24,3588.79,take saucepan
+P01_18_659,3588.42,3590.81,put down saucepan
+P01_18_66,353.04,353.93,take knife
+P01_18_660,3594.15,3599.36,stir food
+P01_18_661,3599.53,3601.47,spoon risotto
+P01_18_662,3601.77,3604.66,pour risotto onto plate
+P01_18_663,3605.79,3607.12,spoon risotto
+P01_18_664,3607.64,3610.56,pour risotto onto plate
+P01_18_665,3611.28,3612.56,spoon risotto
+P01_18_666,3613.09,3615.71,pour risotto onto plate
+P01_18_667,3616.47,3618.14,put down plate
+P01_18_668,3618.04,3619.55,take container
+P01_18_669,3618.89,3621.44,spoon risotto
+P01_18_67,354.03,357.6,cut squash
+P01_18_670,3621.54,3623.84,pour risotto into container
+P01_18_671,3623.94,3626.47,spoon risotto
+P01_18_672,3626.0,3628.25,pour risotto into container
+P01_18_673,3629.11,3633.03,spoon risotto
+P01_18_674,3633.13,3635.85,pour risotto into container
+P01_18_675,3639.83,3649.45,pour risotto into container
+P01_18_676,3651.41,3653.39,put down spatula
+P01_18_677,3653.72,3654.79,put down saucepan
+P01_18_678,3658.2,3659.63,put down saucepan
+P01_18_679,3664.31,3665.19,turn off tap
+P01_18_68,359.96,362.27,cut squash
+P01_18_680,3666.42,3667.08,take spoon
+P01_18_681,3668.69,3677.64,scoop rice
+P01_18_682,3677.47,3679.76,put down spoon
+P01_18_683,3681.69,3682.45,turn on tap
+P01_18_684,3682.31,3684.97,rinse spatula
+P01_18_685,3684.21,3685.32,put down spatula
+P01_18_686,3685.24,3685.98,turn off tap
+P01_18_687,3688.43,3689.68,take plate
+P01_18_688,3689.54,3691.79,put down plate
+P01_18_69,362.58,363.21,put down squash
+P01_18_7,15.24,16.07,take container
+P01_18_70,363.07,363.82,put down knife
+P01_18_71,363.62,364.18,take knife
+P01_18_72,365.44,374.86,move squash skin
+P01_18_73,374.91,375.81,open bin
+P01_18_74,375.78,376.53,throw squash skin into bin
+P01_18_75,376.61,377.13,close bin
+P01_18_76,378.48,379.73,put down cutting board
+P01_18_77,380.46,381.88,take kettle
+P01_18_78,382.15,383.49,open kettle
+P01_18_79,384.32,385.57,turn on tap
+P01_18_8,17.87,20.18,put down mushrooms and container
+P01_18_80,385.67,392.76,pour water into kettle
+P01_18_81,392.86,394.11,turn off tap
+P01_18_82,394.16,394.97,close kettle
+P01_18_83,396.02,397.56,put down kettle
+P01_18_84,397.66,398.16,turn on kettle
+P01_18_85,400.32,401.65,take squash
+P01_18_86,401.7,402.95,take knife
+P01_18_87,402.77,412.43,slice squash
+P01_18_88,414.37,444.23,continue slicing squash
+P01_18_89,444.6,445.51,put down knife
+P01_18_9,19.93,20.57,put down container
+P01_18_90,445.59,446.5,open cupboard
+P01_18_91,446.65,447.65,open cupboard
+P01_18_92,449.58,450.88,take saucepan
+P01_18_93,451.14,452.68,put down saucepan
+P01_18_94,453.46,454.72,put down lid
+P01_18_95,453.65,454.99,close cupboard
+P01_18_96,454.91,455.82,open cupboard
+P01_18_97,455.92,457.72,put lid into cupboard
+P01_18_98,458.08,459.87,close cupboard
+P01_18_99,464.62,465.8,take knife

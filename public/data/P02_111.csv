@@ -1,0 +1,17 @@
+P02_111_0,3.83,4.64,set off timer
+P02_111_1,4.81,5.68,pick up lid
+P02_111_10,41.3,42.79,move pan
+P02_111_11,42.56,44.17,put down wooden spoon
+P02_111_12,44.19,45.76,pick up paper
+P02_111_13,45.6,47.6,move glass
+P02_111_14,47.62,50.01,open bin
+P02_111_15,50.21,51.04,throw paper
+P02_111_16,50.64,51.38,close bin
+P02_111_2,5.78,6.6,put down lid
+P02_111_3,7.29,8.04,pick up wooden spoon
+P02_111_4,7.52,8.69,hold pan
+P02_111_5,8.78,15.48,stir meat in pan
+P02_111_6,15.84,16.59,adjust heat
+P02_111_7,20.0,27.88,stir meat in pan
+P02_111_8,27.88,28.99,turn off heat
+P02_111_9,29.22,40.51,stir meat in pan

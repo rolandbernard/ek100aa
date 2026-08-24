@@ -1,0 +1,52 @@
+P02_107_0,3.55,5.1,pick up mug
+P02_107_1,5.81,7.24,put down mug
+P02_107_10,26.34,27.48,close fridge
+P02_107_11,27.13,30.83,open milk bottle
+P02_107_12,29.8,32.91,pour milk into mug
+P02_107_13,33.09,34.79,close milk bottle
+P02_107_14,34.74,36.1,turn on coffee machine
+P02_107_15,37.64,38.74,turn off coffee machine
+P02_107_16,39.1,39.84,put down milk bottle
+P02_107_17,39.91,41.14,pick up coffee pod
+P02_107_18,41.29,41.92,open coffee machine
+P02_107_19,42.19,42.59,put coffee pod into machine
+P02_107_2,7.42,8.13,turn on coffee machine
+P02_107_20,43.85,45.31,move mug
+P02_107_21,45.33,46.51,open coffee machine drawer
+P02_107_22,45.0,48.9,remove container of pods
+P02_107_23,49.71,50.6,open bin
+P02_107_24,50.62,51.73,empty pods into bin
+P02_107_25,51.64,52.31,close bin
+P02_107_26,52.47,54.36,return compartment into drawer of coffee machine
+P02_107_27,54.21,55.17,slide back drawer
+P02_107_28,55.07,56.7,close coffee machine
+P02_107_29,56.42,58.01,put back mug
+P02_107_3,6.66,11.42,pick up water filter
+P02_107_30,58.09,58.92,turn on coffee machine
+P02_107_31,62.45,66.56,pick up milk bottle
+P02_107_32,65.09,66.03,open fridge
+P02_107_33,66.29,67.01,put back milk bottle
+P02_107_34,67.11,68.02,close fridge
+P02_107_35,69.8,72.09,pick up stirrer
+P02_107_36,72.37,78.04,stir coffee
+P02_107_37,89.68,90.6,pick up water filter
+P02_107_38,92.5,94.36,open tap
+P02_107_39,94.02,96.23,fill water filter
+P02_107_4,12.89,13.43,open coffee machine
+P02_107_40,96.28,96.67,close tap
+P02_107_41,98.29,100.66,put down water filter
+P02_107_42,103.46,104.34,turn off coffee machine
+P02_107_43,104.23,105.86,turn on coffee machine
+P02_107_44,112.81,113.81,turn off coffee machine
+P02_107_45,114.11,114.91,stir coffee
+P02_107_46,115.01,115.57,pick up mug
+P02_107_47,115.65,117.6,stir coffee
+P02_107_48,117.57,118.18,shake stirrer
+P02_107_49,118.28,119.05,open bin
+P02_107_5,13.43,17.71,pour water from filter into coffee machine
+P02_107_50,119.08,119.52,throw stirrer
+P02_107_51,119.32,120.09,close bin
+P02_107_6,17.81,18.89,close coffee machine lid
+P02_107_7,18.93,20.43,put down water filter
+P02_107_8,24.59,26.05,open fridge
+P02_107_9,25.28,26.53,pick up milk

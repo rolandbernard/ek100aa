@@ -1,0 +1,17 @@
+P09_07_0,1.09,1.94,take mixer
+P09_07_1,2.5,4.17,open mixer
+P09_07_10,32.59,34.2,open supplement
+P09_07_11,34.54,39.43,put supplement in mixer
+P09_07_12,39.72,42.29,close supplement
+P09_07_13,43.96,45.18,open drawer
+P09_07_14,45.49,46.66,put mixer in drawer
+P09_07_15,46.67,47.59,close drawer
+P09_07_16,48.34,51.19,close mixer
+P09_07_2,5.14,6.3,open drawer
+P09_07_3,6.95,8.14,take supplement
+P09_07_4,9.62,11.15,take supplement
+P09_07_5,12.27,14.79,open supplement
+P09_07_6,15.26,25.1,put supplement in mixer
+P09_07_7,15.61,25.55,put supplement in mixer
+P09_07_8,25.39,27.39,close supplement
+P09_07_9,29.71,31.62,close drawer

@@ -1,0 +1,354 @@
+P01_14_0,2.54,4.58,take bin
+P01_14_1,5.18,6.56,put down bin
+P01_14_10,47.04,48.65,close bin
+P01_14_100,322.66,324.19,take kettle
+P01_14_101,324.8,325.78,open kettle
+P01_14_102,326.02,328.34,turn on tap
+P01_14_103,328.44,338.94,pour water into kettle
+P01_14_104,334.43,338.89,turn off tap
+P01_14_105,338.97,339.81,close kettle
+P01_14_106,339.28,342.76,put down kettle
+P01_14_107,343.02,343.88,turn on kettle
+P01_14_108,345.73,347.02,open cupboard
+P01_14_109,347.72,352.92,take colander
+P01_14_11,48.74,49.99,move bin
+P01_14_110,352.02,354.08,put down colander
+P01_14_111,353.93,357.17,put lid into cupboard
+P01_14_112,357.13,358.98,close cupboard
+P01_14_113,359.08,360.63,put down pan
+P01_14_114,363.53,371.4,pour aubergine into pan
+P01_14_115,372.68,373.63,put down cutting board
+P01_14_116,375.2,376.38,put down knife
+P01_14_117,377.38,378.02,open drawer
+P01_14_118,380.09,381.47,take spatula
+P01_14_119,381.27,382.3,close drawer
+P01_14_12,51.08,56.0,lift bin
+P01_14_120,383.18,387.07,stir aubergine
+P01_14_121,387.21,388.02,put down aubergine
+P01_14_122,388.0,389.08,take salt
+P01_14_123,388.0,393.01,pour salt
+P01_14_124,388.99,390.78,open salt
+P01_14_125,392.86,393.57,close salt
+P01_14_126,393.63,394.55,put down salt
+P01_14_127,394.9,405.71,stir aubergine
+P01_14_128,405.35,406.74,put down spatula
+P01_14_129,407.45,408.45,take container
+P01_14_13,51.71,55.98,take bins
+P01_14_130,408.55,409.8,open container
+P01_14_131,410.15,411.9,take onion
+P01_14_132,412.15,412.87,put down onion
+P01_14_133,412.51,415.44,cut onion
+P01_14_134,412.52,413.4,take knife
+P01_14_135,415.54,417.18,put onion into container
+P01_14_136,417.46,419.71,close container
+P01_14_137,421.7,428.44,cut onion
+P01_14_138,428.16,429.66,open container
+P01_14_139,429.66,430.73,put onion into container
+P01_14_14,54.19,63.05,move bins
+P01_14_140,430.61,433.18,close container
+P01_14_141,432.85,445.26,slice onion
+P01_14_142,442.16,455.58,continue slicing onion
+P01_14_143,456.89,468.8,chop onion
+P01_14_144,458.37,473.77,continue chopping onion
+P01_14_145,473.73,474.93,put down knife
+P01_14_146,474.98,477.34,take onion bits
+P01_14_147,477.15,479.12,take spatula
+P01_14_148,478.99,484.98,stir
+P01_14_149,489.89,490.94,put down spatula
+P01_14_15,55.96,57.61,put down bins
+P01_14_150,492.35,493.36,take container
+P01_14_151,497.05,498.28,open fridge
+P01_14_152,498.39,499.66,put container into fridge
+P01_14_153,499.3,500.78,close fridge
+P01_14_154,502.24,503.44,take bottle
+P01_14_155,504.51,508.91,open bottle
+P01_14_156,509.79,511.84,open drawer
+P01_14_157,514.9,519.65,take corkscrew
+P01_14_158,520.44,541.0,open bottle
+P01_14_159,542.09,549.17,take cork
+P01_14_16,63.15,64.73,take soy milk
+P01_14_160,550.72,551.9,open drawer
+P01_14_161,551.36,551.86,put down bottle opener
+P01_14_162,551.92,552.82,close drawer
+P01_14_163,554.57,555.6,take bottle
+P01_14_164,556.18,557.14,put down bottle
+P01_14_165,557.16,558.11,take cork
+P01_14_166,559.2,560.6,open bin
+P01_14_167,562.62,563.29,take spatula
+P01_14_168,563.63,568.45,stir aubergine
+P01_14_169,568.13,569.51,adjust hob
+P01_14_17,64.89,68.64,crush soy milk
+P01_14_170,569.61,594.03,stir aubergine
+P01_14_171,593.48,595.08,put down spatula
+P01_14_172,596.45,597.71,take kettle
+P01_14_173,600.35,615.25,pour water into saucepan
+P01_14_174,617.88,618.8,put down kettle
+P01_14_175,621.12,622.09,take spatula
+P01_14_176,621.87,633.79,stir aubergine
+P01_14_177,633.97,636.48,take cutting board
+P01_14_178,636.08,638.98,pour onion into pan
+P01_14_179,640.08,641.58,put down cutting board
+P01_14_18,71.56,72.71,put soy milk into bin
+P01_14_180,642.42,643.72,adjust hob
+P01_14_181,644.18,649.12,stir food
+P01_14_182,648.24,671.72,continue stirring food
+P01_14_183,670.32,671.34,put down spatula
+P01_14_184,672.24,673.31,take salt
+P01_14_185,673.59,674.91,open salt
+P01_14_186,674.69,676.01,open drawer
+P01_14_187,676.49,677.49,take spoon
+P01_14_188,677.59,678.37,close drawer
+P01_14_189,679.13,681.95,pour salt
+P01_14_19,75.33,76.85,take can and paper
+P01_14_190,682.05,683.8,stir salt
+P01_14_191,683.53,684.91,close salt
+P01_14_192,684.67,685.66,put down spoon
+P01_14_193,685.76,686.82,put down salt
+P01_14_194,687.13,688.28,take spatula
+P01_14_195,688.35,700.85,stir food
+P01_14_196,701.13,701.64,put down spatula
+P01_14_197,701.89,702.99,open drawer
+P01_14_198,706.38,708.26,move bottle
+P01_14_199,708.35,709.42,move glass
+P01_14_2,8.53,9.28,take bag
+P01_14_20,77.57,80.01,crush can
+P01_14_200,709.52,712.26,put down table cloth
+P01_14_201,715.55,716.87,move plates
+P01_14_202,716.97,718.62,move container
+P01_14_203,718.47,719.85,put down table cloth
+P01_14_204,721.36,723.47,put down container
+P01_14_205,723.69,724.85,open cupboard
+P01_14_206,725.05,727.34,take plates
+P01_14_207,727.26,728.03,close cupboard
+P01_14_208,728.6,729.95,put down plates
+P01_14_209,730.84,733.05,put down plates
+P01_14_21,79.75,80.66,put can into bin
+P01_14_210,734.4,735.55,open drawer
+P01_14_211,735.75,744.25,take cutlery
+P01_14_212,744.6,745.35,close drawer
+P01_14_213,746.92,756.88,put down cutlery
+P01_14_214,749.5,751.25,move chair
+P01_14_215,751.35,752.6,move chair
+P01_14_216,754.83,757.07,put down cutlery
+P01_14_217,758.3,759.74,take spatula
+P01_14_218,759.4,766.15,stir food
+P01_14_219,766.25,768.25,adjust hob
+P01_14_22,80.72,84.48,tear paper
+P01_14_220,768.1,768.85,put down spatula
+P01_14_221,768.95,770.36,take tomato sauce
+P01_14_222,770.05,771.55,open sauce
+P01_14_223,772.04,789.57,pour sauce
+P01_14_224,777.18,789.68,continue pouring sauce
+P01_14_225,789.88,790.73,put down sauce
+P01_14_226,791.24,815.19,stir food
+P01_14_227,800.18,825.78,continue stirring food
+P01_14_228,825.97,826.75,put down spatula
+P01_14_229,826.69,829.91,take pasta
+P01_14_23,83.92,84.78,put paper into bin
+P01_14_230,829.62,830.66,open drawer
+P01_14_231,830.59,831.57,take scissor
+P01_14_232,831.63,834.13,cut pasta bag
+P01_14_233,834.23,835.48,put scissor into drawer
+P01_14_234,836.09,837.2,close drawer
+P01_14_235,836.57,841.04,take pasta out of the bag
+P01_14_236,841.14,843.93,pour pasta
+P01_14_237,849.28,853.28,pour pasta
+P01_14_238,859.16,861.41,throw plastic bag into bin
+P01_14_239,862.48,867.47,open drawer
+P01_14_24,88.95,90.8,take cup and spoon
+P01_14_240,869.7,870.45,close drawer
+P01_14_241,870.55,882.72,stir pasta
+P01_14_242,883.56,884.88,put down spatula
+P01_14_243,884.64,886.28,take spatula
+P01_14_244,885.55,894.21,stir food
+P01_14_245,894.12,896.09,take lid
+P01_14_246,894.31,895.06,put down spatula
+P01_14_247,895.49,896.13,take bottle
+P01_14_248,896.56,898.16,put down bottle
+P01_14_249,898.25,903.65,move things
+P01_14_25,91.09,92.31,open cupboard
+P01_14_250,903.75,905.12,take bottle
+P01_14_251,905.22,907.4,move container
+P01_14_252,907.85,908.55,turn on tap
+P01_14_253,908.02,914.16,rinse bottle
+P01_14_254,910.03,913.61,rinse sauce
+P01_14_255,913.92,914.7,turn off tap
+P01_14_256,916.22,917.35,take lid
+P01_14_257,919.33,922.09,put lid and bottle into bins
+P01_14_258,925.22,926.98,dry hands
+P01_14_259,927.08,928.94,take containers
+P01_14_26,91.87,93.01,put cup into cupboard
+P01_14_260,930.27,931.46,take spatula
+P01_14_261,931.21,938.08,stir food
+P01_14_262,938.25,939.04,put down spatula
+P01_14_263,940.52,942.06,open cupboard
+P01_14_264,943.56,946.54,take glass
+P01_14_265,946.64,949.2,take glass
+P01_14_266,950.65,952.36,take glass
+P01_14_267,952.44,953.49,put down glass
+P01_14_268,953.49,954.87,close cupboard
+P01_14_269,956.84,957.78,put down glass
+P01_14_27,92.63,93.58,close cupboard
+P01_14_270,959.31,960.29,take glasses
+P01_14_271,962.53,963.54,put down glasses
+P01_14_272,964.38,965.34,take wine bottle
+P01_14_273,966.62,974.7,pour wine into glass
+P01_14_274,975.9,982.2,pour wine into glass
+P01_14_275,983.23,984.78,put down bottle
+P01_14_276,985.43,988.18,move glasses
+P01_14_277,988.52,990.56,move glass
+P01_14_278,992.67,993.9,take spatula
+P01_14_279,994.0,1009.06,stir food
+P01_14_28,95.59,96.59,open drawer
+P01_14_280,1008.62,1009.46,put down spatula
+P01_14_281,1009.06,1009.99,take spatula
+P01_14_282,1011.13,1023.98,stir pasta
+P01_14_283,1020.34,1026.5,taste pasta
+P01_14_284,1029.41,1032.08,put down spatula
+P01_14_285,1032.01,1033.72,take spatula
+P01_14_286,1033.78,1038.56,stir food
+P01_14_287,1038.9,1039.76,check time
+P01_14_288,1039.93,1046.24,stir food
+P01_14_289,1045.85,1046.81,put down spatula
+P01_14_29,96.46,97.01,put spoon into drawer
+P01_14_290,1047.7,1049.58,turn off hob
+P01_14_291,1053.34,1054.52,lift saucepan
+P01_14_292,1054.62,1057.48,put down saucepan
+P01_14_293,1059.15,1060.29,put colander into sink
+P01_14_294,1059.16,1059.96,take colander
+P01_14_295,1062.78,1064.28,take saucepan
+P01_14_296,1066.95,1070.8,drain pasta
+P01_14_297,1078.85,1091.75,continue draining pasta
+P01_14_298,1087.4,1098.4,continue draining pasta
+P01_14_299,1100.5,1103.75,pour pasta into pan
+P01_14_3,9.24,11.53,unroll bag
+P01_14_30,97.11,98.04,close drawer
+P01_14_300,1104.41,1105.7,put colander into sink
+P01_14_301,1106.49,1107.99,take mozzarella
+P01_14_302,1108.09,1109.47,open mozzarella bag
+P01_14_303,1113.82,1115.79,sprinkle mozzarella
+P01_14_304,1115.01,1115.77,take spatula
+P01_14_305,1115.87,1116.74,take spatula
+P01_14_306,1116.84,1144.92,stir pasta
+P01_14_307,1130.42,1148.22,continue stirring pasta
+P01_14_308,1149.39,1153.35,sprinkle mozzarella
+P01_14_309,1152.99,1153.93,take spatula
+P01_14_31,100.41,102.34,open fridge
+P01_14_310,1153.81,1170.38,stir pasta
+P01_14_311,1167.01,1183.0,continue stirring pasta
+P01_14_312,1183.59,1188.72,sprinkle mozzarella
+P01_14_313,1188.77,1212.3,stir pasta
+P01_14_314,1197.75,1211.91,continue stirring pasta
+P01_14_315,1212.1,1212.85,put down spatula
+P01_14_316,1213.94,1214.94,take plate
+P01_14_317,1215.53,1216.34,put down spatula
+P01_14_318,1216.78,1218.59,put down plate
+P01_14_319,1218.01,1219.25,put down spoon
+P01_14_32,102.69,104.67,take plate
+P01_14_320,1219.09,1222.09,take spatula
+P01_14_321,1225.52,1232.1,pour pasta onto plate
+P01_14_322,1241.47,1242.83,take plate
+P01_14_323,1243.09,1246.13,put down plate
+P01_14_324,1243.39,1246.38,move plate
+P01_14_325,1251.84,1255.71,pour pasta onto plate
+P01_14_326,1260.63,1269.98,pour pasta onto plate
+P01_14_327,1267.74,1274.32,pour pasta onto place
+P01_14_328,1274.76,1277.65,put down saucepan
+P01_14_329,1286.72,1288.11,put down spatulas
+P01_14_33,105.1,106.68,put down plate
+P01_14_330,1287.34,1290.2,take pan and spatulas
+P01_14_331,1290.69,1292.69,put down pan and spatulas
+P01_14_332,1293.18,1298.21,take pasta
+P01_14_333,1300.99,1302.74,open bin
+P01_14_334,1301.21,1302.7,throw pasta into bin
+P01_14_335,1302.25,1302.96,close bin
+P01_14_336,1305.84,1307.06,turn on tap
+P01_14_337,1306.93,1309.94,wash hands
+P01_14_338,1310.04,1315.12,rinse spatula
+P01_14_339,1315.33,1315.95,close tap
+P01_14_34,110.25,111.5,take mushrooms
+P01_14_340,1317.0,1319.41,dry hands
+P01_14_341,1319.49,1320.36,hang cloth
+P01_14_342,1320.82,1322.91,close mozzarella bag
+P01_14_343,1323.01,1332.64,fold mozzarella bag
+P01_14_344,1326.72,1329.05,open drawer
+P01_14_345,1328.32,1332.24,take clip
+P01_14_346,1332.34,1333.27,put clip on bag
+P01_14_347,1334.54,1335.86,close drawer
+P01_14_348,1337.31,1338.8,open fridge
+P01_14_349,1339.34,1340.25,put mozzarella into fridge
+P01_14_35,111.19,111.83,put down mushrooms
+P01_14_350,1340.35,1341.62,close fridge
+P01_14_351,1343.52,1345.38,take plates
+P01_14_352,1346.72,1347.69,put down plates
+P01_14_353,1348.58,1350.86,put down plates
+P01_14_36,115.19,116.44,open drawer
+P01_14_37,116.18,118.82,looking for something
+P01_14_38,118.53,119.43,close drawer
+P01_14_39,120.76,122.09,take container
+P01_14_4,19.39,27.22,open bag
+P01_14_40,122.69,124.19,take mushrooms
+P01_14_41,124.86,126.05,put down mushrooms and container
+P01_14_42,126.39,127.47,take bowl
+P01_14_43,130.84,132.72,put down bowl
+P01_14_44,133.69,135.18,take container
+P01_14_45,135.79,136.38,open container
+P01_14_46,136.48,136.98,close container
+P01_14_47,139.49,142.24,put down pasta
+P01_14_48,142.13,142.76,pull down container
+P01_14_49,146.62,148.23,take mushroom
+P01_14_5,23.02,33.24,continue opening bag
+P01_14_50,148.41,149.13,put down mushroom
+P01_14_51,149.58,150.08,open container
+P01_14_52,151.32,153.03,put container into fridge
+P01_14_53,153.04,155.11,take aubergine and celery
+P01_14_54,155.95,157.88,put down celery
+P01_14_55,160.27,162.31,take mozzarella
+P01_14_56,162.37,163.62,move mushrooms
+P01_14_57,163.25,166.11,take pasta
+P01_14_58,165.98,166.48,put down pasta
+P01_14_59,168.5,173.27,looking for something
+P01_14_6,35.89,37.77,open bin
+P01_14_60,174.64,177.26,take container
+P01_14_61,176.22,177.47,put down mozzarella
+P01_14_62,177.21,178.62,put down aubergine
+P01_14_63,178.56,180.2,open container
+P01_14_64,179.86,180.64,close container
+P01_14_65,180.67,181.5,take mozzarella
+P01_14_66,181.6,183.72,take tomato sauce
+P01_14_67,183.82,186.96,close fridge
+P01_14_68,188.62,193.25,put down tomato sauce mozzarella and container
+P01_14_69,193.4,195.11,open cupboard
+P01_14_7,37.91,39.48,take banana skin
+P01_14_70,195.54,197.54,take cutting board
+P01_14_71,197.5,198.39,put down cutting board
+P01_14_72,198.74,201.24,take pan
+P01_14_73,201.68,203.61,put down pan
+P01_14_74,201.84,204.84,close cupboard
+P01_14_75,203.64,205.03,close cupboard
+P01_14_76,205.77,207.01,open container
+P01_14_77,207.47,208.15,take aubergine
+P01_14_78,207.75,208.38,put down aubergine
+P01_14_79,209.05,210.53,put down container
+P01_14_8,39.58,40.95,put banana skin into bag
+P01_14_80,211.43,213.61,move cutting board
+P01_14_81,214.96,216.51,take olive oil
+P01_14_82,216.11,218.13,open oil
+P01_14_83,218.05,224.33,pour oil into pan
+P01_14_84,224.62,225.94,close oil
+P01_14_85,226.39,227.89,put down oil
+P01_14_86,228.22,229.08,turn on hob
+P01_14_87,231.53,232.41,open drawer
+P01_14_88,233.02,234.11,take knife
+P01_14_89,234.04,234.93,close drawer
+P01_14_9,41.05,46.94,put bag in to bin
+P01_14_90,236.98,241.74,cut aubergine
+P01_14_91,242.78,252.36,continue cutting aubergine
+P01_14_92,254.5,263.67,dicing aubergine
+P01_14_93,270.49,279.92,continue dicing aubergine
+P01_14_94,286.98,295.35,continue dicing aubergine
+P01_14_95,297.28,306.26,still dicing aubergine
+P01_14_96,309.15,310.03,put down knife
+P01_14_97,316.29,317.09,open bin
+P01_14_98,316.85,317.35,throw aubergine end into bin
+P01_14_99,319.29,320.54,check oil

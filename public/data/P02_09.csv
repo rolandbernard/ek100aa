@@ -1,0 +1,573 @@
+P02_09_0,3.23,4.21,open cupboard
+P02_09_1,4.09,8.18,get plastic bowl
+P02_09_10,28.69,32.87,get oil
+P02_09_100,256.77,260.32,hold kettle
+P02_09_101,260.1,262.26,pick up kettle
+P02_09_102,262.75,267.18,pour hot water in glass from kettle
+P02_09_103,267.42,269.7,put kettle down
+P02_09_104,269.44,274.94,pick up glass
+P02_09_105,274.54,277.28,pour water into bowl
+P02_09_106,278.89,280.14,put glass down
+P02_09_107,280.42,284.27,mix bowl
+P02_09_108,284.63,290.04,mix mixture into bowl
+P02_09_109,293.08,298.2,mix mixture in bowl using spoon
+P02_09_11,31.79,33.0,put salt
+P02_09_110,294.44,301.85,still mixing mixture
+P02_09_111,302.58,307.16,still mixing mixture
+P02_09_112,307.66,312.24,remove remainder of mixture from spoon
+P02_09_113,312.18,330.99,mix mixture using hand
+P02_09_114,317.74,331.41,mixing mixture using hand
+P02_09_115,331.51,335.37,open flour
+P02_09_116,335.45,338.9,get extra flour using hand
+P02_09_117,339.87,373.97,mix mixture using hand
+P02_09_118,360.75,375.03,still mixing mixture using hand in bowl
+P02_09_119,375.13,383.22,still mixing dough
+P02_09_12,31.79,32.31,put olive oil
+P02_09_120,383.7,386.27,pick up flour with left hand
+P02_09_121,386.66,389.95,add flour to mix
+P02_09_122,390.7,400.98,and continue mixing
+P02_09_123,398.45,429.61,mix mixture using hand in bowl
+P02_09_124,428.68,430.05,pick up olive oil
+P02_09_125,430.15,431.36,add olive to bowl
+P02_09_126,433.65,440.69,pick up mixture
+P02_09_127,440.76,444.24,form mixture into bowl
+P02_09_128,443.25,444.2,add olive oil
+P02_09_129,444.54,456.56,form mixture using two hands into bowl
+P02_09_13,34.47,35.12,pick olive oil
+P02_09_130,457.43,466.64,pick up mixture
+P02_09_131,467.29,469.47,spread olive oil
+P02_09_132,469.51,470.53,add olive oil to surface
+P02_09_133,470.22,490.32,form bowl from mixture
+P02_09_134,473.02,474.29,spread olive oil
+P02_09_135,490.42,496.21,put mixture back into bowl
+P02_09_136,496.51,498.11,pick up olive oil
+P02_09_137,497.88,499.28,pour olive oil into hand
+P02_09_138,499.38,507.17,spread olive oil on top of mixture
+P02_09_139,508.24,512.19,clear hand
+P02_09_14,37.63,43.09,search for another olive oil
+P02_09_140,513.64,515.48,pick up mixture from bowl
+P02_09_141,524.71,526.41,put down mixture into bowl
+P02_09_142,528.32,534.98,clear hand
+P02_09_143,537.56,548.62,still clearing hand
+P02_09_144,552.63,555.38,open tap
+P02_09_145,555.23,557.96,wash hands
+P02_09_146,557.5,571.61,still washing hands
+P02_09_147,571.92,572.75,pick up washing liquid
+P02_09_148,573.02,574.37,pour washing liquid into hand
+P02_09_149,575.05,585.8,washing hands
+P02_09_15,43.59,57.23,open olive oil
+P02_09_150,584.64,585.72,close tap
+P02_09_151,587.46,590.46,pick up towel
+P02_09_152,590.81,594.31,dry hands
+P02_09_153,597.41,598.91,open drawer
+P02_09_154,599.16,600.63,get towel
+P02_09_155,600.4,602.24,search towel
+P02_09_156,602.09,603.14,get towel
+P02_09_157,603.24,604.57,close drawer
+P02_09_158,606.9,612.38,cover bowl using towel
+P02_09_159,615.91,621.34,cover bowl using towel
+P02_09_16,47.27,55.18,remove cover from olive oil bottle
+P02_09_160,616.47,617.41,move yeast can
+P02_09_161,617.77,621.27,cover bowl using towel
+P02_09_162,621.14,622.61,pick up bowl
+P02_09_163,629.07,630.46,open oven
+P02_09_164,631.23,633.0,pull drawer
+P02_09_165,632.76,634.55,return drawer
+P02_09_166,634.65,639.88,put bowl into oven
+P02_09_167,639.98,641.98,push drawer
+P02_09_168,642.08,643.22,close oven
+P02_09_169,645.04,654.81,set timer
+P02_09_17,57.78,59.23,open trash can
+P02_09_170,658.94,659.7,open fridge
+P02_09_171,660.06,661.45,get meat
+P02_09_172,665.13,665.76,put down meat
+P02_09_173,667.79,669.46,put pan
+P02_09_174,668.06,668.7,pick up pan
+P02_09_175,670.72,672.28,pick up chopping board
+P02_09_176,673.48,674.27,pick up knife
+P02_09_177,676.57,679.46,put chopping board and knife
+P02_09_178,680.22,681.69,pick up two spoons
+P02_09_179,682.59,684.17,close olive oil bottle
+P02_09_18,59.23,60.1,throw cover
+P02_09_180,684.2,686.02,move olive oil bottle
+P02_09_181,686.47,687.63,pick up two glasses
+P02_09_182,689.69,691.96,put glasses and spoon next to sink
+P02_09_183,693.9,698.61,pick up flour
+P02_09_184,694.28,698.16,close flour
+P02_09_185,698.57,699.91,pick up salt
+P02_09_186,700.85,702.8,put salt
+P02_09_187,702.87,703.93,open cupboard
+P02_09_188,704.03,706.29,put flour
+P02_09_189,706.31,707.14,close cupboard
+P02_09_19,59.95,60.58,close trash can
+P02_09_190,709.11,710.15,pick up can yeast
+P02_09_191,710.25,711.45,close can yeast
+P02_09_192,711.52,712.52,pick up sugar jar
+P02_09_193,712.7,713.25,put sugar jar
+P02_09_194,714.62,715.24,open cupboard
+P02_09_195,715.37,716.62,put can yeast
+P02_09_196,716.47,717.22,close cupboards
+P02_09_197,718.18,719.32,pick up sponge
+P02_09_198,720.17,722.92,open tap
+P02_09_199,726.98,733.52,clean surface
+P02_09_2,8.39,9.38,close cupboard
+P02_09_20,66.0,66.91,open drawer
+P02_09_200,737.69,739.19,open trash bin
+P02_09_201,740.47,742.29,open tap
+P02_09_202,742.32,744.1,pour liquid into hand
+P02_09_203,744.47,751.92,wash hands
+P02_09_204,750.46,751.71,close tap
+P02_09_205,753.35,754.2,pick up towel
+P02_09_206,754.22,757.21,dry hands
+P02_09_207,759.44,760.48,pick up chopping board
+P02_09_208,760.58,761.79,put chopping board
+P02_09_209,763.75,765.86,pick up onion
+P02_09_21,67.15,68.77,get two spoons
+P02_09_210,767.92,768.66,put onion on chopping board
+P02_09_211,768.71,770.63,chop end of onion
+P02_09_212,771.15,773.78,chop end of onion
+P02_09_213,775.38,795.49,peel onion
+P02_09_214,788.99,796.25,still peeling onion
+P02_09_215,792.22,801.82,peeling onion
+P02_09_216,801.92,803.74,put onion
+P02_09_217,803.84,805.36,pick up chopping board
+P02_09_218,806.53,807.28,open trash
+P02_09_219,807.34,809.67,throw peels
+P02_09_22,68.75,70.62,get three spoons
+P02_09_220,809.57,810.69,close trash bin
+P02_09_221,810.52,812.51,put chopping board
+P02_09_222,812.22,813.31,put onion on chopping board
+P02_09_223,813.41,832.94,slice onion using knife
+P02_09_224,814.76,824.18,still slicing onion
+P02_09_225,828.24,851.25,still slicing onion
+P02_09_226,855.54,875.21,chopping onion
+P02_09_227,877.0,894.53,chop onion
+P02_09_228,903.48,924.48,still chopping onion
+P02_09_229,926.08,981.58,still chopping onion
+P02_09_23,71.53,72.41,close drawer
+P02_09_230,953.67,981.02,still chopping onion
+P02_09_231,987.85,1013.91,still chopping onion
+P02_09_232,992.03,999.83,still chopping onion
+P02_09_233,1015.96,1023.49,remove remaining slices
+P02_09_234,1016.07,1022.62,pick up remaining slices
+P02_09_235,1024.47,1025.14,open trash
+P02_09_236,1025.22,1025.93,throw remaining slices
+P02_09_237,1025.87,1026.56,close trash bin
+P02_09_238,1028.04,1029.27,pick up slice
+P02_09_239,1030.62,1031.29,open trash bin
+P02_09_24,74.09,75.1,get sugar
+P02_09_240,1031.17,1031.99,throw slice
+P02_09_241,1033.23,1034.13,pick up chopping board
+P02_09_242,1033.74,1034.41,move chopping board
+P02_09_243,1033.93,1034.53,pick up knife
+P02_09_244,1039.04,1041.5,remove meat packaging
+P02_09_245,1049.32,1054.88,cut meat packaging
+P02_09_246,1055.73,1056.71,pick up knife
+P02_09_247,1056.81,1070.44,cut meat
+P02_09_248,1070.26,1084.64,still cutting meat
+P02_09_249,1084.74,1104.5,still cutting meat
+P02_09_25,75.61,76.29,put sugar
+P02_09_250,1105.69,1110.37,remove packaging
+P02_09_251,1112.14,1112.77,open trash bin
+P02_09_252,1112.65,1113.24,throw cover
+P02_09_253,1112.95,1113.67,close trash bin
+P02_09_254,1115.25,1118.25,pick up oil
+P02_09_255,1117.32,1119.52,open oil
+P02_09_256,1119.7,1122.93,pour oil into pan
+P02_09_257,1122.55,1125.38,while holding oil switch on stove
+P02_09_258,1125.4,1128.96,shake oil bottle
+P02_09_259,1129.31,1130.06,close oil bottle
+P02_09_26,79.05,80.05,pick up kettle
+P02_09_260,1132.05,1132.55,open trash bin
+P02_09_261,1132.61,1133.15,throw oil bottle
+P02_09_262,1136.34,1137.09,open drawer
+P02_09_263,1137.85,1140.1,pick up wooden spoon
+P02_09_264,1138.84,1140.96,close drawer
+P02_09_265,1141.64,1152.86,waiting for oil to heat
+P02_09_266,1154.78,1158.82,pick up chopping board
+P02_09_267,1160.27,1164.68,pour onion into pan
+P02_09_268,1164.78,1167.98,pouring onion pieces
+P02_09_27,80.4,81.43,open kettle
+P02_09_270,1173.41,1176.65,put chopping board
+P02_09_271,1177.21,1181.45,stir onion in pan
+P02_09_272,1179.07,1184.82,still stirring onion
+P02_09_273,1184.92,1204.17,hold pan and
+P02_09_274,1185.29,1212.72,stir onion
+P02_09_275,1212.37,1213.98,open ventilator
+P02_09_276,1214.24,1231.1,stir onion
+P02_09_277,1231.56,1232.12,open cupboard
+P02_09_278,1233.89,1234.57,get garlic
+P02_09_279,1235.97,1238.58,get pepper
+P02_09_28,81.6,82.79,open tap
+P02_09_280,1244.59,1245.62,get herb
+P02_09_281,1247.0,1256.37,searching for paprika
+P02_09_282,1256.4,1258.14,get paprika
+P02_09_283,1261.75,1276.69,stir onion using wooden spoon
+P02_09_284,1272.31,1276.08,still stirring onion
+P02_09_285,1276.43,1277.64,close cupboard
+P02_09_286,1279.22,1285.07,stir onion
+P02_09_287,1285.16,1286.35,hold pan
+P02_09_288,1286.36,1294.99,stir onion
+P02_09_289,1295.03,1296.78,put wooden spoon
+P02_09_29,82.8,83.67,hold kettle
+P02_09_290,1297.36,1299.75,pick up wooden spoon
+P02_09_291,1303.97,1309.96,stir onion
+P02_09_292,1310.03,1313.35,hold pan
+P02_09_293,1311.13,1329.78,stir onion
+P02_09_294,1331.83,1332.58,pick up garlic
+P02_09_295,1332.51,1333.84,open garlic
+P02_09_296,1333.94,1336.38,pour garlic into pan
+P02_09_297,1336.3,1337.29,put garlic down
+P02_09_298,1341.98,1345.51,stir onion and garlic in pan using wooden spoon
+P02_09_299,1351.23,1359.04,hold pan
+P02_09_3,11.92,13.11,put bowl
+P02_09_30,83.29,84.94,fill kettle with water
+P02_09_300,1352.56,1360.53,stir onion
+P02_09_301,1361.63,1364.47,move knife
+P02_09_302,1363.98,1365.98,pick meat
+P02_09_303,1367.44,1388.01,put meat in pan
+P02_09_304,1370.0,1380.64,break meat into pieces
+P02_09_305,1370.92,1380.31,put in pan
+P02_09_306,1381.23,1382.01,pick up meat
+P02_09_307,1385.39,1399.76,break up meat into pieces
+P02_09_308,1385.69,1389.68,put in pan
+P02_09_309,1391.04,1399.47,break meat into pieces
+P02_09_31,84.93,85.49,close tap
+P02_09_310,1398.38,1400.77,put in pan
+P02_09_311,1400.42,1401.4,pick up spoon
+P02_09_312,1401.09,1409.44,stir meat
+P02_09_313,1409.54,1412.58,pick up meat
+P02_09_314,1412.73,1415.76,break meat into pieces
+P02_09_315,1413.51,1418.63,add to pan
+P02_09_316,1418.73,1421.21,pick up meat
+P02_09_317,1421.62,1423.63,break meat into pieces
+P02_09_318,1422.75,1426.76,add to pan
+P02_09_319,1427.09,1429.77,pick up meat
+P02_09_32,85.59,86.3,close kettle
+P02_09_320,1429.43,1431.36,break meat into pieces
+P02_09_321,1431.15,1435.34,add to pan
+P02_09_322,1435.44,1436.23,pick up spoon
+P02_09_323,1435.76,1436.82,hold pan
+P02_09_324,1435.77,1441.61,mix meat
+P02_09_325,1437.14,1441.7,mix meat
+P02_09_326,1442.02,1443.31,lower heat
+P02_09_327,1443.35,1445.31,pick up meat
+P02_09_328,1445.3,1447.56,break meat into pieces
+P02_09_329,1447.66,1456.17,add to pan
+P02_09_33,87.65,89.55,put kettle
+P02_09_330,1456.41,1460.42,pick up meat
+P02_09_331,1460.45,1461.71,add meat to pan
+P02_09_332,1461.8,1462.51,hold pan
+P02_09_333,1462.35,1482.16,mix meat with onions using wooden spoon
+P02_09_334,1464.06,1471.62,break meat in pan
+P02_09_335,1471.72,1480.59,mix meat in pan using wooden spoon
+P02_09_336,1480.69,1486.14,turn meat in pan
+P02_09_337,1486.24,1492.53,turning meat in pan
+P02_09_338,1497.95,1517.9,break meat in pan using wooden spoon
+P02_09_339,1517.9,1519.25,turning meat in pan
+P02_09_34,89.36,90.48,switch kettle on
+P02_09_340,1520.15,1523.7,break meat in pan using wooden spoon
+P02_09_341,1523.8,1528.37,turn meat
+P02_09_342,1528.47,1532.98,turn meat
+P02_09_343,1528.69,1530.08,turn meat
+P02_09_344,1530.18,1532.43,stir meat
+P02_09_345,1532.97,1537.05,break meat
+P02_09_346,1536.9,1537.91,turn meat
+P02_09_347,1536.97,1545.6,turn meat
+P02_09_348,1538.01,1542.84,break meat
+P02_09_349,1542.43,1543.63,turn meat
+P02_09_35,92.16,93.54,open cupboard
+P02_09_350,1547.08,1550.18,turn meat
+P02_09_351,1548.84,1553.46,turn meat
+P02_09_352,1550.22,1552.18,break meat
+P02_09_353,1551.92,1553.62,turn meat
+P02_09_354,1553.65,1566.26,break meat
+P02_09_355,1566.83,1568.61,turn meat
+P02_09_356,1567.87,1568.97,turn meat
+P02_09_357,1569.31,1570.77,holding pan
+P02_09_358,1570.69,1574.95,turning meat
+P02_09_359,1586.9,1588.24,lower heat
+P02_09_36,93.44,96.88,get two glasses
+P02_09_360,1590.29,1590.87,pick up spoon
+P02_09_361,1590.92,1600.22,break meat
+P02_09_362,1600.27,1601.42,turn meat
+P02_09_363,1603.52,1608.25,stir meat
+P02_09_364,1608.94,1610.01,move spoon
+P02_09_365,1610.11,1611.5,pick up lid
+P02_09_366,1611.45,1612.25,cover pan
+P02_09_367,1613.22,1615.16,pick up packaging
+P02_09_368,1616.61,1617.15,open trash bin
+P02_09_369,1616.62,1617.48,throw package
+P02_09_37,95.79,96.29,close cupboard
+P02_09_370,1617.33,1617.98,close trash bin
+P02_09_371,1619.68,1620.81,open fridge
+P02_09_372,1621.62,1622.66,get stock
+P02_09_373,1621.89,1628.17,get stock
+P02_09_374,1623.72,1624.62,put stock
+P02_09_375,1631.21,1633.39,open chicken stock
+P02_09_376,1633.3,1635.41,open cupboard
+P02_09_377,1635.51,1637.72,get glass
+P02_09_378,1638.44,1639.57,put glass
+P02_09_379,1639.35,1640.8,put stock into glass
+P02_09_38,98.12,98.78,put one glass inside bowl
+P02_09_380,1640.86,1642.69,close ventilator
+P02_09_381,1642.52,1644.35,pick up kettle
+P02_09_382,1645.3,1648.38,add hot water into glass
+P02_09_383,1649.22,1650.36,return kettle
+P02_09_384,1651.72,1652.58,open trash bin
+P02_09_385,1652.68,1653.44,throw
+P02_09_386,1653.54,1654.56,close cupboard
+P02_09_387,1657.01,1658.06,open drawer
+P02_09_388,1658.12,1659.4,get spoon
+P02_09_389,1662.37,1664.75,stir stock in glass
+P02_09_39,99.24,99.83,put one glass down
+P02_09_390,1664.77,1668.82,hold glass
+P02_09_391,1668.66,1680.18,stir stock
+P02_09_392,1668.75,1669.74,hold glass
+P02_09_393,1674.23,1680.65,stirring stock
+P02_09_394,1680.97,1682.06,carry glass
+P02_09_395,1681.78,1686.53,mix stock with hot water
+P02_09_396,1681.93,1684.13,stir stock
+P02_09_397,1684.68,1687.23,carry glass
+P02_09_398,1684.92,1685.94,stir stock
+P02_09_399,1687.04,1688.68,return glass
+P02_09_4,15.92,16.61,open cupboard
+P02_09_40,99.72,100.58,pick up flour
+P02_09_400,1688.04,1691.56,hold glass
+P02_09_401,1691.59,1693.19,stir stock
+P02_09_402,1693.29,1699.37,still stirring stock
+P02_09_403,1698.62,1700.04,remove spoon
+P02_09_404,1700.82,1702.33,open lid
+P02_09_405,1703.14,1704.28,hold lid
+P02_09_406,1703.89,1708.53,pour stock into pan
+P02_09_407,1709.12,1710.02,put glass
+P02_09_408,1709.71,1711.25,pick up spoon
+P02_09_409,1711.32,1714.1,remove stock
+P02_09_41,100.68,101.67,open flour
+P02_09_410,1715.32,1717.87,pick up stock
+P02_09_411,1718.13,1719.63,put spoon
+P02_09_412,1719.54,1720.31,pick up wooden spoon
+P02_09_413,1720.43,1723.63,stir meat
+P02_09_414,1720.69,1726.59,stir meat
+P02_09_415,1724.24,1725.57,hold lid
+P02_09_416,1726.69,1728.18,cover lid
+P02_09_417,1728.84,1730.31,put spoon
+P02_09_418,1730.36,1731.86,lower heat
+P02_09_419,1733.71,1737.16,pick up plates
+P02_09_42,103.13,108.51,pour flour into cup
+P02_09_420,1737.26,1738.26,open cupboard
+P02_09_421,1738.49,1739.09,return plates
+P02_09_422,1740.45,1742.44,put plates
+P02_09_423,1743.94,1745.27,pick up plates
+P02_09_424,1747.88,1749.06,put plates
+P02_09_425,1750.65,1751.5,pick up plate
+P02_09_426,1752.56,1754.62,put plate
+P02_09_427,1756.18,1758.41,pick up tray
+P02_09_428,1758.58,1759.41,open cupboard
+P02_09_429,1763.29,1765.77,pull trays
+P02_09_43,110.22,111.72,empty flour cup into bowl
+P02_09_430,1764.8,1766.54,put tray
+P02_09_431,1766.81,1767.41,close cupboard
+P02_09_432,1769.04,1770.29,pick up glass
+P02_09_433,1769.99,1770.78,open cupboard
+P02_09_434,1770.19,1771.49,put glass
+P02_09_435,1771.88,1773.11,pick up tongs
+P02_09_436,1773.6,1774.6,open drawer
+P02_09_437,1774.7,1775.45,put tongs
+P02_09_438,1776.72,1781.56,pick up cutlery
+P02_09_439,1783.89,1784.89,open drawer
+P02_09_44,111.49,112.24,put cup
+P02_09_440,1784.99,1785.54,put knife
+P02_09_441,1785.63,1786.14,put spoon
+P02_09_442,1786.41,1787.37,put forks
+P02_09_443,1787.47,1788.16,close drawer
+P02_09_444,1789.98,1794.01,wear gloves
+P02_09_445,1794.59,1799.72,empty sink
+P02_09_446,1799.97,1800.77,pick up sponge
+P02_09_447,1800.98,1802.17,put sponge
+P02_09_448,1802.27,1817.64,hold and empty sink
+P02_09_449,1817.74,1830.91,clean sink
+P02_09_45,112.59,120.09,put flour into cup
+P02_09_450,1830.99,1833.74,pick up sink hole
+P02_09_451,1834.54,1835.12,open trash bin
+P02_09_452,1835.44,1839.03,clean sink hole
+P02_09_453,1839.29,1839.79,close trash bin
+P02_09_454,1840.88,1842.43,return sink hole
+P02_09_455,1842.95,1843.98,pick up liquid
+P02_09_456,1844.41,1845.55,open tap
+P02_09_457,1845.4,1848.74,fill liquid
+P02_09_458,1848.84,1849.57,shake liquid
+P02_09_459,1849.57,1851.81,spread liquid
+P02_09_46,113.09,119.46,pour flour into cup
+P02_09_460,1851.68,1853.82,spread cleaning liquid
+P02_09_461,1853.92,1854.88,put cleaning liquid
+P02_09_462,1854.69,1855.58,pick up sponge
+P02_09_463,1855.32,1859.93,cleaning sink
+P02_09_464,1855.94,1868.24,clean sink
+P02_09_465,1860.03,1869.09,still cleaning sink using sponge
+P02_09_466,1868.75,1870.28,open tap
+P02_09_467,1869.92,1873.27,wash sponge
+P02_09_468,1873.26,1874.01,put sponge
+P02_09_469,1874.03,1874.63,pick sponge
+P02_09_47,113.79,119.9,pour flower into cup
+P02_09_470,1875.97,1877.31,pick washing liquid
+P02_09_471,1876.88,1878.38,pour washing liquid
+P02_09_472,1878.94,1879.96,pick glass
+P02_09_473,1880.02,1885.56,wash glass
+P02_09_474,1885.78,1886.74,pick spoon
+P02_09_475,1886.6,1888.61,wash spoon
+P02_09_476,1889.05,1889.94,pick spoon
+P02_09_477,1890.1,1892.16,wash spoon
+P02_09_478,1892.8,1893.42,pick spoon
+P02_09_479,1893.67,1899.1,wash spoon
+P02_09_48,120.4,121.21,pick cup
+P02_09_480,1899.09,1900.0,put spoon
+P02_09_481,1900.04,1900.99,pick glass
+P02_09_482,1901.08,1908.55,wash glass
+P02_09_483,1901.09,1902.26,open tap
+P02_09_484,1902.14,1903.39,rinse glass
+P02_09_485,1909.73,1910.65,pick knife
+P02_09_486,1911.38,1914.29,wash knife
+P02_09_487,1915.83,1916.79,pick glass
+P02_09_488,1917.08,1917.86,put glass
+P02_09_489,1917.24,1918.24,pick spoon
+P02_09_49,120.78,122.0,empty flour into bowl
+P02_09_490,1918.53,1919.74,rinse spoon
+P02_09_491,1919.84,1923.83,wash spoon
+P02_09_492,1923.93,1925.05,pick glass
+P02_09_493,1925.14,1926.64,open tap
+P02_09_494,1926.04,1927.8,rinse glass
+P02_09_495,1927.78,1935.95,wash glass
+P02_09_496,1935.8,1936.5,put sponge
+P02_09_497,1936.35,1937.76,open tap
+P02_09_498,1937.77,1946.86,rinse glass
+P02_09_499,1944.88,1947.69,close tap
+P02_09_5,17.21,19.44,get flour
+P02_09_50,123.17,124.67,put cup down
+P02_09_500,1948.12,1949.44,put glass
+P02_09_501,1949.85,1950.52,pick up knife
+P02_09_502,1950.62,1951.83,open tap
+P02_09_503,1951.68,1953.8,rinse knife
+P02_09_504,1953.79,1954.67,put knife
+P02_09_505,1954.09,1954.85,pick up spoon
+P02_09_506,1954.95,1956.84,rinse spoon
+P02_09_507,1956.94,1957.56,put spoon
+P02_09_508,1957.21,1957.82,pick up cutlery
+P02_09_509,1957.92,1960.89,rinse cutlery
+P02_09_51,125.02,129.77,close flour
+P02_09_510,1960.99,1961.53,put cutlery
+P02_09_511,1961.57,1962.19,pick up spoon
+P02_09_512,1962.17,1963.71,rinse spoon
+P02_09_513,1963.56,1964.29,put spoon
+P02_09_514,1963.62,1964.43,pick up glass
+P02_09_515,1964.53,1971.15,rinse glass
+P02_09_516,1971.15,1972.56,put glass
+P02_09_517,1972.34,1973.48,pick up glass
+P02_09_518,1973.62,1980.05,rinse glass
+P02_09_519,1979.74,1980.77,close tap
+P02_09_52,129.29,131.37,put flour down
+P02_09_520,1980.87,1982.36,put glass
+P02_09_521,1982.17,1985.25,empty sink
+P02_09_522,1984.83,1987.22,hold an empty sink
+P02_09_523,1989.02,1990.77,open lid
+P02_09_524,1989.1,1996.06,remove glass
+P02_09_525,1989.63,1990.62,pick up wooden spoon
+P02_09_526,1990.85,1993.63,stir meat
+P02_09_527,1993.39,1997.9,put lid
+P02_09_528,1998.09,2000.09,hold pan and stir meat
+P02_09_529,2000.94,2016.25,breaking meat into smaller pieces
+P02_09_53,131.47,132.72,pick up spoon
+P02_09_530,2016.35,2021.99,turning and stirring meat
+P02_09_531,2022.06,2025.56,turn meat
+P02_09_532,2025.84,2027.27,turn meat
+P02_09_533,2027.83,2030.49,stir meat
+P02_09_534,2033.76,2040.86,still stirring meat using wooden spoon
+P02_09_535,2041.35,2042.29,pick up herb
+P02_09_536,2043.51,2045.51,pour pepper into cover
+P02_09_537,2045.77,2048.66,pour pepper on meat
+P02_09_538,2058.77,2059.68,pick herb
+P02_09_539,2060.31,2061.46,pour herb
+P02_09_54,132.47,133.64,open sugar jar
+P02_09_540,2061.38,2061.88,close herb
+P02_09_541,2062.61,2063.55,hold pan
+P02_09_542,2063.22,2103.32,stir meat
+P02_09_543,2063.57,2066.39,stir meat
+P02_09_544,2066.49,2068.7,hold pan
+P02_09_545,2103.14,2103.69,pick up lid
+P02_09_546,2104.18,2105.53,cover pan
+P02_09_547,2105.5,2106.29,put spoon
+P02_09_548,2109.92,2110.81,open cupboard
+P02_09_549,2111.22,2112.26,pick up glass
+P02_09_55,134.96,137.68,scoop sugar
+P02_09_550,2112.36,2112.96,close cupboard
+P02_09_551,2115.19,2115.86,pick up water filter
+P02_09_552,2115.96,2118.81,hold glass
+P02_09_553,2118.44,2119.1,put water filter
+P02_09_554,2118.95,2119.67,pour water into glass
+P02_09_555,2119.2,2124.21,drink from glass
+P02_09_556,2124.21,2125.68,put glass down
+P02_09_557,2129.26,2130.7,pick up lid
+P02_09_558,2130.76,2133.75,put lid
+P02_09_559,2131.79,2134.67,stir meat
+P02_09_56,135.74,139.63,put one spoon two spoons of sugar into bowl
+P02_09_560,2134.79,2136.17,increase heat
+P02_09_561,2136.77,2137.79,increase heat
+P02_09_562,2138.46,2139.97,hold pan
+P02_09_563,2138.57,2167.17,stir meat
+P02_09_564,2167.13,2168.08,put wooden spoon
+P02_09_565,2171.03,2171.81,close open drawer
+P02_09_566,2171.73,2172.68,get fork
+P02_09_567,2176.45,2178.68,pick up a bit of meat using fork
+P02_09_568,2177.34,2187.17,taste meat
+P02_09_569,2187.0,2188.72,put fork
+P02_09_57,139.9,141.32,put sugar jar
+P02_09_570,2189.79,2191.08,lower heat
+P02_09_571,2190.95,2191.96,pick up lid
+P02_09_572,2192.01,2194.14,put lid
+P02_09_573,2194.99,2196.59,set off timer
+P02_09_58,141.17,142.31,close sugar jar
+P02_09_59,142.48,143.04,put spoon
+P02_09_6,19.89,21.16,get yeast
+P02_09_60,143.0,153.36,put salt
+P02_09_61,143.14,144.1,pick up salt
+P02_09_62,143.49,144.89,pick up spoon
+P02_09_63,145.24,151.62,pour salt into spoon
+P02_09_64,151.72,152.25,empty spoon in bowl
+P02_09_65,153.05,154.16,put spoon
+P02_09_66,154.33,155.71,pick up yeast
+P02_09_67,155.36,157.88,read yeast recipe
+P02_09_68,158.12,160.26,open yeast
+P02_09_69,160.83,167.06,open yeast can
+P02_09_7,23.54,24.14,put yeast
+P02_09_70,169.8,170.56,open trash bin
+P02_09_71,170.75,171.58,throw can cover
+P02_09_72,171.53,172.06,close trash bin
+P02_09_73,172.97,173.98,pick up spoon
+P02_09_74,173.99,177.65,scoop yeast
+P02_09_75,177.55,179.92,put yeast in bowl
+P02_09_76,179.35,182.21,mix flour and yeast in bowl using spoon
+P02_09_77,182.73,189.11,mix flour
+P02_09_78,188.65,190.21,pick up olive oil
+P02_09_79,192.79,194.18,pick up spoon
+P02_09_8,24.59,25.84,put flour
+P02_09_80,194.74,195.56,put spoon
+P02_09_81,196.56,202.11,open olive oil bottle
+P02_09_82,200.51,201.79,remove cap from olive oil bottle
+P02_09_83,202.29,203.31,throw cap
+P02_09_84,202.62,203.35,open trash bin
+P02_09_85,203.13,203.96,close trash bin
+P02_09_86,204.11,204.92,pick up olive oil
+P02_09_87,206.32,208.65,pour olive oil in spoon
+P02_09_88,208.73,209.84,pour spoon
+P02_09_89,209.64,212.08,pour olive oil
+P02_09_9,28.44,29.44,get salt
+P02_09_90,212.18,213.29,pour olive oil
+P02_09_91,216.05,217.11,pick up glass
+P02_09_92,219.27,220.55,pick up kettle
+P02_09_93,219.58,223.48,fill glass
+P02_09_94,220.47,223.42,empty water into glass
+P02_09_95,224.96,228.68,put glass
+P02_09_96,230.04,237.68,wait for kettle
+P02_09_97,239.99,248.8,waiting for kettle to boil
+P02_09_98,241.67,255.02,still waiting for kettle to boil
+P02_09_99,244.47,258.75,still waiting for kettle to boil

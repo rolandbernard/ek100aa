@@ -1,0 +1,378 @@
+P37_101_0,2.45,6.02,open fridge
+P37_101_1,5.64,10.01,take plastic box
+P37_101_10,35.72,37.25,close cupboard
+P37_101_100,279.13,283.09,put bottle down
+P37_101_101,282.92,284.29,take garlic
+P37_101_102,284.65,286.15,put garlic down
+P37_101_103,285.65,287.26,take bottle
+P37_101_104,287.27,288.1,put bottle down
+P37_101_105,288.2,289.56,take bottle
+P37_101_106,289.5,290.36,put bottle down
+P37_101_107,295.5,297.55,take chopping board
+P37_101_108,297.29,298.09,turn on tap
+P37_101_109,298.16,300.24,rinse chopping board
+P37_101_11,37.08,38.73,put pan down
+P37_101_110,300.43,301.46,turn off tap
+P37_101_111,301.64,303.4,shake chopping board to remove water
+P37_101_112,303.48,305.2,put chopping board down
+P37_101_113,305.24,305.99,take cucumbers
+P37_101_114,305.58,306.6,put cucumbers down
+P37_101_115,306.78,308.34,take bowl
+P37_101_116,308.44,309.02,turn on tap
+P37_101_117,309.12,311.93,rinse bowls
+P37_101_118,308.0,311.39,pour out wastewater
+P37_101_119,311.14,314.92,put bowl down
+P37_101_12,38.79,42.82,take pot
+P37_101_120,319.14,321.42,rinse bowls
+P37_101_121,321.08,322.01,turn off tap
+P37_101_122,321.9,323.61,shake bowls to remove water
+P37_101_123,323.71,327.33,put bowl down
+P37_101_124,328.87,329.95,take knife
+P37_101_125,329.86,330.84,turn on tap
+P37_101_126,330.91,331.62,rinse knife
+P37_101_127,331.72,332.21,turn off tap
+P37_101_128,333.71,336.53,cut cucumbers
+P37_101_129,336.8,343.73,tear packing bag
+P37_101_13,44.68,45.86,put pot on induction hob
+P37_101_130,343.57,355.81,tear packing bag
+P37_101_131,355.63,357.39,put packing bags to bin
+P37_101_132,356.93,358.42,pick up packing bag
+P37_101_133,358.39,359.25,put packing bags to bin
+P37_101_134,359.35,362.01,turn on tap
+P37_101_135,361.65,362.13,rinse cucumbers
+P37_101_136,362.22,363.06,turn off tap
+P37_101_137,362.7,365.77,put cucumbers down
+P37_101_138,366.58,378.65,cut cucumbers
+P37_101_139,379.3,391.56,cut cucumbers
+P37_101_14,50.22,51.09,turn on tap
+P37_101_140,394.8,397.16,shovel up cucumbers
+P37_101_141,397.26,398.49,put cucumbers in to bowl
+P37_101_142,402.23,427.5,cut cucumbers
+P37_101_143,427.6,431.02,remove cucumbers from knife
+P37_101_144,431.62,433.86,shovel up cucumbers
+P37_101_145,433.96,437.23,put cucumbers in to bowl
+P37_101_146,436.96,440.23,shovel up cucumbers
+P37_101_147,440.33,442.01,put cucumbers in to bowl
+P37_101_148,446.39,449.26,cut cucumbers
+P37_101_149,451.11,465.62,tear packing bag
+P37_101_15,51.46,59.53,wash pan
+P37_101_150,463.08,478.3,tear packing bag
+P37_101_151,478.37,486.04,put packing bags to bin
+P37_101_152,487.98,488.86,turn on tap
+P37_101_153,488.91,489.59,rinse cucumbers
+P37_101_154,489.69,490.09,turn off tap
+P37_101_155,490.19,491.57,shake cucumbers to remove water
+P37_101_156,492.63,493.71,put cucumbers down
+P37_101_157,494.3,505.8,cut cucumbers
+P37_101_158,568.94,570.69,shovel up cucumbers
+P37_101_159,569.94,571.37,put cucumbers in to bowl
+P37_101_16,59.61,61.06,rinse cleaning towel
+P37_101_160,572.14,576.35,shovel up cucumbers
+P37_101_161,577.09,579.36,put cucumbers in to bowl
+P37_101_162,580.84,581.69,shovel up cucumbers
+P37_101_163,582.59,583.19,put cucumbers in to bowl
+P37_101_164,585.73,586.29,shovel up cucumbers
+P37_101_165,586.69,587.09,put cucumbers in to bowl
+P37_101_166,589.79,590.21,take garlic
+P37_101_167,592.19,593.74,separate garlic cloves
+P37_101_168,607.0,609.86,take garlic skins
+P37_101_169,609.96,611.58,put garlic skins to bin
+P37_101_17,65.37,67.68,wring out cleaning towel
+P37_101_170,611.68,619.82,separate garlic cloves
+P37_101_171,620.05,623.67,put garlic skins to bin
+P37_101_172,623.5,648.93,separate garlic cloves
+P37_101_173,648.81,651.84,put garlic skins to bin
+P37_101_174,661.31,665.32,take garlic skins
+P37_101_175,665.12,666.88,put garlic skins to bin
+P37_101_176,669.44,673.23,take cucumbers
+P37_101_177,673.33,674.31,put cucumbers to bin
+P37_101_178,674.37,676.49,take bowl
+P37_101_179,676.44,677.26,turn on tap
+P37_101_18,65.73,68.15,put cleaning towel down
+P37_101_180,677.32,678.43,rinse bowls
+P37_101_181,678.68,679.29,turn off tap
+P37_101_182,687.94,690.47,put bowl down
+P37_101_183,693.98,695.05,turn on tap
+P37_101_184,694.92,695.66,wash hands
+P37_101_185,695.55,696.17,turn off tap
+P37_101_186,696.27,714.62,smash garlic
+P37_101_187,714.19,726.99,peel away garlic skins
+P37_101_188,726.99,728.33,discard garlic skins
+P37_101_189,728.12,734.91,peel away garlic skins
+P37_101_19,69.22,70.99,pour out wastewater from pot
+P37_101_190,734.88,736.13,discard garlic skins
+P37_101_191,737.62,753.62,peel away garlic skins
+P37_101_192,753.58,756.19,discard garlic skins
+P37_101_193,755.94,762.31,peel away garlic skins
+P37_101_194,756.69,769.09,peel away garlic skins
+P37_101_195,767.82,769.62,discard garlic skins
+P37_101_196,769.68,783.61,peel away garlic skins
+P37_101_197,783.53,785.63,discard garlic skins
+P37_101_198,785.89,800.48,peel away garlic skins
+P37_101_199,800.5,802.42,discard garlic skins
+P37_101_2,10.02,12.43,close fridge
+P37_101_20,71.09,74.04,rinse pan
+P37_101_200,802.36,810.06,smash garlic
+P37_101_201,809.95,821.27,peel away garlic skins
+P37_101_202,821.63,822.25,discard garlic skins
+P37_101_203,822.78,824.69,peel away garlic skins
+P37_101_204,825.0,825.66,discard garlic skins
+P37_101_205,826.52,831.75,peel away garlic skins
+P37_101_206,831.84,833.54,discard garlic skins
+P37_101_207,833.64,835.29,take garlic
+P37_101_208,843.63,856.07,peel away garlic skins
+P37_101_209,856.17,858.3,discard garlic skins
+P37_101_21,74.06,76.32,pour out wastewater
+P37_101_210,856.41,870.59,smash garlic
+P37_101_211,869.69,885.91,peel away garlic skins
+P37_101_212,885.93,887.39,discard garlic skins
+P37_101_213,889.45,892.83,shake cooking pot
+P37_101_214,894.88,899.12,peel away garlic skins
+P37_101_215,899.2,900.54,discard garlic skins
+P37_101_216,900.46,907.19,smash garlic
+P37_101_217,906.36,918.98,peel away garlic skins
+P37_101_218,918.0,920.9,discard garlic skins
+P37_101_219,922.23,925.42,peel away garlic skins
+P37_101_22,74.75,82.04,pour out wastewater from pot
+P37_101_220,925.75,926.75,discard garlic skins
+P37_101_221,928.4,931.04,smash garlic
+P37_101_222,931.04,940.27,peel away garlic skins
+P37_101_223,939.97,941.51,discard garlic skins
+P37_101_224,941.61,950.98,peel away garlic skins
+P37_101_225,950.78,953.0,discard garlic skins
+P37_101_226,952.79,958.58,discard garlic skins
+P37_101_227,958.68,962.97,peel away garlic skins
+P37_101_228,961.0,965.19,smash garlic
+P37_101_229,965.19,967.34,discard garlic skins
+P37_101_23,84.43,85.18,turn off tap
+P37_101_230,968.44,975.4,peel away garlic skins
+P37_101_231,972.68,976.14,discard garlic skins
+P37_101_232,977.08,981.05,peel away garlic skins
+P37_101_233,981.05,982.18,discard garlic skins
+P37_101_234,983.19,1010.1,peel away garlic skins
+P37_101_235,1010.55,1012.35,discard garlic skins
+P37_101_236,1018.04,1024.54,peel away garlic skins
+P37_101_237,1024.64,1025.64,discard garlic skins
+P37_101_238,1026.17,1033.9,peel away garlic skins
+P37_101_239,1034.0,1035.0,discard garlic skins
+P37_101_24,89.27,90.95,put pot on induction hob
+P37_101_240,1035.1,1043.42,peel away garlic skins
+P37_101_241,1043.52,1044.72,discard garlic skins
+P37_101_242,1044.42,1053.65,peel away garlic skins
+P37_101_243,1053.72,1055.06,discard garlic skins
+P37_101_244,1055.16,1057.37,turn on tap
+P37_101_245,1057.29,1058.58,wash hands
+P37_101_246,1058.68,1061.77,take spatula
+P37_101_247,1061.84,1070.69,stir chicken thighs in pot
+P37_101_248,1073.67,1075.06,take knife
+P37_101_249,1075.16,1104.13,chop garlic cloves
+P37_101_25,92.66,93.74,take plastic tray
+P37_101_250,1105.65,1110.44,remove sliced garlic from knife
+P37_101_251,1111.28,1159.21,chop garlic
+P37_101_252,1159.31,1161.58,put garlic skins to bin
+P37_101_253,1163.66,1180.61,stir chicken thighs in pot
+P37_101_254,1183.07,1184.28,take knife
+P37_101_255,1184.03,1211.08,chop garlic
+P37_101_256,1212.85,1215.19,take spatula
+P37_101_257,1213.89,1220.17,put spatula down
+P37_101_258,1219.0,1228.22,take cooking pot
+P37_101_259,1228.34,1229.32,turn on tap
+P37_101_26,93.69,94.57,put plastic tray down
+P37_101_260,1229.3,1235.84,take bowl
+P37_101_261,1236.36,1237.55,rinse bowls
+P37_101_262,1237.65,1238.45,put bowl down
+P37_101_263,1238.38,1244.86,rinse chicken thighs in pot
+P37_101_264,1245.16,1246.2,take chicken thighs
+P37_101_265,1247.36,1248.99,take chicken thighs
+P37_101_266,1248.98,1251.53,take chicken thighs
+P37_101_267,1250.99,1253.55,take chicken thighs
+P37_101_268,1256.5,1266.7,take chicken thighs
+P37_101_269,1266.8,1272.95,debone chicken thighs
+P37_101_27,95.37,96.26,open drawer
+P37_101_270,1273.77,1277.24,pour out water from pot
+P37_101_271,1277.99,1279.91,put pan down
+P37_101_272,1279.93,1281.1,turn off tap
+P37_101_273,1281.04,1285.92,shred chicken thighs
+P37_101_274,1285.54,1289.79,shred chicken thighs
+P37_101_275,1289.38,1290.28,put chicken thighs in pot
+P37_101_276,1290.34,1294.22,shred chicken thighs
+P37_101_277,1294.14,1295.25,put chicken thighs in pot
+P37_101_278,1294.13,1299.53,shred chicken thighs
+P37_101_279,1299.47,1300.19,put chicken thighs in pot
+P37_101_28,97.99,99.23,take knife
+P37_101_280,1300.18,1303.8,shred chicken thighs
+P37_101_281,1303.9,1304.8,put chicken thighs in pot
+P37_101_282,1301.37,1303.98,shred chicken thighs
+P37_101_283,1308.03,1309.11,put chicken thighs in pot
+P37_101_284,1309.87,1311.49,shred chicken thighs
+P37_101_285,1311.81,1312.78,turn on tap
+P37_101_286,1312.58,1314.77,rinse chicken thighs
+P37_101_287,1314.75,1315.58,turn off tap
+P37_101_288,1317.59,1321.77,shred chicken thighs
+P37_101_289,1321.99,1322.6,put chicken thighs in pot
+P37_101_29,99.27,100.07,close drawer
+P37_101_290,1322.59,1326.42,shred chicken thighs
+P37_101_291,1326.5,1327.52,put chicken thighs in pot
+P37_101_292,1327.62,1328.21,turn on tap
+P37_101_293,1328.35,1329.35,wash hands
+P37_101_294,1329.36,1333.23,rinse chicken thighs
+P37_101_295,1333.23,1336.2,take cooking wine bottle
+P37_101_296,1336.6,1337.21,take cooking wine bottle
+P37_101_297,1337.19,1339.51,open cooking wine
+P37_101_298,1337.44,1340.89,pour some cooking wine into pot
+P37_101_299,1340.78,1342.57,close lid
+P37_101_3,12.4,15.7,put plastic tray down
+P37_101_30,101.01,102.01,turn on tap
+P37_101_300,1342.44,1343.32,turn off tap
+P37_101_301,1343.23,1343.95,put cooking wine bottle down
+P37_101_302,1344.2,1345.46,take pan
+P37_101_303,1345.54,1349.86,put pan down
+P37_101_304,1349.96,1356.26,turn induction hob on
+P37_101_305,1357.48,1359.49,take soy sauce bottle
+P37_101_306,1358.86,1363.47,add some soy sauce into pan
+P37_101_307,1363.57,1367.22,put soy sauce bottle down
+P37_101_308,1372.6,1380.94,chop garlic
+P37_101_309,1381.04,1395.37,chop garlic
+P37_101_31,102.04,105.37,rinse knife
+P37_101_310,1397.9,1400.36,shovel up smashed garlic
+P37_101_311,1401.44,1402.3,take bowl
+P37_101_312,1402.36,1403.19,put bowl down
+P37_101_313,1403.24,1411.66,put smashed garlic to bowl
+P37_101_314,1412.63,1415.06,shovel up smashed garlic
+P37_101_315,1415.72,1420.39,put smashed garlic to bowl
+P37_101_316,1420.26,1423.89,shovel up smashed garlic
+P37_101_317,1423.94,1425.39,put smashed garlic to bowl
+P37_101_318,1425.32,1426.25,put knife down
+P37_101_319,1426.54,1432.5,discard remaining smashed garlic
+P37_101_32,105.12,105.8,turn off tap
+P37_101_320,1432.54,1433.48,put it in bin
+P37_101_321,1433.36,1436.11,turn on tap
+P37_101_322,1436.14,1437.34,wash hands
+P37_101_323,1437.4,1437.74,turn off tap
+P37_101_324,1438.03,1440.82,shake hands
+P37_101_325,1440.9,1442.18,take cooking wine bottle
+P37_101_326,1442.08,1443.39,close lid of cooking wine
+P37_101_327,1443.55,1444.45,put cooking wine bottle down
+P37_101_328,1444.49,1445.56,take packing bag
+P37_101_329,1445.31,1447.35,tear packing bag
+P37_101_33,106.84,110.86,open plastic box
+P37_101_330,1448.2,1456.37,take some coriander
+P37_101_331,1455.6,1457.32,put packing bags to bin
+P37_101_332,1457.16,1462.16,turn on tap
+P37_101_333,1462.26,1467.45,wash coriander
+P37_101_334,1467.49,1468.2,turn off tap
+P37_101_335,1469.14,1471.67,shake coriander to remove water
+P37_101_336,1472.29,1475.01,put coriander on chopping board
+P37_101_337,1474.85,1482.97,shred coriander
+P37_101_338,1489.65,1490.25,take bowl
+P37_101_339,1490.24,1491.06,turn on tap
+P37_101_34,114.47,119.77,take bowl
+P37_101_340,1491.5,1493.8,rinse bowls
+P37_101_341,1493.77,1494.24,turn off tap
+P37_101_342,1496.87,1497.81,put bowl down
+P37_101_343,1498.28,1499.05,take knife
+P37_101_344,1498.99,1502.9,cut coriander
+P37_101_345,1502.67,1503.96,shovel up coriander
+P37_101_346,1504.06,1506.72,put coriander in pot
+P37_101_347,1506.82,1508.68,remove coriander from knife
+P37_101_348,1509.0,1512.29,take sliced cucumbers
+P37_101_349,1512.43,1514.37,cut cucumbers
+P37_101_35,120.08,120.75,turn on tap
+P37_101_350,1514.06,1515.7,shovel up sliced cucumbers
+P37_101_351,1515.62,1516.69,put sliced cucumbers to bowl
+P37_101_352,1517.66,1519.28,take onions
+P37_101_353,1519.38,1521.07,turn on tap
+P37_101_354,1521.1,1524.87,rinse onions
+P37_101_355,1524.52,1525.54,turn off tap
+P37_101_356,1525.49,1527.26,shake onions to remove water
+P37_101_357,1526.86,1534.71,chop onions
+P37_101_358,1539.96,1550.25,peel onions
+P37_101_359,1549.82,1552.37,put onion skins in bin
+P37_101_36,120.68,122.68,pour out wastewater
+P37_101_360,1553.01,1561.1,tear onion skins
+P37_101_361,1560.39,1562.35,put onion skins in bin
+P37_101_362,1564.94,1567.83,chop onions
+P37_101_363,1567.43,1568.26,put sliced onions in bin
+P37_101_364,1570.4,1654.12,chop onions
+P37_101_365,1655.82,1656.76,take bowl
+P37_101_366,1656.44,1657.5,turn on tap
+P37_101_367,1657.48,1658.71,rinse bowls
+P37_101_368,1658.5,1659.32,turn off tap
+P37_101_369,1659.3,1661.63,put bowl down
+P37_101_37,123.41,124.58,take plastic tray
+P37_101_370,1661.65,1664.32,shovel up onions
+P37_101_371,1664.23,1666.64,put onions in bowl
+P37_101_372,1667.78,1669.32,shovel up onions
+P37_101_373,1669.42,1671.56,put onions in bowl
+P37_101_374,1672.69,1675.18,turn on tap
+P37_101_375,1675.15,1675.64,wash hands
+P37_101_376,1675.67,1676.2,turn off tap
+P37_101_377,1676.28,1677.76,shake hands
+P37_101_38,125.31,125.93,take chicken thighs
+P37_101_39,126.01,128.59,rinse chicken thighs
+P37_101_4,15.51,20.77,take stool
+P37_101_40,128.62,129.34,put chicken thighs in bowl
+P37_101_41,129.31,130.27,take chicken thighs
+P37_101_42,130.35,132.27,rinse chicken thighs
+P37_101_43,132.37,132.95,put chicken thighs in bowl
+P37_101_44,133.05,133.81,take chicken thighs
+P37_101_45,133.84,135.41,rinse chicken thighs
+P37_101_46,135.38,136.15,put chicken thighs in bowl
+P37_101_47,136.19,137.03,take chicken thighs
+P37_101_48,134.0,135.9,rinse chicken thighs
+P37_101_49,135.74,136.35,put chicken thighs in bowl
+P37_101_5,21.64,23.18,put stool down
+P37_101_50,136.36,137.2,take chicken thighs
+P37_101_51,137.43,138.83,rinse chicken thighs
+P37_101_52,138.93,139.64,put chicken thighs in bowl
+P37_101_53,139.66,140.54,take chicken thighs
+P37_101_54,140.47,142.13,rinse chicken thighs
+P37_101_55,142.17,142.82,put chicken thighs in bowl
+P37_101_56,142.55,143.7,take chicken thighs
+P37_101_57,143.79,145.85,rinse chicken thighs
+P37_101_58,146.0,149.51,put chicken thighs in bowl
+P37_101_59,149.61,150.43,take chicken thighs
+P37_101_6,23.05,26.16,open drawer
+P37_101_60,150.5,151.76,rinse chicken thighs
+P37_101_61,148.84,149.5,put chicken thighs in bowl
+P37_101_62,149.58,150.29,take chicken thighs
+P37_101_63,153.59,154.59,rinse chicken thighs
+P37_101_64,154.56,155.23,put chicken thighs in bowl
+P37_101_65,154.94,156.73,take plastic tray
+P37_101_66,156.4,159.14,put plastic tray in bin
+P37_101_67,159.24,162.94,wash hands
+P37_101_68,162.5,163.74,take chicken thighs
+P37_101_69,163.33,167.24,rinse chicken thighs
+P37_101_7,26.15,26.99,close drawer
+P37_101_70,167.34,169.21,pour out remaining water
+P37_101_71,169.31,172.91,rinse chicken thighs
+P37_101_72,172.75,173.7,turn off tap
+P37_101_73,175.74,179.32,put chicken thighs in pot
+P37_101_74,181.06,182.15,turn on tap
+P37_101_75,182.02,186.67,get some water with bowl
+P37_101_76,186.91,187.85,turn off tap
+P37_101_77,189.75,193.15,pour water into pot
+P37_101_78,194.42,195.86,turn on tap
+P37_101_79,196.14,200.22,get some water with bowl
+P37_101_8,27.2,28.04,open cupboard
+P37_101_80,200.23,201.1,turn off tap
+P37_101_81,202.6,207.02,pour water into pot
+P37_101_82,206.99,210.05,put bowl down
+P37_101_83,210.43,211.26,turn on tap
+P37_101_84,211.22,212.27,wash hands
+P37_101_85,212.37,213.14,turn off tap
+P37_101_86,213.08,214.06,shake hands
+P37_101_87,214.27,221.59,turn switch on
+P37_101_88,222.0,234.48,turn induction hob on
+P37_101_89,235.81,237.54,open cupboard
+P37_101_9,33.28,35.62,take cooking pot out
+P37_101_90,237.13,239.27,take soy sauce bottle
+P37_101_91,240.83,241.97,take sesame oil bottle
+P37_101_92,242.08,246.21,take bottle
+P37_101_93,251.28,254.08,take garlic
+P37_101_94,253.77,258.41,close cupboard
+P37_101_95,258.73,263.54,put soy sauce bottle down
+P37_101_96,263.46,264.92,take cooking wine bottle
+P37_101_97,264.96,271.66,open bottle
+P37_101_98,269.0,276.56,pour some cooking wine into pot
+P37_101_99,276.66,280.25,close bottle

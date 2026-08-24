@@ -1,0 +1,451 @@
+P02_108_0,1.0,7.85,put down bag of shopping
+P02_108_1,4.28,5.25,open back
+P02_108_10,28.15,28.99,put down tin
+P02_108_100,215.21,216.41,close kettle
+P02_108_101,216.77,217.65,put down kettle
+P02_108_102,217.71,219.6,turn on kettle
+P02_108_103,221.49,222.45,pick up glass
+P02_108_104,223.95,224.5,put down glass
+P02_108_105,225.07,226.06,open flour bag
+P02_108_106,226.15,227.37,shake flour bag
+P02_108_107,227.91,233.83,close flour bag
+P02_108_108,234.27,235.11,pick up glass
+P02_108_109,236.07,237.66,put down glass next to sink
+P02_108_11,28.93,30.26,take ladder
+P02_108_110,237.92,239.32,open cupboard
+P02_108_111,239.55,240.65,pick up glass
+P02_108_112,240.8,241.71,close cupboard
+P02_108_113,241.97,243.47,put down glass
+P02_108_114,244.1,245.57,rub hands
+P02_108_115,245.48,247.16,pick up processor bowl
+P02_108_116,247.03,251.28,lock bowl into food processor
+P02_108_117,251.38,253.4,lock lid into processor
+P02_108_118,254.85,255.87,pick up bag
+P02_108_119,256.21,257.88,fold bag
+P02_108_12,30.35,32.36,open ladder
+P02_108_120,257.98,262.42,put down bag
+P02_108_121,263.12,264.65,close drawer
+P02_108_122,269.22,272.41,hold kettle
+P02_108_123,270.58,303.65,turn off kettle
+P02_108_124,303.39,305.2,pick up kettle
+P02_108_125,305.14,311.87,pour hot water from kettle into glass
+P02_108_126,311.55,313.24,pick up glass
+P02_108_127,313.34,316.0,pour more hot water into glass
+P02_108_128,316.1,317.46,put down kettle
+P02_108_129,317.33,322.59,pick up water filter
+P02_108_13,32.0,35.42,step on ladder
+P02_108_130,322.49,328.06,pour cold water into glass
+P02_108_131,328.5,330.11,put down kettle
+P02_108_132,330.21,332.05,put down glass
+P02_108_133,332.15,333.15,test water temperature
+P02_108_134,333.68,334.46,pick up glass
+P02_108_135,337.71,338.96,pour some water from glass into sink
+P02_108_136,340.41,341.21,test water temperature
+P02_108_137,342.59,343.56,pick up water filter
+P02_108_138,344.01,347.91,pour cold water into glass
+P02_108_139,349.11,350.26,put down water filter
+P02_108_14,35.4,36.77,open cupboard
+P02_108_140,349.75,353.19,put down glass
+P02_108_141,353.38,355.72,test water temperature
+P02_108_142,356.08,357.04,pick up glass
+P02_108_143,356.83,363.85,pour warm water from glass into sink
+P02_108_144,364.65,368.74,put down glass
+P02_108_145,369.19,370.97,pick up water filter
+P02_108_146,369.62,374.01,pour cold water into glass from filter
+P02_108_147,374.1,376.08,put down water filter
+P02_108_148,376.12,377.53,test water temperature
+P02_108_149,377.63,380.03,open drawer
+P02_108_15,36.78,38.16,pick up flour bag
+P02_108_150,380.13,381.79,pick up spoon
+P02_108_151,381.2,382.54,close drawer
+P02_108_152,385.49,387.65,pick up oil bottle
+P02_108_153,388.3,391.45,open oil bottle
+P02_108_154,391.64,392.76,put down bottle cap
+P02_108_155,392.95,395.1,pour oil from bottle into spoon
+P02_108_156,395.39,396.04,pour oil from spoon into bowl
+P02_108_157,400.39,401.39,pour oil from bottle into spoon
+P02_108_158,401.35,402.05,pour oil from spoon into bowl
+P02_108_159,402.25,403.55,put down oil bottle
+P02_108_16,38.26,39.99,put down flour
+P02_108_160,403.72,406.3,pick up glass of water
+P02_108_161,404.0,409.14,pour water from glass into bowl
+P02_108_162,409.19,410.44,put down glass
+P02_108_163,410.54,443.81,mix mixture in bowl using spoon
+P02_108_164,443.87,444.81,pick up bottle cap
+P02_108_165,444.99,447.81,close oil bottle
+P02_108_166,447.79,463.52,mix mixture in bowl using spoon
+P02_108_167,463.11,466.14,clear spoon from any mixture
+P02_108_168,466.24,467.73,put down spoon
+P02_108_169,467.8,472.39,mix mixture using hand in bowl
+P02_108_17,40.07,43.73,pick up biscuit
+P02_108_170,472.2,475.67,open flour bag
+P02_108_171,474.52,478.56,pick some flour from bag using hand
+P02_108_172,479.17,480.12,pour flour from hand into bowl
+P02_108_173,480.42,490.68,mix dough using hand
+P02_108_174,491.02,493.0,pick up flour from bag using hand
+P02_108_175,494.06,495.16,add flour from hand into bowl
+P02_108_176,495.01,535.89,mix dough
+P02_108_177,536.28,540.16,open oil bottle
+P02_108_178,540.09,540.78,put down bottle cap
+P02_108_179,541.5,548.33,mix dough
+P02_108_18,43.83,45.92,put biscuit in cupboard
+P02_108_180,543.3,548.94,remove dough from bowl
+P02_108_181,549.14,549.93,pick up oil bottle
+P02_108_182,549.96,551.78,pour oil from bottle into bowl
+P02_108_183,551.74,553.15,put down oil bottle
+P02_108_184,553.44,580.57,shape dough using both hands
+P02_108_185,580.25,595.72,put ball of dough inside bowl
+P02_108_186,585.67,598.17,pick up dough using both hands
+P02_108_187,597.12,614.38,shape dough again using both hands
+P02_108_188,614.11,641.15,put ball of dough into bowl
+P02_108_189,645.98,647.64,open tap
+P02_108_19,45.97,47.67,pick up biscuit
+P02_108_190,648.11,652.58,clean hands
+P02_108_191,666.32,667.67,close tap
+P02_108_192,668.84,670.84,dry hands using towel
+P02_108_193,674.15,675.66,open drawer
+P02_108_194,675.61,676.49,close drawer
+P02_108_195,676.85,677.58,open drawer
+P02_108_196,677.74,678.09,pick up towels
+P02_108_197,679.34,679.74,put down towels
+P02_108_198,679.43,680.57,stretch towel
+P02_108_199,680.54,682.31,cover dough using towel
+P02_108_2,5.34,6.39,pick up biscuits
+P02_108_20,47.77,49.53,put biscuits in cupboard
+P02_108_200,682.33,683.54,pick up second towel
+P02_108_201,682.97,685.4,cover bowl using towel
+P02_108_202,685.37,686.26,pick up covered bowl
+P02_108_203,688.92,691.74,put down bowl
+P02_108_204,693.22,693.69,pick up bottle cap
+P02_108_205,693.69,696.35,close oil bottle
+P02_108_206,696.31,697.4,pick up spoon and knife
+P02_108_207,697.5,698.02,pick up salt
+P02_108_208,699.91,702.53,"put down spoon, knife and salt"
+P02_108_209,702.51,703.57,pick up apron
+P02_108_21,50.02,51.38,pick up biscuits
+P02_108_210,705.86,716.02,wear apron
+P02_108_211,709.0,712.86,tie apron
+P02_108_212,716.71,718.35,pick up strainer
+P02_108_213,718.43,719.38,pick up juicer
+P02_108_214,718.98,719.72,put down strainer
+P02_108_215,720.02,720.7,pick up strainer
+P02_108_216,721.21,721.81,pick up pot
+P02_108_217,723.18,723.95,open cupboard
+P02_108_218,724.0,726.38,put pot and strainer into cupboard
+P02_108_219,725.93,727.62,close cupboard
+P02_108_22,51.29,52.49,put biscuits in cupboard
+P02_108_220,728.24,731.68,pick up tupperware
+P02_108_221,729.64,731.59,shake tupperware
+P02_108_222,731.63,732.59,put down tupperware
+P02_108_223,732.79,736.99,wear gloves
+P02_108_224,736.97,741.54,empty sink
+P02_108_225,741.04,742.03,empty pan from water
+P02_108_226,742.39,743.73,put down pan
+P02_108_227,755.06,756.81,open tap
+P02_108_228,762.49,763.72,close tap
+P02_108_229,763.52,764.1,pick up sponge
+P02_108_23,53.13,54.53,pick up biscuits
+P02_108_230,764.17,765.32,put down sponge
+P02_108_231,764.83,765.57,pick up washing liquid
+P02_108_232,765.65,767.18,put washing liquid on sponge
+P02_108_233,767.25,767.78,put down washing liquid
+P02_108_234,767.7,779.89,sponge pan
+P02_108_235,779.81,781.22,open tap
+P02_108_236,781.02,783.57,rinse sponge
+P02_108_237,783.43,787.06,squeeze sponge
+P02_108_238,786.93,787.46,put down sponge
+P02_108_239,787.32,795.96,rinse pan
+P02_108_24,54.69,55.14,put biscuits in cupboard
+P02_108_240,795.59,796.57,close tap
+P02_108_241,796.71,797.62,pick up sponge
+P02_108_242,797.93,798.9,pick up washing liquid
+P02_108_243,798.86,800.25,pour washing liquid onto sponge
+P02_108_244,800.29,800.99,put down washing liquid
+P02_108_245,801.04,810.93,sponge pan
+P02_108_246,812.04,812.57,put down sponge
+P02_108_247,812.74,813.91,open tap
+P02_108_248,824.82,827.12,close tap
+P02_108_249,827.34,829.61,put down pan
+P02_108_25,56.24,56.79,pick up biscuits
+P02_108_250,829.71,840.74,empty sink
+P02_108_251,838.44,839.44,pick up tongs
+P02_108_252,839.74,840.14,put down tongs
+P02_108_253,840.41,847.09,empty sink
+P02_108_254,846.96,848.81,open tap
+P02_108_255,848.63,856.24,rinse sink
+P02_108_256,855.98,856.6,close tap
+P02_108_257,856.79,857.29,pick up strainer
+P02_108_258,859.21,859.84,open bin
+P02_108_259,859.9,861.99,empty strainer in bin
+P02_108_26,57.52,58.7,put biscuits in cupboard
+P02_108_260,862.09,862.66,close bin
+P02_108_261,863.66,866.12,put back sink strainer
+P02_108_262,866.27,866.73,pick up sponge
+P02_108_263,866.76,867.5,open tap
+P02_108_264,867.55,868.06,rinse sponge
+P02_108_265,868.09,868.66,close tap
+P02_108_266,868.61,869.25,squeeze sponge
+P02_108_267,869.4,869.88,pick up tong
+P02_108_268,869.84,872.98,sponge tongs
+P02_108_269,874.63,875.21,put down sponge
+P02_108_27,59.18,59.94,pick up tin
+P02_108_270,875.22,876.14,open tap
+P02_108_271,874.0,882.52,rinse tongs
+P02_108_272,882.49,883.19,close tap
+P02_108_273,883.02,883.91,put down tongs
+P02_108_274,883.97,885.02,pick up spoon
+P02_108_275,885.06,885.85,pick up sponge
+P02_108_276,885.74,887.56,sponge spoon
+P02_108_277,886.84,888.41,put down sponge
+P02_108_278,888.35,889.2,open tap
+P02_108_279,889.22,891.1,rinse spoon
+P02_108_28,60.46,61.25,put tin in cupboard
+P02_108_280,891.18,891.93,close tap
+P02_108_281,891.73,892.9,put down spoon
+P02_108_282,893.0,893.62,pick up glass
+P02_108_283,893.67,894.46,open tap
+P02_108_284,894.56,895.73,rinse glass
+P02_108_285,894.66,895.65,close tap
+P02_108_286,895.71,896.5,pick up sponge
+P02_108_287,896.44,904.25,sponge glass
+P02_108_288,904.27,904.78,put down sponge
+P02_108_289,904.88,905.76,open tap
+P02_108_29,61.3,62.97,close cupboard
+P02_108_290,905.65,910.32,rinse glass
+P02_108_291,909.99,911.08,close tap
+P02_108_292,910.71,914.35,put down gloves
+P02_108_293,914.82,915.72,pick up knife and spoon
+P02_108_294,915.71,916.39,pick up sponge
+P02_108_295,916.04,920.06,sponge spoon
+P02_108_296,920.84,926.48,sponge knife
+P02_108_297,926.47,927.14,put down sponge
+P02_108_298,927.02,927.94,open tap
+P02_108_299,927.99,929.67,rinse knife
+P02_108_3,6.47,7.38,pick up biscuits
+P02_108_30,64.0,67.81,step off ladder
+P02_108_300,929.72,930.29,put down knife
+P02_108_301,929.69,930.77,rinse spoon
+P02_108_302,931.3,935.91,empty sink
+P02_108_303,935.35,936.47,close tap
+P02_108_304,936.84,938.63,put down spoon
+P02_108_305,938.57,941.0,empty sink
+P02_108_306,941.83,942.53,shake hands
+P02_108_307,942.27,944.6,take off gloves
+P02_108_308,947.48,950.3,pick up sponge
+P02_108_309,949.86,954.24,clean surface
+P02_108_31,64.19,66.91,close ladder
+P02_108_310,954.11,956.71,open tap
+P02_108_311,953.96,955.93,rinse sponge
+P02_108_312,955.93,956.95,close tap
+P02_108_313,956.91,957.86,squeeze sponge
+P02_108_314,957.96,960.95,throw sponge
+P02_108_315,962.9,964.9,open tap
+P02_108_316,964.64,966.69,rinse hands
+P02_108_317,966.38,967.68,close tap
+P02_108_318,967.78,969.22,shake hands
+P02_108_319,969.16,972.13,dry hands using towel
+P02_108_32,67.15,68.48,put away ladder
+P02_108_320,971.14,975.49,move oil bottle
+P02_108_321,975.95,977.55,pick up tin cover
+P02_108_322,978.54,979.19,open bin
+P02_108_323,979.23,979.67,throw cover
+P02_108_324,979.7,980.55,close bin
+P02_108_325,981.97,983.12,close flour bag
+P02_108_326,984.71,986.07,move flour bag
+P02_108_327,986.84,987.65,pick up bread
+P02_108_328,989.61,991.02,put down bread
+P02_108_329,994.0,995.63,open fridge
+P02_108_33,68.58,69.66,pick up flour bag
+P02_108_330,995.73,996.38,open drawer
+P02_108_331,996.44,1000.4,pick up oranges
+P02_108_332,1000.54,1001.46,close drawer
+P02_108_333,1001.33,1002.08,close fridge
+P02_108_334,1002.9,1004.29,put down oranges
+P02_108_335,1010.85,1012.1,open drawer
+P02_108_336,1012.47,1013.17,pick up compost bags
+P02_108_337,1013.2,1017.97,get one compost bag
+P02_108_338,1014.21,1017.75,tear compost bag
+P02_108_339,1019.08,1026.06,stretch open compost bag
+P02_108_34,69.74,72.63,put down flour bag
+P02_108_340,1026.03,1030.93,put compost bag in compost bin
+P02_108_341,1031.06,1032.28,open drawer
+P02_108_342,1032.13,1033.26,get knife
+P02_108_343,1033.09,1033.87,close drawer
+P02_108_344,1035.8,1038.82,cut orange
+P02_108_345,1039.48,1042.33,cut orange
+P02_108_346,1043.03,1045.27,cut orange
+P02_108_347,1045.44,1046.69,put down knife
+P02_108_348,1046.79,1048.77,pick up juicer parts
+P02_108_349,1051.3,1052.94,unlock processor cover
+P02_108_35,72.58,73.9,move water filter
+P02_108_350,1053.42,1054.35,put down cover
+P02_108_351,1054.01,1059.73,attach juicer parts
+P02_108_352,1059.83,1062.02,move oil bottle
+P02_108_353,1062.04,1063.77,pick up half orange
+P02_108_354,1063.66,1064.6,press half orange onto juicer
+P02_108_355,1064.62,1065.5,press button
+P02_108_356,1065.06,1069.88,squeeze orange
+P02_108_357,1069.44,1072.71,press button
+P02_108_358,1072.4,1074.02,throw orange peel in compost bin
+P02_108_359,1074.12,1075.26,pick up half orange
+P02_108_36,77.04,78.32,open cupboard
+P02_108_360,1075.13,1075.89,press half orange onto juicer
+P02_108_361,1075.51,1076.14,press button
+P02_108_362,1076.24,1079.48,squeeze orange
+P02_108_363,1081.04,1082.24,press button
+P02_108_364,1083.18,1084.25,throw orange peel
+P02_108_365,1084.31,1085.33,pick up half orange
+P02_108_366,1085.43,1087.2,press half orange onto juicer
+P02_108_367,1085.4,1086.81,press button
+P02_108_368,1086.91,1091.49,squeeze orange
+P02_108_369,1091.59,1092.89,press button
+P02_108_37,78.24,80.52,pick up several bowls
+P02_108_370,1093.69,1094.2,throw orange peel
+P02_108_371,1094.79,1096.08,pick up half orange
+P02_108_372,1096.34,1096.89,press orange onto juicer
+P02_108_373,1096.96,1097.42,press button
+P02_108_374,1097.52,1102.61,squeeze orange
+P02_108_375,1102.66,1104.8,press button
+P02_108_376,1105.48,1106.74,throw orange peel
+P02_108_377,1107.09,1107.78,pick half orange
+P02_108_378,1107.88,1108.54,press orange onto juicer
+P02_108_379,1108.64,1109.13,press button
+P02_108_38,80.54,81.27,put bowls on floor
+P02_108_380,1109.24,1115.54,squeeze orange
+P02_108_381,1115.27,1116.77,press button
+P02_108_382,1118.12,1118.63,throw orange peel
+P02_108_383,1118.69,1119.22,put pick up orange
+P02_108_384,1119.33,1119.77,press orange onto juicer
+P02_108_385,1119.78,1120.24,press button
+P02_108_386,1120.28,1130.4,squeeze orange
+P02_108_387,1130.46,1131.05,press button
+P02_108_388,1132.33,1132.82,throw orange peel
+P02_108_389,1132.91,1134.08,close compost bin
+P02_108_39,81.8,82.7,return some bowls
+P02_108_390,1135.66,1138.28,unlock juicer
+P02_108_391,1135.0,1138.49,pick up juicer
+P02_108_392,1138.26,1142.05,put down juicer
+P02_108_393,1142.2,1146.2,unlock cover
+P02_108_394,1146.22,1147.52,put cover in sink
+P02_108_395,1150.1,1152.14,open cupboard
+P02_108_396,1151.67,1153.82,pick up glass
+P02_108_397,1153.76,1154.58,close cupboard
+P02_108_398,1155.17,1156.29,move salt
+P02_108_399,1156.39,1157.01,put down glass
+P02_108_4,7.48,8.6,pick up biscuits
+P02_108_40,82.68,84.7,pick up bowl from floor
+P02_108_400,1157.11,1158.67,pick up juicer bowl
+P02_108_401,1157.99,1162.95,pour orange juice from bowl into glass
+P02_108_402,1163.05,1164.92,open tap
+P02_108_403,1164.57,1167.1,rinse juicer bowl
+P02_108_404,1167.05,1168.13,close tap
+P02_108_405,1168.23,1176.94,sponge bowl
+P02_108_406,1176.98,1177.48,put down sponge
+P02_108_407,1177.4,1178.36,open tap
+P02_108_408,1178.46,1181.0,rinse bowl
+P02_108_409,1181.09,1182.37,close tap
+P02_108_41,83.84,84.4,close cupboard
+P02_108_410,1182.73,1185.26,put down bowl
+P02_108_411,1186.01,1186.72,pick up juicer part
+P02_108_412,1187.05,1188.14,sponge juicer part
+P02_108_413,1188.24,1189.54,open tap
+P02_108_414,1189.38,1194.99,rinse part
+P02_108_415,1195.06,1195.78,close tap
+P02_108_416,1196.87,1197.64,put down part
+P02_108_417,1198.69,1199.69,pick up juicer cover
+P02_108_418,1202.68,1203.11,open bin
+P02_108_419,1203.96,1206.42,empty juicer cover
+P02_108_42,84.05,88.06,put down bowl
+P02_108_420,1206.45,1207.55,close bin
+P02_108_421,1206.0,1209.47,open tap
+P02_108_422,1209.54,1217.09,rinse cover
+P02_108_423,1217.02,1219.67,close tap
+P02_108_424,1219.63,1220.66,pick up sponge
+P02_108_425,1220.74,1221.59,squeeze sponge
+P02_108_426,1221.93,1222.89,pick up washing liquid
+P02_108_427,1222.9,1224.67,pour washing liquid onto sponge
+P02_108_428,1224.59,1225.25,put down washing liquid
+P02_108_429,1225.63,1237.61,sponge cover
+P02_108_43,90.81,91.66,open cupboard
+P02_108_430,1237.21,1237.87,put down sponge
+P02_108_431,1237.56,1239.0,open tap
+P02_108_432,1238.92,1247.11,rinse cover
+P02_108_433,1247.14,1247.94,close tap
+P02_108_434,1248.54,1249.56,put down cover
+P02_108_435,1249.56,1250.63,pick up juicer part
+P02_108_436,1250.31,1251.88,sponge juicer part
+P02_108_437,1251.9,1252.36,put down sponge
+P02_108_438,1252.77,1253.26,open tap
+P02_108_439,1253.52,1255.56,rinse part
+P02_108_44,92.42,93.02,pick up glass
+P02_108_440,1255.61,1256.6,close tap
+P02_108_441,1256.97,1257.98,put down part
+P02_108_442,1258.77,1268.65,empty sink
+P02_108_443,1268.75,1270.16,open tap
+P02_108_444,1270.26,1271.35,rinse hands
+P02_108_445,1271.08,1271.85,close tap
+P02_108_446,1272.19,1273.06,shake hands
+P02_108_447,1273.43,1277.63,dry hands using towel
+P02_108_448,1277.62,1285.6,remove apron
+P02_108_449,1285.51,1287.84,put apron on ladder
+P02_108_45,93.12,93.63,close cupboard
+P02_108_450,1289.03,1290.0,pick up orange juice glass
+P02_108_46,95.32,95.88,put glass inside bowl
+P02_108_47,95.3,97.1,open flour bag
+P02_108_48,97.2,97.96,pick up flour bag
+P02_108_49,98.82,100.39,pour flour from bag into glass
+P02_108_5,8.7,11.47,pick up biscuits
+P02_108_50,102.79,105.8,pour flour from glass into bowl
+P02_108_51,105.76,107.45,return glass to bowl
+P02_108_52,107.74,111.92,pour flour from bag into glass
+P02_108_53,111.78,117.11,pour flour from glass into bowl
+P02_108_54,117.52,118.33,put down glass
+P02_108_55,118.43,122.23,close flour bag
+P02_108_56,124.18,132.96,clean surface from excess flour
+P02_108_57,132.98,135.62,open bin
+P02_108_58,135.43,137.7,rub hands
+P02_108_59,137.22,138.63,throw excess flour
+P02_108_6,11.47,16.06,put down biscuits
+P02_108_60,138.25,139.69,close bin
+P02_108_61,138.0,140.55,pick up tin of yeast
+P02_108_62,140.54,142.29,open tin of yeast
+P02_108_63,142.83,150.15,peel cover off tin
+P02_108_64,150.1,150.94,put down cover
+P02_108_65,151.85,152.9,open drawer
+P02_108_66,152.92,154.72,pick up spoon
+P02_108_67,154.4,155.49,close drawer
+P02_108_68,155.6,156.42,pick up tin of yeast
+P02_108_69,156.4,159.54,scoop one spoon of yeast
+P02_108_7,22.69,23.94,empty bag
+P02_108_70,159.64,160.89,pour yeast into bowl
+P02_108_71,161.53,162.28,scoop half spoon of yeast
+P02_108_72,162.97,164.01,pour yeast into bowl
+P02_108_73,163.82,164.75,put down spoon
+P02_108_74,164.54,165.45,pick up lid
+P02_108_75,165.9,166.82,close tin of yeast
+P02_108_76,168.9,169.49,open fridge
+P02_108_77,170.23,172.43,put tin in fridge
+P02_108_78,172.59,174.06,close fridge
+P02_108_79,176.19,177.85,pick up sugar jar
+P02_108_8,23.88,25.34,pick up tin
+P02_108_80,178.9,179.53,open sugar jar
+P02_108_81,180.09,182.89,scoop one spoon of sugar
+P02_108_82,182.7,183.44,pour sugar into bowl
+P02_108_83,183.54,185.23,scoop one spoon of sugar
+P02_108_84,185.22,185.8,pour sugar into bowl
+P02_108_85,186.8,187.1,pick up lid
+P02_108_86,187.3,188.23,close jar of sugar
+P02_108_87,188.3,189.1,put down jar
+P02_108_88,191.2,192.08,pick up salt
+P02_108_89,194.94,196.0,open drawer
+P02_108_9,25.45,28.15,put down biscuits
+P02_108_90,196.1,197.47,pick up spoon
+P02_108_91,197.66,202.93,pour salt into spoon
+P02_108_92,202.59,203.24,pour salt from spoon into bowl
+P02_108_93,203.75,204.55,put down spoon
+P02_108_94,204.47,205.53,put down salt
+P02_108_95,208.55,209.39,open kettle
+P02_108_96,209.49,211.25,pick up kettle
+P02_108_97,211.7,212.99,open tap
+P02_108_98,212.95,214.63,fill kettle with water
+P02_108_99,214.65,215.16,close tap

@@ -1,0 +1,123 @@
+P30_110_0,0.75,1.25,turn on lights
+P30_110_1,2.8,3.65,put down plate
+P30_110_10,15.23,16.06,turn off tap
+P30_110_100,203.4,206.67,empty washing up bowl
+P30_110_101,208.48,211.42,dry hands
+P30_110_102,212.4,214.36,open cupboard
+P30_110_103,213.26,214.46,take plate
+P30_110_104,214.46,215.04,close cupboard
+P30_110_105,215.06,216.05,put down plate
+P30_110_106,216.1,216.66,move sponges
+P30_110_107,217.13,218.25,open fridge
+P30_110_108,218.35,219.95,take hummus
+P30_110_109,219.72,220.59,close fridge
+P30_110_11,16.16,21.29,pick up mug and v60
+P30_110_110,220.69,221.56,put down hummus
+P30_110_111,227.47,228.38,pick up jug
+P30_110_112,228.44,233.6,pour water from jug into v60
+P30_110_113,231.0,236.19,pick up mug and v60
+P30_110_114,236.29,236.85,put down jug
+P30_110_115,236.7,237.95,put down mug and v60
+P30_110_116,238.04,239.04,take pitta bread from toaster
+P30_110_117,239.29,240.09,put pitta bread on chopping board
+P30_110_118,240.24,248.49,cut pitta bread
+P30_110_119,248.74,249.09,put down knife
+P30_110_12,20.49,21.13,put down mug and v60
+P30_110_120,249.69,250.99,put pitta bread pieces onto plate
+P30_110_121,253.07,254.07,move mug and v60 and jug
+P30_110_122,254.14,256.89,put hummus tub on top of plate
+P30_110_13,19.75,21.42,pick up coffee tin
+P30_110_14,21.15,21.7,put down coffee tin
+P30_110_15,21.7,21.95,open coffee tin
+P30_110_16,23.0,23.85,take spoon
+P30_110_17,24.0,26.2,scoop coffee into grinder
+P30_110_18,26.5,27.0,turn on grinder
+P30_110_19,27.55,28.15,take coffee tin lid
+P30_110_2,4.7,6.45,take teabag from mug
+P30_110_20,28.25,29.0,put coffee tin lid on coffee tin
+P30_110_21,29.85,31.0,put coffee tin on top of fridge
+P30_110_22,33.25,33.9,open cupboard
+P30_110_23,34.07,35.63,take bread bin
+P30_110_24,36.28,38.03,open bread bin
+P30_110_25,38.16,39.23,put down bread bin lid
+P30_110_26,39.22,40.97,take pitta bread
+P30_110_27,41.33,42.29,close cupboard
+P30_110_28,42.39,43.29,put pitta into toaster
+P30_110_29,43.39,45.37,turn off grinder
+P30_110_3,4.0,7.23,throw teabag in bin
+P30_110_30,45.29,46.34,turn on toaster
+P30_110_31,46.39,47.33,take ground coffee container
+P30_110_32,47.83,48.92,empty coffee grounds into v60
+P30_110_33,48.91,50.34,put coffee grounds container back into grinder
+P30_110_34,51.2,52.85,pick up mug and v60
+P30_110_35,53.31,54.54,put down mug and v60
+P30_110_36,53.65,54.9,pick up bread bin lid
+P30_110_37,54.8,55.45,put bread bin lid on bread bin
+P30_110_38,55.31,57.6,close bread bin
+P30_110_39,58.65,58.95,open cupboard
+P30_110_4,8.12,9.5,empty tea into sink
+P30_110_40,58.87,60.55,put bread bin in cupboard
+P30_110_41,65.27,66.48,open fridge
+P30_110_42,66.58,67.74,take tupperware
+P30_110_43,69.05,69.54,put tupperware down
+P30_110_44,70.15,71.54,shake saucepan
+P30_110_45,71.78,72.33,open drawer
+P30_110_46,72.68,73.86,take spoon
+P30_110_47,75.47,76.19,pick up tupperware
+P30_110_48,76.11,76.5,close drawer
+P30_110_49,77.93,78.28,put down spoon
+P30_110_5,8.93,11.41,put mug in washing up bowl
+P30_110_50,78.63,79.18,open cupboard
+P30_110_51,80.33,81.13,open cupboard
+P30_110_52,87.69,89.92,close cupboard
+P30_110_53,91.54,91.86,open cupboard
+P30_110_54,91.96,92.44,open cupboard
+P30_110_55,92.49,93.05,close cupboard
+P30_110_56,93.43,94.96,open fridge
+P30_110_57,105.26,107.77,open tupperware
+P30_110_58,108.31,109.3,pick up saucepan
+P30_110_59,109.3,109.82,move tupperware
+P30_110_6,11.27,12.54,turn on kettle
+P30_110_60,110.06,112.12,scrape stir fry
+P30_110_61,112.31,122.4,scrape stir fry into tupperware
+P30_110_62,125.29,126.16,put spoon into saucepan
+P30_110_63,125.0,128.5,pick up tupperware lid
+P30_110_64,127.45,130.49,put tupperware lid on tupperware
+P30_110_65,130.59,131.4,pick up tupperware
+P30_110_66,131.19,132.06,put down tupperware
+P30_110_67,132.04,136.78,pick up saucepan
+P30_110_68,136.43,139.49,turn on tap
+P30_110_69,140.04,142.61,fill saucepan with water
+P30_110_7,12.37,13.51,pick up plate
+P30_110_70,140.69,142.69,turn off tap
+P30_110_71,142.58,144.89,put saucepan on hob
+P30_110_72,144.64,147.7,pick up kettle
+P30_110_73,146.98,147.58,pick up jug
+P30_110_74,147.97,151.96,pour water from kettle into jug
+P30_110_75,151.88,153.86,put down kettle
+P30_110_76,153.72,160.52,pour water from jug into v60
+P30_110_77,160.6,161.57,put down jug
+P30_110_78,163.01,163.39,turn on tap
+P30_110_79,163.08,163.57,pick up sponge
+P30_110_8,13.61,14.49,put plate in washing up bowl
+P30_110_80,163.48,164.13,rinse sponge
+P30_110_81,164.01,164.59,pick up washing up liquid
+P30_110_82,164.54,165.27,apply washing up liquid to sponge
+P30_110_83,163.0,165.51,put down washing up liquid
+P30_110_84,165.56,167.15,pick up mug
+P30_110_85,166.95,170.24,scrub mug
+P30_110_86,169.89,170.43,turn off tap
+P30_110_87,180.4,181.49,turn on tap
+P30_110_88,181.35,189.35,rinse mug
+P30_110_89,184.04,190.54,put mug on drying rack
+P30_110_9,14.47,15.49,turn on tap
+P30_110_90,190.6,191.35,pick up plate
+P30_110_91,191.44,191.7,pick up sponge
+P30_110_92,191.8,194.23,scrub plate
+P30_110_93,193.85,197.47,rinse plate
+P30_110_94,196.92,197.83,pick up sponge
+P30_110_95,197.69,199.03,scrub plate
+P30_110_96,198.85,199.23,put down sponge
+P30_110_97,199.26,201.22,rinse plate
+P30_110_98,201.41,202.37,put plate on drying rack
+P30_110_99,202.51,202.98,turn off tap

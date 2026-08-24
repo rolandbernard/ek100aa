@@ -1,0 +1,105 @@
+P22_108_0,3.47,5.5,turn on light
+P22_108_1,5.85,7.1,turn on tap
+P22_108_10,36.88,37.8,put down glass
+P22_108_100,206.09,207.44,shake hands
+P22_108_101,207.8,208.6,pick up cloth
+P22_108_102,208.7,212.93,dry hands
+P22_108_103,212.24,213.96,put down cloth
+P22_108_104,214.48,215.44,turn off light
+P22_108_11,38.76,39.44,turn on tap
+P22_108_12,39.42,41.12,rinse hands
+P22_108_13,41.48,42.27,pick up glass
+P22_108_14,41.99,47.1,rinse glass
+P22_108_15,47.26,48.42,put down glass
+P22_108_16,47.44,47.82,turn off tap
+P22_108_17,48.23,48.83,shake hands
+P22_108_18,48.96,50.01,pick up cloth
+P22_108_19,49.94,53.88,dry hands
+P22_108_2,7.06,8.15,rinse sponge
+P22_108_20,53.15,54.14,put down cloth
+P22_108_21,56.64,57.81,pick up napkins
+P22_108_22,57.32,59.79,pick glasses
+P22_108_23,61.9,63.21,put down glasses
+P22_108_24,65.29,66.2,pick up bowl
+P22_108_25,67.81,69.44,put down bowl
+P22_108_26,69.23,70.17,open cupboard
+P22_108_27,70.27,71.2,throw napkins
+P22_108_28,71.15,71.78,close cupboard
+P22_108_29,71.63,75.63,pick up place mats
+P22_108_3,8.41,9.45,turn off tap
+P22_108_30,77.27,78.54,adjust place mats
+P22_108_31,78.89,80.03,open drawer
+P22_108_32,80.05,82.52,put down place mats
+P22_108_33,82.33,83.74,close drawer
+P22_108_34,86.48,88.36,move glasses
+P22_108_35,87.66,89.37,move spoon
+P22_108_36,89.47,90.44,pick up bowl
+P22_108_37,90.37,91.82,rinse bowl
+P22_108_38,91.97,92.59,move glass
+P22_108_39,92.48,93.17,empty bowl
+P22_108_4,9.61,20.15,lather sponge
+P22_108_40,93.27,93.96,turn off tap
+P22_108_41,93.96,94.31,pick up sponge
+P22_108_42,94.58,99.39,lather bowl
+P22_108_43,99.45,100.1,put down bowl
+P22_108_44,100.2,101.96,pick up glass
+P22_108_45,100.16,104.16,lather glass
+P22_108_46,104.06,104.84,put down glass
+P22_108_47,104.62,105.44,empty glass
+P22_108_48,105.44,106.18,turn on tap
+P22_108_49,106.87,107.32,turn off tap
+P22_108_5,17.65,18.81,pick up washing up liquid
+P22_108_50,107.28,110.21,rinse glass
+P22_108_51,110.03,110.61,pick up sponge
+P22_108_52,110.66,128.47,lather glass
+P22_108_53,128.57,129.75,put down glass
+P22_108_54,129.57,130.85,pick up spoon
+P22_108_55,131.02,133.22,lather spoon
+P22_108_56,133.22,134.16,put down spoon
+P22_108_57,133.77,134.5,pick up teaspoon
+P22_108_58,134.65,136.71,lather teaspoon
+P22_108_59,136.69,137.39,put down teaspoon
+P22_108_6,18.62,28.6,lather sponge
+P22_108_60,137.31,138.01,turn on tap
+P22_108_61,137.74,138.53,rinse hands
+P22_108_62,138.49,139.22,pick up straw
+P22_108_63,139.32,150.4,rinse straw
+P22_108_64,150.5,150.98,turn off tap
+P22_108_65,151.41,152.54,put down straw
+P22_108_66,153.04,153.66,move tap
+P22_108_67,153.71,154.3,turn on tap
+P22_108_68,154.38,155.46,move tap
+P22_108_69,155.34,156.99,rinse glass
+P22_108_7,28.56,30.89,put down detergent
+P22_108_70,157.09,159.29,put down glass
+P22_108_71,159.39,160.04,pick up glass
+P22_108_72,160.04,164.27,rinse glass
+P22_108_73,164.37,165.51,put down glass
+P22_108_74,165.58,166.83,pick up spoon
+P22_108_75,166.08,167.88,rinse spoons
+P22_108_76,168.79,169.98,put down spoons
+P22_108_77,170.07,170.84,empty bowl
+P22_108_78,170.9,172.84,adjust straw
+P22_108_79,172.43,173.92,rinse bowl
+P22_108_8,30.84,31.53,turn on tap
+P22_108_80,174.53,175.72,put down bowl
+P22_108_81,175.79,176.69,pick up sponge
+P22_108_82,176.75,178.79,rinse sponge
+P22_108_83,178.81,179.83,rinse hand
+P22_108_84,179.23,180.23,put down sponge
+P22_108_85,180.46,182.92,rinse cloth
+P22_108_86,182.77,183.4,turn off tap
+P22_108_87,183.81,189.77,wash sink
+P22_108_88,189.87,191.24,clean counter top
+P22_108_89,191.31,192.21,pick up spoon rest
+P22_108_9,32.69,36.56,lather glass
+P22_108_90,193.09,194.18,put down spoon rest
+P22_108_91,195.1,196.73,wash sink
+P22_108_92,196.24,197.0,turn on tap
+P22_108_93,197.01,199.2,rinse cloth
+P22_108_94,199.27,200.06,turn off tap
+P22_108_95,199.85,202.39,unfold cloth
+P22_108_96,202.12,203.82,put down cloth
+P22_108_97,203.84,204.39,turn on tap
+P22_108_98,203.97,205.59,rinse hands
+P22_108_99,205.69,206.2,turn off tap

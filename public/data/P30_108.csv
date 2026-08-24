@@ -1,0 +1,219 @@
+P30_108_0,12.61,13.76,open kettle
+P30_108_1,13.6,14.72,pick up jug
+P30_108_10,27.97,28.33,close kettle
+P30_108_100,227.96,228.59,pick up sponge
+P30_108_101,230.32,248.59,scrub pan
+P30_108_102,248.44,249.03,put down sponge
+P30_108_103,249.13,249.77,turn on tap
+P30_108_104,249.62,275.9,rinse pan
+P30_108_105,275.94,276.67,turn off tap
+P30_108_106,276.77,279.83,put pan on drying rack
+P30_108_107,280.47,281.91,pick up plate
+P30_108_108,281.4,283.07,put plate in washing up bowl
+P30_108_109,283.25,283.98,pick up sponge
+P30_108_11,35.89,36.84,put down jug
+P30_108_110,283.74,288.66,scrub plate
+P30_108_111,288.75,289.14,put down sponge
+P30_108_112,292.16,292.88,turn on tap
+P30_108_113,292.74,300.2,rinse plate
+P30_108_114,300.21,303.13,put plate in drying rack
+P30_108_115,303.72,304.44,pick up spoon
+P30_108_116,304.55,308.23,scrub spoon
+P30_108_117,308.34,310.27,pick up sponge
+P30_108_118,308.9,313.71,scrub spoon
+P30_108_119,313.98,318.1,rinse spoon
+P30_108_12,38.09,38.98,take tea towel
+P30_108_120,318.5,318.77,pick up sponge
+P30_108_121,318.86,319.2,scrub spoon
+P30_108_122,319.8,321.0,rinse spoon
+P30_108_123,321.55,322.43,put spoon in drying rack
+P30_108_124,323.46,324.27,pick up pan
+P30_108_125,324.49,325.32,turn off tap
+P30_108_126,326.09,327.06,empty water from pan into sink
+P30_108_127,328.04,328.82,pick up sponge
+P30_108_128,328.81,329.98,scrub pan
+P30_108_129,348.0,350.47,dip sponge into water
+P30_108_13,40.18,40.67,open cupboard
+P30_108_130,351.24,351.71,put down sponge
+P30_108_131,352.67,353.33,turn on tap
+P30_108_132,353.07,364.89,rinse pan
+P30_108_133,364.77,365.51,turn off tap
+P30_108_134,366.3,367.01,put pan on drying rack
+P30_108_135,368.09,368.97,pick up sponge
+P30_108_136,369.54,370.06,pick up sponge
+P30_108_137,370.3,371.42,rinse sponge
+P30_108_138,373.42,373.99,wipe surface
+P30_108_139,377.0,377.66,pick up jug
+P30_108_14,41.5,42.16,pick up bowl
+P30_108_140,381.35,382.38,put down jug
+P30_108_141,392.41,394.54,rinse sponge
+P30_108_142,394.61,395.35,pick up sponge
+P30_108_143,395.69,397.27,pick up knife
+P30_108_144,397.08,398.99,scrub knife
+P30_108_145,399.24,399.89,apply washing up liquid to sponge
+P30_108_146,401.14,403.95,scrub knife
+P30_108_147,404.86,405.44,pick up fork
+P30_108_148,404.84,408.49,scrub fork
+P30_108_149,408.0,410.37,pick up fork
+P30_108_15,42.48,44.6,dry bowl
+P30_108_150,410.1,414.01,scrub fork
+P30_108_151,413.45,421.14,rinse cutlery
+P30_108_152,420.57,422.3,turn off tap
+P30_108_153,422.16,425.09,put cutlery in drying rack
+P30_108_154,425.1,425.85,pick up plate
+P30_108_155,425.9,426.28,pick up sponge
+P30_108_156,426.35,431.49,scrub plate
+P30_108_157,431.47,432.17,turn on tap
+P30_108_158,432.27,436.27,rinse plate
+P30_108_159,436.57,437.54,turn on kettle
+P30_108_16,45.02,45.26,open cupboard
+P30_108_160,439.52,440.19,turn off tap
+P30_108_161,440.4,442.19,put plate in drying rack
+P30_108_162,442.28,445.81,empty washing up bowl
+P30_108_163,445.87,446.46,pick up sponges
+P30_108_164,446.55,449.42,wipe surface
+P30_108_165,449.19,449.79,put down sponge
+P30_108_166,452.67,454.12,move pan
+P30_108_167,454.09,461.08,wipe hob
+P30_108_168,461.18,463.51,hit sponge on draining board
+P30_108_169,465.06,468.54,wipe surface
+P30_108_17,45.33,46.01,put bowl
+P30_108_170,468.0,473.05,collect food pieces into hand
+P30_108_171,473.0,474.2,move pan
+P30_108_172,474.98,475.91,move kettle
+P30_108_173,476.12,481.86,wipe surface
+P30_108_174,481.91,482.53,collect pieces into hand
+P30_108_175,483.23,483.96,throw pieces into sink
+P30_108_176,483.98,484.59,turn on tap
+P30_108_177,484.59,485.78,rinse hand
+P30_108_178,486.77,489.06,wet sponge
+P30_108_179,488.46,489.0,turn off tap
+P30_108_18,46.4,47.65,pick up bowl
+P30_108_180,489.1,490.61,empty washing up bowl
+P30_108_181,492.59,497.55,dry hands
+P30_108_182,497.65,500.28,hang tea towel
+P30_108_183,501.5,502.5,take mug
+P30_108_184,502.48,503.26,open cupboard
+P30_108_185,504.92,505.84,open cupboard
+P30_108_186,510.88,511.65,take mug
+P30_108_187,512.02,512.85,put mug
+P30_108_188,512.86,513.57,pick up mug
+P30_108_189,513.34,515.22,hang mug on mug tree
+P30_108_19,47.19,47.96,dry bowl
+P30_108_190,515.19,516.1,take teapot
+P30_108_191,516.4,517.16,take teabag rest off teapot
+P30_108_192,516.92,517.84,put teapot
+P30_108_193,517.94,519.52,take box of tea
+P30_108_194,519.61,520.39,open box of tea
+P30_108_195,521.2,522.47,open drawer
+P30_108_196,523.46,524.38,close cupboard
+P30_108_197,525.12,528.44,scoop tea
+P30_108_198,528.54,529.43,put tea leaves into teapot
+P30_108_199,527.0,528.87,scoop tea leaves
+P30_108_2,14.75,15.42,turn on tap
+P30_108_20,48.85,50.17,put bowl
+P30_108_200,528.67,529.4,put tea leaves into teapot
+P30_108_201,531.99,532.78,close box of tea
+P30_108_202,532.46,533.69,pick up box of tea
+P30_108_203,534.44,535.94,put box of tea into cupboard
+P30_108_204,536.02,537.36,put spoon into drawer
+P30_108_205,537.13,537.65,close drawer
+P30_108_206,537.83,538.89,pick up kettle
+P30_108_207,538.67,547.04,pour water from kettle into teapot
+P30_108_208,547.14,548.62,close teapot lid
+P30_108_209,548.32,548.93,close cupboard
+P30_108_21,50.2,51.76,pick up bowl
+P30_108_210,550.32,552.93,put kettle down
+P30_108_211,552.79,554.17,take apple
+P30_108_212,557.53,558.69,turn on tap
+P30_108_213,559.15,560.19,rinse apple
+P30_108_214,560.24,560.54,turn off tap
+P30_108_215,562.34,567.4,dry apple
+P30_108_216,567.57,569.02,hang tea towel
+P30_108_217,571.13,572.1,put teabag rest on top of teapot
+P30_108_218,572.14,572.71,move mug
+P30_108_22,51.86,53.28,dry bowl
+P30_108_23,53.31,54.85,put bowl
+P30_108_24,54.87,56.58,pick up bowl
+P30_108_25,56.42,58.46,dry bowl
+P30_108_26,57.51,59.11,put bowl
+P30_108_27,59.21,60.61,pick up colander
+P30_108_28,60.7,65.44,dry colander
+P30_108_29,63.0,66.25,open cupboard
+P30_108_3,15.51,17.65,fill up jug with water
+P30_108_30,65.84,67.71,put colander into cupboard
+P30_108_31,67.69,68.94,close cupboard
+P30_108_32,69.35,70.58,close cupboard
+P30_108_33,71.3,72.4,turn on kettle
+P30_108_34,71.6,75.14,turn on tap
+P30_108_35,75.24,76.32,pick up sponge
+P30_108_36,75.97,81.79,wet sponge
+P30_108_37,75.68,76.95,apply washing up liquid to sponge
+P30_108_38,77.05,77.66,wet sponge
+P30_108_39,78.48,79.3,pick up bowl
+P30_108_4,17.4,18.49,turn off tap
+P30_108_40,78.79,83.08,wash bowl
+P30_108_41,82.88,89.8,rinse bowl
+P30_108_42,89.9,90.94,put bowl on drying rack
+P30_108_43,90.71,94.73,adjust bowl
+P30_108_44,94.7,95.84,pick up spoon
+P30_108_45,95.66,96.88,pick up sponge
+P30_108_46,96.86,101.37,scrub spoon
+P30_108_47,101.37,104.77,rinse spoon
+P30_108_48,104.87,105.4,turn off tap
+P30_108_49,105.25,106.11,put spoon in drying rack
+P30_108_5,19.49,21.12,pour water from jug into kettle
+P30_108_50,106.85,108.03,pick up pan
+P30_108_51,107.61,108.12,pick up spoon
+P30_108_52,108.38,109.16,put spoon into pan
+P30_108_53,110.16,110.82,turn on tap
+P30_108_54,110.83,113.05,fill pan with water
+P30_108_55,113.85,114.61,move plate
+P30_108_56,114.95,115.83,put down pan
+P30_108_57,115.93,116.78,pick up sponge
+P30_108_58,116.86,117.62,turn off tap
+P30_108_59,115.96,117.13,put down sponge
+P30_108_6,22.35,22.85,turn on tap
+P30_108_60,116.85,118.6,pick up cutlery and plate
+P30_108_61,118.09,120.27,put cutlery into washing up bowl
+P30_108_62,120.07,120.5,turn on tap
+P30_108_63,121.22,123.39,rinse plate
+P30_108_64,122.97,124.02,turn off tap
+P30_108_65,123.97,124.71,move jug
+P30_108_66,124.81,125.25,put plate
+P30_108_67,124.89,126.16,pick up pan lid
+P30_108_68,129.64,131.89,scrub pan lid
+P30_108_69,135.75,136.01,put down sponge
+P30_108_7,23.06,24.3,fill up jug
+P30_108_70,136.35,137.35,turn on tap
+P30_108_71,137.45,138.95,rinse pan lid
+P30_108_72,138.38,145.08,put pan lid on drying rack
+P30_108_73,143.14,151.39,pick up sponge
+P30_108_74,151.24,153.61,pick up pot
+P30_108_75,151.38,153.79,scrub pot
+P30_108_76,167.0,167.27,put down sponge
+P30_108_77,167.1,167.6,pick up scouring pad
+P30_108_78,168.89,169.89,scour pot
+P30_108_79,177.28,178.34,turn on tap
+P30_108_8,24.4,24.9,turn off tap
+P30_108_80,178.42,180.16,rinse scouring pad
+P30_108_81,179.62,180.57,pick up pot
+P30_108_82,180.67,185.31,rinse pot
+P30_108_83,185.4,186.09,turn off tap
+P30_108_84,186.48,193.64,scour pot
+P30_108_85,195.17,195.55,rinse scouring pad
+P30_108_86,195.6,197.3,turn on tap
+P30_108_87,197.4,198.25,hang scouring pad
+P30_108_88,198.35,200.85,rinse pot
+P30_108_89,199.77,201.44,turn off tap
+P30_108_9,25.98,27.18,pour water from jug into kettle
+P30_108_90,201.23,202.09,pick up sponge
+P30_108_91,202.19,205.47,scrub pot
+P30_108_92,212.63,213.92,turn on tap
+P30_108_93,213.73,220.7,rinse pot
+P30_108_94,218.87,221.56,put pot in drying rack
+P30_108_95,221.66,222.98,turn off tap
+P30_108_96,221.66,224.59,take pan from washing up bowl
+P30_108_97,224.05,224.81,pick up sponge
+P30_108_98,224.91,226.07,put sponge in pan
+P30_108_99,226.08,227.43,apply washing up liquid to pan

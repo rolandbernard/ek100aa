@@ -1,0 +1,62 @@
+P01_107_0,2.68,4.52,close door
+P01_107_1,6.39,7.68,pick up plate
+P01_107_10,19.82,20.49,put down soy milk
+P01_107_11,21.32,21.97,open cupboard
+P01_107_12,21.98,23.26,take cereals
+P01_107_13,23.13,23.86,close cupboard
+P01_107_14,23.79,25.21,put down cereals
+P01_107_15,25.89,27.0,pick up cup
+P01_107_16,26.99,27.95,put down cup
+P01_107_17,28.1,28.75,take cereals
+P01_107_18,28.75,30.4,open cereals box
+P01_107_19,29.58,31.79,pick up cereal bag
+P01_107_2,8.13,9.31,put down plate
+P01_107_20,31.89,37.44,open cereal bag
+P01_107_21,37.54,44.29,pour cereals into cup
+P01_107_22,45.11,45.81,take bread
+P01_107_23,45.91,46.51,put bread into container
+P01_107_24,46.55,49.81,fold cereals bag
+P01_107_25,49.91,51.47,put cereals bag into cereals box
+P01_107_26,51.54,52.88,close cereals box
+P01_107_27,53.32,54.21,pick up cereals box
+P01_107_28,55.23,56.24,open cupboard
+P01_107_29,56.28,56.79,put cereals into cupboard
+P01_107_3,10.93,12.31,open fridge
+P01_107_30,57.09,57.84,close cupboard
+P01_107_31,58.21,59.23,pick up soy milk
+P01_107_32,58.56,60.86,shake soy milk
+P01_107_33,61.09,61.85,open bottle
+P01_107_34,62.12,70.64,pour soy milk
+P01_107_35,73.35,74.15,turn on tap
+P01_107_36,73.69,75.29,pour water into bottle
+P01_107_37,74.8,75.35,turn off tap
+P01_107_38,75.16,76.51,rinse bottle
+P01_107_39,76.43,79.12,empty bottle
+P01_107_4,13.33,14.14,pick up food containers
+P01_107_40,79.18,80.28,turn on tap
+P01_107_41,79.69,81.49,pour water into bottle
+P01_107_42,80.14,81.93,turn off tap
+P01_107_43,81.39,83.27,rinse bottle
+P01_107_44,83.01,85.51,empty bottle
+P01_107_45,85.61,92.36,crush bottle
+P01_107_46,95.24,96.15,open bin
+P01_107_47,96.14,96.53,put cap into bin
+P01_107_48,96.51,97.17,put bottle into bin
+P01_107_49,97.0,97.75,close bin
+P01_107_5,15.01,15.56,put down food containers
+P01_107_50,99.6,100.3,open drawer
+P01_107_51,100.16,100.97,take up tea towel
+P01_107_52,100.83,101.59,close drawer
+P01_107_53,101.75,102.45,open drawer
+P01_107_54,102.73,103.17,move cutlery tray
+P01_107_55,103.33,104.73,pick up spoon
+P01_107_56,105.06,106.03,put spoon into cup
+P01_107_57,106.19,107.43,close drawer
+P01_107_58,107.38,109.44,pick up cup
+P01_107_59,113.14,113.72,put down cup
+P01_107_6,16.07,16.87,close fridge
+P01_107_60,113.77,114.93,unfold tea towel
+P01_107_61,115.73,117.37,lay tea towel
+P01_107_7,17.6,18.28,open fridge
+P01_107_8,18.22,18.99,pick up soy milk
+P01_107_9,19.06,19.85,close fridge

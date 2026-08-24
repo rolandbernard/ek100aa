@@ -1,0 +1,129 @@
+P06_102_0,4.19,6.17,open cupboard
+P06_102_1,7.22,8.47,close cupboard
+P06_102_10,42.24,43.85,put lid on pan
+P06_102_100,640.96,642.93,put rubbish in bin
+P06_102_101,643.36,644.01,turn off tap
+P06_102_102,644.55,652.95,wipe counter
+P06_102_103,653.95,654.56,pick up scales
+P06_102_104,654.98,655.8,open cupboard
+P06_102_105,656.11,656.92,put scales in cupboard
+P06_102_106,657.1,657.6,close cupboard
+P06_102_107,658.21,658.92,pick up sponge
+P06_102_108,659.02,661.89,wipe counter
+P06_102_109,661.87,663.86,turn on tap
+P06_102_11,43.95,45.38,taste spoon
+P06_102_110,663.04,668.04,rinse sponge
+P06_102_111,668.3,668.77,turn off tap
+P06_102_112,668.76,670.39,pick up towel
+P06_102_113,670.06,671.64,dry hands
+P06_102_114,671.73,672.39,put down towel
+P06_102_115,672.77,674.81,open drawer
+P06_102_116,675.18,679.2,pick up cling film
+P06_102_117,679.21,680.44,close drawer
+P06_102_118,679.89,686.56,unravel cling film
+P06_102_119,686.66,691.6,put cling film over bowl
+P06_102_12,45.43,47.85,put down spoon
+P06_102_120,709.69,710.5,pick up knife
+P06_102_121,710.57,712.48,cut cling film
+P06_102_122,713.94,714.92,put down cling film
+P06_102_123,714.84,718.07,wrap bowl in cling film
+P06_102_124,718.17,721.39,pick up bowl
+P06_102_125,720.39,722.69,put down bowl
+P06_102_126,724.11,725.08,pick up cling film
+P06_102_127,725.07,726.59,open drawer
+P06_102_128,726.58,727.36,put cling film in drawer
+P06_102_129,727.24,728.32,close drawer
+P06_102_13,48.2,49.41,open cupboard
+P06_102_14,50.62,52.33,pick up flour
+P06_102_15,53.03,55.56,close cupboard
+P06_102_16,55.66,78.3,open flour
+P06_102_17,88.57,99.08,sieve flour
+P06_102_18,99.18,106.75,pour flour into sieve
+P06_102_19,108.54,117.55,sieve flour
+P06_102_2,9.91,11.81,open cupboard
+P06_102_20,117.86,133.32,pour flour into sieve
+P06_102_21,134.32,136.6,scrunch up bag
+P06_102_22,134.12,137.88,put bag in recycling
+P06_102_23,138.93,165.51,sieve flour
+P06_102_24,166.49,169.65,put down sieve
+P06_102_25,169.68,171.81,open cupboard
+P06_102_26,171.83,173.51,pick up scales
+P06_102_27,173.49,175.8,close cupboard
+P06_102_28,175.83,177.96,put down scales
+P06_102_29,177.8,179.39,put bowl on scales
+P06_102_3,11.91,14.01,take out bowl
+P06_102_30,181.14,182.73,pick up salt
+P06_102_31,183.16,195.11,pour salt into bowl
+P06_102_32,195.65,196.85,put down salt
+P06_102_33,197.6,200.1,pick up bowl
+P06_102_34,200.2,201.83,move scales
+P06_102_35,200.15,202.3,put down scales
+P06_102_36,207.14,208.58,pick up yeast
+P06_102_37,208.68,211.07,open yeast box
+P06_102_38,210.54,214.29,pull out sachet
+P06_102_39,214.74,218.89,open sachet
+P06_102_4,15.01,16.91,take out sieve
+P06_102_40,220.13,222.7,open drawer
+P06_102_41,222.8,224.93,pick up knife
+P06_102_42,224.94,228.25,cut sachet
+P06_102_43,228.16,228.91,put down knife
+P06_102_44,228.97,229.8,close drawer
+P06_102_45,244.2,252.68,pour yeast into bowl
+P06_102_46,252.28,253.91,put down yeast
+P06_102_47,253.76,254.67,pick up bowl
+P06_102_48,259.36,260.85,pick up kettle
+P06_102_49,257.16,261.95,turn on tap
+P06_102_5,17.99,19.26,put down bowl and sieve
+P06_102_50,261.5,262.36,open kettle
+P06_102_51,266.27,268.42,empty kettle
+P06_102_52,268.87,272.05,fill kettle
+P06_102_53,272.49,274.66,turn off tap
+P06_102_54,275.3,275.9,close kettle
+P06_102_55,276.99,277.55,move glass
+P06_102_56,277.83,279.27,put down kettle
+P06_102_57,281.46,282.72,pick up kettle
+P06_102_58,283.17,288.44,pour water into bowl
+P06_102_59,288.64,294.1,mix dough
+P06_102_6,19.36,20.21,close cupboard
+P06_102_60,316.51,320.08,pour water into bowl
+P06_102_61,320.18,330.75,mix dough
+P06_102_62,330.39,334.55,pour water into bowl
+P06_102_63,334.94,359.86,mix dough
+P06_102_64,359.85,363.73,pour water into bowl
+P06_102_65,364.06,387.76,mix dough
+P06_102_66,387.97,391.84,pour water into bowl
+P06_102_67,391.91,413.43,mix dough
+P06_102_68,413.53,415.91,move scales
+P06_102_69,416.01,417.27,move yeast
+P06_102_7,21.67,22.8,pick up spoon
+P06_102_70,418.36,439.1,mix dough
+P06_102_71,439.49,442.07,pour water into bowl
+P06_102_72,443.06,482.04,mix dough
+P06_102_73,482.5,499.14,get dough off hands
+P06_102_74,499.43,511.67,mix dough
+P06_102_75,511.67,516.82,knead dough
+P06_102_76,516.86,519.87,pour water into bowl
+P06_102_77,519.93,576.46,knead dough
+P06_102_78,574.39,587.11,press dough
+P06_102_79,588.21,591.05,turn on tap
+P06_102_8,22.74,24.78,take lid off pan
+P06_102_80,590.42,605.91,wash hands
+P06_102_81,606.85,607.25,turn off tap
+P06_102_82,607.49,607.9,shake hands
+P06_102_83,608.55,610.09,squeeze sponge
+P06_102_84,610.0,611.35,pick up kettle
+P06_102_85,611.36,612.41,put down kettle
+P06_102_86,612.51,616.04,pick up yeast
+P06_102_87,615.94,619.19,put yeast in cupboard
+P06_102_88,619.12,619.76,pick up sieve
+P06_102_89,620.8,621.36,turn on tap
+P06_102_9,24.76,34.95,stir pan
+P06_102_90,619.0,622.21,rinse sieve
+P06_102_91,622.1,623.35,pick up sponge
+P06_102_92,623.45,627.3,wash sieve
+P06_102_93,627.13,628.35,put sieve on drying rack
+P06_102_94,631.48,633.15,wipe counter
+P06_102_95,633.6,634.57,pick up yeast
+P06_102_97,635.05,639.07,pick up knife
+P06_102_98,639.17,639.81,put down knife
+P06_102_99,639.75,641.62,pick up rubbish

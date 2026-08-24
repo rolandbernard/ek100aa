@@ -1,0 +1,189 @@
+P22_06_0,3.1,3.9,take paper
+P22_06_1,4.34,5.5,take dish
+P22_06_10,22.13,22.82,take dish
+P22_06_100,226.6,228.91,rinse plate
+P22_06_101,228.72,229.71,rinse plate
+P22_06_102,229.81,230.77,rinse hand
+P22_06_103,230.87,233.78,rinse plate
+P22_06_104,233.88,235.49,put down plate
+P22_06_105,237.09,239.35,pick up plate
+P22_06_106,239.88,242.76,lather plate
+P22_06_107,243.45,245.75,lather plate
+P22_06_108,245.64,247.2,pick up plate
+P22_06_109,246.03,247.62,put down plate
+P22_06_11,24.36,26.01,put dishes
+P22_06_110,248.0,251.34,lather plate
+P22_06_111,250.86,252.25,lather plate
+P22_06_112,252.1,252.91,open tap
+P22_06_113,252.92,256.43,rinse plate
+P22_06_114,256.62,257.47,rinse sponge
+P22_06_115,256.98,257.61,put down sponge
+P22_06_116,258.41,259.75,put on soap
+P22_06_117,260.25,261.09,rinse sponge
+P22_06_118,260.94,261.94,close tap
+P22_06_119,262.61,265.41,lather plate
+P22_06_12,26.18,28.32,open drawer
+P22_06_120,264.15,269.65,rinse plate
+P22_06_121,270.19,271.66,rinse plate
+P22_06_122,272.54,274.3,rinse plate
+P22_06_123,274.52,275.77,put down plate
+P22_06_124,275.14,283.25,rinse cup
+P22_06_125,283.3,284.31,put down cup
+P22_06_126,285.07,291.57,rinse cup
+P22_06_127,286.0,296.72,rinse glass
+P22_06_128,291.41,292.93,put down cup
+P22_06_129,293.96,297.07,rinse cup
+P22_06_13,29.58,31.23,take fork
+P22_06_130,296.82,297.74,put down glass
+P22_06_131,297.71,302.47,rinse silverware
+P22_06_132,302.57,303.67,put down silverware
+P22_06_133,303.57,304.42,pick up plate
+P22_06_134,304.5,308.0,rinse plate
+P22_06_135,307.94,309.44,put down plate
+P22_06_136,308.0,321.91,empty filter
+P22_06_137,309.45,310.7,pick up carafe
+P22_06_138,310.78,311.61,close tap
+P22_06_139,311.4,313.4,open trash can
+P22_06_14,31.01,31.64,close drawer
+P22_06_140,322.01,329.89,empty filter
+P22_06_141,330.04,330.79,close trash can
+P22_06_142,331.19,332.06,open tap
+P22_06_143,332.59,337.2,rinse filter
+P22_06_144,336.95,338.07,pick up sponge
+P22_06_145,338.1,343.37,lather filter
+P22_06_146,343.97,347.81,rinse filter
+P22_06_147,347.91,351.78,rinse filter
+P22_06_148,354.2,354.7,put down filter
+P22_06_149,354.9,355.8,pick up carafe
+P22_06_15,31.62,32.49,take bowl
+P22_06_150,355.32,356.26,open carafe
+P22_06_151,356.32,357.7,rinse carafe
+P22_06_152,357.65,358.53,close tap
+P22_06_153,358.63,366.08,lather carafe
+P22_06_154,364.62,370.05,lather carafe
+P22_06_155,370.39,371.4,turn on tap
+P22_06_156,371.5,372.87,rinse hands
+P22_06_157,373.31,377.01,rinse jug
+P22_06_158,377.53,388.31,rinse jug
+P22_06_159,378.0,387.64,rinse jug
+P22_06_16,32.59,34.2,take peach
+P22_06_160,387.74,388.42,turn off tap
+P22_06_161,388.52,391.44,rinse jug
+P22_06_162,391.54,392.47,turn off tap
+P22_06_163,392.43,394.52,put down jug
+P22_06_164,394.42,395.66,turn on tap
+P22_06_165,395.56,396.36,rinse hands
+P22_06_166,396.38,397.15,turn off tap
+P22_06_167,397.25,402.19,dry hands
+P22_06_168,402.15,403.77,put down cloth
+P22_06_169,404.58,405.42,take container
+P22_06_17,33.8,35.48,put peach
+P22_06_170,406.26,407.55,open cupboard
+P22_06_171,407.96,408.91,move can
+P22_06_172,408.99,409.58,put down container
+P22_06_173,409.36,410.34,close cupboard
+P22_06_174,411.2,413.49,take cloth
+P22_06_175,414.03,415.21,put down place mats
+P22_06_176,415.23,417.45,shake place mat
+P22_06_177,416.68,419.41,fold place mat
+P22_06_178,419.93,421.1,open drawer
+P22_06_179,421.18,422.0,close drawer
+P22_06_18,35.39,38.22,take peach
+P22_06_180,422.1,423.03,open drawer
+P22_06_181,422.7,424.3,put away place mat
+P22_06_182,424.05,424.8,pick up place mat
+P22_06_183,425.21,426.54,shake place mat
+P22_06_184,427.0,427.75,fold place mat
+P22_06_185,428.09,429.88,put away place mat
+P22_06_186,429.98,430.74,close drawer
+P22_06_187,432.55,433.8,pick up cloth
+P22_06_188,433.9,442.15,clean stove top
+P22_06_19,38.2,39.15,put peach
+P22_06_2,6.04,7.16,put dish
+P22_06_20,38.76,41.29,take peach
+P22_06_21,40.89,43.36,put peach
+P22_06_22,41.99,44.62,take peach
+P22_06_23,45.82,46.87,put peach
+P22_06_24,46.68,49.12,take peach
+P22_06_25,49.0,50.07,put peach
+P22_06_26,50.09,51.17,put fork
+P22_06_27,50.95,52.44,put jar
+P22_06_28,52.21,60.05,take paper
+P22_06_29,54.25,59.81,take film
+P22_06_3,8.57,9.5,turn on light
+P22_06_30,59.32,71.97,take paper
+P22_06_31,62.81,66.44,put
+P22_06_32,69.92,73.06,tear off plastic wrap
+P22_06_33,73.16,74.26,put down plastic wrap
+P22_06_34,74.53,81.9,put on plastic wrap
+P22_06_35,83.32,84.3,open refrigerator
+P22_06_36,84.4,85.4,put bowl in refrigerator
+P22_06_37,87.38,88.23,take plastic wrap
+P22_06_38,89.72,96.79,put down plastic wrap
+P22_06_39,96.78,99.46,close locker
+P22_06_4,11.67,12.66,put paper
+P22_06_40,101.35,103.0,take dish
+P22_06_41,104.64,106.22,take flatware
+P22_06_42,105.05,106.46,put down dish
+P22_06_43,106.49,107.99,put down flatware
+P22_06_44,107.14,107.87,take flatware
+P22_06_45,108.69,109.44,move dishes
+P22_06_46,110.47,111.19,put down flatware
+P22_06_47,113.14,115.54,pick up cups
+P22_06_48,114.87,116.01,pick up bottle and glass
+P22_06_49,116.57,117.72,put down cups
+P22_06_5,13.96,14.71,take bowl
+P22_06_50,122.08,124.83,put down bottle
+P22_06_51,125.82,126.74,put down glass
+P22_06_52,127.88,128.87,open coffee maker
+P22_06_53,130.66,132.02,remove filter
+P22_06_54,133.45,136.64,close coffee maker
+P22_06_55,137.3,138.55,put down carafe
+P22_06_56,139.95,140.78,pick up glass
+P22_06_57,140.56,141.64,open cabinet
+P22_06_58,141.32,142.43,put down glass
+P22_06_59,142.06,142.71,put down bowl
+P22_06_6,15.53,16.41,move dish
+P22_06_60,143.5,144.37,pick up bowl
+P22_06_61,150.24,150.93,pick up potato peeler
+P22_06_62,150.95,152.27,close cabinets
+P22_06_63,152.37,153.61,open drawer
+P22_06_64,153.68,154.2,put down potato peeler
+P22_06_65,156.63,157.72,pick up sponge
+P22_06_66,158.36,159.38,pick up cup
+P22_06_67,159.61,163.85,rinse cup
+P22_06_68,159.86,163.92,rinse cup
+P22_06_69,165.27,166.05,pick up cup
+P22_06_7,18.82,19.64,take fork
+P22_06_70,167.63,169.25,pick up glass
+P22_06_71,168.76,170.63,rinse glass
+P22_06_72,169.43,170.78,pick up sponge
+P22_06_73,171.11,171.95,soak sponge
+P22_06_74,172.05,174.06,put on soap
+P22_06_75,176.65,179.84,lather glass
+P22_06_76,179.94,185.06,lather cup
+P22_06_77,185.16,189.57,lather cup
+P22_06_78,188.92,190.08,put down cup
+P22_06_79,190.39,191.07,pick up knife
+P22_06_8,19.54,20.29,take fork
+P22_06_80,191.08,193.14,lather knife
+P22_06_81,191.68,194.54,lather knife
+P22_06_82,195.23,195.84,put down knife
+P22_06_83,195.79,197.08,pick up fork
+P22_06_84,197.06,200.03,lather fork
+P22_06_85,197.88,200.7,put down fork
+P22_06_86,199.71,201.05,put down fork
+P22_06_87,201.29,202.54,pick up forks
+P22_06_88,201.76,202.84,pick up fork
+P22_06_89,202.82,207.75,lather fork
+P22_06_9,20.43,22.51,take dish
+P22_06_90,202.88,203.64,pick up forks
+P22_06_91,203.53,204.95,lather fork
+P22_06_92,207.85,209.67,pick up plate
+P22_06_93,209.23,215.26,lather plate
+P22_06_94,215.36,216.42,open tap
+P22_06_95,216.71,218.44,rinse sponge
+P22_06_96,218.4,222.99,rinse plate
+P22_06_97,222.89,226.36,lather plate
+P22_06_98,223.45,226.52,lather plate
+P22_06_99,226.21,233.84,rinse sponge

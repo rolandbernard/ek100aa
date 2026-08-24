@@ -1,0 +1,538 @@
+P04_109_0,2.28,3.05,pick up knife
+P04_109_1,4.05,4.6,put down knife
+P04_109_10,15.66,18.97,open bag of carrots
+P04_109_100,241.12,243.85,drop carrot into measuring jug
+P04_109_101,242.45,243.59,pick up carrot piece
+P04_109_102,243.69,244.37,chuck carrot into measuring jug
+P04_109_103,245.94,246.92,pick up carrot piece
+P04_109_104,246.93,247.54,eat piece of carrot
+P04_109_105,247.56,249.07,take bits of carrot
+P04_109_106,249.17,254.88,put down knife
+P04_109_107,254.75,257.5,drop bits of carrot into measuring jug
+P04_109_108,261.45,262.64,pick up knife
+P04_109_109,251.95,254.45,wipe carrot into measuring jug
+P04_109_11,18.79,22.65,pull out carrot
+P04_109_110,254.37,254.94,put down knife
+P04_109_111,254.92,256.2,pick up pieces of carrot
+P04_109_112,256.27,256.99,put pieces of carrot into measuring jug
+P04_109_113,256.74,257.39,lift up rice cooker lid
+P04_109_114,258.15,258.9,feel temperature of rice cooker
+P04_109_115,259.03,259.94,put rice cooker lid on rice cooker
+P04_109_116,260.23,261.07,pick up cucumber
+P04_109_117,261.17,262.51,pick up knife
+P04_109_118,261.37,262.05,put cucumber on chopping board
+P04_109_119,262.7,273.91,slice cucumber
+P04_109_12,22.7,23.85,put down carrot
+P04_109_120,263.81,264.21,rotate cucumber
+P04_109_121,264.53,271.64,slice cucumber
+P04_109_122,271.73,272.63,turn over cucumber
+P04_109_123,272.64,278.34,slice cucumber
+P04_109_124,278.25,279.18,pick up pieces of cucumber
+P04_109_125,279.28,280.53,put cucumber into measuring jug
+P04_109_126,279.88,281.01,separate cucumber
+P04_109_127,281.01,282.15,pick up piece of cucumber
+P04_109_128,282.07,282.68,put into measuring jug
+P04_109_129,282.78,283.28,pick up cucumber
+P04_109_13,22.95,23.99,put down bag of carrots
+P04_109_130,281.31,283.7,inspect cucumber
+P04_109_131,283.8,285.27,slice cucumber in half
+P04_109_132,284.83,285.93,turn over cucumber
+P04_109_133,286.61,290.59,slice cucumber
+P04_109_134,290.1,291.87,turn over cucumber
+P04_109_135,291.99,293.9,slice cucumber
+P04_109_136,294.2,294.92,turn over cucumber
+P04_109_137,294.95,295.6,rotate cucumber
+P04_109_138,295.59,301.94,slice cucumber
+P04_109_139,301.47,302.79,grab cucumber
+P04_109_14,24.28,25.19,pick up knife
+P04_109_140,302.76,303.31,drop cucumber into bowl
+P04_109_141,303.22,304.6,wipe cucumber off knife
+P04_109_142,304.88,306.35,pick up bits of cucumber
+P04_109_143,306.33,306.84,throw cucumber into measuring jug
+P04_109_144,306.94,308.47,pick up piece of cucumber
+P04_109_145,308.57,309.13,chuck cucumber into measuring jug
+P04_109_146,309.23,310.98,move pieces of cucumber
+P04_109_147,311.08,311.92,take piece of cucumber off knife
+P04_109_148,311.66,312.1,put cucumber into measuring jug
+P04_109_149,312.52,320.16,slice cucumber
+P04_109_15,25.31,26.79,chop end off carrot
+P04_109_150,320.05,320.65,grab piece of cucumber
+P04_109_151,321.22,321.55,put cucumber into measuring jug
+P04_109_152,321.44,322.66,take pieces of cucumber off knife
+P04_109_153,322.73,323.28,put cucumber into measuring jug
+P04_109_154,323.04,323.46,wipe cucumber off knife and into measuring jug
+P04_109_155,323.49,325.91,arrange pieces of cucumber
+P04_109_156,325.92,329.61,slice cucumber
+P04_109_157,329.4,331.81,pick up pieces of cucumber
+P04_109_158,331.88,332.43,drop cucumber into measuring jug
+P04_109_159,332.27,333.24,slide pieces of cucumber off knife
+P04_109_16,26.88,27.47,turn over carrot
+P04_109_160,333.65,334.69,move cucumber
+P04_109_161,334.83,335.6,turn over cucumber
+P04_109_162,336.45,341.45,cut into cucumber
+P04_109_163,341.22,342.71,turn over cucumber
+P04_109_164,342.76,350.09,slice cucumber
+P04_109_165,349.84,350.98,pick up pieces of cucumber
+P04_109_166,350.85,352.1,put pieces of cucumber in measuring jug
+P04_109_167,352.05,352.5,wipe piece of cucumber off knife into measuring jug
+P04_109_168,352.6,354.33,wipe pieces of cucumber off knife and into measuring jug
+P04_109_169,354.65,362.66,separate pieces of cucumber
+P04_109_17,27.47,28.02,chop end off carrot
+P04_109_170,354.56,356.27,pick up pieces of cucumber
+P04_109_171,356.1,357.46,pick up measuring jug
+P04_109_172,357.25,358.41,put down measuring jug
+P04_109_173,358.4,362.36,separate pieces of cucumber
+P04_109_174,362.35,368.65,toss carrot and cucumber
+P04_109_175,368.7,369.21,pick up piece of cucumber
+P04_109_176,369.51,370.09,put piece of cucumber in measuring jug
+P04_109_177,369.84,372.53,toss carrot and cucumber
+P04_109_178,372.17,372.82,pick up piece of cucumber
+P04_109_179,372.78,373.5,put piece of cucumber into measuring jug
+P04_109_18,28.07,29.02,pick up carrot ends
+P04_109_180,373.46,374.28,pick up measuring jug
+P04_109_181,374.31,375.06,inspect measuring jug
+P04_109_182,374.81,375.91,put down measuring jug
+P04_109_183,375.91,376.65,pick up cucumber
+P04_109_184,376.36,380.53,roll down cucumber film
+P04_109_185,380.63,381.06,put down cucumber
+P04_109_186,381.42,382.44,slice cucumber
+P04_109_187,382.87,383.47,pick up cucumber
+P04_109_188,383.56,384.17,pick up lid of steamer
+P04_109_189,385.11,386.36,put down lid of steamer
+P04_109_19,28.42,28.95,push carrot ends off chopping board
+P04_109_190,386.83,387.51,pick up knife
+P04_109_191,387.61,388.73,put down cucumber
+P04_109_192,387.77,396.77,slice cucumber
+P04_109_193,396.85,398.36,hold piece of cucumber
+P04_109_194,398.72,399.88,take piece of cucumber off knife
+P04_109_195,399.9,400.49,put down knife
+P04_109_196,400.59,401.37,pick up piece of cucumber
+P04_109_197,401.01,401.57,move piece of cucumber
+P04_109_198,401.8,402.75,rearrange pieces of cucumber
+P04_109_199,402.69,403.31,rotate cucumber pieces
+P04_109_2,4.7,6.23,pick up bag of carrots
+P04_109_20,29.91,31.15,slice carrot
+P04_109_200,403.23,404.02,pick up knife
+P04_109_201,403.98,409.57,slice cucumber
+P04_109_202,409.47,411.84,wipe pieces of cucumber off knife into measuring jug
+P04_109_203,411.94,412.94,grab piece of cucumber
+P04_109_204,412.93,413.65,put down knife
+P04_109_205,413.64,414.04,pick up piece of cucumber
+P04_109_206,414.14,415.34,drop pieces of cucumber into measuring jug
+P04_109_207,415.44,417.57,pick up piece of cucumber
+P04_109_208,417.64,418.34,put piece of cucumber into measuring jug
+P04_109_209,416.15,417.78,pick up piece of cucumber
+P04_109_21,31.18,32.44,pick up carrot slice
+P04_109_210,415.0,418.21,drop pieces of cucumber into measuring jug
+P04_109_211,418.81,419.41,pick up pieces of cucumber
+P04_109_212,417.67,418.23,put piece of cucumber into measuring jug
+P04_109_213,420.12,420.82,toss cucumber and carrot
+P04_109_214,421.01,421.75,move knife
+P04_109_215,421.11,421.71,pick up piece of cucumber
+P04_109_216,421.75,422.12,drop piece of cucumber into measuring jug
+P04_109_217,423.9,425.43,open cupboard
+P04_109_218,426.15,426.5,hold bottles
+P04_109_219,426.48,428.45,pick up rice vinegar
+P04_109_22,32.31,32.77,put down carrot slice
+P04_109_220,427.07,428.74,push back bottles
+P04_109_221,429.53,432.62,pick up sugar
+P04_109_222,432.23,433.49,put down sugar
+P04_109_223,433.51,435.05,open rice vinegar
+P04_109_224,435.27,438.74,pour rice vinegar into measuring jug
+P04_109_225,438.59,439.69,close rice vinegar bottle
+P04_109_226,439.44,440.05,put down rice vinegar
+P04_109_227,440.57,442.23,take clip off sugar packet
+P04_109_228,442.32,443.02,pick up sugar
+P04_109_229,443.12,446.31,pour sugar into measuring jug
+P04_109_23,32.66,34.2,move bag
+P04_109_230,445.67,447.24,put down sugar
+P04_109_231,447.75,452.24,toss carrots and cucumber
+P04_109_232,452.16,453.41,pick up piece of carrot
+P04_109_233,453.5,454.69,eat piece of carrot
+P04_109_234,454.66,462.3,toss carrot and cucumber
+P04_109_235,463.95,465.8,rinse hands
+P04_109_236,464.76,465.72,turn on tap
+P04_109_237,465.79,466.72,turn off tap
+P04_109_238,468.8,470.3,pick up clip
+P04_109_239,470.28,474.7,put clip on sugar bag
+P04_109_24,34.19,35.33,move carrot slice
+P04_109_240,471.24,473.97,fasten clip
+P04_109_241,474.37,475.88,pick up sugar bag
+P04_109_242,476.2,477.35,put sugar bag in cupboard
+P04_109_243,482.18,483.96,take foil off oven dish
+P04_109_244,483.18,485.51,hold piece of pork
+P04_109_245,486.4,488.52,tear pork
+P04_109_246,489.04,490.0,eat pork
+P04_109_247,491.68,492.65,pick up foil
+P04_109_248,492.66,494.51,put foil on oven dish
+P04_109_249,497.79,498.83,touch broccoli
+P04_109_25,34.88,36.03,hold carrot
+P04_109_250,501.0,503.01,pick up piece of carrot
+P04_109_251,503.07,503.57,put piece of carrot in measuring jug
+P04_109_252,503.43,504.08,pick up teaspoon
+P04_109_253,504.07,504.99,move rice cooker
+P04_109_254,505.06,506.89,pick up broccoli
+P04_109_255,508.63,509.65,put down broccoli
+P04_109_256,509.36,510.55,put spoon in sink
+P04_109_257,510.52,511.13,pick up pan
+P04_109_258,511.23,512.07,empty water from pan
+P04_109_259,512.2,513.0,pick up sponge
+P04_109_26,37.76,52.6,slice carrot
+P04_109_260,512.87,513.95,wipe pan with sponge
+P04_109_261,513.89,514.44,put down sponge
+P04_109_262,515.05,515.7,pick up washing up liquid
+P04_109_263,515.8,516.8,squirt washing up liquid onto pan
+P04_109_264,516.85,517.35,put down washing up liquid
+P04_109_265,517.38,518.07,turn on tap
+P04_109_266,518.0,518.35,put pan under water
+P04_109_267,518.41,518.8,pick up sponge
+P04_109_268,518.9,524.1,wash pan
+P04_109_269,524.2,524.82,put down sponge
+P04_109_27,52.66,54.82,arrange carrot pieces
+P04_109_270,525.87,526.76,turn off tap
+P04_109_271,526.99,527.74,shake water out of pan
+P04_109_272,528.46,529.83,pick up tea towel
+P04_109_273,529.93,538.99,dry pan
+P04_109_274,538.59,539.59,put tea towel on oven door
+P04_109_275,539.83,540.7,move rolling pin
+P04_109_276,540.8,542.14,move knife
+P04_109_277,542.36,542.98,move bag of herbs
+P04_109_278,544.84,545.34,pick up tea towel
+P04_109_279,545.44,547.38,wipe hob
+P04_109_28,54.88,105.64,julienne carrot
+P04_109_280,548.75,549.47,push measuring jug away
+P04_109_281,549.29,550.1,put down pan
+P04_109_282,550.04,551.88,turn on hob
+P04_109_283,551.64,559.72,adjust temperature on hob
+P04_109_284,559.43,560.86,move rice vinegar
+P04_109_285,561.35,563.47,open broccoli packet
+P04_109_286,563.69,565.31,move cucumber
+P04_109_287,565.36,566.9,pick up cucumber
+P04_109_288,566.1,569.34,pull film back over cucumber
+P04_109_289,569.33,570.47,pick up bag of carrots
+P04_109_29,105.71,107.61,grab carrot slices
+P04_109_290,571.33,572.46,open fridge
+P04_109_291,573.18,574.19,open fridge drawer
+P04_109_292,574.55,575.68,put carrots in fridge drawer
+P04_109_293,575.69,576.63,put cucumber in fridge drawer
+P04_109_294,577.07,579.74,close fridge drawer
+P04_109_295,579.84,581.03,pick up starter
+P04_109_296,580.79,581.37,tilt starter
+P04_109_297,581.47,582.06,inspect starter
+P04_109_298,581.83,582.53,put down starter
+P04_109_299,587.25,590.34,move jar
+P04_109_3,6.16,7.09,move bag
+P04_109_30,107.33,109.65,put carrots in measuring jug
+P04_109_300,587.14,589.56,move yoghurt
+P04_109_301,589.21,590.64,pick up yoghurt
+P04_109_302,591.09,593.17,put down yoghurt
+P04_109_303,591.04,593.22,pick up yoghurt
+P04_109_304,593.32,597.68,fumble for something
+P04_109_305,597.55,598.56,pick up spicy bean sauce
+P04_109_306,598.66,599.76,put down yoghurt
+P04_109_307,600.28,600.75,open spicy bean sauce
+P04_109_308,600.83,602.74,smell spicy bean sauce
+P04_109_309,602.84,603.82,screw lid back on spicy bean sauce
+P04_109_31,109.37,111.8,separate carrot pieces
+P04_109_310,603.59,605.14,put down spicy bean sauce
+P04_109_311,606.07,606.96,pick up broccoli
+P04_109_312,606.67,613.06,open broccoli packet
+P04_109_313,613.16,613.77,put down broccoli
+P04_109_314,615.42,616.22,open cupboard
+P04_109_315,617.56,619.6,pick up sesame oil
+P04_109_316,619.62,620.06,hold bottles in place
+P04_109_317,620.67,621.67,open sesame oil
+P04_109_318,621.39,622.01,smell sesame oil
+P04_109_319,622.31,623.77,pour sesame oil into pan
+P04_109_32,111.9,112.27,pick up bit of carrot
+P04_109_320,623.41,624.13,close lid of sesame oil
+P04_109_321,624.1,625.14,put down sesame oil
+P04_109_322,625.09,625.84,pick up broccoli
+P04_109_323,625.71,626.79,tear floret off broccoli
+P04_109_324,626.84,627.93,put broccoli in pan
+P04_109_325,628.26,629.44,pull back plastic
+P04_109_326,629.86,631.31,tear floret off broccoli
+P04_109_327,632.24,633.54,tear broccoli floret in two
+P04_109_328,633.64,636.76,put broccoli floret in pan
+P04_109_329,634.3,636.29,tear broccoli floret
+P04_109_33,112.26,113.14,eat carrot
+P04_109_330,635.61,636.61,put florets in pan
+P04_109_331,636.63,637.36,pick up broccoli floret
+P04_109_332,637.42,638.72,tear broccoli floret
+P04_109_333,638.82,639.49,put florets in pan
+P04_109_334,639.72,640.15,pick up broccoli
+P04_109_335,640.25,642.18,tear floret off broccoli
+P04_109_336,641.91,643.42,put down broccoli
+P04_109_337,643.42,645.4,tear floret
+P04_109_338,645.5,646.13,put florets in pan
+P04_109_339,645.99,646.63,pick up broccoli
+P04_109_34,113.34,114.51,pick up bit of carrot
+P04_109_340,645.14,645.79,put down broccoli
+P04_109_341,646.15,647.38,tear off floret
+P04_109_342,648.3,648.84,tear broccoli floret in two
+P04_109_343,648.71,649.09,put floret in pan
+P04_109_344,649.0,649.56,put broccoli floret in pan
+P04_109_347,651.64,653.39,tear broccoli floret off broccoli
+P04_109_348,653.0,654.39,put floret in pan
+P04_109_349,654.02,655.07,tear broccoli floret off broccoli
+P04_109_35,114.61,117.02,slice carrot
+P04_109_350,654.0,655.09,tear broccoli floret in two
+P04_109_351,655.94,656.44,put floret into pan
+P04_109_352,656.51,657.1,tear broccoli floret into two
+P04_109_353,657.01,657.46,drop floret in pan
+P04_109_354,657.56,658.72,tear broccoli floret in two
+P04_109_355,658.79,659.28,drop florets in pan
+P04_109_356,659.26,659.8,pick up broccoli floret
+P04_109_357,659.9,660.35,put broccoli floret into pan
+P04_109_358,660.43,662.3,tear florets off broccoli
+P04_109_359,663.01,671.5,break up broccoli florets
+P04_109_36,116.76,118.56,pull apart carrot
+P04_109_360,663.28,663.96,drop florets into pan
+P04_109_361,663.48,664.35,break up broccoli florets
+P04_109_362,677.42,680.04,drop florets into pan
+P04_109_363,664.79,666.31,break up broccoli floret
+P04_109_364,665.7,666.59,drop floret into pan
+P04_109_365,666.61,668.26,break up broccoli floret
+P04_109_366,668.05,668.8,drop floret into pan
+P04_109_367,668.9,669.75,break up broccoli floret
+P04_109_368,669.85,671.17,drop floret into pan
+P04_109_369,671.27,678.78,pick up broccoli
+P04_109_37,118.33,119.29,pick up bits of carrot
+P04_109_370,669.79,671.12,break broccoli
+P04_109_371,670.94,671.41,put broccoli into pan
+P04_109_372,671.5,673.85,tear floret off broccoli
+P04_109_373,673.94,674.39,put broccoli into pan
+P04_109_374,671.62,673.99,tear florets off broccoli
+P04_109_375,673.95,674.38,put down broccoli
+P04_109_376,674.45,675.57,tear floret off broccoli
+P04_109_377,675.6,678.45,tear floret off broccoli
+P04_109_378,678.36,679.77,put broccoli into pan
+P04_109_379,680.51,681.07,pick up broccoli
+P04_109_38,119.39,120.3,wipe bits of carrot off knife into measuring jug
+P04_109_380,680.12,682.67,pick up broccoli
+P04_109_381,680.21,680.82,put broccoli into pan
+P04_109_382,680.92,682.31,tear off broccoli floret
+P04_109_383,683.0,685.6,take broccoli out of plastic
+P04_109_384,685.7,686.62,open food bin
+P04_109_385,686.45,686.77,put broccoli in food bin
+P04_109_386,686.83,687.34,close food bin
+P04_109_387,687.22,688.78,pull up plastic
+P04_109_388,691.41,692.13,cut cucumber end
+P04_109_389,691.39,692.96,take plastic off cucumber end
+P04_109_39,120.94,121.96,drop carrot into measuring jug
+P04_109_390,692.71,693.55,eat cucumber end
+P04_109_391,693.55,694.81,throw away plastic
+P04_109_392,695.37,696.62,move knife
+P04_109_393,696.18,698.36,pick up carrot chunks
+P04_109_394,701.25,704.93,open fridge
+P04_109_395,705.03,710.19,tap finger against fridge
+P04_109_396,710.27,712.09,pick up tofu
+P04_109_397,712.57,714.44,close fridge
+P04_109_398,714.16,715.02,put down tofu
+P04_109_399,714.98,717.4,slice open tofu packet
+P04_109_4,7.07,7.89,move cucumber
+P04_109_40,120.44,121.6,pick up piece of carrot
+P04_109_400,718.27,719.38,pick up tofu
+P04_109_401,719.47,720.97,drain liquid from tofu packet into sink
+P04_109_402,721.68,722.99,pick up rice cooker lid
+P04_109_403,723.09,724.09,put down rice cooker lid
+P04_109_404,724.4,725.79,pick up dough
+P04_109_405,725.88,726.72,put dough into rice cooker
+P04_109_406,726.82,729.44,pick up dough
+P04_109_407,729.53,730.4,put dough in rice cooker
+P04_109_408,730.97,731.95,pick up rice cooker lid
+P04_109_409,732.0,733.24,put lid on rice cooker
+P04_109_41,121.64,122.12,put piece of carrot in measuring jug
+P04_109_410,736.06,739.8,open tofu packet
+P04_109_411,739.89,741.69,tip out tofu
+P04_109_412,741.99,743.63,put down tofu packet
+P04_109_413,743.44,744.49,put down tofu
+P04_109_414,745.19,746.29,pick up kitchen roll
+P04_109_415,746.39,747.44,unroll kitchen roll
+P04_109_416,747.53,747.99,tear off piece of kitchen roll
+P04_109_417,747.89,748.64,put down kitchen roll
+P04_109_418,750.04,752.19,turn off oven
+P04_109_419,752.18,761.23,set timer on oven
+P04_109_42,122.18,123.68,move together carrot
+P04_109_420,761.7,762.53,put kitchen roll on tofu
+P04_109_421,762.6,765.21,squeeze water out of tofu
+P04_109_422,765.15,767.5,turn over tofu
+P04_109_423,768.54,769.54,pick up kitchen roll
+P04_109_424,769.26,771.11,unroll kitchen roll
+P04_109_425,770.92,771.81,tear off kitchen roll
+P04_109_426,771.87,772.8,put down kitchen roll
+P04_109_427,773.3,774.23,put kitchen roll on tofu
+P04_109_428,774.5,775.65,open cupboard
+P04_109_429,775.75,776.76,pick up ramekin
+P04_109_43,122.84,125.82,slice carrot
+P04_109_430,776.65,777.53,put down ramekin
+P04_109_431,777.55,778.6,pick up ramekin
+P04_109_432,778.55,779.2,put down ramekin
+P04_109_433,779.27,780.32,close cupboard
+P04_109_434,780.22,781.57,press kitchen roll onto tofu
+P04_109_435,782.1,783.2,turn over tofu
+P04_109_436,783.2,785.06,put down tofu
+P04_109_437,785.42,786.53,pick up rice vinegar
+P04_109_438,787.35,791.78,put rice vinegar in cupboard
+P04_109_439,792.26,795.86,pick up packet
+P04_109_44,125.92,126.54,put down knife
+P04_109_440,793.01,795.88,open packet
+P04_109_441,795.93,797.17,unroll packet
+P04_109_442,798.17,803.35,empty peanuts out of packet
+P04_109_443,803.42,804.55,put down packet
+P04_109_444,803.65,804.53,pick up knife
+P04_109_445,804.63,829.92,chop peanuts
+P04_109_446,830.0,831.4,grab peanuts
+P04_109_447,831.5,833.55,drop peanuts into ramekin
+P04_109_448,833.82,835.09,pick up peanut packet
+P04_109_449,834.48,835.42,put down knife
+P04_109_45,136.89,138.66,separate pieces of carrot
+P04_109_450,835.44,836.68,pick up peanuts
+P04_109_451,836.77,837.69,eat peanuts
+P04_109_452,837.65,838.94,fold peanut packet
+P04_109_453,839.0,839.56,pick up rubber band
+P04_109_454,840.04,842.88,put rubber band on peanut packet
+P04_109_455,843.03,843.63,put down peanut packet
+P04_109_456,843.48,844.22,grab peanuts
+P04_109_457,844.63,845.95,drop peanuts into ramekin
+P04_109_458,846.34,847.83,pick up peanut ramekin
+P04_109_459,847.64,857.94,wipe peanuts off chopping board and into ramekin
+P04_109_46,138.52,139.53,chuck carrot into measuring jug
+P04_109_460,858.03,858.71,put down ramekin
+P04_109_461,858.25,859.15,pick up knife
+P04_109_462,859.15,859.92,wipe chopped peanuts off knife and into ramekin
+P04_109_463,860.02,861.02,wipe chopped peanuts off knife and into ramekin
+P04_109_464,861.0,861.86,put down knife
+P04_109_465,861.2,862.3,move ramekin
+P04_109_466,862.34,863.4,pick up coriander packet
+P04_109_467,863.39,864.29,move broccoli around in pan
+P04_109_468,864.33,865.53,pick up pan
+P04_109_469,865.63,867.18,check hob
+P04_109_47,139.63,140.26,drop carrot in measuring jug
+P04_109_470,865.82,867.07,put down pan
+P04_109_471,867.82,868.93,open coriander packet
+P04_109_472,870.27,872.51,take coriander out of packet
+P04_109_473,872.92,873.32,put down coriander packet
+P04_109_474,873.06,873.53,put down coriander
+P04_109_475,873.43,874.99,pick up knife
+P04_109_476,875.06,881.39,chop coriander
+P04_109_477,881.22,883.9,pick up coriander stalks
+P04_109_478,883.71,885.43,put stalks in food bin
+P04_109_479,886.34,894.39,chop coriander
+P04_109_48,140.3,141.3,grab bits of carrot
+P04_109_480,901.8,902.25,grab coriander
+P04_109_481,902.95,904.02,put coriander in ramekin
+P04_109_482,904.8,907.85,wipe up coriander
+P04_109_483,907.9,908.78,pick up coriander
+P04_109_484,908.8,910.16,put coriander in ramekin
+P04_109_485,910.45,911.85,grab pieces of coriander
+P04_109_486,911.95,912.5,sprinkle coriander into ramekin
+P04_109_487,912.85,913.25,grab piece of coriander
+P04_109_488,913.3,913.7,put coriander in ramekin
+P04_109_489,914.09,914.73,grab piece of coriander
+P04_109_49,141.28,141.98,drop carrot in measuring jug
+P04_109_490,914.84,916.88,wipe coriander off knife and into ramekin
+P04_109_491,916.84,918.44,wipe coriander off knife and into ramekin
+P04_109_492,918.24,919.49,put down knife
+P04_109_493,919.77,921.92,pick up tofu
+P04_109_494,921.94,922.62,put down tofu
+P04_109_495,922.69,924.25,take kitchen roll off tofu
+P04_109_496,923.89,926.04,take kitchen roll off tofu
+P04_109_497,926.3,927.0,put down tofu
+P04_109_498,926.95,927.48,pick up kitchen roll
+P04_109_499,927.51,928.5,crumple up kitchen roll
+P04_109_5,8.02,9.11,put down carrot bag
+P04_109_50,142.32,144.4,grab bits of carrot
+P04_109_500,927.72,929.02,put kitchen roll down
+P04_109_501,928.91,930.15,pick up knife
+P04_109_502,930.25,932.53,slice tofu
+P04_109_503,932.59,933.5,take tofu off knife
+P04_109_504,933.62,934.19,put down tofu
+P04_109_505,934.26,936.56,slice tofu
+P04_109_506,936.66,937.45,take block of tofu
+P04_109_507,936.99,940.54,slice tofu
+P04_109_508,940.05,941.39,rotate block of tofu
+P04_109_509,941.19,942.1,align tofu
+P04_109_51,143.88,145.38,pick up bits of carrot
+P04_109_510,942.2,943.3,slice tofu
+P04_109_511,943.5,944.15,push tofu off knife
+P04_109_512,944.35,945.45,slice tofu
+P04_109_513,945.5,946.37,push tofu off knife
+P04_109_514,946.26,947.22,slice tofu
+P04_109_515,947.28,948.0,push tofu off knife
+P04_109_516,947.85,949.05,slice tofu
+P04_109_517,949.0,949.5,push tofu off knife
+P04_109_518,949.57,950.39,slice tofu
+P04_109_519,950.44,951.09,push tofu off knife
+P04_109_52,145.27,146.63,pick up pieces of carrot
+P04_109_520,949.0,951.42,slice tofu
+P04_109_521,951.52,953.36,push tofu off knife
+P04_109_522,952.61,955.86,slice tofu
+P04_109_523,953.03,955.26,slice tofu
+P04_109_524,955.14,956.5,pick up piece of tofu
+P04_109_525,956.34,957.07,eat piece of tofu
+P04_109_526,957.17,958.09,take piece of tofu off knife
+P04_109_527,958.87,959.86,take piece of tofu off knife
+P04_109_528,959.96,961.29,put down knife
+P04_109_529,961.04,963.71,pick up bag of coriander
+P04_109_53,146.5,148.34,pick up piece of carrot
+P04_109_530,961.97,963.22,lift up tea towel
+P04_109_531,962.7,963.67,put down bag of coriander
+P04_109_532,963.43,964.12,put down tea towel
+P04_109_533,964.05,965.6,move bag of coriander
+P04_109_534,969.05,970.61,open drawer
+P04_109_535,970.33,971.9,close drawer
+P04_109_536,970.95,972.2,open dishwasher
+P04_109_537,971.94,972.73,pull out dishwasher drawer
+P04_109_538,972.38,973.71,pick up spatula
+P04_109_539,973.74,979.52,stir broccoli in pan
+P04_109_54,148.4,149.4,drop bits of carrot in measuring jug
+P04_109_55,149.93,151.0,adjust knife
+P04_109_56,151.1,152.08,pick up cucumber
+P04_109_57,152.15,153.19,pick up knife
+P04_109_58,153.11,154.48,grab piece of carrot
+P04_109_59,154.53,156.5,slice piece of carrot
+P04_109_6,9.53,10.97,open cupboard
+P04_109_60,156.38,157.2,take piece of carrot off knife
+P04_109_61,157.36,158.07,put carrot in measuring jug
+P04_109_62,158.07,159.03,slice into cucumber
+P04_109_63,159.16,160.0,put down knife
+P04_109_64,159.91,160.91,pick up knife
+P04_109_65,160.75,163.85,pierce cucumber film
+P04_109_66,163.79,164.44,put down knife
+P04_109_67,164.56,166.08,pull down plastic
+P04_109_68,166.03,167.05,roll down plastic
+P04_109_69,167.08,167.8,put down cucumber
+P04_109_7,10.87,12.37,pick up measuring jug
+P04_109_70,167.88,168.6,grab handful of carrot
+P04_109_71,168.18,169.54,drop carrot
+P04_109_72,170.65,171.5,toss carrot
+P04_109_73,172.16,174.03,pick up carrot
+P04_109_74,174.67,175.48,chop end off carrot
+P04_109_75,175.95,176.58,chop end off carrot
+P04_109_76,176.67,178.15,move ends of carrot
+P04_109_77,179.39,180.45,slice into carrot
+P04_109_78,180.57,181.43,roll over carrot
+P04_109_79,181.47,191.98,slice carrot
+P04_109_8,12.45,12.99,close cupboard
+P04_109_80,190.35,209.92,julienne carrot
+P04_109_81,211.07,212.46,grab pieces of carrot
+P04_109_82,212.92,213.54,drop pieces of carrot
+P04_109_83,213.56,213.95,pick up piece of carrot
+P04_109_84,214.02,214.45,drop piece of carrot
+P04_109_85,214.52,215.49,move piece of carrot
+P04_109_86,215.52,218.47,slice piece of carrot
+P04_109_87,218.18,222.78,pick up piece of carrot
+P04_109_88,222.65,225.31,slice piece of carrot
+P04_109_89,225.41,227.18,grab handful of carrot
+P04_109_9,13.08,15.46,put down measuring jug
+P04_109_90,226.06,228.21,drop carrot into measuring jug
+P04_109_91,228.31,229.05,push carrot into measuring jug
+P04_109_92,229.15,230.79,grab carrot
+P04_109_93,230.77,232.79,drop into measuring jug
+P04_109_94,232.89,234.73,get piece of carrot
+P04_109_95,234.83,239.42,slice carrot
+P04_109_96,239.39,240.69,take carrot
+P04_109_97,240.78,241.43,put carrot in measuring jug
+P04_109_98,241.44,242.12,wipe carrot off knife into measuring jug
+P04_109_99,242.21,243.46,grab carrot

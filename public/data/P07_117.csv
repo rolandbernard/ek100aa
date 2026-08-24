@@ -1,0 +1,131 @@
+P07_117_0,4.47,5.95,grab knife
+P07_117_1,4.51,5.58,grab fork
+P07_117_10,22.41,24.58,throw paper
+P07_117_100,298.73,303.49,pull dish rack
+P07_117_101,300.79,302.07,put spoon into dish rack
+P07_117_102,302.17,302.81,push dish rack
+P07_117_103,304.17,304.81,grab container
+P07_117_104,304.35,304.95,grab sponge
+P07_117_105,305.27,308.97,wash container
+P07_117_106,308.76,310.24,turn on tap
+P07_117_107,310.25,316.05,rinse container
+P07_117_108,315.74,316.31,turn off tap
+P07_117_109,317.16,320.19,put container into sink
+P07_117_11,26.53,26.86,grab tap
+P07_117_110,321.62,323.22,grab lid
+P07_117_111,322.62,323.52,grab sponge
+P07_117_112,323.52,326.89,wash lid
+P07_117_113,326.92,328.22,turn on tap
+P07_117_114,328.77,338.67,rinse lid
+P07_117_115,338.5,339.2,turn off tap
+P07_117_116,339.0,341.61,shake lid
+P07_117_117,341.4,342.71,put lid/cap onto dish rack
+P07_117_118,343.63,346.37,push dish rack
+P07_117_119,346.84,348.59,close dishwasher
+P07_117_12,26.7,27.32,turn tap
+P07_117_120,349.91,350.55,dry hand
+P07_117_121,350.7,351.78,grab jug
+P07_117_122,351.86,352.86,grab jar
+P07_117_123,358.02,358.92,grab cloth
+P07_117_124,358.54,360.83,clean kitchen counter
+P07_117_125,364.42,364.98,open door
+P07_117_126,365.08,365.42,close door
+P07_117_127,365.44,367.12,open door
+P07_117_128,366.06,367.42,put away washing up liquid
+P07_117_129,367.19,368.62,close door
+P07_117_13,27.2,28.72,turn on tap
+P07_117_130,368.6,372.23,grab glove
+P07_117_14,29.7,30.21,grab bottle
+P07_117_15,30.92,31.88,pour washing up liquid on plate
+P07_117_16,33.01,34.03,grab sponge
+P07_117_17,35.29,35.53,grab cloth
+P07_117_18,35.75,36.34,move cloth
+P07_117_19,36.76,38.73,wash plate
+P07_117_2,5.68,7.12,put cutlery into sink
+P07_117_20,43.9,45.05,turn on tap
+P07_117_21,44.94,52.59,rinse plate
+P07_117_22,52.46,53.12,turn off tap
+P07_117_23,53.65,56.07,open dishwasher
+P07_117_24,56.65,59.34,pull dish rack
+P07_117_25,59.91,63.21,put plate into dish rack
+P07_117_26,64.0,65.25,grab knife
+P07_117_27,64.92,67.97,wash knife
+P07_117_28,68.04,69.42,grab knife
+P07_117_29,69.32,74.48,wash knife
+P07_117_3,7.19,9.31,open pot
+P07_117_30,73.75,75.84,grab fork
+P07_117_31,74.27,77.32,wash fork
+P07_117_32,77.43,79.23,grab spoon
+P07_117_33,79.24,82.58,wash spoon
+P07_117_34,82.81,84.21,turn on tap
+P07_117_35,83.74,93.48,rinse cutlery
+P07_117_36,93.54,94.09,turn off tap
+P07_117_37,94.19,95.3,put cutlery into sink
+P07_117_38,97.52,98.38,grab lid
+P07_117_39,98.94,99.54,grab sponge
+P07_117_4,9.12,12.52,clean plate
+P07_117_40,99.38,101.5,wash lid
+P07_117_41,102.31,103.22,turn on tap
+P07_117_42,103.28,108.07,rinse lid
+P07_117_43,107.92,108.75,turn off tap
+P07_117_44,109.02,109.66,shake lid
+P07_117_45,109.98,114.11,put lid/cap onto dish rack
+P07_117_46,114.88,116.5,grab plate
+P07_117_47,116.25,117.07,grab sponge
+P07_117_48,117.12,121.59,wash plate
+P07_117_49,121.66,122.92,turn on tap
+P07_117_5,12.59,13.69,grab garlic
+P07_117_50,122.92,128.95,rinse plate
+P07_117_51,128.78,129.5,turn off tap
+P07_117_52,131.97,132.74,pull dish rack
+P07_117_53,133.24,134.83,put plate into dish rack
+P07_117_54,134.93,135.6,push dish rack
+P07_117_55,136.2,137.32,grab colander
+P07_117_56,137.66,141.54,wash colander
+P07_117_57,142.02,143.47,turn on tap
+P07_117_58,143.32,154.54,rinse colander
+P07_117_59,154.47,155.05,turn off tap
+P07_117_6,13.59,14.22,throw garlic
+P07_117_60,155.87,160.27,put colander onto dish rack
+P07_117_61,157.22,158.58,pull dish rack
+P07_117_62,158.57,160.23,put colander onto dish rack
+P07_117_63,160.33,160.98,push dish rack
+P07_117_64,161.89,162.84,grab pot
+P07_117_65,163.15,163.96,grab sponge
+P07_117_66,164.03,168.12,wash pot
+P07_117_67,168.17,169.42,turn on tap
+P07_117_68,169.35,181.7,rinse pot
+P07_117_69,181.63,182.52,turn off tap
+P07_117_7,14.32,19.88,clean plate
+P07_117_70,184.87,185.94,pull dish rack
+P07_117_71,184.67,188.16,put pot onto dish rack
+P07_117_72,199.09,200.3,open door
+P07_117_73,200.04,202.78,grab container
+P07_117_74,202.88,203.93,close door
+P07_117_75,203.89,204.72,open container
+P07_117_76,205.53,206.9,grab pot
+P07_117_77,207.0,228.05,put rice into container
+P07_117_78,217.82,224.11,scrape pot
+P07_117_79,224.22,231.83,push rice
+P07_117_8,20.14,21.12,close pot
+P07_117_80,231.61,236.64,scrape pot
+P07_117_81,236.0,242.66,push rice
+P07_117_82,245.97,246.54,grab container
+P07_117_83,246.37,247.12,push containers
+P07_117_84,248.98,250.25,grab lid
+P07_117_85,250.32,251.25,cover container
+P07_117_86,253.52,254.27,turn on tap
+P07_117_87,254.34,254.87,turn off tap
+P07_117_88,255.44,255.94,grab sponge
+P07_117_89,255.98,260.97,wash pot
+P07_117_9,20.8,21.68,push food bin
+P07_117_90,264.92,268.4,turn on tap
+P07_117_91,265.77,282.74,rinse pot
+P07_117_92,282.65,283.38,turn off tap
+P07_117_93,283.38,286.28,put pot onto dish rack
+P07_117_94,287.89,288.53,grab sponge
+P07_117_95,288.6,289.12,grab spoon
+P07_117_96,288.98,292.57,wash spoon
+P07_117_97,292.6,293.89,turn on tap
+P07_117_98,293.88,297.41,rinse spoon
+P07_117_99,297.39,298.13,turn off tap

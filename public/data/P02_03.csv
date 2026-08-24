@@ -1,0 +1,362 @@
+P02_03_0,2.75,5.25,open bag
+P02_03_1,5.35,7.85,get onion bag
+P02_03_10,29.16,30.96,pick up pan
+P02_03_100,284.88,306.8,peel onion
+P02_03_101,306.9,309.51,put onion
+P02_03_102,309.61,311.97,pick up chopping board
+P02_03_103,312.11,313.77,open trash bin
+P02_03_104,312.48,316.25,throw peels
+P02_03_105,316.64,317.38,close trash bin
+P02_03_106,317.85,318.95,put chopping board
+P02_03_107,318.85,320.25,put onion on chopping board
+P02_03_108,320.65,321.15,put knife
+P02_03_109,323.38,324.58,pick up kettle
+P02_03_11,29.75,31.6,put pan
+P02_03_110,325.11,325.64,open kettle
+P02_03_111,326.11,332.84,fill kettle
+P02_03_112,326.17,327.25,open tap
+P02_03_113,326.6,332.43,fill kettle
+P02_03_114,326.67,333.08,close tap
+P02_03_115,327.67,332.67,hold tap
+P02_03_116,332.93,333.58,close kettle
+P02_03_117,334.44,335.58,put kettle down
+P02_03_118,335.49,336.5,switch kettle on
+P02_03_119,338.4,340.44,open cupboard
+P02_03_12,31.5,34.86,put lid
+P02_03_120,341.01,345.65,pick pot
+P02_03_121,345.68,346.56,remove lid
+P02_03_122,347.32,350.5,close cupboard
+P02_03_123,349.93,357.56,put pot on stove
+P02_03_124,350.71,356.72,move the other pot
+P02_03_125,358.01,360.05,pick up lid off pan
+P02_03_126,363.96,386.08,slice onions
+P02_03_127,386.49,396.76,still slicing onions
+P02_03_128,399.65,413.05,chop onions
+P02_03_129,413.57,442.94,still chopping slices of onion
+P02_03_13,35.44,37.93,put pan
+P02_03_130,444.04,468.14,still chopping onion
+P02_03_131,471.04,483.1,still chopping onion
+P02_03_132,484.69,495.04,still chopping onion
+P02_03_133,495.22,498.1,pick up rest of onion slices
+P02_03_134,499.39,500.5,open trash bin
+P02_03_135,500.31,501.09,throw slices
+P02_03_136,500.86,501.45,close trash bin
+P02_03_137,503.18,504.62,get paper towel
+P02_03_138,511.33,511.94,open trash bin
+P02_03_139,511.55,512.16,throw paper towel
+P02_03_14,36.13,37.42,pick up pan
+P02_03_140,512.01,512.7,close trash bin
+P02_03_141,514.8,515.56,open fridge
+P02_03_142,515.64,516.91,get pine nuts bag
+P02_03_143,520.26,521.15,put pine nuts bag
+P02_03_144,521.2,522.2,open cupboard
+P02_03_145,523.49,524.41,get salt
+P02_03_146,524.51,526.3,get oil
+P02_03_147,526.06,526.72,put oil down
+P02_03_148,527.35,528.35,put salt down
+P02_03_149,529.09,531.24,open oil
+P02_03_15,37.99,38.91,pick up lid
+P02_03_150,531.76,533.81,sprinkle oil on pan
+P02_03_151,533.89,536.11,pour oil in pan
+P02_03_152,536.87,537.79,close oil
+P02_03_153,537.61,538.86,put oil down
+P02_03_154,538.76,539.51,switch stove on
+P02_03_155,540.36,544.68,put pine nuts in pan
+P02_03_156,545.46,548.21,add pine nuts to pan
+P02_03_157,551.41,552.19,open fridge
+P02_03_158,552.26,553.04,return pine nuts
+P02_03_159,553.04,553.77,close fridge
+P02_03_16,38.89,40.36,put lid
+P02_03_160,553.95,557.64,move tray
+P02_03_161,558.34,559.09,pick up plate
+P02_03_162,559.09,560.03,open microwave
+P02_03_163,560.13,562.19,put plate in microwave
+P02_03_164,560.93,562.35,close microwave
+P02_03_165,564.3,566.41,unplug
+P02_03_166,566.44,567.27,unplug
+P02_03_167,567.37,568.7,unplug
+P02_03_168,568.8,570.58,move plug
+P02_03_169,571.58,574.02,plug into socket
+P02_03_17,41.28,42.53,pick up pan
+P02_03_170,575.13,578.36,switch microwave on
+P02_03_171,581.18,582.5,move pan
+P02_03_172,582.45,583.36,open drawer
+P02_03_173,583.46,585.38,get wooden spoon
+P02_03_174,585.61,599.3,stir pine nuts in pan using wooden spoon
+P02_03_175,599.4,601.88,still stirring pine nuts
+P02_03_176,601.7,603.2,move pan
+P02_03_177,602.82,605.44,hold pan
+P02_03_178,605.64,611.11,stir pine nuts
+P02_03_179,611.24,612.08,open cupboard
+P02_03_18,41.95,42.81,move pan
+P02_03_180,612.18,615.31,get plate
+P02_03_181,615.63,616.44,put plate down
+P02_03_182,616.65,617.59,hold pan
+P02_03_183,616.75,639.76,still stirring pine nuts
+P02_03_184,617.69,635.57,stir pine nuts
+P02_03_185,639.68,640.79,switch stove off
+P02_03_186,640.63,641.96,pick up pan
+P02_03_187,641.78,648.81,slide pine nuts from pan to plate using wooden spoon
+P02_03_188,648.85,650.41,put pan down
+P02_03_189,653.26,653.87,switch off microwave
+P02_03_19,43.74,45.74,put lid
+P02_03_190,653.97,654.85,open microwave
+P02_03_191,655.47,656.59,open fridge
+P02_03_192,656.9,664.21,searching fridge
+P02_03_193,659.25,661.25,pick up pasta
+P02_03_194,659.89,665.37,pick up cheese
+P02_03_195,665.35,667.85,pick up pesto
+P02_03_196,667.95,669.2,close fridge
+P02_03_197,671.3,672.3,put pesto
+P02_03_198,672.31,673.4,move salt
+P02_03_199,673.5,674.25,move pesto
+P02_03_2,8.19,9.19,put onion bag in lower shelf
+P02_03_20,46.34,47.35,pick up pan
+P02_03_200,674.35,675.1,put pasta
+P02_03_201,675.2,676.2,put cheese
+P02_03_202,677.3,678.3,switch stove off
+P02_03_203,678.65,680.15,open cupboard
+P02_03_204,684.01,685.48,pick up mesh
+P02_03_205,685.3,688.27,pick up pot
+P02_03_206,690.05,702.88,pour broccoli from pot to mesh
+P02_03_207,703.87,705.54,shake mesh
+P02_03_208,705.87,707.07,put mesh on plate
+P02_03_209,708.4,711.57,move mesh
+P02_03_21,47.58,49.78,put pan under the next one
+P02_03_210,712.88,713.68,put mesh onto
+P02_03_211,714.42,715.83,put pan
+P02_03_212,716.61,717.41,open cupboard
+P02_03_213,718.34,719.93,get plate
+P02_03_214,720.9,721.81,put mesh onto plate
+P02_03_215,722.38,724.25,put plate and mesh down
+P02_03_216,725.84,728.48,pick up kettle
+P02_03_217,728.55,734.55,pour water
+P02_03_219,735.02,735.73,still pouring water
+P02_03_22,49.71,50.76,open cupboard
+P02_03_220,736.21,737.06,put kettle down
+P02_03_221,738.85,741.2,read recipe on pasta
+P02_03_222,741.89,742.95,put pasta down
+P02_03_223,744.05,745.01,pick up scissors
+P02_03_224,745.06,747.72,cut pasta bag
+P02_03_225,750.08,752.14,switch stove on
+P02_03_226,752.65,757.83,pour pasta into pot
+P02_03_227,758.37,760.79,close pasta bag
+P02_03_228,760.34,762.94,set timer on
+P02_03_229,765.68,766.57,open fridge
+P02_03_23,50.7,51.91,open cupboard
+P02_03_230,766.67,768.22,put pasta bag in fridge
+P02_03_231,768.6,769.57,close fridge
+P02_03_232,769.67,771.55,pick up plate from microwave
+P02_03_233,771.59,772.49,close microwave
+P02_03_234,774.96,776.09,move scissors
+P02_03_235,775.69,776.73,put plate
+P02_03_236,778.95,780.45,pick up oil
+P02_03_237,781.55,784.3,sprinkle oil into pasta pot
+P02_03_238,785.06,785.93,pick up salt
+P02_03_239,786.03,787.31,put salt into pasta pot
+P02_03_24,52.43,53.77,pick up pot
+P02_03_240,787.94,789.0,put salt
+P02_03_241,789.2,791.95,lower heat on stove
+P02_03_242,794.45,796.49,pick up chopping board with onions
+P02_03_243,796.55,803.3,chop a few onions using knife
+P02_03_244,803.64,804.79,pick up chopping board
+P02_03_245,807.04,809.22,switch stove on
+P02_03_246,809.32,810.81,move wooden spoon
+P02_03_247,812.33,817.56,pick up knife
+P02_03_248,816.38,827.83,slide onions from chopping board to pan
+P02_03_249,829.58,831.07,put chopping board and knife into sink
+P02_03_25,57.47,58.7,close cupboard
+P02_03_250,830.93,832.17,pick up knife
+P02_03_251,835.49,840.17,stir onions in pan using wooden spoon
+P02_03_252,839.66,848.44,divide onion into smaller pieces using wooden spoon
+P02_03_253,848.28,850.93,pick up onion piece
+P02_03_254,848.9,851.25,put onion piece
+P02_03_255,852.03,858.82,stir onion in pan using wooden spoon
+P02_03_256,860.09,860.6,pick up garlic
+P02_03_257,861.98,863.52,put garlic into pan
+P02_03_258,863.62,864.31,close garlic
+P02_03_259,864.12,864.72,put garlic
+P02_03_26,58.07,60.16,close cupboard
+P02_03_260,865.17,872.84,stir garlic and onions in pan using wooden spoon
+P02_03_261,872.94,874.36,lower heat
+P02_03_262,875.5,880.9,stir onions using wooden spoon in pan
+P02_03_263,881.09,882.28,pick up knife
+P02_03_264,881.62,883.35,hold chicken piece
+P02_03_265,882.21,887.74,chop chicken piece using knife
+P02_03_266,888.48,902.08,still chopping chicken
+P02_03_267,902.19,902.93,put knife down
+P02_03_268,903.35,904.82,pick up two spoons
+P02_03_269,905.69,907.09,put two spoons
+P02_03_27,60.47,61.93,put pot on stove
+P02_03_270,907.61,908.46,hold pan
+P02_03_271,908.56,940.63,stir onions in pan using wooden spoon
+P02_03_272,940.2,942.26,increase heat on stove
+P02_03_273,943.06,944.52,pick up two spoons
+P02_03_274,945.1,946.93,open pesto
+P02_03_275,947.43,949.54,scoop pesto using spoon
+P02_03_276,949.51,951.01,put pesto into pan
+P02_03_277,951.65,953.17,close pesto
+P02_03_278,953.27,954.36,put pesto down
+P02_03_279,954.46,955.72,put spoon down
+P02_03_28,63.79,65.29,pick up chopping board
+P02_03_280,955.41,956.16,pick up cheese and
+P02_03_281,956.36,957.11,pick up spoon
+P02_03_282,957.54,959.69,hold cheese and
+P02_03_283,960.21,961.96,scoop cheese using spoon
+P02_03_284,961.91,963.26,put cheese into pan
+P02_03_285,963.36,964.88,scoop more cheese
+P02_03_286,965.03,966.55,put cheese into pan
+P02_03_287,968.03,969.13,put spoon into sink
+P02_03_288,970.84,971.7,put cheese down
+P02_03_289,971.71,973.08,pick up spoon
+P02_03_29,65.67,67.15,put chopping board
+P02_03_290,973.78,978.78,move water from pot to pan
+P02_03_291,979.12,980.84,lower heat
+P02_03_292,981.34,985.88,move water using spoon from pot to pan
+P02_03_293,986.07,989.95,still moving more water
+P02_03_294,990.61,991.83,put spoon down
+P02_03_295,992.73,1002.46,mix cheese pesto and onions in pan using wooden spoon
+P02_03_296,1000.85,1008.67,still mixing cheese and pesto in pan using wooden spoon
+P02_03_297,1006.6,1026.93,still mixing cheese and sauce into pan using wooden spoon
+P02_03_298,1027.03,1027.85,pick up pine nuts plate
+P02_03_299,1027.91,1030.77,pour pine nuts into pan
+P02_03_3,11.04,12.54,get water filter
+P02_03_30,68.1,69.77,open fridge
+P02_03_300,1030.76,1031.51,put plate
+P02_03_301,1031.61,1033.59,pick up plate with chicken
+P02_03_302,1033.43,1035.54,pour chicken into pan using spoon
+P02_03_303,1035.64,1036.6,put plate
+P02_03_304,1036.92,1037.74,pick up mesh with broccoli
+P02_03_305,1038.27,1043.93,pour broccoli into pan
+P02_03_306,1044.62,1045.89,put mesh down
+P02_03_307,1047.42,1048.16,hold pan and mix sauce
+P02_03_308,1047.93,1058.26,stir sauce
+P02_03_309,1058.6,1059.3,use wooden spoon
+P02_03_31,71.41,72.31,pick up yoghurt
+P02_03_310,1059.1,1060.54,pick up spoon
+P02_03_311,1060.88,1063.63,move water from pot to pan
+P02_03_312,1063.47,1065.49,move water
+P02_03_313,1067.87,1069.14,put spoon
+P02_03_314,1069.65,1070.62,increase heat
+P02_03_315,1071.21,1076.96,hold pan and stir sauce
+P02_03_316,1077.06,1077.97,increase heat
+P02_03_317,1078.07,1081.47,hold pan and stir sauce
+P02_03_318,1081.57,1083.21,set off timer
+P02_03_319,1083.31,1096.26,stir sauce
+P02_03_32,73.62,74.32,put yoghurt
+P02_03_320,1096.36,1098.11,still stirring sauce
+P02_03_321,1097.99,1099.09,lower heat
+P02_03_322,1099.18,1102.29,hold pan and stir sauce
+P02_03_323,1102.95,1107.97,open cupboard
+P02_03_324,1103.27,1109.27,search in cupboard
+P02_03_325,1114.1,1115.91,pick up steel mesh
+P02_03_326,1117.14,1120.0,close cupboard
+P02_03_327,1120.23,1126.56,hold stain and stir sauce
+P02_03_328,1126.43,1127.94,set off timer
+P02_03_329,1129.05,1130.58,switch off stove
+P02_03_33,75.25,76.06,pick up broccoli
+P02_03_330,1130.64,1133.04,pick up pot with pasta
+P02_03_331,1135.26,1138.06,move chopping board from sink
+P02_03_332,1140.22,1143.4,pour water and pasta from pot to mesh on top of sink
+P02_03_333,1148.98,1150.37,pour pasta into pan
+P02_03_334,1151.15,1152.26,put mesh in sink
+P02_03_335,1152.82,1153.53,hold pan
+P02_03_336,1153.58,1158.75,stir pasta with sauce
+P02_03_337,1154.17,1158.35,shake mesh with pasta
+P02_03_338,1158.85,1165.54,mix pasta with sauce
+P02_03_339,1165.64,1176.72,still mixing pasta with sauce
+P02_03_34,78.61,79.25,get scissors
+P02_03_341,1188.68,1189.88,set off alarm
+P02_03_342,1190.14,1191.53,hold pan
+P02_03_343,1190.64,1195.17,stir pasta with sauce
+P02_03_344,1195.71,1196.72,increase heat
+P02_03_345,1199.27,1199.98,switch off stove
+P02_03_346,1200.66,1201.66,close oil
+P02_03_347,1203.93,1205.04,pick up chopping board
+P02_03_348,1206.01,1206.95,put chopping board
+P02_03_349,1208.34,1209.25,pick up scissors
+P02_03_35,80.5,81.54,open plastic cover using scissors
+P02_03_350,1209.08,1210.11,return scissors
+P02_03_351,1210.41,1210.91,pick up plate
+P02_03_352,1211.21,1211.96,put plate
+P02_03_353,1217.94,1219.12,put plate
+P02_03_354,1220.58,1221.85,pick up pan
+P02_03_355,1221.93,1230.6,pour pasta from pan to plate using wooden spoon
+P02_03_356,1229.54,1238.49,still pouring pasta
+P02_03_357,1238.73,1239.65,put pan
+P02_03_358,1239.19,1239.7,put spoon
+P02_03_359,1240.73,1242.76,check stove
+P02_03_36,81.72,86.23,remove plastic cover
+P02_03_360,1242.83,1245.38,pick up plate
+P02_03_361,1246.58,1247.91,open drawer
+P02_03_362,1247.7,1249.47,pick up fork
+P02_03_363,1249.75,1250.88,close drawer
+P02_03_37,88.15,89.04,open trash bin
+P02_03_38,88.89,89.97,throw cover
+P02_03_39,90.02,90.79,close trash bin
+P02_03_4,11.3,12.33,get cup
+P02_03_40,92.6,93.8,open tap
+P02_03_41,94.23,97.11,rinse broccoli
+P02_03_42,97.57,102.14,sprinkle water on broccoli
+P02_03_43,102.47,103.91,close tap
+P02_03_44,103.9,104.78,pick up scissors
+P02_03_45,104.93,107.31,move broccoli and scissors to chopping board
+P02_03_46,107.41,115.33,cut broccoli
+P02_03_47,117.54,123.81,cut broccoli
+P02_03_48,125.78,133.2,still cutting broccoli
+P02_03_49,126.44,132.78,still cutting broccoli
+P02_03_5,12.67,14.39,fill water
+P02_03_50,141.81,147.78,separate broccoli using hand
+P02_03_51,147.92,149.84,pick up rest of broccoli
+P02_03_52,149.77,150.67,open trash bin
+P02_03_53,150.51,151.54,throw broccoli
+P02_03_54,151.02,151.57,close trash bin
+P02_03_55,152.86,154.45,remove from floor
+P02_03_56,154.7,155.31,open trash bin
+P02_03_57,155.1,155.6,throw
+P02_03_58,155.6,156.1,close trash bin
+P02_03_59,157.2,158.2,open tap
+P02_03_6,14.22,15.04,put water filter
+P02_03_60,158.3,160.29,rinse scissors
+P02_03_61,160.15,161.04,close tap
+P02_03_62,161.0,162.38,put scissors down
+P02_03_63,163.5,165.29,put lid
+P02_03_64,163.84,164.57,open lid
+P02_03_65,164.1,167.85,move pan
+P02_03_66,167.76,174.77,move broccoli from chopping board to pan using hand
+P02_03_67,177.29,178.29,open tap
+P02_03_68,177.64,184.89,fill pan with water
+P02_03_69,184.23,185.12,close tap
+P02_03_7,14.92,21.23,drink from cup
+P02_03_70,186.35,188.37,put pan with broccoli on stove
+P02_03_71,188.43,193.59,switch stove on
+P02_03_72,195.46,199.74,pick up towel
+P02_03_73,199.61,201.84,dry hands
+P02_03_74,201.41,202.97,put towel
+P02_03_75,203.47,205.79,pick up towel from floor
+P02_03_76,205.76,207.69,put towel
+P02_03_77,210.06,211.49,open fridge
+P02_03_78,211.57,212.3,get tupperware
+P02_03_79,214.71,216.46,pick up plate
+P02_03_8,21.33,22.97,put cup down
+P02_03_80,217.01,219.01,open tupperware
+P02_03_81,219.4,220.54,put plate
+P02_03_82,220.63,223.11,open tupperware
+P02_03_83,222.87,224.9,put chicken on plate
+P02_03_84,222.97,224.71,pick up chicken from tupperware
+P02_03_85,226.02,228.64,close tupperware
+P02_03_86,228.74,229.65,put tupperware in sink
+P02_03_87,233.72,234.3,pick up knife
+P02_03_88,233.89,235.49,pick up scissors
+P02_03_89,238.18,240.11,open onion bag
+P02_03_9,26.74,29.05,pick up lid
+P02_03_90,241.16,242.56,pick up onion
+P02_03_91,244.05,245.49,pick up another onion
+P02_03_92,247.45,248.58,put onion on chopping board
+P02_03_93,249.39,250.73,throw onion
+P02_03_94,249.55,250.63,open trash bin
+P02_03_95,252.34,253.43,return scissors
+P02_03_96,253.16,254.31,pick up knife
+P02_03_97,256.52,259.04,chop end of onion
+P02_03_98,259.73,281.73,peel onion
+P02_03_99,281.64,284.82,chop end of onion

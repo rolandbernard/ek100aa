@@ -1,0 +1,430 @@
+P35_105_0,3.2,5.09,pick up saucepan
+P35_105_1,4.6,8.85,pick up cloth
+P35_105_10,41.09,42.02,put down cloth
+P35_105_100,389.69,390.74,close cupboard
+P35_105_101,390.63,393.58,adjust hob
+P35_105_102,393.55,396.79,add salt
+P35_105_103,396.69,441.42,stir meat
+P35_105_104,442.25,447.34,adjust hob
+P35_105_105,452.19,452.95,put down fork
+P35_105_106,453.12,455.97,turn on tap
+P35_105_107,456.04,457.36,rinse hands
+P35_105_108,457.38,465.79,wash sink
+P35_105_109,465.79,466.67,pick up cloth
+P35_105_11,42.17,43.79,open drawer
+P35_105_110,466.65,468.76,rinse cloth
+P35_105_111,468.22,472.78,wash sink
+P35_105_112,472.59,475.72,rinse cloth
+P35_105_113,475.79,476.9,turn off tap
+P35_105_114,476.65,479.9,put down cloth
+P35_105_115,481.02,484.96,dry hands
+P35_105_116,485.7,486.59,pick up spices
+P35_105_117,486.52,515.3,pour spices
+P35_105_118,515.05,515.92,open cupboard
+P35_105_119,516.02,517.17,put down spices
+P35_105_12,43.5,45.37,pick up containers
+P35_105_120,517.11,518.21,close cupboard
+P35_105_121,518.77,520.1,take fork
+P35_105_122,521.44,524.85,flip meat
+P35_105_123,527.57,531.57,flip meat
+P35_105_124,531.57,538.46,flip meat
+P35_105_125,539.61,541.06,adjust hob
+P35_105_126,541.52,543.39,move pot
+P35_105_127,543.43,545.16,put down fork
+P35_105_128,546.55,547.54,open cupboard
+P35_105_129,547.64,549.46,pick up plate
+P35_105_13,45.47,46.68,put down container
+P35_105_130,549.17,550.23,close cupboard
+P35_105_131,549.83,551.35,put down plate
+P35_105_132,555.39,556.14,open cupboard
+P35_105_133,556.02,559.46,pick up flour
+P35_105_134,571.48,572.4,put down flour
+P35_105_135,572.18,585.76,brush flour into hands
+P35_105_136,585.86,592.94,throw flour
+P35_105_137,593.04,597.37,move package
+P35_105_138,597.37,598.32,close cupboard
+P35_105_139,603.24,607.82,adjust hob
+P35_105_14,46.94,48.2,put down containers
+P35_105_140,608.08,610.16,move pan
+P35_105_141,614.3,616.68,pick up knife
+P35_105_142,618.6,619.87,put down knife
+P35_105_143,625.02,626.6,pick up hand-held hoover
+P35_105_144,626.56,640.75,hoover crumbs
+P35_105_145,640.96,641.79,move bag
+P35_105_146,645.93,646.95,move flour
+P35_105_147,660.77,662.04,turn off hand-held hoover
+P35_105_148,664.02,666.32,put down hand-held hoover
+P35_105_149,671.13,673.02,take fork
+P35_105_15,48.89,50.42,close drawer
+P35_105_150,681.0,685.45,pick up meat
+P35_105_151,685.55,686.72,put down meat
+P35_105_152,686.56,707.32,flip meat
+P35_105_153,707.15,712.33,put down fork
+P35_105_154,719.21,729.48,stir mushrooms
+P35_105_155,731.06,732.27,turn on tap
+P35_105_156,732.09,733.25,rinse hand
+P35_105_157,733.19,733.81,turn off tap
+P35_105_158,735.16,739.19,dry hand
+P35_105_159,741.72,745.04,pick up colander
+P35_105_16,52.13,52.66,put down cloth
+P35_105_160,744.48,745.83,open drawer
+P35_105_161,745.46,747.14,put down colander
+P35_105_162,749.21,751.46,pick up container
+P35_105_163,754.9,756.31,put down container
+P35_105_164,757.86,758.94,pick up mug
+P35_105_165,760.25,761.82,pick up saucepan
+P35_105_166,761.87,762.91,put down saucepan
+P35_105_167,762.8,764.05,pick up mug
+P35_105_168,765.99,767.11,open cupboard
+P35_105_169,768.14,770.59,put down mug
+P35_105_17,54.88,55.91,open cupboard
+P35_105_170,768.16,768.91,put down mug
+P35_105_171,770.58,771.82,close cupboard
+P35_105_172,771.92,774.3,pick up sieve
+P35_105_173,774.37,776.2,open cupboard
+P35_105_174,776.3,777.17,put down sieve
+P35_105_175,777.36,778.08,close cupboard
+P35_105_176,778.1,779.72,pick up saucepan
+P35_105_177,779.82,782.01,put down saucepan
+P35_105_178,782.01,784.66,pick up glass
+P35_105_179,784.69,786.18,pick up glass
+P35_105_18,56.31,58.55,pick up mushrooms
+P35_105_180,788.82,790.5,close drawer
+P35_105_181,791.85,793.14,put down glasses
+P35_105_182,794.7,795.7,take fork
+P35_105_183,795.8,800.91,flip meat
+P35_105_184,804.9,811.01,flip meat
+P35_105_185,810.86,812.5,put down fork
+P35_105_186,813.59,814.62,open cupboard
+P35_105_187,814.95,817.19,pick up plates
+P35_105_188,817.3,818.05,close cupboard
+P35_105_189,820.35,821.92,put down plate
+P35_105_19,58.9,59.9,put down mushrooms
+P35_105_190,822.48,823.51,put down plate
+P35_105_191,827.19,827.98,take fork
+P35_105_192,830.15,831.29,take fork
+P35_105_193,831.61,833.81,pick up knives
+P35_105_194,836.1,836.77,put down knife
+P35_105_195,837.5,838.01,put down fork
+P35_105_196,840.63,841.14,put down knife
+P35_105_197,841.03,841.74,put down fork
+P35_105_198,845.7,846.38,turn off hob
+P35_105_199,849.29,850.06,open fridge
+P35_105_2,8.79,15.53,dry saucepan
+P35_105_20,61.25,63.21,pick up mushrooms
+P35_105_200,852.42,853.49,pick up bottle
+P35_105_201,854.03,855.06,pick up bottle
+P35_105_202,856.94,858.65,close fridge
+P35_105_203,861.54,863.3,put down bottles
+P35_105_204,865.64,867.65,open door
+P35_105_205,869.99,870.99,pick up pan
+P35_105_206,870.72,872.09,take fork
+P35_105_207,872.13,883.44,pour meat
+P35_105_208,885.09,886.28,put down fork
+P35_105_209,886.59,887.92,pick up mushrooms
+P35_105_21,64.01,65.83,close cupboard
+P35_105_210,887.86,888.59,pour mushrooms
+P35_105_211,895.4,896.47,put down mushrooms
+P35_105_212,896.34,897.72,put down pan
+P35_105_213,900.84,902.12,throw jar
+P35_105_214,906.14,907.11,pick up spoon
+P35_105_215,908.25,916.0,stir mushrooms
+P35_105_216,916.57,920.9,turn on hob
+P35_105_217,921.83,922.87,put down spoon
+P35_105_218,922.64,924.73,pick up pot
+P35_105_219,924.83,927.02,turn on tap
+P35_105_22,68.19,69.43,put down mushrooms
+P35_105_220,926.6,926.92,turn off tap
+P35_105_221,927.44,929.97,put down pot
+P35_105_222,930.01,930.44,move salt
+P35_105_223,930.92,933.11,adjust hob
+P35_105_224,934.95,936.14,pick up container
+P35_105_225,937.47,938.93,put down container
+P35_105_226,939.35,979.34,pour mushrooms
+P35_105_227,979.03,979.74,pick up container
+P35_105_228,981.93,983.72,pour water
+P35_105_229,983.97,984.41,put down container
+P35_105_23,72.94,74.91,pick up mushrooms
+P35_105_230,987.66,1015.35,stir mushrooms
+P35_105_231,1015.13,1017.96,put down spoon
+P35_105_232,1021.9,1023.8,open fridge
+P35_105_233,1024.19,1025.5,pick up cream
+P35_105_234,1025.6,1026.66,close fridge
+P35_105_235,1029.56,1030.53,put down cream
+P35_105_236,1042.29,1044.55,turn on tap
+P35_105_237,1044.54,1048.26,wash container
+P35_105_238,1047.29,1049.08,put down container
+P35_105_239,1049.57,1052.96,wash knife
+P35_105_24,74.29,78.21,open mushrooms
+P35_105_240,1053.0,1056.25,put down knife
+P35_105_241,1056.35,1057.95,rinse hands
+P35_105_242,1058.05,1060.57,rinse sponge
+P35_105_243,1060.48,1061.13,turn off tap
+P35_105_244,1061.96,1066.43,lather knife
+P35_105_245,1066.5,1074.06,lather container
+P35_105_246,1074.16,1074.91,put down sponge
+P35_105_247,1074.75,1076.18,turn on tap
+P35_105_248,1076.2,1083.29,rinse container
+P35_105_249,1083.24,1085.61,put down container
+P35_105_25,78.48,79.17,put down mushrooms
+P35_105_250,1085.89,1089.22,rinse knife
+P35_105_251,1088.82,1090.9,put down knife
+P35_105_252,1090.94,1093.19,turn off tap
+P35_105_253,1094.39,1094.99,pick up container
+P35_105_254,1097.76,1099.48,put down container
+P35_105_255,1101.0,1104.39,dry hands
+P35_105_256,1106.23,1107.17,pick up spoon
+P35_105_257,1106.95,1126.47,stir mushrooms
+P35_105_258,1126.57,1127.93,adjust hob
+P35_105_259,1127.9,1132.26,stir mushrooms
+P35_105_26,79.74,81.24,open drawer
+P35_105_260,1133.61,1135.89,put down spoon
+P35_105_261,1136.01,1136.91,pick up spoon
+P35_105_262,1137.01,1138.39,put down spoon
+P35_105_263,1145.31,1146.84,move spoon
+P35_105_264,1146.84,1178.02,break apart meat
+P35_105_265,1178.27,1180.97,turn on tap
+P35_105_266,1181.07,1183.38,rinse hands
+P35_105_267,1183.48,1184.07,turn off tap
+P35_105_268,1186.63,1191.68,dry hands
+P35_105_269,1192.77,1194.21,pick up spoon
+P35_105_27,82.09,83.34,move container
+P35_105_270,1194.83,1204.6,stir mushrooms
+P35_105_271,1205.38,1206.35,adjust hob
+P35_105_272,1206.45,1218.36,stir mushrooms
+P35_105_273,1219.47,1220.59,put down spoon
+P35_105_274,1235.55,1236.69,open cupboard
+P35_105_275,1236.84,1239.19,pick up oil
+P35_105_276,1240.68,1243.98,open oil
+P35_105_277,1244.24,1249.24,pour oil
+P35_105_278,1250.39,1251.4,close oil bottle
+P35_105_279,1251.35,1253.19,put down oil
+P35_105_28,83.44,85.9,close drawer
+P35_105_280,1252.85,1253.85,close cupboard
+P35_105_281,1255.32,1255.91,pick up spoon
+P35_105_282,1256.04,1273.39,stir mushrooms
+P35_105_283,1273.74,1275.02,adjust hob
+P35_105_284,1275.06,1287.06,stir mushrooms
+P35_105_285,1289.03,1290.91,put down spoon
+P35_105_286,1297.4,1303.89,adjust hob
+P35_105_287,1319.68,1321.19,pick up spoon
+P35_105_288,1321.48,1345.33,stir mushrooms
+P35_105_289,1346.38,1347.64,put down spoon
+P35_105_29,87.04,90.38,pick up container
+P35_105_290,1351.7,1353.11,move cloth
+P35_105_291,1353.41,1354.24,pick up pot rest
+P35_105_292,1355.16,1356.2,put down pot rest
+P35_105_293,1358.93,1360.15,adjust hob
+P35_105_294,1360.38,1361.27,pick up pan
+P35_105_295,1362.15,1364.12,put down pan
+P35_105_296,1365.08,1366.44,pick up cream
+P35_105_297,1367.31,1408.21,pour cream
+P35_105_298,1409.03,1410.97,throw away cream packaging
+P35_105_299,1412.82,1413.46,pick up spoon
+P35_105_3,16.06,17.47,open drawer
+P35_105_30,90.84,92.55,put down container
+P35_105_300,1414.21,1447.27,stir mushrooms
+P35_105_301,1446.66,1447.89,put down spoon
+P35_105_302,1447.99,1448.79,pick up pot
+P35_105_303,1448.79,1452.59,turn on tap
+P35_105_304,1452.51,1455.55,stir mushrooms
+P35_105_305,1455.45,1457.21,turn off tap
+P35_105_306,1456.74,1460.04,put down pot
+P35_105_307,1460.34,1473.16,stir mushrooms
+P35_105_308,1473.64,1474.7,pick up flour
+P35_105_309,1474.8,1481.77,pour flour
+P35_105_31,92.7,93.69,pick up mushrooms
+P35_105_310,1481.17,1482.36,put down flour
+P35_105_311,1482.69,1489.57,stir mushrooms
+P35_105_312,1489.6,1490.17,pick up pan
+P35_105_313,1491.41,1493.88,put down pan
+P35_105_314,1494.07,1495.09,turn off hob
+P35_105_315,1495.15,1498.26,turn on hob
+P35_105_316,1498.2,1518.49,stir mushrooms
+P35_105_317,1518.59,1519.96,put down spoon
+P35_105_318,1521.14,1522.56,move pan
+P35_105_319,1541.0,1541.78,pick up object
+P35_105_32,93.84,103.89,pour mushrooms
+P35_105_320,1542.52,1543.86,throw object
+P35_105_321,1544.79,1545.17,pick up scissors
+P35_105_322,1547.29,1547.95,open drawer
+P35_105_323,1547.84,1548.2,put down scissors
+P35_105_324,1548.17,1548.67,close drawer
+P35_105_325,1555.38,1557.2,turn off hob
+P35_105_326,1557.28,1559.37,turn on hob
+P35_105_327,1559.47,1560.47,move pan
+P35_105_328,1568.29,1568.99,move pan
+P35_105_329,1571.51,1572.13,pick up spoon
+P35_105_33,104.09,106.54,close mushrooms
+P35_105_330,1571.0,1579.69,stir mushrooms
+P35_105_331,1579.49,1580.57,put down spoon
+P35_105_332,1581.51,1582.29,take fork
+P35_105_333,1582.22,1583.38,pick up plate
+P35_105_334,1583.46,1585.02,pour meat
+P35_105_335,1587.26,1588.12,put down plate
+P35_105_336,1588.03,1588.72,put down fork
+P35_105_337,1588.82,1589.67,pick up spoon
+P35_105_338,1589.66,1594.61,stir mushrooms
+P35_105_339,1594.71,1595.65,adjust hob
+P35_105_34,106.99,107.77,pick up clip
+P35_105_340,1594.0,1596.7,pick up pan
+P35_105_341,1596.68,1601.55,turn on tap
+P35_105_342,1601.6,1605.25,turn off tap
+P35_105_343,1605.0,1608.5,put down pan
+P35_105_344,1608.59,1613.93,stir mushrooms
+P35_105_345,1613.94,1615.3,adjust hob
+P35_105_346,1615.24,1631.7,stir mushrooms
+P35_105_347,1631.79,1632.74,put down spoon
+P35_105_348,1632.8,1635.43,pick up salt
+P35_105_349,1635.52,1639.36,pour salt
+P35_105_35,107.74,110.09,attach clip
+P35_105_350,1639.45,1640.81,pick up salt
+P35_105_351,1640.91,1642.34,pour salt
+P35_105_352,1641.94,1642.79,pick up spoon
+P35_105_353,1642.84,1658.43,stir mushrooms
+P35_105_354,1656.34,1659.9,put down spoon
+P35_105_355,1674.41,1675.87,pick up spoon
+P35_105_356,1675.97,1695.1,stir mushrooms
+P35_105_357,1695.07,1696.79,put down spoon
+P35_105_358,1698.8,1701.07,move pan
+P35_105_359,1710.27,1712.49,pick up food
+P35_105_36,111.49,112.74,open cupboard
+P35_105_360,1713.42,1714.25,throw food
+P35_105_361,1715.94,1718.04,move pan
+P35_105_362,1719.28,1720.16,pick up spoon
+P35_105_363,1720.38,1738.64,stir mushrooms
+P35_105_364,1739.82,1741.76,move pan
+P35_105_365,1741.88,1749.02,stir mushrooms
+P35_105_366,1748.78,1750.32,put down spoon
+P35_105_367,1768.84,1770.18,pick up flour
+P35_105_368,1769.32,1771.93,close flour
+P35_105_369,1774.33,1775.57,open cupboard
+P35_105_37,112.79,114.79,put down mushrooms
+P35_105_370,1775.25,1777.0,put down flour
+P35_105_371,1777.07,1777.71,close cupboard
+P35_105_372,1777.94,1781.92,pick up spoon
+P35_105_373,1781.9,1794.41,stir mushrooms
+P35_105_374,1795.13,1797.14,put down spoon
+P35_105_375,1816.71,1817.8,pick up bottle
+P35_105_376,1817.65,1820.31,open bottle
+P35_105_377,1820.41,1822.58,pour water
+P35_105_378,1822.64,1825.01,close bottle
+P35_105_379,1824.87,1826.07,put down bottle
+P35_105_38,115.04,115.7,close cupboard
+P35_105_380,1824.0,1827.0,pick up glass
+P35_105_381,1826.77,1832.68,drink water
+P35_105_382,1832.77,1835.12,put down glass
+P35_105_383,1835.22,1837.79,pick up spoon
+P35_105_384,1837.76,1850.65,stir mushrooms
+P35_105_385,1850.42,1853.93,taste mushrooms
+P35_105_386,1853.68,1880.85,stir mushrooms
+P35_105_387,1880.87,1882.03,move pan
+P35_105_388,1882.13,1894.35,stir mushrooms
+P35_105_389,1904.31,1907.89,put down spoon
+P35_105_39,117.24,117.84,pick up container
+P35_105_390,1912.0,1914.22,pick up salt
+P35_105_391,1914.32,1915.44,close salt
+P35_105_392,1916.74,1917.76,put down salt
+P35_105_393,1919.76,1920.62,pick up bag
+P35_105_394,1921.19,1922.24,open bag
+P35_105_395,1921.74,1926.33,put down bag
+P35_105_396,1926.2,1933.15,pick up spoon
+P35_105_397,1933.3,1936.98,stir mushrooms
+P35_105_398,1937.08,1938.93,adjust hob
+P35_105_399,1939.4,1950.5,stir mushrooms
+P35_105_4,17.31,18.51,put down saucepan
+P35_105_40,119.23,121.37,turn on tap
+P35_105_400,1992.45,1993.69,put down spoon
+P35_105_401,2000.1,2000.89,turn off hob
+P35_105_402,2001.71,2002.55,pick up pot
+P35_105_403,2002.94,2004.04,pick up spoon
+P35_105_404,2004.49,2018.53,stir mushrooms
+P35_105_405,2019.92,2020.91,put down spoon
+P35_105_406,2021.39,2022.64,pick up spoon
+P35_105_407,2023.49,2024.35,pick up pan
+P35_105_408,2026.51,2033.89,pour mushrooms
+P35_105_409,2036.26,2046.16,pour meat
+P35_105_41,122.49,123.08,turn off tap
+P35_105_410,2042.62,2046.44,pour mushrooms
+P35_105_411,2049.47,2051.88,stir meat
+P35_105_412,2053.09,2053.73,pour meat
+P35_105_413,2053.86,2058.39,stir meat
+P35_105_414,2058.22,2060.64,pour meat
+P35_105_415,2069.18,2070.03,pour meat
+P35_105_416,2076.02,2076.79,pour mushrooms
+P35_105_417,2081.82,2084.07,pour mushrooms
+P35_105_418,2089.16,2092.1,pour mushrooms
+P35_105_419,2093.61,2097.54,pour mushrooms
+P35_105_42,123.46,127.57,put down container
+P35_105_420,2097.0,2099.67,pour mushrooms
+P35_105_421,2099.5,2103.48,pour mushrooms
+P35_105_422,2100.7,2102.73,pour mushrooms
+P35_105_423,2111.9,2117.97,stir mushrooms
+P35_105_424,2117.98,2123.84,pour mushrooms
+P35_105_425,2123.11,2128.27,pour mushrooms
+P35_105_426,2127.88,2136.3,stir mushrooms
+P35_105_427,2136.4,2138.84,put down pan
+P35_105_428,2137.89,2143.26,pick up plate
+P35_105_429,2143.36,2145.12,put down plate
+P35_105_43,127.45,159.84,stir mushrooms
+P35_105_44,162.75,166.23,pick up food
+P35_105_45,167.85,168.69,turn on tap
+P35_105_46,168.58,173.55,rinse hands
+P35_105_47,174.54,175.49,pick up cloth
+P35_105_48,175.34,180.38,rinse cloth
+P35_105_49,180.37,181.37,turn off tap
+P35_105_5,18.41,20.4,close drawer
+P35_105_50,185.26,191.54,clean counter top
+P35_105_51,192.85,194.85,turn on tap
+P35_105_52,195.07,203.92,rinse cloth
+P35_105_53,204.16,204.73,turn off tap
+P35_105_54,207.74,208.31,put down cloth
+P35_105_55,209.23,209.58,pick up cloth
+P35_105_56,213.55,214.07,put down cloth
+P35_105_57,217.27,218.16,open fridge
+P35_105_58,220.19,224.07,pick up meat
+P35_105_59,225.37,226.7,close fridge
+P35_105_6,21.54,22.05,open drawer
+P35_105_60,230.07,231.08,put down meat
+P35_105_61,231.18,237.27,open packaging
+P35_105_62,238.05,246.85,turn on hob
+P35_105_63,247.21,248.26,move pan
+P35_105_64,254.62,255.7,pick up mushrooms
+P35_105_65,255.74,261.28,open mushrooms
+P35_105_66,261.0,273.31,drain mushrooms
+P35_105_67,273.39,278.78,open mushrooms
+P35_105_68,280.74,281.86,turn on tap
+P35_105_69,282.75,283.71,turn off tap
+P35_105_7,24.02,25.76,pick up container
+P35_105_70,284.54,286.64,pick up lid
+P35_105_71,286.34,301.09,drain mushrooms
+P35_105_72,300.15,305.91,remove lid
+P35_105_73,305.97,306.84,put down lid
+P35_105_74,306.88,307.97,put down mushrooms
+P35_105_75,307.95,308.92,pick up lid
+P35_105_76,308.35,310.6,throw away lid
+P35_105_77,313.55,315.05,adjust hob
+P35_105_78,315.07,319.08,pick up meat
+P35_105_79,318.98,321.46,put down meat
+P35_105_8,25.75,28.51,drain container
+P35_105_80,320.34,323.25,pick up meat
+P35_105_81,324.48,326.16,put down meat
+P35_105_82,326.52,328.51,pick up meat
+P35_105_83,329.51,330.96,put down meat
+P35_105_84,331.43,332.65,pick up meat
+P35_105_85,332.94,334.08,put down meat
+P35_105_86,334.56,337.72,fold packaging
+P35_105_87,339.04,340.97,throw packaging
+P35_105_88,342.56,343.3,turn on tap
+P35_105_89,343.38,346.37,rinse hands
+P35_105_9,28.07,35.62,dry container
+P35_105_90,346.29,347.04,turn off tap
+P35_105_91,348.73,352.15,dry hands
+P35_105_92,350.45,355.7,take fork
+P35_105_93,355.8,357.3,adjust hob
+P35_105_94,357.21,361.97,pick up salt
+P35_105_95,362.06,374.23,pour salt
+P35_105_96,378.47,379.76,open cupboard
+P35_105_97,380.32,381.48,pick up spices
+P35_105_98,381.91,382.66,put down spices
+P35_105_99,382.6,384.4,move spices

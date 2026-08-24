@@ -1,0 +1,214 @@
+P02_122_0,4.1,4.92,move tablets
+P02_122_1,4.78,6.74,wear gloves
+P02_122_10,26.66,28.46,wear glove
+P02_122_100,315.96,316.74,pick up thyme jar
+P02_122_101,319.29,320.22,put down thyme jar
+P02_122_102,319.97,321.36,put down pepper jar
+P02_122_103,326.61,327.3,pick up spice jar
+P02_122_104,328.99,330.92,pour spice from jar into lid
+P02_122_105,331.1,331.65,pour spice from lid into plate
+P02_122_106,332.22,333.24,close spice jar
+P02_122_107,333.27,334.39,put down spice jar
+P02_122_108,333.66,334.2,pick up fork
+P02_122_109,334.35,345.76,mix eggs with spices
+P02_122_11,27.94,29.7,open oven
+P02_122_110,345.83,349.55,pick up chopping board and knife
+P02_122_111,349.65,358.82,slide pepper from chopping board into plate using knife
+P02_122_112,358.92,359.35,put down knife
+P02_122_113,359.45,360.55,put down chopping board
+P02_122_114,359.57,366.66,mix eggs with pepper using fork
+P02_122_115,369.28,372.98,pick up tomatoes from tomato box
+P02_122_116,373.08,374.92,hold tomatoes in hand
+P02_122_117,375.18,376.51,open tap
+P02_122_118,376.36,380.73,wash tomatoes
+P02_122_119,380.8,381.42,close tap
+P02_122_12,29.6,30.96,slide tray
+P02_122_120,381.52,384.01,shake hands
+P02_122_121,385.0,387.25,put tomatoes on chopping board
+P02_122_122,386.93,387.76,pick up knife
+P02_122_123,387.55,395.83,slice tomato
+P02_122_124,396.64,405.05,slice second tomato
+P02_122_125,405.02,414.58,slice third tomato
+P02_122_126,414.68,424.33,slice fourth tomato
+P02_122_127,424.65,436.24,slice fifth tomato
+P02_122_128,436.47,450.64,slice sixth tomato
+P02_122_129,450.74,463.31,slice seventh tomato
+P02_122_13,30.97,31.83,take off glove
+P02_122_130,463.19,473.15,slice eighth tomato
+P02_122_131,474.14,475.58,pick up chopping board
+P02_122_132,475.47,482.04,slide tomato pieces from chopping board into plate using knife
+P02_122_133,482.91,483.71,put down chopping board and knife
+P02_122_134,484.26,497.98,mix eggs and pepper with tomato
+P02_122_135,499.3,503.31,pick up oil bottle
+P02_122_136,503.41,504.43,open oil bottle
+P02_122_137,504.38,506.59,pour oil from bottle into pan
+P02_122_138,506.65,508.24,close oil bottle
+P02_122_139,508.31,509.58,put down oil bottle
+P02_122_14,32.58,35.41,pick up cake mould
+P02_122_140,509.67,511.96,turn on hob
+P02_122_141,511.86,512.93,move jar
+P02_122_142,512.89,515.13,move oil bottle
+P02_122_143,515.23,518.84,move oil in pan
+P02_122_144,518.81,519.71,pick up oil bottle
+P02_122_145,520.03,521.32,open oil bottle
+P02_122_146,521.42,523.97,pour more oil from bottle into pan
+P02_122_147,524.05,525.19,close oil bottle
+P02_122_148,525.29,526.44,put down oil bottle
+P02_122_149,528.05,529.3,pick up tomatoes box
+P02_122_15,35.6,38.53,put cake mould in oven
+P02_122_150,532.15,533.28,open fridge
+P02_122_151,533.05,534.6,put tomatoes box in fridge
+P02_122_152,534.6,536.17,pick up parmesan cheese from fridge
+P02_122_153,536.24,537.36,close fridge
+P02_122_154,538.94,540.59,put down parmesan cheese
+P02_122_155,540.28,541.33,open cupboard
+P02_122_156,541.15,543.04,pick up grater
+P02_122_157,543.13,544.05,close cupboard
+P02_122_158,544.02,545.96,put down grater
+P02_122_159,548.77,550.62,"pick up plate with eggs, pepper and tomatoes"
+P02_122_16,38.63,39.49,pick up gloves
+P02_122_160,553.22,554.57,check heat
+P02_122_161,558.33,563.47,"pour eggs, tomatoes and pepper from plate into pan"
+P02_122_162,563.45,568.66,distribute mixture in pan
+P02_122_163,571.35,573.94,put plate and fork in sink
+P02_122_164,582.27,583.34,adjust heat
+P02_122_165,598.04,598.94,pick up gloves
+P02_122_166,600.34,601.7,hang gloves on ovens side
+P02_122_167,602.06,603.14,open cupboard
+P02_122_168,602.78,606.72,pick up plate
+P02_122_169,607.69,608.87,put down plate on surface
+P02_122_17,39.46,40.42,wear glove
+P02_122_170,607.78,608.5,move tablets
+P02_122_171,610.0,610.88,close cupboard
+P02_122_172,612.96,613.98,pick up spatula
+P02_122_173,614.41,619.28,distribute mixture in pan
+P02_122_174,619.18,620.88,put down spatula
+P02_122_175,621.76,623.38,pick up cheese
+P02_122_176,622.55,625.09,open cheese packaging
+P02_122_177,624.94,627.47,pick up grater
+P02_122_178,629.83,662.43,grate cheese on top of pan
+P02_122_179,662.41,663.27,put down cheese
+P02_122_18,40.39,42.48,slide oven tray
+P02_122_180,666.08,667.53,put down grater
+P02_122_181,667.81,669.29,pick up cheese
+P02_122_182,669.35,671.1,close cheese packaging
+P02_122_183,670.26,673.29,pick up clip
+P02_122_184,673.0,674.56,close cheese packaging using clip
+P02_122_185,675.11,676.1,open fridge
+P02_122_186,676.09,677.04,put cheese in fridge
+P02_122_187,677.14,678.06,close fridge
+P02_122_188,681.2,681.84,pick up spatula
+P02_122_189,682.08,682.84,hold pan
+P02_122_19,61.75,63.65,close oven
+P02_122_190,682.58,704.99,turn omelette using spatula
+P02_122_191,694.84,710.53,distribute omelette in pan
+P02_122_192,708.59,709.6,hit spatula on side of pan
+P02_122_193,709.65,710.91,rest spatula on pan
+P02_122_194,712.99,714.25,switch off hob
+P02_122_195,718.08,718.87,hold pan
+P02_122_196,718.8,719.26,pick up spatula
+P02_122_197,721.3,722.14,pick up pan
+P02_122_198,722.54,729.83,slide omelette from pan into plate using spatula
+P02_122_199,729.93,735.11,hit spatula on side of plate
+P02_122_2,6.94,8.44,open oven
+P02_122_20,63.34,64.38,take off glove
+P02_122_200,734.02,736.42,put down spatula
+P02_122_201,735.41,736.78,put down pan
+P02_122_202,737.8,740.16,pick up bag of bread wraps
+P02_122_203,739.84,742.39,put down bag of bread wraps
+P02_122_204,742.77,745.67,open bag
+P02_122_205,746.07,747.74,pick up wrap
+P02_122_206,747.65,749.3,fold bread wrap
+P02_122_207,749.08,750.4,put wrap on plate
+P02_122_208,751.39,752.05,close bag
+P02_122_209,752.16,752.96,seal bag
+P02_122_21,64.47,69.85,set timer
+P02_122_210,757.47,758.44,open drawer
+P02_122_211,758.66,759.72,pick up fork
+P02_122_212,759.87,761.49,close drawer
+P02_122_213,764.43,765.99,pick up plate
+P02_122_22,69.95,72.08,put down glove
+P02_122_23,75.1,77.67,open cupboard
+P02_122_24,77.74,79.8,pick up plate
+P02_122_25,81.85,84.1,pick up chopping board
+P02_122_26,85.42,86.52,put down plate
+P02_122_27,87.02,87.94,move glove
+P02_122_28,88.04,88.56,put down chopping board
+P02_122_29,88.64,89.97,pick up baking paper pieces
+P02_122_3,9.79,12.29,remove shelf
+P02_122_30,91.92,93.35,open bin
+P02_122_31,93.34,93.86,throw paper
+P02_122_32,93.94,94.46,close bin
+P02_122_33,96.85,98.13,open fridge
+P02_122_34,99.29,100.48,pick up eggs
+P02_122_35,100.5,103.25,put down eggs
+P02_122_36,103.09,106.3,open eggs box
+P02_122_37,106.32,107.07,pick up egg
+P02_122_38,107.13,108.25,tap egg on plate
+P02_122_39,108.3,110.64,crack egg
+P02_122_4,11.51,12.36,close oven
+P02_122_40,110.26,115.1,remove shell piece from plate
+P02_122_41,113.96,116.12,open compost bin
+P02_122_42,115.44,116.53,throw eggshells
+P02_122_43,117.03,118.11,pick up egg
+P02_122_44,117.8,118.77,tap egg on chopping board
+P02_122_45,119.03,120.93,crack egg in plate
+P02_122_46,122.45,123.21,open compost bin
+P02_122_47,123.16,123.51,throw eggshells
+P02_122_48,124.41,125.11,close egg box
+P02_122_49,127.2,128.31,open fridge
+P02_122_5,12.65,14.5,put oven shelf on floor
+P02_122_50,128.31,129.57,put eggs in fridge
+P02_122_51,134.15,135.71,pick up pepper
+P02_122_52,135.46,138.06,pick up tomatoes
+P02_122_53,139.59,141.15,put down pepper on chopping board
+P02_122_54,141.84,143.7,remove tomatoes packaging
+P02_122_55,143.67,145.44,put down tomatoes box
+P02_122_56,145.33,147.74,open bin
+P02_122_57,147.65,148.14,throw packaging
+P02_122_58,148.06,148.45,close bin
+P02_122_59,150.46,151.18,pick up pepper
+P02_122_6,16.9,17.56,take off glove
+P02_122_60,153.46,154.21,open tap
+P02_122_61,154.27,157.33,wash pepper
+P02_122_62,157.38,158.15,close tap
+P02_122_63,158.25,159.57,shake hands
+P02_122_64,160.6,161.43,pick up knife from stand
+P02_122_65,163.47,164.01,put pepper on chopping board
+P02_122_66,164.11,167.65,cut pepper
+P02_122_67,167.62,172.13,cut pepper
+P02_122_68,173.51,175.33,open compost bin
+P02_122_69,175.38,175.87,throw piece of pepper
+P02_122_7,17.54,17.9,put down glove
+P02_122_70,177.17,180.28,cut pepper piece
+P02_122_71,182.14,182.88,open compost bin
+P02_122_72,182.88,183.32,throw pepper piece
+P02_122_73,183.42,193.72,slice pepper
+P02_122_74,193.86,194.8,turn pepper slices
+P02_122_75,194.45,216.41,chop pepper slices
+P02_122_76,216.98,235.93,slice pepper piece
+P02_122_77,235.31,236.38,turn pepper slices
+P02_122_78,236.48,261.27,chop pepper slices
+P02_122_79,262.28,263.75,put down knife
+P02_122_8,18.0,21.21,pick up cake mould
+P02_122_80,264.81,266.35,open drawer
+P02_122_81,265.93,267.64,pick up fork
+P02_122_82,267.72,271.24,close drawer
+P02_122_83,271.51,278.78,whisk eggs using fork in plate
+P02_122_84,287.62,289.07,put down fork
+P02_122_85,290.74,292.01,pick up pepper jar
+P02_122_86,295.51,297.41,pick up thymes jar
+P02_122_87,298.25,299.56,pick up salt
+P02_122_88,301.35,302.64,pour salt in plate
+P02_122_89,302.66,303.31,put down salt
+P02_122_9,23.33,25.75,put down cake mould
+P02_122_90,303.51,305.04,put down peppers jar
+P02_122_91,305.14,305.92,open thymes jar
+P02_122_92,306.02,307.1,pour thyme from jar onto lid
+P02_122_93,307.19,308.32,pour thyme from lid into plate
+P02_122_94,308.39,309.26,close thyme jar
+P02_122_95,309.36,310.02,pick up pepper jar
+P02_122_96,310.03,311.26,open pepper jar
+P02_122_97,311.24,313.74,pour pepper from jar into lid
+P02_122_98,313.78,314.49,pour pepper from lid into plate
+P02_122_99,314.83,315.99,close pepper jar

@@ -1,0 +1,284 @@
+P30_101_0,0.42,1.16,pick up pitta breads
+P30_101_1,1.56,1.95,put down pitta breads
+P30_101_10,13.94,17.58,pour coffee into spoon
+P30_101_100,200.33,202.58,rinse knife
+P30_101_101,202.67,204.13,put knife into drying rack
+P30_101_102,203.91,205.52,pick up knife
+P30_101_103,205.31,207.7,scrub knife
+P30_101_104,207.75,210.5,rinse knife
+P30_101_105,212.1,213.19,put knife into drying rack
+P30_101_106,213.95,214.45,pick up lemon squeezer piece
+P30_101_107,217.26,222.44,scrub lemon squeezer piece
+P30_101_108,222.46,226.14,rinse lemon squeezer piece
+P30_101_109,225.03,225.82,turn off tap
+P30_101_11,17.41,17.95,pour coffee into grinder
+P30_101_110,226.43,227.3,put lemon squeezer piece onto draining board
+P30_101_111,228.35,229.16,pick up spoon
+P30_101_112,229.29,230.79,scrub spoon
+P30_101_113,231.25,232.24,turn on tap
+P30_101_114,229.0,232.53,rinse spoon
+P30_101_115,232.63,233.19,turn off tap
+P30_101_116,233.28,234.8,put spoon into drying rack
+P30_101_117,234.7,235.2,pick up lemon squeezer piece
+P30_101_118,235.36,248.21,scrub lemon squeezer piece
+P30_101_119,248.31,249.0,turn on tap
+P30_101_12,19.2,20.48,turn grinder on
+P30_101_120,249.1,250.92,rinse lemon squeezer piece
+P30_101_121,250.88,251.73,turn off tap
+P30_101_122,251.83,252.89,put lemon squeezer piece on drying rack
+P30_101_123,253.78,256.24,empty washing up bowl
+P30_101_124,256.7,257.46,turn on tap
+P30_101_125,257.33,259.01,rinse washing up bowl
+P30_101_126,260.4,260.99,turn off tap
+P30_101_127,262.12,262.56,move chopping board
+P30_101_128,263.24,263.77,pick up chopping board
+P30_101_129,263.75,264.75,wipe surface
+P30_101_13,20.42,23.68,close coffee bag
+P30_101_130,264.63,265.08,put down chopping board
+P30_101_131,265.16,265.93,pick up pitta breads
+P30_101_132,266.26,266.93,pick up sponge
+P30_101_133,266.42,269.24,wipe pitta breads
+P30_101_134,266.0,267.65,wipe surface
+P30_101_135,267.75,270.74,put down pitta breads
+P30_101_136,270.06,270.56,pick up toaster
+P30_101_137,270.61,271.92,wipe surface
+P30_101_138,272.03,276.27,pick up sponge
+P30_101_139,277.09,277.38,put sponge in washing up bowl
+P30_101_14,21.0,23.33,pick up v60
+P30_101_140,276.87,277.29,pick up sponge
+P30_101_141,277.38,277.83,turn on tap
+P30_101_142,277.89,279.54,rinse sponge
+P30_101_143,279.03,281.62,empty washing up bowl
+P30_101_144,281.63,282.32,turn off tap
+P30_101_145,282.4,283.22,put washing bowl down
+P30_101_146,284.0,286.58,dry hands
+P30_101_147,287.25,288.15,move chopping board
+P30_101_148,288.22,289.69,pick up pitta bread
+P30_101_149,291.22,292.06,pick up kettle
+P30_101_15,23.1,23.45,put down coffee packet
+P30_101_150,292.0,292.5,pick up water jug
+P30_101_151,292.32,295.77,pour water from kettle into jug
+P30_101_152,296.1,297.73,put down kettle
+P30_101_153,297.94,299.82,pick up mug and v60
+P30_101_154,299.15,300.61,put down mug and v60
+P30_101_155,300.71,306.14,pour water into v60
+P30_101_156,306.2,307.33,put down jug
+P30_101_157,307.43,308.54,open fridge
+P30_101_158,308.59,309.7,take hummus
+P30_101_159,309.6,310.72,close fridge
+P30_101_16,23.49,24.32,put down v60
+P30_101_160,310.16,311.49,open hummus
+P30_101_161,311.39,313.69,smell hummus
+P30_101_162,313.72,314.84,close hummus
+P30_101_163,314.93,315.62,put hummus down
+P30_101_164,316.31,317.27,open cupboard
+P30_101_165,317.68,318.66,take plate
+P30_101_166,318.86,319.45,close cupboard
+P30_101_167,319.55,320.07,put plate
+P30_101_168,320.02,320.98,pick up knife
+P30_101_169,321.5,328.09,slice pitta bread
+P30_101_17,24.68,25.28,open cupboard
+P30_101_170,328.16,330.78,pick up pitta bread pieces
+P30_101_171,330.63,331.19,put pitta bread pieces onto plate
+P30_101_172,331.17,332.21,pick up sponge
+P30_101_173,332.18,333.36,wipe knife
+P30_101_174,331.57,333.8,put down sponge
+P30_101_175,333.9,334.37,move tap
+P30_101_176,334.43,335.18,turn on tap
+P30_101_177,335.24,337.37,rinse knife
+P30_101_178,337.02,337.82,turn off tap
+P30_101_179,337.89,339.22,put knife into drying rack
+P30_101_18,25.37,26.14,take filters
+P30_101_180,339.18,339.93,flick hands
+P30_101_181,340.03,341.5,dry hands
+P30_101_182,342.49,343.97,pick up hummus
+P30_101_183,343.72,344.71,put hummus onto plate
+P30_101_184,344.68,345.57,pick up jug
+P30_101_185,345.52,358.64,pour water into v60
+P30_101_186,358.74,359.64,pick up hummus
+P30_101_187,359.38,360.4,open hummus
+P30_101_188,360.48,361.53,put down hummus lid
+P30_101_189,362.04,362.71,pick up jug
+P30_101_19,26.24,28.46,remove filter
+P30_101_190,363.11,370.07,pour water
+P30_101_191,369.91,370.64,put down jug
+P30_101_192,370.79,371.38,pick up pitta piece
+P30_101_193,371.52,372.86,dip pitta piece into hummus
+P30_101_194,372.92,374.79,eat pitta bread
+P30_101_195,380.23,381.56,dip pitta piece into hummus
+P30_101_196,381.66,382.6,eat pitta bread
+P30_101_197,382.7,383.62,put down pitta piece onto plate
+P30_101_198,383.66,384.5,pick up jug
+P30_101_199,384.6,390.61,pour water into v60
+P30_101_2,2.23,3.05,pick up pitta bread
+P30_101_20,28.49,29.28,put filters back into cupboard
+P30_101_200,390.57,392.16,put down jug
+P30_101_201,402.21,402.8,pick up pitta piece
+P30_101_202,402.81,403.87,dip pitta piece into hummus
+P30_101_203,404.16,405.41,eat pitta piece
+P30_101_204,406.03,407.06,dip pitta piece into hummus
+P30_101_205,406.9,418.21,eat pitta piece
+P30_101_206,424.19,430.1,jiggle v60
+P30_101_207,430.68,431.13,pick up pitta piece
+P30_101_208,431.97,432.84,dip pitta piece into hummus
+P30_101_209,433.27,434.13,eat pitta piece
+P30_101_21,29.52,30.15,close cupboard
+P30_101_210,436.21,436.86,put down pitta piece
+P30_101_211,447.83,448.69,pick up pitta piece
+P30_101_212,448.1,450.45,dip pitta piece into hummus
+P30_101_213,450.55,452.02,eat pitta piece
+P30_101_214,452.31,454.11,dip pitta piece into hummus
+P30_101_215,454.22,476.61,eat pitta piece
+P30_101_216,476.64,479.87,pick up v60
+P30_101_217,479.75,482.19,put down v60
+P30_101_218,483.46,484.36,pick up pitta piece
+P30_101_219,484.42,486.05,dip pitta piece into hummus
+P30_101_22,30.6,33.5,fold filter
+P30_101_220,486.15,487.17,eat pitta piece
+P30_101_221,507.28,508.17,dip pitta piece into hummus
+P30_101_222,500.15,506.84,eat pitta piece
+P30_101_223,506.94,508.64,dip pitta piece into hummus
+P30_101_224,510.0,512.9,move v60
+P30_101_225,512.43,516.36,eat pitta piece
+P30_101_226,516.46,517.51,dip pitta piece into hummus
+P30_101_227,517.61,519.2,eat pitta piece
+P30_101_228,524.6,525.3,pick up tea towel
+P30_101_229,526.46,527.01,pick up plate
+P30_101_23,33.46,34.77,open filter
+P30_101_230,527.01,528.68,dry plate
+P30_101_231,528.78,529.36,open cupboard
+P30_101_232,529.3,531.26,put plate
+P30_101_233,531.27,532.11,pick up plate
+P30_101_234,531.79,533.99,wipe plate
+P30_101_235,534.09,534.69,open cupboard
+P30_101_236,535.49,536.15,move glasses
+P30_101_237,538.14,539.18,pick up plates
+P30_101_238,539.14,540.4,put plate
+P30_101_239,543.33,543.98,pick up knife
+P30_101_24,34.99,37.0,turn coffee grinder on
+P30_101_240,543.59,544.6,open drawer
+P30_101_241,545.79,546.48,put down knife
+P30_101_242,546.58,547.05,pick up fork
+P30_101_243,547.05,548.05,dry fork
+P30_101_244,546.1,548.45,put fork in drawer
+P30_101_245,548.55,549.55,pick up knife
+P30_101_246,549.62,550.27,dry knife
+P30_101_247,550.25,550.89,put knife in drawer
+P30_101_248,551.27,551.62,pick up spoon
+P30_101_249,551.72,553.67,dry spoon
+P30_101_25,37.04,39.55,put filter into v60
+P30_101_250,553.65,554.28,put spoon in drawer
+P30_101_251,554.94,555.62,pick up lemon squeezer piece
+P30_101_252,555.72,558.7,dry lemon squeezer piece
+P30_101_253,556.35,559.6,put lemon squeezer piece on draining board
+P30_101_254,559.0,560.92,pick up lemon squeezer piece
+P30_101_255,561.02,573.32,dry lemon squeezer piece
+P30_101_256,575.31,576.54,pick up lemon squeezer piece
+P30_101_257,577.12,578.76,dry lemon squeezer piece
+P30_101_258,578.61,579.17,put down lemon squeezer piece
+P30_101_259,591.59,594.68,reconstruct lemon squeezer
+P30_101_26,39.58,40.3,pour coffee into filter
+P30_101_260,594.98,595.53,open drawer
+P30_101_261,595.6,597.21,put lemon squeezer into drawer
+P30_101_262,598.01,598.96,close drawer
+P30_101_263,598.87,599.93,close drawer
+P30_101_264,601.0,603.84,hang tea towel
+P30_101_265,605.53,606.18,pick up v60
+P30_101_266,606.0,606.31,pick up jug
+P30_101_267,607.46,608.27,empty filter paper from v60 into bin
+P30_101_268,608.69,609.95,put v60 in washing up bowl
+P30_101_269,610.04,610.98,close cupboard
+P30_101_27,40.4,42.58,put coffee container back into grinder
+P30_101_270,611.01,612.35,close cupboard
+P30_101_271,612.44,613.47,turn on tap
+P30_101_272,613.28,614.46,fill jug with water
+P30_101_273,614.56,614.87,turn off tap
+P30_101_274,614.53,615.72,empty jug
+P30_101_275,615.45,616.17,turn on tap
+P30_101_276,615.77,617.54,fill up jug
+P30_101_277,617.56,618.18,turn off tap
+P30_101_278,618.28,618.87,empty jug
+P30_101_279,618.88,620.6,put jug on drying rack
+P30_101_28,42.83,44.05,take mug
+P30_101_280,622.83,623.73,pick up pitta piece
+P30_101_281,623.83,624.73,dip pitta piece into hummus
+P30_101_282,624.73,625.81,eat pitta piece
+P30_101_283,625.9,626.38,put pitta piece down
+P30_101_29,43.44,44.89,take v60
+P30_101_3,3.15,4.36,put pitta bread in toaster
+P30_101_30,44.73,45.54,put mug and v60 onto table
+P30_101_31,45.86,46.83,take jug
+P30_101_32,46.74,47.3,turn on tap
+P30_101_33,47.34,49.65,fill jug
+P30_101_34,47.0,50.0,turn off tap
+P30_101_35,50.1,51.41,open kettle
+P30_101_36,51.45,52.47,pour water into kettle
+P30_101_37,52.57,53.08,close kettle
+P30_101_38,53.44,54.83,put jug
+P30_101_39,55.43,56.44,turn on tap
+P30_101_4,3.91,6.43,turn toaster on
+P30_101_40,56.35,57.85,rinse sponge
+P30_101_41,58.18,59.39,apply washing up liquid to sponge
+P30_101_42,60.44,61.02,pick up plate
+P30_101_43,61.12,69.4,wash plate
+P30_101_44,67.81,76.28,rinse plate
+P30_101_45,76.73,77.66,put plate on drying rack
+P30_101_46,77.96,78.86,pick up mug
+P30_101_47,78.61,85.45,wash mug
+P30_101_48,85.16,90.28,rinse mug
+P30_101_49,90.1,90.89,turn on kettle
+P30_101_5,6.48,8.74,take bag of coffee
+P30_101_50,90.59,93.09,put mug
+P30_101_51,92.98,93.9,pick up lemon squeezer
+P30_101_52,93.95,99.3,take apart lemon squeezer
+P30_101_53,99.37,100.38,rinse lemon squeezer pieces
+P30_101_54,99.31,101.14,put lemon squeezer pieces into washing up bowl
+P30_101_55,101.21,101.81,pick up plate
+P30_101_56,102.19,104.19,scrub plate
+P30_101_57,104.29,108.04,put down plate
+P30_101_58,108.34,108.96,pick up knife
+P30_101_59,109.24,110.49,scrub knife
+P30_101_6,9.13,10.56,open bag of coffee
+P30_101_60,112.7,113.19,put knife into washing up bowl
+P30_101_61,113.4,113.83,pick up knife
+P30_101_62,114.26,114.51,put knife into washing up bowl
+P30_101_63,114.69,117.51,scrub knife
+P30_101_64,121.6,123.2,put knife into washing up bowl
+P30_101_65,123.3,125.47,wash lemon squeezer piece
+P30_101_66,125.75,126.91,turn on tap
+P30_101_67,126.95,129.47,rinse lemon squeezer piece
+P30_101_68,130.68,133.24,put lemon squeezer piece into washing up bowl
+P30_101_69,132.95,134.02,pick up knife
+P30_101_7,10.88,12.18,take v60
+P30_101_70,134.12,135.93,scrub knife
+P30_101_71,136.02,137.66,turn on tap
+P30_101_72,137.05,142.27,rinse knife
+P30_101_73,142.24,142.94,turn off tap
+P30_101_74,142.88,145.12,put knife into drying rack
+P30_101_75,145.82,146.52,turn on tap
+P30_101_76,146.23,149.16,rinse plate
+P30_101_77,149.08,149.87,put plate onto drying rack
+P30_101_78,149.93,150.61,turn off tap
+P30_101_79,150.71,152.08,pick up fork
+P30_101_8,12.08,13.69,put v60
+P30_101_80,152.18,157.38,scrub fork
+P30_101_81,157.48,158.75,turn on tap
+P30_101_82,158.81,163.38,rinse fork
+P30_101_83,160.61,163.61,turn off tap
+P30_101_84,163.63,164.84,put fork into drying rack
+P30_101_85,165.1,166.35,pick up lemon squeezer piece
+P30_101_86,165.84,174.91,scrub lemon squeezer piece
+P30_101_87,174.86,176.0,submerge lemon squeezer piece
+P30_101_88,175.78,176.92,turn on tap
+P30_101_89,176.99,179.29,rinse lemon squeezer piece
+P30_101_9,12.58,14.94,take spoon
+P30_101_90,179.21,179.93,turn off tap
+P30_101_91,179.62,180.4,put lemon squeezer piece onto drying rack
+P30_101_92,180.5,181.6,pick up lemon squeezer piece
+P30_101_93,181.61,190.44,scrub lemon squeezer piece
+P30_101_94,190.4,191.83,turn on tap
+P30_101_95,191.23,192.22,rinse lemon squeezer piece
+P30_101_96,192.22,196.27,inspect lemon squeezer piece
+P30_101_97,196.22,198.3,submerge lemon squeezer piece
+P30_101_98,197.41,198.24,pick up knife
+P30_101_99,198.34,200.24,scrub knife

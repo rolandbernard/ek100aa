@@ -1,0 +1,881 @@
+P01_09_0,1.14,3.0,adjust lights
+P01_09_1,3.91,5.73,take bag
+P01_09_10,24.58,26.13,take soy milk
+P01_09_100,329.49,332.02,pour flour onto counter
+P01_09_101,334.4,335.88,put down bowl
+P01_09_102,343.07,354.74,knead dough
+P01_09_103,356.46,358.42,pour flour
+P01_09_104,358.52,359.51,put down flour
+P01_09_105,360.12,367.87,knead dough
+P01_09_106,367.32,374.73,continue kneading dough
+P01_09_107,376.07,395.44,keep kneading dough
+P01_09_108,395.9,396.86,take flour bag
+P01_09_109,396.97,401.47,pour flour
+P01_09_11,26.5,28.5,open fridge
+P01_09_110,401.57,404.8,pour flour into hands
+P01_09_111,405.45,407.21,put down flour bag
+P01_09_112,407.24,411.11,spread flour
+P01_09_113,410.81,421.98,knead dough
+P01_09_114,422.49,438.21,knead dough
+P01_09_115,438.31,453.25,continue kneading dough
+P01_09_116,453.35,489.79,keep kneading dough
+P01_09_117,487.26,495.72,keep kneading dough
+P01_09_118,496.16,501.82,sprinkle flour
+P01_09_119,502.37,515.25,knead dough
+P01_09_12,29.85,32.6,put soy milk into fridge
+P01_09_120,515.35,537.63,knead dough
+P01_09_121,525.88,530.7,knead dough
+P01_09_122,532.34,545.45,continue kneading dough
+P01_09_123,536.41,569.8,continue kneading dough
+P01_09_124,572.12,573.16,put dough into bowl
+P01_09_125,575.68,576.54,turn on tap
+P01_09_126,576.58,597.08,wash hands
+P01_09_127,596.95,598.02,turn off tap
+P01_09_128,600.31,601.23,take cloth
+P01_09_129,601.33,604.39,dry hands
+P01_09_13,32.95,34.45,close fridge
+P01_09_130,604.49,605.58,hang cloth
+P01_09_131,606.36,609.99,take tea towels
+P01_09_132,611.42,614.61,put towel unto bowl
+P01_09_133,615.36,618.36,put towel unto bowl
+P01_09_134,618.95,620.2,put bowl aside
+P01_09_135,620.55,621.8,take timer
+P01_09_136,622.08,623.9,set timer
+P01_09_137,623.98,624.86,put down timer
+P01_09_138,625.1,627.18,put tea towels into cupboard
+P01_09_139,628.7,639.95,draw flour bag
+P01_09_14,36.3,37.31,take bottle
+P01_09_140,640.3,641.34,take flower bag
+P01_09_141,641.85,646.8,put flour bag into cupboard
+P01_09_142,648.26,649.95,take measuring cup
+P01_09_143,650.33,651.25,take sponge
+P01_09_144,652.03,655.89,rinse sponge
+P01_09_145,657.18,667.77,wash counter
+P01_09_146,668.14,673.64,continue washing counter
+P01_09_147,680.93,681.69,turn off tap
+P01_09_148,682.32,687.87,wash counter
+P01_09_149,688.54,689.51,take washing up liquid
+P01_09_15,37.4,38.65,put down bottle
+P01_09_150,689.67,690.91,pour washing up liquid
+P01_09_151,690.79,691.81,put down washing up liquid
+P01_09_152,692.09,694.0,turn on tap
+P01_09_153,694.2,697.33,wash spatula
+P01_09_154,700.0,715.2,continue washing spatula
+P01_09_155,714.25,714.96,put down spatula
+P01_09_156,715.37,717.73,empty bowl
+P01_09_157,717.72,721.15,wash bowl
+P01_09_158,721.07,741.02,continue washing bowl
+P01_09_159,741.11,741.61,put down sponge
+P01_09_16,38.75,41.36,take potatoes
+P01_09_160,741.63,742.76,turn on tap
+P01_09_161,743.0,745.81,wash hands
+P01_09_162,745.25,746.9,take spatula
+P01_09_163,746.81,749.02,rinse spatula
+P01_09_164,749.09,749.75,take sponge
+P01_09_165,749.5,755.26,wash spatula
+P01_09_166,755.15,755.77,put down sponge
+P01_09_167,755.4,761.34,rinse spatula
+P01_09_168,760.69,761.76,put spatula onto rack
+P01_09_169,763.06,765.09,empty bowl
+P01_09_17,43.1,44.81,put down potato
+P01_09_170,764.82,775.69,rinse bowl
+P01_09_171,764.85,776.96,rinse bowl
+P01_09_172,777.03,777.86,take sponge
+P01_09_173,778.09,782.41,wash bowl
+P01_09_174,781.18,783.12,empty bowl
+P01_09_175,783.22,784.65,put bowl onto rack
+P01_09_176,784.74,785.55,take cutting board
+P01_09_177,785.6,786.85,put down cutting board
+P01_09_178,786.45,787.16,take sponge
+P01_09_179,788.09,788.96,take cloth
+P01_09_18,44.7,46.09,open cupboard
+P01_09_180,789.06,794.23,wipe counter
+P01_09_181,793.01,794.01,put down cloth
+P01_09_182,794.17,795.93,rinse sponge
+P01_09_183,795.49,799.51,squeeze sponge
+P01_09_184,799.61,800.48,put down sponge
+P01_09_185,800.4,802.11,take cloth
+P01_09_186,802.19,806.25,dry hands
+P01_09_187,806.37,807.62,hang clothes
+P01_09_188,809.79,811.17,open oven
+P01_09_189,811.33,812.55,close oven
+P01_09_19,45.8,47.63,put potato into cupboard
+P01_09_190,812.99,819.82,turn oven on
+P01_09_191,822.69,823.44,take potato
+P01_09_192,823.47,824.54,put down potato
+P01_09_193,825.39,826.24,open cupboard
+P01_09_194,826.2,828.05,take plate
+P01_09_195,828.15,828.8,close cupboard
+P01_09_196,830.26,830.84,move cutting board
+P01_09_197,830.55,832.79,put down plate
+P01_09_198,832.97,834.4,take potato
+P01_09_199,835.5,836.5,open drawer
+P01_09_2,6.71,7.7,put down bag
+P01_09_20,48.65,51.4,take cutting board
+P01_09_200,837.1,841.85,take knife
+P01_09_201,840.85,842.46,close drawer
+P01_09_202,844.28,861.12,peel potato
+P01_09_203,861.22,876.48,continue peeling potato
+P01_09_204,874.76,904.29,continue peeling potato
+P01_09_205,906.38,914.56,keep peeling potato
+P01_09_206,915.25,916.77,put down potato
+P01_09_207,916.93,928.68,slice potato
+P01_09_208,928.4,938.62,continue slicing potato
+P01_09_209,949.88,966.38,continue slicing potato
+P01_09_21,51.4,52.14,put down cutting board
+P01_09_210,956.48,993.68,continue slicing potato
+P01_09_211,994.37,999.13,pour potato onto plate
+P01_09_212,999.89,1002.32,pour potato onto plate
+P01_09_213,1003.46,1004.25,put down knife
+P01_09_214,1005.44,1007.6,take potato skins
+P01_09_215,1008.92,1010.25,take potato skin from floor
+P01_09_216,1012.05,1012.8,open bin
+P01_09_217,1012.65,1013.48,throw potato skin into bin
+P01_09_218,1015.71,1017.06,open cupboard
+P01_09_219,1017.42,1017.94,close cupboard
+P01_09_22,54.21,55.23,take spoon
+P01_09_220,1019.59,1020.95,take onion
+P01_09_221,1022.3,1023.05,take knife
+P01_09_222,1023.35,1042.24,peel onion
+P01_09_223,1039.67,1054.14,peel onion
+P01_09_224,1049.36,1080.52,continue peeling onion
+P01_09_225,1057.66,1077.64,continue peeling onion
+P01_09_226,1083.19,1084.05,put down onion
+P01_09_227,1083.9,1090.59,cut onion
+P01_09_228,1093.49,1094.38,take knife
+P01_09_229,1094.08,1096.85,cut onion
+P01_09_23,55.09,56.48,take cup
+P01_09_230,1096.45,1097.12,put down knife
+P01_09_231,1097.07,1099.79,take onion bits
+P01_09_232,1099.84,1102.32,put down bits
+P01_09_233,1104.07,1105.21,take knife
+P01_09_234,1105.59,1108.15,cut onion
+P01_09_235,1108.18,1108.69,put down knife
+P01_09_236,1109.78,1111.32,take containers
+P01_09_237,1110.93,1111.98,open container
+P01_09_238,1114.23,1115.22,take container
+P01_09_239,1115.95,1116.89,open container
+P01_09_24,57.04,58.15,open cupboard
+P01_09_240,1118.9,1120.0,take onion
+P01_09_241,1119.6,1120.53,put down container
+P01_09_242,1120.94,1122.23,turn on tap
+P01_09_243,1121.63,1124.14,wash onion
+P01_09_244,1123.94,1124.98,turn off tap
+P01_09_245,1127.61,1128.67,put onion into container
+P01_09_246,1128.42,1130.83,put onion into container
+P01_09_247,1130.5,1133.06,close lid
+P01_09_248,1136.62,1138.54,open fridge
+P01_09_249,1137.87,1139.75,put container into fridge
+P01_09_25,58.69,60.74,put cup into cupboard
+P01_09_250,1139.75,1142.5,close fridge
+P01_09_251,1140.2,1142.38,take mushrooms
+P01_09_252,1146.35,1147.55,put down mushrooms
+P01_09_253,1147.41,1150.33,dry hands
+P01_09_254,1156.14,1157.79,take bin.
+P01_09_255,1157.99,1159.74,open bin.
+P01_09_256,1159.99,1165.24,throw onion skin into bin.
+P01_09_257,1166.63,1167.53,close bin.
+P01_09_258,1168.84,1169.61,put down bin.
+P01_09_259,1172.29,1173.07,turn on tap.
+P01_09_26,60.25,62.45,take measuring cup
+P01_09_260,1173.14,1175.39,wash hands.
+P01_09_261,1174.45,1175.82,close tap.
+P01_09_262,1175.92,1182.67,dry hands.
+P01_09_263,1182.77,1184.11,take knife.
+P01_09_264,1184.45,1193.93,cut onion.
+P01_09_265,1194.56,1203.95,cut onion.
+P01_09_266,1200.33,1213.97,continue cutting onion.
+P01_09_267,1214.07,1226.49,separate onion bits
+P01_09_268,1227.11,1227.79,turn knife
+P01_09_269,1227.32,1241.25,slice onion
+P01_09_27,62.52,65.2,put down measuring cup
+P01_09_270,1237.85,1243.94,slice onion
+P01_09_271,1246.33,1251.94,peel onion
+P01_09_272,1252.66,1256.03,slice onion
+P01_09_273,1257.97,1263.14,slice onion
+P01_09_274,1265.87,1275.84,pour onion into plate
+P01_09_275,1275.86,1276.84,put down cutting board and knife
+P01_09_276,1276.78,1279.83,take onion skin
+P01_09_277,1280.6,1281.22,open bin
+P01_09_278,1281.41,1282.35,throw onion skin into bin
+P01_09_279,1282.37,1283.11,close bin
+P01_09_28,64.85,65.87,open drawer
+P01_09_280,1284.26,1291.39,dry hands
+P01_09_281,1292.96,1298.05,open mushroom box
+P01_09_282,1298.41,1299.31,take knife
+P01_09_283,1299.38,1313.37,open mushroom box
+P01_09_284,1313.61,1318.15,take mushrooms
+P01_09_285,1318.25,1319.67,put down mushrooms
+P01_09_286,1320.12,1325.87,close mushroom box
+P01_09_287,1329.31,1330.64,open fridge
+P01_09_288,1331.9,1333.28,put mushrooms into fridge
+P01_09_289,1333.38,1334.71,open drawer
+P01_09_29,66.1,67.1,put spoon into drawer
+P01_09_290,1334.81,1336.75,take aubergine
+P01_09_291,1336.34,1337.5,close drawer
+P01_09_292,1338.41,1340.94,close fridge
+P01_09_293,1344.83,1345.82,put down aubergine
+P01_09_294,1345.48,1346.35,take mushroom
+P01_09_295,1346.32,1347.62,turn on tap
+P01_09_296,1347.72,1351.61,wash mushroom
+P01_09_297,1351.71,1352.84,put down mushroom
+P01_09_298,1352.86,1353.63,take mushroom
+P01_09_299,1353.4,1358.38,wash mushroom
+P01_09_3,8.02,9.88,open bag
+P01_09_30,66.88,67.56,close drawer
+P01_09_300,1358.48,1359.23,take mushroom
+P01_09_301,1358.86,1359.93,put down mushroom
+P01_09_302,1359.4,1363.61,wash mushroom
+P01_09_303,1363.94,1364.44,turn off tap
+P01_09_304,1364.81,1367.77,take mushrooms
+P01_09_305,1370.14,1371.14,put down mushrooms
+P01_09_306,1371.74,1374.24,dry hands
+P01_09_307,1374.84,1376.09,open cupboard
+P01_09_308,1376.69,1379.2,take plate
+P01_09_309,1379.04,1379.54,close cupboard
+P01_09_31,69.24,71.72,take bowls
+P01_09_310,1380.1,1383.54,put down plate
+P01_09_311,1381.55,1383.55,move measuring cup
+P01_09_312,1383.9,1384.93,take knife
+P01_09_313,1385.03,1403.48,slice mushrooms
+P01_09_314,1405.66,1419.02,slice mushroom
+P01_09_315,1418.06,1430.98,slice mushroom
+P01_09_316,1431.08,1432.9,pour
+P01_09_317,1431.75,1436.21,mushrooms onto plate
+P01_09_318,1436.11,1436.87,put down cutting board and knife
+P01_09_319,1437.12,1437.95,open cupboard
+P01_09_32,73.9,75.24,put down bowl
+P01_09_320,1438.61,1442.86,take pan
+P01_09_321,1443.03,1444.25,put down pan
+P01_09_322,1444.32,1445.81,close cupboard
+P01_09_323,1446.17,1446.92,take oil
+P01_09_324,1447.7,1449.22,open oil
+P01_09_325,1449.19,1455.94,pour oil onto pan
+P01_09_326,1456.34,1458.66,close oil
+P01_09_327,1458.76,1460.64,put down oil
+P01_09_328,1461.23,1462.88,turn on hob
+P01_09_329,1462.93,1463.68,take knife
+P01_09_33,75.33,77.41,close cupboard
+P01_09_330,1463.78,1464.28,put down knife
+P01_09_331,1463.9,1464.51,take aubergine
+P01_09_332,1469.67,1470.92,throw something into bin
+P01_09_333,1471.24,1471.96,open bin
+P01_09_334,1472.06,1474.62,throw something into bin
+P01_09_335,1474.29,1475.19,close bin
+P01_09_336,1477.1,1477.66,take aubergine
+P01_09_337,1477.76,1478.92,turn on tap
+P01_09_338,1479.06,1491.31,wash aubergine
+P01_09_339,1490.93,1491.83,turn off tap
+P01_09_34,78.89,79.82,put down bowls
+P01_09_340,1495.72,1496.48,take knife
+P01_09_341,1496.77,1504.15,chop aubergine
+P01_09_342,1504.77,1521.54,slice aubergine
+P01_09_343,1512.98,1533.35,continue slicing aubergine
+P01_09_344,1534.6,1535.51,put aubergine into container
+P01_09_345,1535.61,1536.71,close container
+P01_09_346,1542.03,1542.87,open fridge
+P01_09_347,1542.97,1544.8,put container into fridge
+P01_09_348,1544.49,1545.95,close fridge
+P01_09_349,1550.38,1552.39,take aubergine ends
+P01_09_35,79.92,81.13,close cupboard
+P01_09_350,1552.66,1553.66,open bin
+P01_09_351,1552.67,1553.77,throw aubergine ends into bin
+P01_09_352,1555.1,1558.85,dry hands
+P01_09_353,1558.94,1560.59,move cutting board
+P01_09_354,1560.54,1564.04,dry hands
+P01_09_355,1564.14,1565.89,move plate
+P01_09_356,1566.24,1567.89,check oil
+P01_09_357,1576.37,1577.17,take glass
+P01_09_358,1578.42,1580.01,turn on tap
+P01_09_359,1579.04,1581.54,pour water into glass
+P01_09_36,81.2,82.81,move bowl
+P01_09_360,1581.57,1582.26,turn off tap
+P01_09_361,1581.9,1587.4,drink water
+P01_09_362,1589.25,1591.25,put down glass
+P01_09_363,1592.88,1594.48,dry hands
+P01_09_364,1594.95,1597.7,take olives
+P01_09_365,1597.52,1600.52,open olives
+P01_09_366,1601.62,1605.87,take olives
+P01_09_367,1606.65,1608.05,eat olive
+P01_09_368,1607.85,1611.85,take olives
+P01_09_369,1614.45,1629.2,take olives
+P01_09_37,83.39,84.47,take measuring cup
+P01_09_370,1642.85,1645.96,eat olive
+P01_09_371,1644.0,1645.25,put down olives
+P01_09_372,1645.6,1648.35,dry hands
+P01_09_373,1648.69,1651.69,take aubergine
+P01_09_374,1653.04,1665.1,place aubergine onto pan
+P01_09_375,1665.64,1667.41,dry hands
+P01_09_376,1667.71,1668.86,take salt
+P01_09_377,1668.84,1669.59,open salt
+P01_09_378,1669.69,1672.26,pour salt
+P01_09_379,1671.8,1672.54,close salt
+P01_09_38,84.57,86.15,turn on tap
+P01_09_380,1672.89,1673.64,put down salt
+P01_09_381,1674.53,1675.96,take knife
+P01_09_382,1676.06,1678.53,slice olives
+P01_09_383,1677.61,1715.91,continue slicing olives
+P01_09_384,1700.31,1724.65,continue slicing olives
+P01_09_385,1730.06,1732.84,dry hands
+P01_09_386,1734.01,1735.06,open drawer
+P01_09_387,1735.77,1736.93,take knife
+P01_09_388,1736.31,1738.09,put down knife
+P01_09_389,1738.19,1739.09,take tong
+P01_09_39,86.53,88.04,check water
+P01_09_390,1738.33,1739.59,put down tong
+P01_09_391,1738.78,1739.64,close drawer
+P01_09_392,1739.28,1741.27,close container
+P01_09_393,1741.3,1742.76,put container into cupboard
+P01_09_394,1743.87,1745.35,take tong
+P01_09_395,1749.19,1751.71,put down tong
+P01_09_396,1754.21,1755.46,take lid
+P01_09_397,1755.1,1757.85,close olives
+P01_09_398,1759.22,1760.63,take olives
+P01_09_399,1761.86,1762.82,open fridge
+P01_09_4,9.93,11.35,take flower off bag
+P01_09_40,86.74,107.78,waiting for water to be hot
+P01_09_400,1762.73,1768.78,put olives into fridge
+P01_09_401,1768.88,1769.74,close fridge
+P01_09_402,1772.86,1774.07,dry hands
+P01_09_403,1774.03,1775.11,take tongs
+P01_09_404,1775.67,1777.35,flip aubergine
+P01_09_405,1777.78,1780.28,flip aubergine
+P01_09_406,1780.88,1781.84,flip aubergine
+P01_09_407,1782.19,1783.46,flip aubergine
+P01_09_408,1784.15,1785.29,flip aubergine
+P01_09_409,1785.89,1787.82,flip aubergine
+P01_09_41,89.11,99.19,check water
+P01_09_410,1791.49,1792.97,put down tongs
+P01_09_411,1793.16,1794.11,open cupboard
+P01_09_412,1799.27,1800.96,take trays
+P01_09_413,1800.77,1802.41,close cupboard
+P01_09_414,1802.98,1805.08,put down trays
+P01_09_415,1804.18,1807.19,move paper towel
+P01_09_416,1819.29,1820.76,open drawer
+P01_09_417,1820.86,1822.11,take scissors
+P01_09_418,1822.21,1824.24,close drawer
+P01_09_419,1824.34,1830.3,cut baking paper
+P01_09_42,107.78,112.63,pour water into measuring cup
+P01_09_420,1830.4,1831.27,put down baking paper
+P01_09_421,1830.5,1832.34,put down scissors
+P01_09_422,1832.6,1839.1,lay baking paper onto tray
+P01_09_423,1839.44,1840.61,take scissors
+P01_09_424,1841.29,1849.85,cut baking paper
+P01_09_425,1852.48,1860.74,lay baking paper onto tray
+P01_09_426,1862.25,1864.13,take tong
+P01_09_427,1863.08,1864.14,adjust hob
+P01_09_428,1864.19,1866.74,flip aubergine
+P01_09_429,1864.44,1866.65,flip aubergine
+P01_09_43,112.67,113.95,turn off tap
+P01_09_430,1866.84,1868.61,flip aubergine
+P01_09_431,1867.98,1868.63,flip aubergine
+P01_09_432,1868.71,1870.63,flip aubergine
+P01_09_433,1869.65,1870.4,flip aubergine
+P01_09_434,1870.19,1872.29,flip aubergine
+P01_09_435,1872.56,1873.31,flip aubergine
+P01_09_436,1880.37,1881.34,put down tong
+P01_09_437,1882.53,1888.73,take baking paper
+P01_09_438,1889.08,1890.14,take scissors
+P01_09_439,1890.76,1896.26,take baking paper
+P01_09_44,113.28,114.62,put down cup
+P01_09_440,1896.3,1897.01,put down scissors
+P01_09_441,1897.22,1899.31,put down baking paper
+P01_09_442,1899.88,1900.45,take baking paper
+P01_09_443,1901.93,1903.07,move tray
+P01_09_444,1902.96,1904.17,put down tray
+P01_09_445,1905.69,1914.81,lay baking paper onto tray
+P01_09_446,1920.34,1921.09,take scissors
+P01_09_447,1921.32,1922.41,open drawer
+P01_09_448,1922.39,1923.64,put scissors into drawer
+P01_09_449,1923.25,1924.02,close drawer
+P01_09_45,114.72,117.22,dry hands
+P01_09_450,1933.59,1935.09,move plate
+P01_09_451,1935.86,1936.6,take tong
+P01_09_452,1937.34,1939.78,flip aubergine
+P01_09_453,1939.88,1941.59,flip aubergine
+P01_09_454,1941.69,1943.24,flip aubergine
+P01_09_455,1943.34,1944.54,flip aubergine
+P01_09_456,1944.64,1946.02,flip aubergine
+P01_09_457,1946.12,1949.28,flip aubergine
+P01_09_458,1949.38,1951.43,flip aubergine
+P01_09_459,1958.55,1959.49,put down tong
+P01_09_46,118.07,120.56,take yeast
+P01_09_460,1960.61,1961.39,open cupboard
+P01_09_461,1961.58,1963.39,take plate
+P01_09_462,1963.17,1963.94,close cupboard
+P01_09_463,1966.48,1967.98,put down plate
+P01_09_464,1967.65,1971.53,take paper
+P01_09_465,1972.7,1976.73,fold paper
+P01_09_466,1976.97,1978.06,put down paper
+P01_09_467,1978.86,1979.41,take tong
+P01_09_468,1987.05,1989.05,take aubergine
+P01_09_469,1987.66,1989.99,put aubergine onto plate
+P01_09_47,121.29,122.98,open box
+P01_09_470,1989.32,1990.29,put aubergine onto plate
+P01_09_471,1990.63,1995.14,take aubergine
+P01_09_472,1990.75,1992.58,take aubergine
+P01_09_473,1993.56,1995.98,put aubergine onto plate
+P01_09_474,1995.06,1996.01,put aubergine onto plate
+P01_09_475,1996.76,1998.84,take aubergine
+P01_09_476,2001.55,2002.62,put aubergine onto plate
+P01_09_477,2003.31,2007.67,take aubergine
+P01_09_478,2007.4,2008.48,put aubergine onto plate
+P01_09_479,2009.33,2012.15,take aubergine
+P01_09_48,125.57,126.94,put down box
+P01_09_480,2013.33,2013.95,put aubergine onto plate
+P01_09_481,2016.0,2018.22,take aubergine
+P01_09_482,2024.26,2025.26,put aubergine onto plate
+P01_09_483,2029.9,2031.24,take pan
+P01_09_484,2031.36,2033.36,put down pan
+P01_09_485,2034.76,2036.24,put down tongs
+P01_09_486,2037.44,2039.77,take tray
+P01_09_487,2040.24,2043.16,put down tray
+P01_09_488,2042.58,2045.04,move blade
+P01_09_489,2045.66,2046.69,take cutting board and knife
+P01_09_49,127.44,129.65,take flour
+P01_09_490,2046.2,2049.53,move cutting board
+P01_09_491,2049.2,2052.45,move plate
+P01_09_492,2049.89,2051.21,move olives
+P01_09_493,2051.06,2056.1,take olives
+P01_09_494,2056.14,2058.11,open fridge
+P01_09_495,2058.21,2059.7,put olives into fridge
+P01_09_496,2062.05,2063.51,take mozzarella
+P01_09_497,2063.4,2065.51,close fridge
+P01_09_498,2068.88,2070.38,put down mozzarella
+P01_09_499,2071.43,2081.92,take dough
+P01_09_5,12.36,13.88,take soy milk off bag
+P01_09_50,130.77,132.39,move bowl
+P01_09_500,2081.27,2082.27,put down bowl
+P01_09_501,2082.75,2085.25,place dough onto tray
+P01_09_502,2085.35,2087.1,take knife
+P01_09_503,2087.84,2090.94,dry knife
+P01_09_504,2091.97,2101.32,cut dough into halves
+P01_09_505,2101.42,2117.85,separate dough
+P01_09_506,2120.62,2123.83,put dough into bowl
+P01_09_507,2123.24,2123.92,take bowl
+P01_09_508,2124.99,2128.49,take dough
+P01_09_509,2138.84,2139.59,take knife
+P01_09_51,131.65,132.96,put down flour
+P01_09_510,2146.06,2162.47,looking for something
+P01_09_511,2153.82,2156.86,open drawer
+P01_09_512,2160.19,2161.23,close drawer
+P01_09_513,2160.29,2161.58,open drawer
+P01_09_514,2161.36,2162.68,take rolling pin
+P01_09_515,2162.46,2163.28,close drawer
+P01_09_516,2164.05,2169.22,roll dough
+P01_09_517,2169.57,2170.98,move tray
+P01_09_518,2171.42,2176.41,roll dough
+P01_09_519,2176.43,2179.76,roll dough
+P01_09_52,133.06,143.56,open four bag
+P01_09_520,2193.86,2194.61,take flour
+P01_09_521,2195.69,2197.29,put down flour bag
+P01_09_522,2196.85,2199.35,unroll
+P01_09_523,2197.64,2199.43,unfold flour bag
+P01_09_524,2199.79,2201.56,take flour
+P01_09_525,2201.51,2203.83,spread flour
+P01_09_526,2204.39,2216.09,roll dough
+P01_09_527,2211.81,2223.93,roll dough
+P01_09_528,2225.51,2244.74,spread dough
+P01_09_529,2247.54,2252.82,spread dough
+P01_09_53,146.16,153.86,pour flour into bowl
+P01_09_530,2254.14,2262.68,place potato onto dough
+P01_09_531,2254.19,2255.44,take potato
+P01_09_532,2256.1,2257.1,take potato
+P01_09_533,2257.2,2257.95,place potato onto dough
+P01_09_534,2257.92,2261.54,take potato
+P01_09_535,2261.27,2272.97,place potato onto dough
+P01_09_536,2273.09,2274.24,take onions
+P01_09_537,2274.03,2281.32,spread onions
+P01_09_538,2281.42,2283.22,take onions
+P01_09_539,2284.04,2285.31,take onions
+P01_09_54,153.96,155.59,put down flour bag
+P01_09_540,2286.51,2290.14,spread onions onto dough
+P01_09_541,2291.35,2299.12,peel onion
+P01_09_542,2299.18,2300.17,put onion onto dough
+P01_09_543,2300.27,2301.3,take onion
+P01_09_544,2301.84,2302.48,put onion onto dough
+P01_09_545,2303.0,2303.65,take onion
+P01_09_546,2303.65,2304.72,put onion onto dough
+P01_09_547,2308.11,2309.9,turn on tap
+P01_09_548,2309.68,2312.17,wash hands
+P01_09_549,2312.82,2319.41,dry hands
+P01_09_55,157.14,158.39,move cutting board
+P01_09_550,2312.96,2313.63,turn off tap
+P01_09_551,2319.43,2320.53,take mozzarella
+P01_09_552,2320.63,2337.0,open mozzarella bag
+P01_09_553,2337.64,2345.02,spread mozzarella onto dough
+P01_09_554,2344.35,2352.19,spread mozzarella onto dough
+P01_09_555,2352.29,2353.03,take knife
+P01_09_556,2353.13,2358.44,put down knife
+P01_09_557,2358.56,2366.78,spread mozzarella
+P01_09_558,2364.99,2372.51,continue spreading mozzarella
+P01_09_559,2372.61,2373.17,put down mozzarella
+P01_09_56,159.28,161.01,take yeast
+P01_09_560,2373.26,2375.62,spread mozzarella
+P01_09_561,2376.44,2377.16,take salt
+P01_09_562,2377.23,2378.28,open salt
+P01_09_563,2378.61,2383.36,pour salt
+P01_09_564,2384.91,2386.29,take oil
+P01_09_565,2386.31,2387.89,open oil
+P01_09_566,2387.7,2394.63,pour oil
+P01_09_567,2394.73,2397.5,close oil
+P01_09_568,2396.19,2399.94,put down oil
+P01_09_569,2400.04,2402.73,take mushrooms
+P01_09_57,162.03,169.34,pour yeast into bowl
+P01_09_570,2402.86,2424.5,place mushrooms onto dough
+P01_09_571,2406.05,2426.85,place mushrooms onto dough
+P01_09_572,2427.7,2430.45,put down plate
+P01_09_573,2428.82,2431.06,move flour bag
+P01_09_574,2431.64,2432.64,take rolling pin
+P01_09_575,2433.86,2434.76,put down rolling pin
+P01_09_576,2435.24,2438.52,take pizza
+P01_09_577,2438.19,2439.19,put down pizza
+P01_09_578,2441.29,2442.79,open oven
+P01_09_579,2442.77,2447.25,put pizza into oven
+P01_09_58,169.82,172.51,fold yeast
+P01_09_580,2447.49,2448.49,close oven
+P01_09_581,2449.92,2451.65,move mozzarella bag
+P01_09_582,2454.02,2456.24,take dough
+P01_09_583,2454.84,2456.97,put down bowl
+P01_09_584,2457.45,2460.97,take tray
+P01_09_585,2462.82,2468.53,flatten dough
+P01_09_586,2467.88,2469.13,put down dough
+P01_09_587,2471.11,2475.94,sprinkle flour
+P01_09_588,2477.3,2482.88,roll dough
+P01_09_589,2482.6,2484.18,take rolling pin
+P01_09_59,173.29,174.54,take box
+P01_09_590,2484.81,2504.09,roll dough
+P01_09_591,2485.63,2502.82,continue rolling dough
+P01_09_592,2495.91,2512.0,continue rolling dough
+P01_09_593,2512.1,2514.89,put down rolling pin
+P01_09_594,2514.99,2528.75,spread dough
+P01_09_595,2528.85,2530.91,put dough onto tray
+P01_09_596,2531.45,2535.43,spread dough
+P01_09_597,2536.23,2539.23,open cupboard
+P01_09_598,2539.22,2543.0,take tomato sauce
+P01_09_599,2543.1,2544.18,put down sauce
+P01_09_6,14.01,18.07,take potatoes off bag
+P01_09_60,174.57,176.23,put yeast into box
+P01_09_600,2544.29,2547.17,put sauce into cupboard
+P01_09_601,2547.58,2548.58,close cupboard
+P01_09_602,2550.24,2551.9,open bottle
+P01_09_603,2553.63,2560.32,pour sauce onto dough
+P01_09_604,2559.95,2561.02,put on lid
+P01_09_605,2561.22,2562.67,open drawer
+P01_09_606,2562.32,2563.32,take spoon
+P01_09_607,2563.34,2564.08,close drawer
+P01_09_608,2565.18,2568.89,pour sauce onto dough
+P01_09_609,2568.99,2575.68,pour sauce onto dough
+P01_09_61,174.86,178.24,close box
+P01_09_610,2571.99,2584.02,spoon sauce
+P01_09_611,2585.35,2586.7,put down butter
+P01_09_612,2586.8,2594.14,spread sauce
+P01_09_613,2595.14,2596.14,put down spoon
+P01_09_614,2597.25,2598.64,take aubergine
+P01_09_615,2600.05,2601.4,put down plate
+P01_09_616,2602.04,2603.44,take mozzarella
+P01_09_617,2608.6,2610.35,sprinkle mozzarella onto dough
+P01_09_618,2612.2,2623.77,continue sprinkling mozzarella
+P01_09_619,2623.94,2624.98,take spoon
+P01_09_62,178.45,182.01,put yeast box into cupboard
+P01_09_620,2625.08,2629.16,spread mozzarella
+P01_09_621,2629.62,2633.66,sprinkle more mozzarella
+P01_09_622,2637.45,2640.13,fold mozzarella bag
+P01_09_623,2640.05,2640.87,put down mozzarella bag
+P01_09_624,2641.88,2643.63,take plate
+P01_09_625,2643.11,2644.93,take spoon
+P01_09_626,2644.67,2645.58,put down spoon
+P01_09_627,2646.2,2660.55,place aubergine onto pizza
+P01_09_628,2660.74,2661.98,put down plate
+P01_09_629,2665.25,2667.85,take olives
+P01_09_63,184.21,189.11,move cutting board and flower
+P01_09_630,2668.23,2679.79,spread olives onto pizza
+P01_09_631,2679.51,2681.83,take olives
+P01_09_632,2681.19,2685.21,spread olives onto pizza
+P01_09_633,2686.51,2687.21,eat olive
+P01_09_634,2687.37,2688.41,take olive
+P01_09_635,2688.47,2690.86,spread olives onto pizza
+P01_09_636,2690.97,2692.21,take olive
+P01_09_637,2692.31,2693.9,spread olives onto pizza
+P01_09_638,2694.01,2695.27,take olives
+P01_09_639,2695.37,2696.2,spread olives onto pizza
+P01_09_64,189.89,191.42,open drawer
+P01_09_640,2696.49,2697.57,take onion
+P01_09_641,2697.2,2698.21,place onion onto pizza
+P01_09_642,2698.21,2699.76,take onion
+P01_09_643,2700.68,2702.85,take onion
+P01_09_644,2702.79,2705.43,put onion onto pizza
+P01_09_645,2705.39,2706.39,take onion
+P01_09_646,2707.65,2708.62,take onion
+P01_09_647,2708.59,2709.29,place onion onto pizza
+P01_09_648,2715.54,2718.89,dry hands
+P01_09_649,2720.04,2721.62,take cloth
+P01_09_65,191.24,192.81,take spatula
+P01_09_650,2722.58,2725.26,hang cloth
+P01_09_651,2725.21,2728.5,take pizza
+P01_09_652,2728.71,2730.64,put pizza onto tray
+P01_09_653,2731.97,2733.18,open oven
+P01_09_654,2733.09,2736.7,put pizza into oven
+P01_09_655,2738.06,2740.68,close oven
+P01_09_656,2742.88,2744.5,take flour bag
+P01_09_657,2744.6,2747.86,take lid and bottle
+P01_09_658,2750.67,2751.48,take lid
+P01_09_659,2751.49,2753.09,close bottle
+P01_09_66,194.34,195.08,put down spatula
+P01_09_660,2755.02,2755.89,take mozzarella bag
+P01_09_661,2758.0,2760.69,open fridge
+P01_09_662,2760.5,2766.57,put sauce into fridge
+P01_09_663,2766.52,2768.01,take beer
+P01_09_664,2768.11,2770.05,put down beer
+P01_09_665,2770.65,2775.14,fold mozzarella bag
+P01_09_666,2774.99,2776.51,put mozzarella bag into fridge
+P01_09_667,2776.88,2779.55,close fridge
+P01_09_668,2782.02,2783.56,take table cloth
+P01_09_669,2785.98,2788.08,move glass
+P01_09_67,195.24,196.2,take salt
+P01_09_670,2787.89,2789.64,put down table cloth
+P01_09_671,2790.09,2791.39,take paper
+P01_09_672,2793.35,2795.1,open bin
+P01_09_673,2794.95,2795.74,throw paper into bin
+P01_09_674,2795.37,2796.6,close bin
+P01_09_675,2797.39,2798.56,take plate
+P01_09_676,2799.74,2801.09,put down plate
+P01_09_677,2801.59,2810.84,roll flour bag
+P01_09_678,2811.44,2815.9,put flour bag into cupboard
+P01_09_679,2816.64,2819.72,take cloves
+P01_09_68,196.3,197.65,open salt
+P01_09_680,2819.49,2822.32,put cloves into cupboard
+P01_09_681,2823.45,2825.35,take rolling pin and bowl
+P01_09_682,2824.7,2825.95,put down rolling pin and bowl
+P01_09_683,2827.55,2828.8,take mushroom
+P01_09_684,2828.65,2829.65,eat mushroom
+P01_09_685,2829.75,2831.75,take olive
+P01_09_686,2831.85,2833.85,eat olives
+P01_09_687,2834.95,2836.45,open cupboard
+P01_09_688,2836.55,2839.8,take bowl
+P01_09_689,2841.43,2842.93,move bowl and rolling pin
+P01_09_69,197.59,200.4,pour salt
+P01_09_690,2844.0,2845.05,put down rolling pin
+P01_09_691,2845.55,2854.32,pour mushrooms into bowl
+P01_09_692,2854.33,2856.5,put down plate
+P01_09_693,2858.12,2859.81,take plate
+P01_09_694,2860.05,2865.9,pour potatoes into bowl
+P01_09_695,2866.5,2867.91,take potato
+P01_09_696,2867.4,2868.19,put potato into bowl
+P01_09_697,2868.65,2871.09,put down plate
+P01_09_698,2871.55,2874.08,take olives
+P01_09_699,2874.01,2875.2,eat olives
+P01_09_7,17.46,18.92,take something off bag
+P01_09_70,200.19,200.69,close salt
+P01_09_700,2875.85,2886.16,dry hands
+P01_09_701,2876.97,2879.57,take paper
+P01_09_702,2880.11,2883.08,put plate into sink
+P01_09_703,2885.93,2886.6,open bin
+P01_09_704,2886.63,2887.58,throw paper
+P01_09_705,2887.18,2887.95,close bin
+P01_09_706,2889.46,2890.24,open drawer
+P01_09_707,2890.35,2893.08,take knife
+P01_09_708,2894.91,2895.53,put down knife and fork
+P01_09_709,2896.37,2897.28,open cupboard
+P01_09_71,200.7,201.38,put down salt
+P01_09_710,2899.3,2900.36,close cupboard
+P01_09_711,2901.78,2902.46,take glass
+P01_09_712,2902.56,2903.12,take can
+P01_09_713,2903.48,2907.79,open can
+P01_09_714,2909.16,2914.62,pour beer into glass
+P01_09_715,2914.56,2915.83,put down glass and can
+P01_09_716,2917.86,2918.7,open oven
+P01_09_717,2918.67,2920.52,check pizza
+P01_09_718,2920.62,2921.41,close oven
+P01_09_719,2923.72,2924.58,take bottle
+P01_09_72,202.07,203.11,take oil
+P01_09_720,2926.74,2927.49,open bottle
+P01_09_721,2927.7,2930.9,turn on tap
+P01_09_722,2930.54,2939.92,pour water into bottle
+P01_09_723,2940.02,2941.82,turn off tap
+P01_09_724,2942.73,2944.92,put down bottle
+P01_09_725,2946.14,2948.67,take bowls
+P01_09_726,2951.22,2954.66,open fridge
+P01_09_727,2955.45,2956.65,put bowl into fridge
+P01_09_728,2956.75,2958.9,put bowl into fridge
+P01_09_729,2959.04,2962.29,close fridge
+P01_09_73,202.62,203.97,open oil
+P01_09_730,2971.51,2973.84,open the oven
+P01_09_731,2977.75,2984.45,take olives
+P01_09_732,2985.81,2995.73,spread olives onto pizza
+P01_09_733,2995.2,3001.95,close oven
+P01_09_734,3007.69,3008.86,take sponge
+P01_09_735,3008.64,3010.14,turn on tap
+P01_09_736,3010.19,3012.97,rinse sponge
+P01_09_737,3012.84,3014.09,take washing up liquid
+P01_09_738,3014.19,3016.69,pour washing up liquid
+P01_09_739,3016.79,3017.64,put down washing up liquid
+P01_09_74,204.31,206.22,pour oil
+P01_09_740,3017.74,3027.11,wash spoon
+P01_09_741,3026.43,3027.52,put down spoon
+P01_09_742,3027.25,3027.75,take measuring cup
+P01_09_743,3027.84,3028.77,empty measuring cup
+P01_09_744,3028.48,3032.31,wash measuring cup
+P01_09_745,3032.41,3033.05,put down measuring cup
+P01_09_746,3033.15,3035.15,take cutting board
+P01_09_747,3034.94,3041.21,wash cutting board
+P01_09_748,3041.31,3044.6,continue washing cutting board
+P01_09_749,3046.33,3047.07,take spoon
+P01_09_75,206.46,208.58,close oil
+P01_09_750,3047.65,3049.28,move spoon
+P01_09_751,3051.75,3052.99,take rolling pin
+P01_09_752,3052.67,3053.72,turn on tap
+P01_09_753,3053.74,3070.55,wash rolling pin
+P01_09_754,3069.82,3071.64,turn off tap
+P01_09_755,3071.48,3078.81,wash rolling pin
+P01_09_756,3078.91,3080.38,put down rolling pin
+P01_09_757,3080.48,3081.38,take tong
+P01_09_758,3081.38,3086.48,wash tong
+P01_09_759,3086.57,3087.39,put down tong
+P01_09_76,208.68,210.13,put down oil
+P01_09_760,3087.38,3088.7,take knife
+P01_09_761,3088.64,3091.49,wash knife
+P01_09_762,3091.59,3092.6,take sponge
+P01_09_763,3093.47,3094.12,put down knife
+P01_09_764,3094.39,3096.48,move plates
+P01_09_765,3095.99,3097.24,take plate
+P01_09_766,3098.01,3102.7,wash plate
+P01_09_767,3102.69,3104.19,put down plate
+P01_09_768,3104.29,3106.06,take plate
+P01_09_769,3106.01,3113.21,wash plate
+P01_09_77,210.41,212.04,take measuring cup
+P01_09_770,3106.02,3112.21,wash plate
+P01_09_771,3112.6,3113.85,put down plate
+P01_09_772,3113.54,3114.92,take plate
+P01_09_773,3119.13,3120.12,put down plate
+P01_09_774,3120.22,3121.42,take bowl
+P01_09_775,3121.52,3128.63,wash bowl
+P01_09_776,3128.02,3128.98,put down bowl
+P01_09_777,3130.26,3132.83,take pan
+P01_09_778,3133.14,3136.63,empty pan
+P01_09_779,3139.73,3141.57,turn on tap
+P01_09_78,212.63,215.98,pour water into bowl
+P01_09_780,3141.07,3152.46,rinse bowl
+P01_09_781,3152.89,3154.22,put bowl onto rack
+P01_09_782,3154.3,3160.53,rinse plate
+P01_09_783,3160.63,3162.25,put plate into rack
+P01_09_784,3162.81,3170.51,rinse plate
+P01_09_785,3170.61,3172.79,put plate into rack
+P01_09_786,3172.24,3173.18,take plate
+P01_09_787,3172.92,3178.15,rinse plate
+P01_09_788,3178.35,3180.57,put plate into rack
+P01_09_789,3178.52,3182.06,put plate into rack
+P01_09_79,216.08,217.71,put down measuring cup
+P01_09_790,3182.83,3183.5,take tong
+P01_09_791,3183.3,3192.86,rinse tong
+P01_09_792,3193.28,3194.11,take knife
+P01_09_793,3193.87,3196.65,rinse knife
+P01_09_794,3196.75,3197.54,put knife into rack
+P01_09_795,3197.64,3198.66,take rolling pin
+P01_09_796,3198.68,3200.08,rinse rolling pin
+P01_09_797,3200.06,3200.7,take sponge
+P01_09_798,3200.8,3214.52,wash rolling pin
+P01_09_799,3208.97,3223.63,rinse rolling pin
+P01_09_8,20.43,21.61,close bag
+P01_09_80,217.81,218.9,take spatula
+P01_09_800,3222.28,3223.85,put down rolling pin
+P01_09_801,3223.61,3225.05,take pan
+P01_09_802,3225.15,3229.91,wash pan
+P01_09_803,3228.58,3229.56,turn off top
+P01_09_804,3229.34,3230.05,turn on top
+P01_09_805,3230.75,3239.67,continue washing pan
+P01_09_806,3239.77,3245.14,rinse pan
+P01_09_807,3244.64,3247.08,put pan into rack
+P01_09_808,3247.18,3251.58,rinse spoon
+P01_09_809,3251.68,3252.32,put down spoon
+P01_09_81,218.7,226.63,stir flour
+P01_09_810,3252.42,3268.35,rinse cutting board
+P01_09_811,3268.35,3270.16,put cutting board into rack
+P01_09_812,3269.94,3271.13,take measuring cup
+P01_09_813,3270.81,3279.86,rinse cup
+P01_09_814,3279.66,3282.5,put measuring cup into rack
+P01_09_815,3285.39,3287.26,open oven
+P01_09_816,3286.64,3287.52,check pizza
+P01_09_817,3287.66,3289.16,close oven
+P01_09_818,3290.51,3291.26,take cloth
+P01_09_819,3291.55,3294.03,turn on tap
+P01_09_82,226.73,227.93,take measuring cup
+P01_09_820,3293.21,3294.66,rinse cloth
+P01_09_821,3295.04,3305.07,wipe counter
+P01_09_822,3305.2,3308.2,squeeze cloth
+P01_09_823,3308.45,3310.59,wipe counter
+P01_09_824,3311.42,3317.67,wipe sink
+P01_09_825,3318.03,3318.82,turn on tap
+P01_09_826,3320.49,3321.84,turn off tap
+P01_09_827,3321.57,3323.82,squeeze cloth
+P01_09_828,3327.12,3330.44,throw something into bin
+P01_09_829,3330.48,3331.11,close bin
+P01_09_83,228.05,232.32,pour water
+P01_09_830,3333.75,3337.5,wash hands
+P01_09_831,3334.41,3335.66,turn on tap
+P01_09_832,3337.47,3338.18,turn off tap
+P01_09_833,3340.19,3342.67,dry hands
+P01_09_834,3343.54,3344.54,take glass
+P01_09_835,3345.14,3349.39,drink beer
+P01_09_836,3349.49,3350.99,put down glass
+P01_09_837,3352.34,3354.59,open oven
+P01_09_838,3354.34,3355.82,check pizza
+P01_09_839,3355.54,3356.54,close oven
+P01_09_84,232.01,233.44,put down measuring cup
+P01_09_840,3357.99,3358.69,open cupboard
+P01_09_841,3359.1,3361.47,take plate
+P01_09_842,3361.37,3363.36,take plate
+P01_09_843,3363.85,3365.12,put down plate
+P01_09_844,3365.03,3368.67,put down plate
+P01_09_845,3373.62,3375.01,open drawer
+P01_09_846,3375.31,3376.03,close drawer
+P01_09_847,3376.68,3377.65,open oven
+P01_09_848,3377.75,3381.79,take pizza
+P01_09_849,3383.74,3385.89,close oven
+P01_09_85,233.54,248.34,stir
+P01_09_850,3394.66,3399.11,drink more beer
+P01_09_851,3397.48,3400.02,put down glass
+P01_09_852,3402.54,3405.08,check basil plant
+P01_09_853,3405.65,3408.35,take basil
+P01_09_854,3411.43,3415.08,spread basil leaves
+P01_09_855,3417.05,3418.57,open oven
+P01_09_856,3418.77,3424.42,take pizza
+P01_09_857,3424.52,3426.84,put down pizza
+P01_09_858,3437.06,3439.15,close oven
+P01_09_859,3442.92,3444.29,take plate
+P01_09_86,242.24,252.49,continue stirring flour
+P01_09_860,3444.25,3446.49,put down plate
+P01_09_861,3451.43,3452.96,open drawer
+P01_09_862,3453.06,3455.37,take something
+P01_09_863,3455.59,3456.46,put down something
+P01_09_864,3456.78,3467.84,taking pizza off paper
+P01_09_865,3470.45,3491.24,continue taking pizza off paper
+P01_09_866,3491.92,3492.92,put down something
+P01_09_867,3493.0,3495.18,open drawer
+P01_09_868,3496.89,3498.6,open drawer
+P01_09_869,3498.57,3502.25,looking for something
+P01_09_87,254.4,258.38,pour more water into bowl
+P01_09_870,3504.88,3526.87,cut pizza
+P01_09_871,3508.66,3533.82,cut pizza
+P01_09_872,3534.62,3543.1,take pizza slice
+P01_09_873,3543.12,3544.66,put pizza slice onto plate
+P01_09_874,3544.76,3552.21,take pizza slice
+P01_09_875,3553.14,3557.39,put pizza slice onto plate
+P01_09_876,3558.09,3561.17,put down things onto counter
+P01_09_877,3561.27,3562.63,open oven
+P01_09_878,3562.73,3564.33,close oven
+P01_09_879,3565.16,3566.31,take plate
+P01_09_88,258.48,259.72,put down measuring cup
+P01_09_880,3566.41,3568.86,put down plate
+P01_09_89,260.62,269.52,stir flour
+P01_09_9,21.99,22.74,put down bag
+P01_09_90,269.62,297.59,continue stirring flour
+P01_09_91,279.19,294.35,keep stirring flour
+P01_09_92,294.45,313.88,keep stirring flour
+P01_09_93,314.32,316.32,put cutting board in the rack
+P01_09_94,317.98,319.23,take flour
+P01_09_95,318.94,319.77,take measuring cup
+P01_09_96,320.17,321.08,put down measuring cup
+P01_09_97,321.25,321.93,take glass
+P01_09_98,322.87,323.49,put down glass
+P01_09_99,325.63,328.78,stir flour

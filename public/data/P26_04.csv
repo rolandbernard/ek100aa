@@ -1,0 +1,39 @@
+P26_04_0,1.89,3.22,open door
+P26_04_1,5.43,10.62,take saucepan
+P26_04_10,39.79,41.25,close door
+P26_04_11,42.08,43.9,turn on cooker
+P26_04_12,48.51,51.55,put saucepan on cooker
+P26_04_13,51.56,55.86,increase heat
+P26_04_14,55.96,56.84,pick up lid
+P26_04_15,56.79,59.03,put lid on pot
+P26_04_16,61.98,63.67,open door
+P26_04_17,63.82,65.43,pick up pasta
+P26_04_18,66.16,67.49,close door
+P26_04_19,68.15,70.5,put down pasta
+P26_04_2,9.4,12.34,take lid
+P26_04_20,71.27,72.98,open door
+P26_04_21,74.85,77.25,pick up plate
+P26_04_22,76.99,79.03,close door
+P26_04_23,79.13,82.02,put down plate
+P26_04_24,82.49,90.03,open package of pasta
+P26_04_25,90.13,101.11,put pasta on plate
+P26_04_26,102.96,106.64,close pasta package
+P26_04_27,108.79,110.23,open door
+P26_04_28,110.16,112.38,put pasta package
+P26_04_29,110.32,112.24,close door
+P26_04_3,12.24,14.76,close door
+P26_04_30,117.41,118.81,open fridge
+P26_04_31,120.68,121.65,pick up cheese
+P26_04_32,121.43,122.76,close fridge
+P26_04_33,124.14,125.33,put cheese
+P26_04_34,127.93,128.88,open drawer
+P26_04_35,129.34,131.54,pick up cutlery
+P26_04_36,132.55,133.56,close drawer
+P26_04_37,134.71,135.63,put fork
+P26_04_38,135.73,136.43,put
+P26_04_4,14.83,15.91,take saucepan
+P26_04_5,16.17,17.4,put down lid
+P26_04_6,18.63,31.61,fill saucepan with water
+P26_04_7,31.71,32.71,turn off tap
+P26_04_8,34.3,35.89,put down saucepan
+P26_04_9,35.94,36.8,open door

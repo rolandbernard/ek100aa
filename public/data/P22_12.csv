@@ -1,0 +1,289 @@
+P22_12_0,3.54,4.82,open fridge
+P22_12_1,5.0,6.21,open locker
+P22_12_10,29.74,30.74,close fridge
+P22_12_100,266.92,268.17,remove slice
+P22_12_101,268.27,269.02,put slice
+P22_12_102,269.12,273.37,cut peach
+P22_12_103,273.47,274.22,remove slice
+P22_12_104,274.32,275.32,put slice
+P22_12_105,275.42,277.42,cut peach
+P22_12_106,276.55,282.62,cut peach
+P22_12_107,280.42,283.3,cut peach
+P22_12_108,283.15,283.9,remove slice
+P22_12_109,283.39,284.33,remove slice
+P22_12_11,34.19,35.38,put banana
+P22_12_110,284.0,284.75,put slice
+P22_12_111,287.15,288.17,put slice
+P22_12_112,288.08,289.43,cut peach
+P22_12_113,289.53,290.4,remove slice
+P22_12_114,290.5,293.96,put down down slice
+P22_12_115,294.79,297.39,remove core
+P22_12_116,297.15,297.69,put down down peach
+P22_12_117,297.69,300.21,grab rinds
+P22_12_118,298.45,302.29,grab rinds
+P22_12_119,300.13,300.93,put down down knife
+P22_12_12,36.24,37.32,open tap
+P22_12_120,303.44,304.78,clean potato peeler
+P22_12_121,304.83,305.75,put down down potato peeler
+P22_12_122,306.79,308.16,open basket
+P22_12_123,308.26,310.83,toss rinds
+P22_12_124,310.71,311.38,close basket
+P22_12_125,312.04,313.07,open tap
+P22_12_126,313.01,315.54,rinse hands
+P22_12_127,315.64,316.24,close tap
+P22_12_128,316.21,317.72,shake hands
+P22_12_129,317.66,320.78,dry hands
+P22_12_13,37.35,48.75,rinse peach
+P22_12_130,320.82,321.75,put down down rug
+P22_12_131,321.7,322.85,grab potato peeler
+P22_12_132,323.33,324.67,put down down potato peeler
+P22_12_133,324.42,325.57,open tap
+P22_12_134,325.56,328.6,rinse plate
+P22_12_135,328.26,329.16,close tap
+P22_12_136,330.57,331.82,pick up rag
+P22_12_137,331.87,334.24,dry dish
+P22_12_138,333.59,336.88,place dish
+P22_12_139,336.92,339.18,place rag
+P22_12_14,43.5,48.73,rinse peach
+P22_12_140,339.03,340.0,pick up banana
+P22_12_141,340.1,344.12,peel banana
+P22_12_142,344.5,348.25,cut banana
+P22_12_143,347.81,349.53,cut banana
+P22_12_144,350.26,351.63,cut banana
+P22_12_145,352.9,354.4,cut banana
+P22_12_146,371.59,374.25,place knife
+P22_12_147,374.6,377.53,throw peel
+P22_12_148,377.26,378.09,close basket
+P22_12_149,378.4,379.89,open tap
+P22_12_15,48.8,49.6,close tap
+P22_12_150,378.72,381.14,rinse hands
+P22_12_151,380.61,381.6,close tap
+P22_12_152,381.66,382.49,shake hands
+P22_12_153,382.43,385.93,dry hands
+P22_12_154,385.45,387.04,place rag
+P22_12_155,388.04,389.54,open cabinet
+P22_12_156,389.89,390.64,pick up bread
+P22_12_157,390.89,391.69,close cabinet
+P22_12_158,392.2,397.2,open bread
+P22_12_159,392.42,396.85,remove coverage
+P22_12_16,52.4,54.04,rinse peach
+P22_12_160,396.95,400.72,open bread
+P22_12_161,400.41,403.29,pick up slice
+P22_12_162,403.32,404.83,insert slice
+P22_12_163,404.73,405.75,turn on toaster
+P22_12_164,405.85,407.75,close bread
+P22_12_165,407.82,414.92,put clip
+P22_12_166,415.15,416.27,open cabinet
+P22_12_167,415.77,419.87,place bread
+P22_12_168,419.74,420.96,close cabinet
+P22_12_169,424.81,425.76,open cabinet
+P22_12_17,54.14,54.79,close tap
+P22_12_170,426.41,429.41,pick up plate
+P22_12_171,429.51,430.8,close locker
+P22_12_172,430.86,433.86,put plate
+P22_12_173,435.46,436.48,open drawer
+P22_12_174,436.56,437.81,pick up knife
+P22_12_175,437.78,438.66,close drawer
+P22_12_176,439.26,440.51,put knife
+P22_12_177,440.61,443.11,open locker
+P22_12_178,443.89,446.02,close locker
+P22_12_179,445.68,446.63,open locker
+P22_12_18,56.88,57.6,put down peaches
+P22_12_180,446.99,448.2,pick up jar
+P22_12_181,448.18,449.12,put jar
+P22_12_182,449.19,450.35,pick up container
+P22_12_183,450.44,451.65,put container
+P22_12_184,451.75,454.64,close locker
+P22_12_185,454.74,456.75,open drawer
+P22_12_186,456.74,457.87,pick up mats
+P22_12_187,457.95,459.02,close drawers
+P22_12_188,460.83,462.19,move bottle
+P22_12_189,463.68,465.31,put down down tablecloths
+P22_12_19,58.31,61.44,dry hands
+P22_12_190,466.23,467.36,open cupboard
+P22_12_191,467.29,468.63,grab detergent
+P22_12_192,469.64,470.82,grab cloth
+P22_12_193,472.56,474.06,spray detergent
+P22_12_194,475.09,475.88,clean table
+P22_12_195,475.92,476.85,spray detergent
+P22_12_196,476.92,478.42,spray detergent
+P22_12_197,478.52,481.64,clean table
+P22_12_198,481.69,482.49,put down down detergent
+P22_12_199,483.0,484.51,open tap
+P22_12_2,6.3,7.65,open fridge
+P22_12_20,60.99,62.49,put down cloth
+P22_12_200,484.61,486.09,rinse cloth
+P22_12_201,485.98,489.22,wring cloth
+P22_12_202,489.77,490.57,grab detergent
+P22_12_203,490.67,491.64,spray detergent
+P22_12_204,491.65,493.81,clean table
+P22_12_205,493.85,494.46,spray detergent
+P22_12_206,494.56,496.24,clean table
+P22_12_207,496.16,496.69,grab sheets
+P22_12_208,496.8,497.47,put down down sheets
+P22_12_209,497.36,498.65,grab can
+P22_12_21,62.52,63.63,open drawer
+P22_12_210,497.88,499.07,put down down can
+P22_12_211,499.01,500.42,move ciabatta
+P22_12_212,500.52,503.71,move ciabatta
+P22_12_213,504.49,505.49,grab plate
+P22_12_214,505.59,506.27,move plate
+P22_12_215,506.37,506.93,spray detergent
+P22_12_216,506.84,516.07,clean table
+P22_12_217,507.39,513.16,clean table
+P22_12_218,507.39,509.63,spray detergent
+P22_12_219,515.57,516.54,move bottle
+P22_12_22,63.7,64.57,pick up potato peeler
+P22_12_220,516.19,516.88,spray cleanser
+P22_12_221,516.9,521.85,wipe table
+P22_12_222,521.9,522.88,move bottle
+P22_12_223,522.84,524.11,wipe table
+P22_12_224,527.06,528.13,open cupboard
+P22_12_225,527.72,529.08,put down cleanser
+P22_12_226,529.38,530.06,close cupboard
+P22_12_227,533.43,534.79,take plastic piece
+P22_12_228,537.0,538.49,throw plastic piece
+P22_12_229,538.02,538.8,close bin
+P22_12_23,67.07,72.09,peel peach
+P22_12_230,538.99,540.07,turn on tap
+P22_12_231,540.17,540.94,rinse hands
+P22_12_232,541.94,543.3,pour soap
+P22_12_233,544.49,547.83,wash hands
+P22_12_234,548.18,553.36,rinse hands
+P22_12_235,553.46,554.06,close tap
+P22_12_236,554.41,555.41,shake hands
+P22_12_237,555.51,560.47,dry hands
+P22_12_238,560.77,561.97,put down cloth
+P22_12_239,563.17,565.51,pick up slice of bread
+P22_12_24,67.09,73.09,peel peach
+P22_12_240,565.79,566.5,put down slice of bread
+P22_12_241,566.45,567.7,open jar
+P22_12_242,568.88,570.65,pick up cream
+P22_12_243,573.55,576.8,spread cream
+P22_12_244,575.41,578.57,spread cream
+P22_12_245,588.28,589.09,put down slice
+P22_12_246,589.68,590.37,pick up cream
+P22_12_247,592.11,596.93,spread cream
+P22_12_248,603.48,606.29,place slice
+P22_12_249,606.4,607.11,pick up lid
+P22_12_25,67.09,73.09,peel peach
+P22_12_250,607.02,609.01,put lid
+P22_12_251,609.2,610.13,open cabinet
+P22_12_252,609.87,610.84,place jar
+P22_12_253,610.9,611.72,move jar
+P22_12_254,611.82,613.32,place jar
+P22_12_255,613.34,614.28,close cabinet
+P22_12_256,616.6,617.83,place knife
+P22_12_257,617.93,618.94,open cabinet
+P22_12_258,618.68,621.23,pick up cup
+P22_12_259,620.36,622.24,close cabinet
+P22_12_26,74.94,109.94,peel peach
+P22_12_260,622.99,624.24,place cup
+P22_12_261,625.24,626.34,pick up place mats
+P22_12_262,627.01,629.43,place place mat
+P22_12_263,629.27,631.29,open place mat
+P22_12_264,631.38,632.64,put place mat
+P22_12_265,635.5,636.63,pick up cup
+P22_12_266,636.73,637.93,place cup
+P22_12_267,637.84,638.34,place cup
+P22_12_268,638.42,639.58,move cup
+P22_12_269,640.58,643.21,pick up dishes
+P22_12_27,111.36,112.74,put down down peach
+P22_12_270,642.71,644.12,place dish
+P22_12_271,643.88,644.92,place dish
+P22_12_272,644.58,646.04,move dish
+P22_12_273,646.14,647.36,place dish
+P22_12_274,648.65,649.6,get tupperware
+P22_12_275,650.8,651.91,get plate
+P22_12_276,652.01,653.5,set down plate
+P22_12_277,652.24,654.67,set down tupperware
+P22_12_278,656.0,659.63,turn off coffee machine
+P22_12_279,657.35,659.57,get carafe
+P22_12_28,112.2,113.2,put down down potato peeler
+P22_12_280,661.22,663.55,pour coffee
+P22_12_281,663.6,664.67,move cup
+P22_12_282,666.08,670.87,pour coffee
+P22_12_283,670.7,672.79,pour coffee
+P22_12_284,673.66,675.19,move cup
+P22_12_285,677.48,679.42,set down carafe
+P22_12_286,680.33,681.44,get cover
+P22_12_287,680.88,682.8,cover bread
+P22_12_288,682.9,685.19,toast bread
+P22_12_29,113.08,118.06,grab rinds
+P22_12_3,12.79,19.23,take peaches
+P22_12_30,113.23,118.06,collect rinds
+P22_12_31,120.48,121.47,open basket
+P22_12_32,121.57,122.47,toss rinds
+P22_12_33,122.27,123.12,close basket
+P22_12_34,124.59,125.34,grab potato peeler
+P22_12_35,125.44,129.19,grab peach
+P22_12_36,128.02,133.1,peel peach
+P22_12_37,132.24,140.11,peel peach
+P22_12_38,133.49,138.99,peel peach
+P22_12_39,138.91,150.79,peel peach
+P22_12_4,13.27,13.89,take peaches
+P22_12_40,139.09,149.99,peel peach
+P22_12_41,150.9,168.41,peel peach
+P22_12_42,168.51,170.33,put down peach
+P22_12_43,170.02,171.12,put down peeler
+P22_12_44,171.12,175.06,gather skins
+P22_12_45,176.9,178.01,open bin
+P22_12_46,177.7,178.36,throw skins
+P22_12_47,178.46,179.34,close bin
+P22_12_48,179.21,180.12,turn on tap
+P22_12_49,179.52,181.1,rinse hands
+P22_12_5,19.44,20.15,put basket
+P22_12_50,181.46,182.26,turn off tap
+P22_12_51,182.25,183.05,shake hands
+P22_12_52,183.08,185.85,dry hands
+P22_12_53,186.43,187.69,put down cloth
+P22_12_54,187.79,190.33,open drawer
+P22_12_55,190.02,190.74,take knife
+P22_12_56,190.84,191.74,close drawer
+P22_12_57,191.85,194.67,cut peach
+P22_12_58,191.96,192.87,take peach
+P22_12_59,192.09,203.91,cut peach
+P22_12_6,20.0,20.58,put peaches
+P22_12_60,199.28,200.57,remove slice
+P22_12_61,200.25,200.87,put down slice
+P22_12_62,201.22,203.3,remove slice
+P22_12_63,202.76,204.26,put down slice
+P22_12_64,204.25,205.25,cut peach
+P22_12_65,205.32,206.6,remove slice
+P22_12_66,206.37,207.2,put down slice
+P22_12_67,207.27,208.55,cut peach
+P22_12_68,208.65,211.15,remove slice
+P22_12_69,212.02,214.13,remove skin
+P22_12_7,23.58,26.49,take banana
+P22_12_70,213.86,215.08,put down slice
+P22_12_71,215.18,219.47,cut peach
+P22_12_72,218.83,220.29,remove slice
+P22_12_73,220.65,221.9,remove skin
+P22_12_74,222.16,224.08,put down slice
+P22_12_75,222.98,227.3,cut peach
+P22_12_76,224.35,226.97,cut peach
+P22_12_77,227.07,228.11,remove slice
+P22_12_78,227.17,229.23,remove slice
+P22_12_79,228.65,230.63,put down slice
+P22_12_8,26.51,27.2,move basket
+P22_12_80,229.35,230.34,put down slice
+P22_12_81,237.63,239.36,remove skin
+P22_12_82,237.88,239.19,cut skin
+P22_12_83,238.97,241.79,put down slice
+P22_12_84,241.42,243.59,remove seed
+P22_12_85,243.52,244.35,put down seed
+P22_12_86,244.46,245.6,remove skin
+P22_12_87,245.69,246.65,put down slice
+P22_12_88,246.31,247.37,grab peach
+P22_12_89,246.93,251.8,cut peach
+P22_12_9,27.57,30.57,close fridge
+P22_12_90,251.87,254.36,cut peach
+P22_12_91,253.34,256.4,remove slice
+P22_12_92,256.5,257.23,put slice
+P22_12_93,257.33,258.86,cut peach
+P22_12_94,258.96,259.7,remove slice
+P22_12_95,259.75,260.55,put slice
+P22_12_96,260.54,263.1,cut peach
+P22_12_97,263.08,264.34,remove slice
+P22_12_98,264.28,265.25,put slice
+P22_12_99,265.32,266.82,cut peach

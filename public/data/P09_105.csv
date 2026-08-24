@@ -1,0 +1,36 @@
+P09_105_0,0.89,2.86,take kettle
+P09_105_1,2.95,4.2,open kettle
+P09_105_10,60.91,61.78,open cupboard
+P09_105_11,64.35,65.46,open drawer
+P09_105_12,65.51,68.14,place plate on drawer
+P09_105_13,68.77,69.85,take bowl
+P09_105_14,73.5,74.39,take cup
+P09_105_15,74.43,75.22,place cup on cupboard
+P09_105_16,78.45,80.05,take cup
+P09_105_17,80.15,81.02,place cup in cupboard
+P09_105_18,81.95,83.13,take food container
+P09_105_19,84.11,85.79,open drawer
+P09_105_2,4.27,8.07,fill kettle with water
+P09_105_20,85.39,87.79,open drawer
+P09_105_21,87.74,88.99,put food container in drawer
+P09_105_22,89.09,89.84,close drawer
+P09_105_23,89.84,94.67,take spoons
+P09_105_24,94.02,95.66,open drawer
+P09_105_25,95.58,97.47,put spoons in drawer
+P09_105_26,96.37,97.46,close drawer
+P09_105_27,97.16,99.05,take plates
+P09_105_28,98.64,100.89,put plates in cupboard
+P09_105_29,100.74,101.96,close cupboard
+P09_105_3,8.35,8.9,close kettle
+P09_105_30,104.07,105.25,take spoon
+P09_105_31,104.99,106.46,put spoon in sink
+P09_105_32,106.56,122.23,turn off kettle
+P09_105_33,121.88,123.61,take kettle
+P09_105_34,123.91,127.92,pour hot water in cup
+P09_105_35,128.12,131.21,place kettle back
+P09_105_4,9.55,11.25,place kettle back
+P09_105_5,11.35,12.86,turn on kettle
+P09_105_6,15.28,16.33,take mug
+P09_105_7,20.01,22.9,take teabag
+P09_105_8,22.86,23.54,add teabag to cup
+P09_105_9,59.66,60.99,take plate

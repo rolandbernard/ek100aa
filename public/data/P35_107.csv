@@ -1,0 +1,344 @@
+P35_107_0,4.19,5.19,pick up tissue
+P35_107_1,5.21,7.54,fold napkin
+P35_107_10,28.95,30.56,pick up trivet
+P35_107_100,430.59,431.73,put down fork
+P35_107_101,431.58,432.83,pick up spoon
+P35_107_102,432.83,439.7,lather spoon
+P35_107_103,439.78,440.72,put down spoon
+P35_107_104,440.97,442.09,pick up baking tray
+P35_107_105,442.19,468.66,lather baking tray
+P35_107_106,468.76,470.94,put down baking tray
+P35_107_107,471.04,472.11,pick up spoon
+P35_107_108,471.99,479.8,lather spoon
+P35_107_109,479.63,480.53,put down spoon
+P35_107_11,30.53,32.44,put down trivet
+P35_107_110,480.52,481.98,pick up knife
+P35_107_111,481.55,485.62,lather knife
+P35_107_112,487.36,488.22,put down knife
+P35_107_113,488.32,490.63,turn on tap
+P35_107_114,488.97,490.88,rinse sponge
+P35_107_115,489.74,492.19,turn off tap
+P35_107_116,491.95,493.2,pick up soap
+P35_107_117,493.25,495.3,pour washing up liquid
+P35_107_118,494.97,495.92,put down washing up liquid
+P35_107_119,495.75,498.16,take fork
+P35_107_12,35.51,36.82,pick up knife
+P35_107_120,497.97,503.9,lather fork
+P35_107_121,503.85,504.71,put down fork
+P35_107_122,504.68,506.05,pick up container
+P35_107_123,505.99,515.09,lather container
+P35_107_124,514.91,515.77,put down container
+P35_107_125,515.69,516.27,pick up glass
+P35_107_126,517.0,524.84,lather glass
+P35_107_127,524.74,525.54,put down glass
+P35_107_128,525.62,526.21,pick up glass
+P35_107_129,526.31,534.21,lather glass
+P35_107_13,36.02,40.07,pick up cake
+P35_107_130,534.31,535.21,put down glass
+P35_107_131,535.31,537.37,put down sponge
+P35_107_132,538.02,539.25,turn on tap
+P35_107_133,539.26,544.02,rinse hands
+P35_107_134,543.81,544.88,turn off tap
+P35_107_135,544.89,548.65,pick up cloth
+P35_107_136,548.18,555.26,dry hands
+P35_107_137,554.93,557.17,put down cloth
+P35_107_138,557.16,564.27,pick up cutlery rack
+P35_107_139,563.84,566.82,pick up cutlery rack
+P35_107_14,39.24,40.31,put down cake
+P35_107_140,566.84,568.89,open drawer
+P35_107_141,568.86,570.11,pick up spoon
+P35_107_142,569.96,571.13,put down spoon
+P35_107_143,570.86,573.58,pick up cutlery
+P35_107_144,572.0,574.36,put down cutlery
+P35_107_145,574.46,578.52,pick up spoon
+P35_107_146,578.62,580.62,put down spoon
+P35_107_147,580.72,584.79,pick up forks
+P35_107_148,584.89,586.65,put down forks
+P35_107_149,586.75,594.75,pick up knives
+P35_107_15,40.1,50.35,open container
+P35_107_150,594.85,598.02,put down knives
+P35_107_151,598.12,599.37,pick up knife
+P35_107_152,599.47,600.2,put down knife
+P35_107_153,600.3,608.03,pick up cutlery rack
+P35_107_154,601.91,602.87,pick up teaspoon
+P35_107_155,602.85,603.95,put down teaspoon
+P35_107_156,604.05,605.91,close drawer
+P35_107_157,608.29,610.04,pick up cutlery rack
+P35_107_158,610.06,612.44,empty cutlery rack
+P35_107_159,612.37,613.65,pick up cutlery rack
+P35_107_16,50.12,53.2,put down knife
+P35_107_160,613.47,614.62,pick up cutlery rack
+P35_107_161,616.15,617.62,turn on tap
+P35_107_162,618.66,625.53,rinse glass
+P35_107_163,625.88,626.9,put down glass
+P35_107_164,627.04,634.32,rinse glass
+P35_107_165,634.22,635.08,put down glass
+P35_107_166,634.96,643.57,rinse container
+P35_107_167,643.6,644.68,put down container
+P35_107_168,644.68,650.48,rinse baking tray
+P35_107_169,650.18,652.18,put down baking tray
+P35_107_17,53.22,55.44,close container
+P35_107_170,652.26,658.25,rinse plate
+P35_107_171,658.26,660.46,put down plate
+P35_107_172,660.56,665.88,rinse plate
+P35_107_173,665.92,668.53,put down plate
+P35_107_174,668.0,672.5,rinse plate
+P35_107_175,672.55,673.85,put down plate
+P35_107_176,673.95,681.2,rinse baking tray
+P35_107_177,681.29,683.05,put down baking tray
+P35_107_178,682.85,691.65,rinse cutlery
+P35_107_179,691.57,694.54,put down cutlery
+P35_107_18,61.5,62.3,pick up lid
+P35_107_180,694.35,698.35,rinse spoon
+P35_107_181,698.36,701.17,put down spoon
+P35_107_182,701.27,703.75,rinse hands
+P35_107_183,703.55,704.83,turn off tap
+P35_107_184,706.99,707.63,pick up cloth
+P35_107_185,708.3,712.11,dry hands
+P35_107_186,712.69,713.6,pick up baking tray
+P35_107_187,716.69,745.98,dry baking tray
+P35_107_188,745.69,747.27,put down baking tray
+P35_107_189,749.54,750.36,pick up container
+P35_107_19,62.4,62.9,pick up bottle
+P35_107_190,750.56,753.14,drain container
+P35_107_191,754.24,756.74,put down container
+P35_107_192,758.66,759.83,pick up plate
+P35_107_193,759.7,762.62,drain plate
+P35_107_194,764.2,766.01,put down plate
+P35_107_195,768.62,770.07,pick up plate
+P35_107_196,769.84,772.22,drain plate
+P35_107_197,773.98,775.6,put down plate
+P35_107_198,777.69,778.98,pick up plate
+P35_107_199,778.87,781.3,drain plate
+P35_107_2,7.9,8.57,pick up bag
+P35_107_20,62.9,67.57,close bottle
+P35_107_200,782.7,784.45,put down plate
+P35_107_201,786.57,788.42,pick up baking tray
+P35_107_202,788.45,791.46,drain baking tray
+P35_107_203,791.51,794.91,dry baking tray
+P35_107_204,809.43,810.95,put down baking tray
+P35_107_205,813.0,813.59,pick up glass
+P35_107_206,813.56,815.71,drain glass
+P35_107_207,816.54,817.48,put down glass
+P35_107_208,819.14,819.71,pick up glass
+P35_107_209,819.8,822.04,drain glass
+P35_107_21,67.56,68.43,pick up bottle
+P35_107_210,822.63,824.08,put down glass
+P35_107_211,827.46,828.22,put down cloth
+P35_107_212,831.28,832.45,pick up remote
+P35_107_213,832.55,833.94,put down remote
+P35_107_214,834.27,835.37,pick up hand-held hoover
+P35_107_215,835.77,914.63,hoover crumbs
+P35_107_216,915.81,916.27,turn off hand-held hoover
+P35_107_217,916.46,918.47,put down hand-held hoover
+P35_107_218,923.5,925.1,pick up pan
+P35_107_219,927.15,928.65,turn on tap
+P35_107_22,70.68,71.98,put down bottle
+P35_107_220,929.02,930.64,turn off tap
+P35_107_221,930.09,946.16,wash pan
+P35_107_222,947.65,948.6,pick up sponge
+P35_107_223,948.69,958.74,lather pan
+P35_107_224,995.0,998.75,turn on tap
+P35_107_225,998.89,1005.17,rinse sponge
+P35_107_226,1000.95,1008.57,put down sponge
+P35_107_227,1008.67,1034.96,rinse pan
+P35_107_228,1034.54,1035.28,turn off tap
+P35_107_229,1037.95,1039.29,put down pan
+P35_107_23,72.08,73.18,put down bottle
+P35_107_230,1041.16,1042.73,pick up cloth
+P35_107_231,1042.74,1044.74,dry hands
+P35_107_232,1044.54,1046.37,pick up pan
+P35_107_233,1046.37,1055.69,dry pan
+P35_107_234,1065.57,1067.14,open drawer
+P35_107_235,1067.17,1068.66,put down pan
+P35_107_236,1068.7,1069.97,close drawer
+P35_107_237,1071.97,1074.13,put down cloth
+P35_107_238,1075.41,1076.65,pick up drying rack
+P35_107_239,1076.75,1082.6,drain drying rack
+P35_107_24,75.0,79.38,pick glasses
+P35_107_240,1082.61,1083.71,pick up cloth
+P35_107_241,1083.81,1090.7,dry counter top
+P35_107_242,1090.21,1091.69,put down drying rack
+P35_107_243,1091.79,1105.65,wash sink
+P35_107_244,1094.0,1098.13,move soap
+P35_107_245,1097.76,1102.23,move sponge
+P35_107_246,1102.24,1107.42,wash sink
+P35_107_247,1107.26,1109.66,wring cloth
+P35_107_248,1109.52,1122.86,wash sink
+P35_107_249,1122.8,1123.89,turn on tap
+P35_107_25,81.03,81.98,put down glasses
+P35_107_250,1123.74,1128.18,rinse cloth
+P35_107_251,1128.12,1129.02,turn off tap
+P35_107_252,1129.06,1137.49,clean wall
+P35_107_253,1137.36,1145.23,wash sink
+P35_107_254,1146.0,1149.8,clean wall
+P35_107_255,1151.39,1152.69,turn on tap
+P35_107_256,1152.49,1156.64,rinse cloth
+P35_107_257,1156.64,1157.29,turn off tap
+P35_107_258,1157.33,1173.22,clean counter top
+P35_107_259,1174.42,1175.22,turn on tap
+P35_107_26,83.53,86.55,pick up salt
+P35_107_260,1175.33,1178.8,rinse cloth
+P35_107_261,1178.83,1179.64,turn off tap
+P35_107_262,1182.66,1183.61,open cupboard
+P35_107_263,1183.51,1188.25,clean cupboard
+P35_107_264,1187.38,1188.78,close cupboard
+P35_107_265,1188.88,1190.95,open cupboard
+P35_107_266,1190.81,1194.34,clean cupboard
+P35_107_267,1194.49,1195.07,close cupboard
+P35_107_268,1195.37,1196.67,turn on tap
+P35_107_269,1196.58,1198.0,rinse cloth
+P35_107_27,86.46,87.9,open cupboard
+P35_107_270,1198.1,1199.31,pick up soap
+P35_107_271,1199.22,1200.94,pour washing up liquid
+P35_107_272,1200.96,1202.15,put down washing up liquid
+P35_107_273,1202.48,1203.06,turn off tap
+P35_107_274,1201.0,1209.96,wash cloth
+P35_107_275,1209.69,1211.47,turn on tap
+P35_107_276,1211.37,1219.46,rinse cloth
+P35_107_277,1219.41,1220.17,turn off tap
+P35_107_278,1220.17,1226.7,wash sink
+P35_107_279,1226.49,1227.21,put down cloth
+P35_107_28,87.79,89.04,open cupboard
+P35_107_280,1227.1,1229.77,pick up cloth
+P35_107_281,1229.8,1231.52,dry hands
+P35_107_282,1231.46,1232.15,put down cloth
+P35_107_283,1232.02,1234.08,pick up sponge
+P35_107_284,1234.57,1235.53,turn on tap
+P35_107_285,1235.41,1236.07,turn off tap
+P35_107_286,1238.73,1240.24,pick up grid
+P35_107_287,1240.54,1241.04,put down grid
+P35_107_288,1242.16,1244.09,pick up grid
+P35_107_289,1244.79,1246.48,put down grid
+P35_107_29,89.04,91.51,put down salt
+P35_107_290,1246.37,1270.3,clean counter top
+P35_107_291,1270.4,1272.11,turn on tap
+P35_107_292,1272.04,1275.44,rinse sponge
+P35_107_293,1275.54,1276.21,turn off tap
+P35_107_294,1278.75,1292.39,clean hob
+P35_107_295,1294.1,1294.75,turn on tap
+P35_107_296,1295.27,1297.1,rinse sponge
+P35_107_297,1297.27,1297.68,turn off tap
+P35_107_298,1300.28,1318.11,clean hob
+P35_107_299,1318.64,1319.16,turn on tap
+P35_107_3,12.84,15.09,throw away packaging
+P35_107_30,91.58,92.12,close cupboard
+P35_107_300,1319.71,1322.96,rinse sponge
+P35_107_301,1322.94,1323.8,turn off tap
+P35_107_302,1326.06,1344.83,clean hob
+P35_107_303,1345.95,1346.69,turn on tap
+P35_107_304,1346.07,1349.64,rinse sponge
+P35_107_305,1348.99,1349.6,turn off tap
+P35_107_306,1351.6,1385.21,clean hob
+P35_107_307,1386.41,1387.47,turn on tap
+P35_107_308,1387.81,1389.7,rinse sponge
+P35_107_309,1389.8,1390.63,turn off tap
+P35_107_31,92.23,93.04,close cupboard
+P35_107_310,1391.46,1392.49,pick up soap
+P35_107_311,1392.49,1393.98,pour washing up liquid
+P35_107_312,1394.08,1394.83,put down washing up liquid
+P35_107_313,1397.4,1408.34,clean hob
+P35_107_314,1449.81,1451.42,turn on tap
+P35_107_315,1451.49,1458.28,rinse sponge
+P35_107_316,1458.09,1458.95,turn off tap
+P35_107_317,1459.05,1479.74,clean hob
+P35_107_318,1479.79,1480.9,turn on tap
+P35_107_319,1480.62,1484.14,rinse sponge
+P35_107_32,95.15,97.95,turn on light
+P35_107_320,1484.23,1485.49,turn off tap
+P35_107_321,1487.84,1508.09,clean hob
+P35_107_322,1509.19,1510.24,turn on tap
+P35_107_323,1510.19,1513.66,rinse sponge
+P35_107_324,1512.81,1513.79,turn off tap
+P35_107_325,1514.11,1555.54,clean hob
+P35_107_326,1555.89,1557.39,turn on tap
+P35_107_327,1557.1,1560.66,rinse sponge
+P35_107_328,1560.69,1562.64,turn off tap
+P35_107_329,1562.21,1564.9,put down sponge
+P35_107_33,97.93,100.58,turn on tap
+P35_107_330,1566.9,1567.87,pick up cloth
+P35_107_331,1567.97,1572.79,dry hands
+P35_107_332,1572.71,1574.2,put down cloth
+P35_107_333,1575.34,1579.35,open door
+P35_107_334,1578.0,1583.04,pick up mop
+P35_107_335,1581.49,1596.43,wash floor
+P35_107_336,1595.33,1599.71,put down mop
+P35_107_337,1599.74,1605.54,pick up cloth
+P35_107_338,1605.54,1609.95,wash sink
+P35_107_339,1609.92,1611.53,wring cloth
+P35_107_34,101.0,103.99,pick up plate
+P35_107_340,1611.59,1612.53,put down cloth
+P35_107_341,1612.57,1615.66,turn off light
+P35_107_342,1615.68,1626.28,close door
+P35_107_343,1624.18,1634.45,move chair
+P35_107_35,103.95,105.61,put down plate
+P35_107_36,105.71,106.61,pick up glass
+P35_107_37,108.13,108.96,pick up glass
+P35_107_38,109.06,117.78,wash glass
+P35_107_39,117.71,118.21,put down glass
+P35_107_4,16.91,17.82,pick up pot rest
+P35_107_40,118.15,120.7,adjust tap
+P35_107_41,119.95,120.4,pick up glass
+P35_107_42,120.52,126.31,wash glass
+P35_107_43,126.94,128.39,put down glass
+P35_107_44,128.07,128.79,pick up container
+P35_107_45,129.45,139.78,wash container
+P35_107_46,139.31,140.8,put down container
+P35_107_47,141.99,142.94,pick up pan
+P35_107_48,143.6,147.55,wash pan
+P35_107_49,147.98,149.92,put down pan
+P35_107_5,19.07,20.32,put down pot rest
+P35_107_50,151.98,153.63,turn on hob
+P35_107_51,157.1,171.43,wash plate
+P35_107_52,171.55,172.41,put down plate
+P35_107_53,173.09,183.77,wash plate
+P35_107_54,183.31,184.7,put down plate
+P35_107_55,185.08,186.85,wash fork
+P35_107_56,186.99,188.22,put down fork
+P35_107_57,188.3,191.87,wash knife
+P35_107_58,191.97,193.07,put down knife
+P35_107_59,193.5,209.75,wash spoon
+P35_107_6,20.66,22.46,pick up cloths
+P35_107_60,209.83,211.12,put down spoon
+P35_107_61,211.88,246.6,wash baking tray
+P35_107_62,246.7,249.43,put down baking tray
+P35_107_63,250.04,259.06,wash spoon
+P35_107_64,259.0,262.36,adjust tap
+P35_107_65,261.9,262.99,put down spoon
+P35_107_66,262.85,267.3,wash fork
+P35_107_67,267.24,268.19,put down fork
+P35_107_68,268.74,275.39,wash plate
+P35_107_69,275.6,276.6,put down plate
+P35_107_7,23.25,23.9,pick up bag
+P35_107_70,278.0,280.99,wash fork
+P35_107_71,281.3,282.69,put down fork
+P35_107_72,282.18,288.75,wash knife
+P35_107_73,288.85,289.86,put down knife
+P35_107_74,292.19,313.6,wash baking tray
+P35_107_75,313.7,314.89,adjust tap
+P35_107_76,301.05,327.65,put down baking tray
+P35_107_77,328.5,329.3,pick up sponge
+P35_107_78,329.33,331.06,rinse sponge
+P35_107_79,333.03,334.5,turn off hob
+P35_107_8,24.24,25.16,put down cloths
+P35_107_80,335.47,336.72,turn off tap
+P35_107_81,338.2,370.68,lather baking tray
+P35_107_82,370.3,370.92,put down baking tray
+P35_107_83,370.35,372.6,pick up plate
+P35_107_84,372.88,378.25,lather plate
+P35_107_85,378.81,379.48,put down plate
+P35_107_86,379.51,380.47,pick up plate
+P35_107_87,380.44,391.05,lather plate
+P35_107_88,391.15,391.93,put down plate
+P35_107_89,391.99,393.26,pick up plate
+P35_107_9,25.4,26.89,put down bag
+P35_107_90,394.12,405.67,lather plate
+P35_107_91,405.65,407.4,put down plate
+P35_107_92,409.0,410.36,pick up knife
+P35_107_93,410.2,416.97,lather knife
+P35_107_94,415.85,416.95,put down knife
+P35_107_95,416.99,418.45,take fork
+P35_107_96,418.55,423.37,lather fork
+P35_107_97,423.45,424.19,put down fork
+P35_107_98,424.68,426.4,take fork
+P35_107_99,426.5,430.49,lather fork

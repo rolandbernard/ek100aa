@@ -1,0 +1,120 @@
+P24_03_0,3.05,6.14,pick up plate
+P24_03_1,3.3,7.77,pick up glass
+P24_03_10,33.28,34.26,rinse plate
+P24_03_100,371.85,381.91,rinse sponge
+P24_03_101,381.91,382.64,turn off tap
+P24_03_102,382.6,390.96,wash sink
+P24_03_103,391.41,398.28,rinse sponge
+P24_03_104,400.22,401.09,turn off tap
+P24_03_105,401.19,407.54,wash sink
+P24_03_106,407.64,412.16,wash sink
+P24_03_107,413.37,416.94,rinse sponge
+P24_03_108,417.33,417.94,turn off tap
+P24_03_109,418.2,431.65,wash sink
+P24_03_11,48.2,49.34,grab knife
+P24_03_110,437.02,437.95,clean sink
+P24_03_111,439.13,453.47,throw garbage
+P24_03_112,466.71,468.43,rinse sink cap
+P24_03_113,467.89,470.33,open sink
+P24_03_114,468.38,477.68,close sink
+P24_03_115,470.43,477.95,put sink cap
+P24_03_116,478.05,479.92,close sink
+P24_03_117,482.37,483.15,close doors
+P24_03_118,483.26,485.57,pick up cloth
+P24_03_119,486.06,487.11,dry hands
+P24_03_12,49.54,53.41,lather knife
+P24_03_13,51.51,54.23,put knife down
+P24_03_14,54.33,55.41,grab fork
+P24_03_15,55.3,57.82,lather fork
+P24_03_16,57.38,58.74,grab coffee cup
+P24_03_17,58.74,59.97,grab coffee cup
+P24_03_18,60.07,62.09,grab coffee cup
+P24_03_19,62.01,65.82,move coffee cup aside
+P24_03_2,6.34,7.13,put down glass into sink
+P24_03_20,64.73,68.99,lather fork
+P24_03_21,69.38,71.06,grab coffee cup
+P24_03_22,70.49,71.77,rinse coffee cup
+P24_03_23,71.96,80.26,lather coffee cup
+P24_03_24,80.36,81.56,put coffee cup down
+P24_03_25,81.66,83.53,grab coffee cup
+P24_03_26,83.63,89.79,lather coffee cup
+P24_03_27,89.81,90.67,put down coffee cup
+P24_03_28,89.88,91.1,put down coffee cup
+P24_03_29,90.97,92.59,pick up coffee cup
+P24_03_3,7.89,9.14,open tap
+P24_03_30,91.45,92.27,pick up coffee cup
+P24_03_31,92.61,98.54,lather coffee cup
+P24_03_32,92.87,95.83,lather coffee cup
+P24_03_33,95.93,100.6,put down coffee
+P24_03_34,109.1,110.9,pick up glass
+P24_03_35,109.59,110.59,pick up glass
+P24_03_36,110.9,112.31,rinse glass
+P24_03_37,110.96,111.9,rinse glass
+P24_03_38,112.0,118.14,lather glass
+P24_03_39,118.24,119.48,put down glass
+P24_03_4,10.23,13.52,put down plate into sink
+P24_03_40,123.23,129.71,lather glass
+P24_03_41,130.0,132.2,put down glass
+P24_03_42,133.13,136.22,rinse hands
+P24_03_43,135.97,138.42,empty bowl
+P24_03_44,139.27,140.37,turn on tap
+P24_03_45,141.15,144.44,rinse bowl
+P24_03_46,145.85,146.92,turn off tap
+P24_03_47,147.21,163.2,wash bowl
+P24_03_48,162.15,163.12,turn on tap
+P24_03_49,163.01,164.19,rinse hands
+P24_03_5,14.37,15.42,pick up sponge
+P24_03_50,164.04,182.88,rinse bowl
+P24_03_51,183.68,184.97,open door
+P24_03_52,184.93,187.73,put down bowl
+P24_03_53,186.77,187.73,open door
+P24_03_54,189.11,190.76,pick up pan
+P24_03_55,191.64,200.11,lather pan
+P24_03_56,200.64,213.23,rinse pan
+P24_03_57,215.26,217.43,put down pan
+P24_03_58,217.53,219.05,pick up plate
+P24_03_59,219.01,220.11,rinse plate
+P24_03_6,14.94,16.69,rinse sponge
+P24_03_60,219.85,220.4,close tap
+P24_03_61,220.82,229.23,lather plate
+P24_03_62,229.79,230.56,open tap
+P24_03_63,230.58,238.34,rinse plate
+P24_03_64,239.15,243.41,put down plate
+P24_03_65,244.17,245.5,pick up teaspoons
+P24_03_66,246.45,249.34,lather teaspoon
+P24_03_67,249.29,250.15,pick up fork
+P24_03_68,250.01,254.34,lather fork
+P24_03_69,255.21,262.86,rinse fork and teaspoon
+P24_03_7,22.05,27.95,put dish washing liquid into sponge
+P24_03_70,258.81,266.18,put down fork
+P24_03_71,266.44,268.67,rinse teaspoon
+P24_03_72,268.77,269.83,put down teaspoon
+P24_03_73,269.93,271.41,pick up glass
+P24_03_74,271.79,273.39,rinse glass
+P24_03_75,282.27,284.53,put glass
+P24_03_76,285.25,286.19,pick up glass
+P24_03_77,285.85,295.84,rinse glass
+P24_03_78,296.47,298.72,put glass
+P24_03_79,299.33,301.98,pick up
+P24_03_8,29.0,47.07,wash plate
+P24_03_80,301.19,307.03,rinse cup
+P24_03_81,307.16,308.25,put cup
+P24_03_82,309.04,309.75,pick up cup
+P24_03_83,309.85,314.86,rinse cup
+P24_03_84,316.34,317.36,put cup
+P24_03_85,317.13,317.87,pick up cup
+P24_03_86,317.84,322.51,rinse cup
+P24_03_87,323.22,324.54,put down coffee cup
+P24_03_88,324.45,324.97,pick up coffee cup
+P24_03_89,325.6,329.87,rinse coffee cup
+P24_03_9,30.89,32.39,pick up plate
+P24_03_90,330.44,332.98,put down coffee cup
+P24_03_91,333.08,333.95,pick up knife and fork
+P24_03_92,334.05,337.68,rinse knife and fork
+P24_03_93,338.53,341.86,put down knife
+P24_03_94,342.06,344.06,rinse fork
+P24_03_95,344.16,347.0,put down fork
+P24_03_96,347.1,348.05,pick up plate
+P24_03_97,347.91,357.85,rinse plate
+P24_03_98,364.01,365.28,rinse sponge
+P24_03_99,365.73,371.43,wipe sink with sponge

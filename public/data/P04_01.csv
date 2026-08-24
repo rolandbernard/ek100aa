@@ -1,0 +1,262 @@
+P04_01_0,3.89,5.53,open cupboard
+P04_01_1,5.63,9.64,rearrange
+P04_01_10,35.18,36.88,put down packet
+P04_01_100,453.17,453.96,put packet away
+P04_01_101,455.26,456.64,open dishwasher
+P04_01_102,456.08,457.22,put spoon
+P04_01_103,458.78,461.41,close bag
+P04_01_104,461.51,465.02,squidge content of bag
+P04_01_105,464.11,465.25,open bag
+P04_01_106,465.35,466.18,let out air
+P04_01_107,466.39,467.3,close bag
+P04_01_108,467.4,480.73,squidge content of bag
+P04_01_109,480.42,483.57,open bag
+P04_01_11,36.75,42.0,put pan in dishwasher
+P04_01_110,483.05,486.4,squeeze air out of bag
+P04_01_111,486.65,488.73,close bag
+P04_01_112,489.37,527.25,squidge contents of bag
+P04_01_113,529.51,533.37,shake bag
+P04_01_114,531.25,543.4,squidge bag
+P04_01_115,543.51,544.36,open cupboard
+P04_01_116,544.46,547.38,pull out pan
+P04_01_117,547.48,548.92,put down pan
+P04_01_118,548.88,550.35,pick up wok
+P04_01_119,550.38,552.7,pick up bit from wok
+P04_01_12,37.01,38.18,pick up pan
+P04_01_120,553.3,554.8,put in bin
+P04_01_121,554.42,556.46,put down wok
+P04_01_122,556.47,560.63,turn on hob
+P04_01_123,558.96,564.75,select temperature for hob
+P04_01_124,564.96,565.96,pick up oil
+P04_01_125,567.06,569.31,pour oil
+P04_01_126,569.51,570.61,close oil
+P04_01_127,570.76,571.51,put down oil
+P04_01_128,571.86,573.06,squish bag
+P04_01_129,572.87,574.11,pick up bag
+P04_01_13,50.65,53.0,close drawer
+P04_01_130,593.83,596.2,test
+P04_01_131,600.51,601.69,open fridge
+P04_01_132,601.5,603.38,pick up miso paste
+P04_01_133,608.06,610.48,open miso paste
+P04_01_134,610.58,613.99,spoon miso paste
+P04_01_135,614.09,618.39,put in bag
+P04_01_136,618.49,623.93,close miso paste
+P04_01_137,624.03,626.06,open fridge
+P04_01_138,625.09,626.72,put miso paste
+P04_01_139,626.57,627.36,close fridge
+P04_01_14,52.69,54.44,close dishwasher
+P04_01_140,627.27,629.31,close bag
+P04_01_141,628.49,653.72,knead miso paste into mixture
+P04_01_142,629.41,641.49,switch bag
+P04_01_143,655.85,657.1,open bag
+P04_01_144,657.2,660.55,pull out mixture from bag
+P04_01_145,661.3,669.05,pat into patty
+P04_01_146,669.56,671.73,put in oil
+P04_01_147,674.2,675.38,use soap
+P04_01_148,677.85,678.74,turn on tap
+P04_01_149,678.7,683.51,wash hand
+P04_01_15,55.34,56.05,pick up knife
+P04_01_150,684.16,691.54,dry hands
+P04_01_151,691.65,692.4,pick up spoon
+P04_01_152,691.82,694.8,put in dishwasher
+P04_01_153,694.91,695.73,close dishwasher
+P04_01_154,698.47,699.74,pick up bowl
+P04_01_155,700.21,701.22,put down bowl
+P04_01_156,702.05,703.28,open fridge
+P04_01_157,704.06,706.2,pick up egg
+P04_01_158,707.75,710.56,open egg box
+P04_01_159,710.79,711.93,pick up egg
+P04_01_16,55.95,58.12,pick up chopping board
+P04_01_160,712.42,713.14,crack egg
+P04_01_161,714.27,715.81,put egg shell in bin
+P04_01_162,716.5,718.23,pick up egg
+P04_01_163,719.07,719.6,crack egg
+P04_01_164,719.83,721.3,drop egg shell
+P04_01_165,721.39,724.81,pick up egg shell
+P04_01_166,726.83,728.04,put egg shell in bin
+P04_01_167,729.0,730.53,pick up egg
+P04_01_168,731.03,732.23,crack egg
+P04_01_169,731.79,736.51,put egg shell in bin
+P04_01_17,57.59,64.09,put down chopping board
+P04_01_170,736.86,738.36,pick up egg
+P04_01_171,739.14,739.79,crack egg
+P04_01_172,743.59,757.82,scoop eggshell out of egg bowl
+P04_01_173,758.24,780.18,pick up eggshell
+P04_01_174,780.68,785.49,scoop eggshell
+P04_01_175,784.67,793.03,look for eggshell
+P04_01_176,793.24,799.66,scoop eggshell
+P04_01_177,802.02,803.49,put eggshell in bin
+P04_01_178,803.89,812.76,wash hands
+P04_01_179,812.86,820.35,dry hands
+P04_01_18,64.24,64.91,pick up knife
+P04_01_180,821.36,823.12,open drawer
+P04_01_181,823.22,828.15,pick up fork chopsticks
+P04_01_182,829.39,830.36,put down chopsticks
+P04_01_183,830.78,831.67,open cupboard
+P04_01_184,832.24,834.38,pick up box
+P04_01_185,834.53,836.22,open drawer
+P04_01_186,836.7,838.92,pick up spoon
+P04_01_187,839.02,839.94,close drawer
+P04_01_188,840.04,841.37,close cupboard
+P04_01_189,841.84,843.05,put down box
+P04_01_19,65.01,66.57,put down knife
+P04_01_190,843.15,845.98,open box
+P04_01_191,846.08,857.52,scoop sugar
+P04_01_192,846.46,848.42,spoon sugar
+P04_01_193,851.9,852.9,empty spoon
+P04_01_194,854.29,855.19,pick up sugar
+P04_01_195,855.75,857.06,spoon sugar
+P04_01_196,858.05,859.11,spoon sugar
+P04_01_197,862.39,863.66,spoon sugar
+P04_01_198,864.21,865.61,put down sugar
+P04_01_199,866.84,869.4,close box
+P04_01_2,6.3,8.87,pick up tuna
+P04_01_20,67.39,68.39,pick up can opener
+P04_01_200,871.09,872.08,open cupboard
+P04_01_201,872.09,873.29,put box
+P04_01_202,875.03,876.16,pick up mirin
+P04_01_203,876.64,878.8,open mirin
+P04_01_204,881.58,885.44,pour mirin
+P04_01_205,887.94,889.27,open cupboard
+P04_01_206,889.32,892.78,put away mirin
+P04_01_207,892.71,895.97,pick up soy sauce
+P04_01_208,898.67,900.58,drizzle soy sauce
+P04_01_209,901.44,903.69,put away soy sauce
+P04_01_21,69.17,70.31,put lid
+P04_01_210,907.45,909.07,open drawer
+P04_01_211,909.54,911.25,pick up measuring spoon
+P04_01_212,912.83,914.71,pick up salt
+P04_01_213,914.81,920.21,pour salt
+P04_01_214,920.97,922.54,put down salt
+P04_01_215,921.26,923.27,put down spoon
+P04_01_216,923.23,924.06,pick up spoon
+P04_01_217,925.06,927.06,put in dishwasher
+P04_01_218,927.76,931.36,scoop patty
+P04_01_219,934.0,934.98,put away eggs
+P04_01_22,69.44,70.15,pick up lid
+P04_01_220,935.08,935.83,open fridge
+P04_01_221,935.87,938.73,put down eggs
+P04_01_222,939.22,943.24,turn on hob
+P04_01_223,942.59,944.2,pick up chopsticks
+P04_01_224,944.64,949.24,poke eggs
+P04_01_225,948.99,963.99,whisk eggs
+P04_01_226,965.02,967.49,whisk eggs
+P04_01_227,967.31,968.8,put down chopsticks
+P04_01_228,971.02,972.39,pick up oil
+P04_01_229,973.24,979.08,pour oil
+P04_01_23,72.58,77.03,put lid in dishwasher
+P04_01_230,980.37,981.5,put down oil
+P04_01_231,981.65,983.76,pull kitchen roll
+P04_01_232,983.91,989.61,fold kitchen roll
+P04_01_233,987.19,991.7,put down kitchen roll
+P04_01_234,992.64,997.35,pick up tuna mixture
+P04_01_235,996.96,1006.56,squeeze mixture into patty
+P04_01_236,1006.61,1008.45,put patty in pan
+P04_01_237,1008.92,1013.71,pick up tuna mixture
+P04_01_238,1010.32,1021.7,squeeze into patty
+P04_01_239,1022.68,1024.76,put in pan
+P04_01_24,78.87,79.5,pick up can opener
+P04_01_240,1024.84,1030.75,pick up tuna mixture
+P04_01_241,1040.66,1043.13,pick up more tuna mixture
+P04_01_242,1040.89,1043.41,pick up more tuna mixture
+P04_01_243,1043.88,1049.43,squish into patty
+P04_01_244,1049.81,1052.25,put in pan
+P04_01_245,1054.53,1058.24,pick up tuna mixture
+P04_01_246,1058.37,1067.59,shape into patty
+P04_01_247,1068.34,1070.37,put in pan
+P04_01_248,1070.69,1073.8,pick up tuna mixture
+P04_01_249,1073.87,1082.55,shape into patty
+P04_01_25,79.45,90.3,open can
+P04_01_250,1085.15,1092.04,pick up tuna mixture
+P04_01_251,1106.55,1109.1,wash hands
+P04_01_252,1115.71,1116.85,pick up knife
+P04_01_253,1117.64,1120.11,rinse knife
+P04_01_254,1121.83,1124.11,rub knife dry
+P04_01_255,1124.95,1125.96,pick up kitchen roll
+P04_01_256,1125.9,1127.18,put down knife
+P04_01_257,1127.28,1128.49,test pan
+P04_01_258,1129.93,1131.64,put kitchen roll in pan
+P04_01_259,1131.61,1137.62,rub pan
+P04_01_26,90.77,93.57,drain can
+P04_01_260,1138.12,1139.23,put down kitchen roll
+P04_01_261,1139.9,1142.56,test pan
+P04_01_27,93.67,101.66,scrub sink
+P04_01_28,101.76,102.67,turn off tap
+P04_01_29,103.36,106.76,drain can
+P04_01_3,10.04,13.79,open packet
+P04_01_30,103.66,113.77,squeeze can
+P04_01_31,113.98,114.68,put down can
+P04_01_32,117.78,129.87,open can
+P04_01_33,130.05,142.31,strain can
+P04_01_34,142.5,146.99,pull lid from can
+P04_01_35,149.77,151.65,squeeze soap
+P04_01_36,151.39,156.18,rub hands
+P04_01_37,156.37,157.31,turn on tap
+P04_01_38,158.19,162.03,wash hands
+P04_01_39,163.67,168.94,dry hands
+P04_01_4,14.52,15.13,put down tuna
+P04_01_40,177.75,186.93,empty can into bag
+P04_01_41,185.82,200.32,scrape tuna from can
+P04_01_42,201.19,210.39,drop can
+P04_01_43,210.06,211.59,open drawer
+P04_01_44,210.85,212.82,pick up fork
+P04_01_45,212.61,218.71,scrape tuna out of can
+P04_01_46,219.88,222.64,pull lid from can
+P04_01_47,222.59,244.59,scrape tuna from can
+P04_01_48,244.69,248.64,rinse can
+P04_01_49,248.69,252.17,rinse can
+P04_01_5,15.64,17.26,put down tuna
+P04_01_50,252.65,254.82,rinse lid
+P04_01_51,254.85,258.11,rinse lid
+P04_01_52,261.86,263.06,turn off tap
+P04_01_53,267.2,268.65,open drawer
+P04_01_54,268.75,272.15,pick up spoon
+P04_01_55,273.98,276.04,open bag
+P04_01_56,281.86,301.79,measure breadcrumbs
+P04_01_57,303.86,306.61,put away bag
+P04_01_58,307.26,308.59,open cupboard
+P04_01_59,308.3,309.27,put down bag
+P04_01_6,17.99,20.7,look for something
+P04_01_60,310.36,311.55,open fridge
+P04_01_61,311.97,313.97,pick up tofu
+P04_01_62,312.2,314.41,pick up miso paste
+P04_01_63,322.82,324.86,slice container
+P04_01_64,328.52,332.32,drain container
+P04_01_65,335.9,339.73,open container
+P04_01_66,339.83,346.06,drain container
+P04_01_67,347.06,350.14,open container
+P04_01_68,351.41,353.71,pull kitchen roll
+P04_01_69,353.74,355.58,rip kitchen roll
+P04_01_7,29.72,33.82,grab packet
+P04_01_70,356.08,357.83,open dishwasher
+P04_01_71,357.62,361.32,close dishwasher
+P04_01_72,358.16,358.83,put away spatula
+P04_01_73,360.51,364.52,fold kitchen roll
+P04_01_74,364.84,366.53,pick up tofu
+P04_01_75,367.59,369.65,put on kitchen roll
+P04_01_76,369.69,373.75,pick up tofu
+P04_01_77,373.85,374.67,put on kitchen roll
+P04_01_78,374.68,376.8,pick up tofu
+P04_01_79,376.86,378.1,put on kitchen roll
+P04_01_8,33.48,34.38,pick up bucket
+P04_01_80,378.1,385.54,squeeze kitchen roll onto tofu
+P04_01_81,382.66,393.89,squeeze kitchen roll
+P04_01_82,390.18,391.23,pick up tofu
+P04_01_83,392.27,394.9,squeeze kitchen roll
+P04_01_84,395.0,396.41,pick up tofu
+P04_01_85,397.46,399.58,pat dry
+P04_01_86,402.26,403.91,pick up kitchen roll
+P04_01_87,405.37,407.38,put in bin
+P04_01_88,409.42,410.73,open bag
+P04_01_89,411.28,416.34,put tofu in bag
+P04_01_9,34.48,35.06,put bucket
+P04_01_90,419.38,420.1,pick up miso paste
+P04_01_91,420.63,423.54,open miso paste
+P04_01_92,425.4,428.65,spoon miso paste
+P04_01_93,429.1,431.85,put in bag
+P04_01_94,432.7,435.45,spoon miso paste
+P04_01_95,435.95,438.2,put in bag
+P04_01_96,438.8,443.3,spoon miso paste
+P04_01_97,443.6,445.6,put in bag
+P04_01_98,448.0,451.0,close miso paste
+P04_01_99,452.29,452.82,open fridge

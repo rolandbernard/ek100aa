@@ -1,0 +1,338 @@
+P29_01_0,4.66,7.38,pick up chopping board
+P29_01_1,7.48,10.51,put down chopping board
+P29_01_10,36.28,37.69,close fridge
+P29_01_100,323.07,323.96,put onion in pan
+P29_01_102,327.64,328.65,chop onion
+P29_01_103,334.63,336.21,pick up oil
+P29_01_104,336.73,339.52,pour oil on onion in pan
+P29_01_105,337.56,338.77,chop onion
+P29_01_106,341.67,342.18,chop onion
+P29_01_107,341.81,342.34,pick up onion
+P29_01_108,342.12,344.9,turn on hob
+P29_01_109,342.44,343.21,throw onion in pan
+P29_01_11,38.51,42.36,open fridge
+P29_01_110,344.47,349.67,ignite hob
+P29_01_111,349.6,350.92,pick up lid
+P29_01_112,350.85,352.66,put down lid
+P29_01_113,374.0,378.52,chop garlic
+P29_01_114,375.05,375.74,peel garlic
+P29_01_115,377.55,378.26,peel garlic
+P29_01_116,378.63,381.89,pick up garlic
+P29_01_117,379.38,380.15,chop garlic
+P29_01_118,381.37,382.15,chop garlic
+P29_01_119,383.16,383.82,chop garlic
+P29_01_12,42.96,44.15,open drawer
+P29_01_120,383.39,384.9,put garlic in pan
+P29_01_121,385.1,385.78,chop garlic
+P29_01_122,385.65,389.81,throw away garlic
+P29_01_123,414.0,421.27,peel garlic
+P29_01_124,414.12,417.59,peel garlic
+P29_01_125,414.34,415.96,pick up garlic
+P29_01_126,415.38,416.07,finding garlic
+P29_01_127,416.78,417.52,pick up garlic
+P29_01_128,418.42,419.91,finding garlic
+P29_01_129,421.37,426.95,chop garlic
+P29_01_13,43.9,44.9,pick up peppers
+P29_01_130,423.21,432.62,chop garlic
+P29_01_131,427.63,428.43,chop garlic
+P29_01_132,429.03,432.57,chop garlic
+P29_01_133,458.7,459.49,pick up garlic
+P29_01_134,460.38,461.25,put garlic in pan
+P29_01_135,460.74,461.72,stir onions
+P29_01_136,462.26,463.06,stir onions
+P29_01_137,463.76,464.47,stir onions
+P29_01_138,465.02,465.59,stir onions
+P29_01_139,471.15,471.84,get red wine vinegar from shelf
+P29_01_14,45.0,51.88,pick up coffee
+P29_01_140,474.97,476.64,pour red wine vinegar in pan
+P29_01_141,497.46,498.07,pick up spatula
+P29_01_142,498.8,499.55,stir onion
+P29_01_143,518.0,518.8,pick up raisins
+P29_01_144,522.0,523.82,open cupboard
+P29_01_145,522.98,523.81,pick up stock
+P29_01_146,526.9,527.79,put down stock
+P29_01_147,527.89,529.96,close cupboard
+P29_01_148,532.47,534.31,adjust heat on oven
+P29_01_149,536.39,542.49,open stock cube
+P29_01_15,45.72,46.94,put down peppers
+P29_01_150,542.59,564.24,open stock cube
+P29_01_151,575.8,583.49,stir onions
+P29_01_152,576.09,583.59,stir onions
+P29_01_153,576.36,577.13,stir onion
+P29_01_154,577.7,578.59,stir onion
+P29_01_155,583.23,585.19,put down spatula
+P29_01_156,585.46,587.2,pick up sausages
+P29_01_157,586.32,587.92,throw away garlic
+P29_01_158,590.19,593.7,pick up spatula
+P29_01_159,590.96,598.54,open stock cube
+P29_01_16,51.98,56.23,put down coffee
+P29_01_160,604.28,608.09,crush stock cube
+P29_01_161,608.19,617.79,crush stock cube
+P29_01_162,617.89,619.3,put down stock cube
+P29_01_163,618.59,620.55,throw away packaging
+P29_01_164,623.54,625.86,slice open sausage packet
+P29_01_165,625.74,633.65,remove film from sausage packet
+P29_01_166,635.12,636.73,remove sausage from packet
+P29_01_167,636.83,640.75,slice sausage
+P29_01_168,640.24,648.92,peel sausage
+P29_01_169,643.14,657.37,peel sausage
+P29_01_170,649.0,655.27,peel sausage
+P29_01_171,650.95,652.85,put sausage on chopping board
+P29_01_172,656.43,657.49,peel sausage
+P29_01_173,657.65,658.97,throw away skin
+P29_01_174,660.26,663.53,pick up sausage
+P29_01_175,661.1,663.36,pick up sausage
+P29_01_176,663.33,666.4,slice sausage
+P29_01_177,663.63,666.08,slice sausage
+P29_01_178,666.22,674.05,peel sausage
+P29_01_179,672.06,675.94,peel sausage
+P29_01_180,676.31,676.89,squeeze sausage
+P29_01_181,679.65,680.94,throw away skin
+P29_01_182,681.92,682.56,pick up sausage
+P29_01_183,687.73,690.28,slice sausage
+P29_01_184,690.75,693.15,peel sausage
+P29_01_185,694.09,694.75,throw sausage in pan
+P29_01_186,697.12,697.87,peel sausage
+P29_01_187,701.16,703.55,throw sausage in pan
+P29_01_188,708.02,709.35,throw away skin
+P29_01_189,711.28,713.03,pick up sausage
+P29_01_19,59.38,61.47,pick up green beans
+P29_01_190,713.85,715.67,put sausage in pan
+P29_01_191,714.87,717.47,squeeze sausage into pan
+P29_01_192,720.34,721.61,pick up sausage
+P29_01_193,721.61,725.72,squeeze sausage into pan
+P29_01_194,723.64,724.86,squeeze sausage into pan
+P29_01_195,725.81,727.34,throw away skin
+P29_01_196,727.65,729.74,pick up sausage
+P29_01_197,731.16,732.15,slice sausage
+P29_01_198,735.09,735.74,slice sausage
+P29_01_199,737.76,739.16,peel sausage
+P29_01_2,13.21,15.36,pick up rice
+P29_01_20,61.57,64.18,close drawer
+P29_01_200,741.21,743.18,wash hands
+P29_01_201,741.36,741.96,peel sausage
+P29_01_202,746.04,746.88,throw away skin
+P29_01_203,756.15,756.99,pick up soap
+P29_01_204,757.83,758.85,put soap on hand
+P29_01_205,759.74,761.49,rub hands
+P29_01_206,762.54,763.5,rub hands
+P29_01_207,764.34,765.17,turn off tap
+P29_01_208,765.91,766.71,pick up towel
+P29_01_209,767.83,769.01,dry hands
+P29_01_21,64.26,65.3,pick up coffee
+P29_01_210,770.63,771.4,chop sausage with spatula
+P29_01_211,772.62,773.33,stir sausage
+P29_01_212,775.04,775.92,slice sausage with spatula
+P29_01_213,794.83,795.69,pick up curry powder
+P29_01_214,795.23,797.93,slice sausage with spatula
+P29_01_215,797.24,798.61,open fridge
+P29_01_216,798.51,800.49,pick up chilli
+P29_01_217,800.59,803.26,take chilli out the packet
+P29_01_218,803.44,804.59,pour curry powder in pan
+P29_01_219,804.13,805.36,put packet back in fridge
+P29_01_220,805.93,807.18,pour curry powder in pan
+P29_01_221,807.18,815.68,stir pan contents
+P29_01_222,815.78,835.94,stir
+P29_01_223,843.02,843.78,stirring pan
+P29_01_224,843.25,845.68,rinsing fingers
+P29_01_225,846.47,849.6,drying hands
+P29_01_226,850.95,851.92,pick up knife
+P29_01_227,851.86,853.02,stirring pan
+P29_01_228,852.02,857.24,chop chilli
+P29_01_229,855.36,858.75,stirring pan
+P29_01_230,857.34,862.13,chop chilli
+P29_01_231,862.23,872.38,chop chilli
+P29_01_232,879.0,879.81,put in pan
+P29_01_233,879.8,880.94,mixing ingredients
+P29_01_234,879.91,880.49,put chilli in pan
+P29_01_235,880.59,882.23,stir
+P29_01_236,882.33,884.33,stir ingredients
+P29_01_237,884.43,886.4,stir ingredients
+P29_01_238,890.54,891.71,chop chilli
+P29_01_239,892.7,893.54,chop chilli
+P29_01_24,67.04,67.95,put down coffee
+P29_01_240,894.28,895.37,chop chilli
+P29_01_241,896.51,897.36,chop chilli
+P29_01_242,899.26,900.56,pick up chilli
+P29_01_243,909.0,915.3,pour rice into mug
+P29_01_244,911.7,919.43,open cupboard
+P29_01_245,915.4,916.87,pour rice into mug
+P29_01_246,916.72,919.8,pour rice into mug
+P29_01_247,921.14,922.2,put down rice
+P29_01_248,923.29,925.21,move wine glasses
+P29_01_249,925.85,926.46,pick up mug
+P29_01_25,67.73,68.87,close fridge
+P29_01_250,927.29,929.73,close cupboard
+P29_01_251,930.45,932.86,close cupboard
+P29_01_252,933.33,934.28,pick up rice
+P29_01_253,934.7,936.37,put down mug
+P29_01_254,943.63,955.96,stir ingredients
+P29_01_255,952.55,953.74,stir ingredients
+P29_01_256,956.98,958.22,pick up mug
+P29_01_257,958.95,960.03,turn on tap
+P29_01_258,959.07,960.43,pick up mug
+P29_01_259,961.58,963.94,shake mug
+P29_01_26,69.82,71.19,put down green beans
+P29_01_260,962.37,963.42,turn off tap
+P29_01_261,973.7,975.77,turn down heat on oven
+P29_01_262,992.04,1005.36,pour mug over pan
+P29_01_263,992.79,994.25,pour rice into pan
+P29_01_264,1008.63,1009.66,turn up heat on oven
+P29_01_265,1010.42,1013.88,throw away chilli
+P29_01_266,1018.94,1020.59,throw away packaging
+P29_01_267,1020.69,1023.7,open stock cube
+P29_01_268,1023.8,1028.27,put down foil
+P29_01_269,1025.35,1027.43,stir pan ingredients
+P29_01_27,77.07,78.69,open drawer
+P29_01_270,1035.03,1036.52,pour stock into pan
+P29_01_271,1036.52,1047.9,stir pan ingredients
+P29_01_272,1036.62,1047.09,throw foil away
+P29_01_273,1041.69,1046.21,chop green beans
+P29_01_274,1042.84,1043.48,pick up knife
+P29_01_275,1044.25,1045.47,open green bean packing
+P29_01_276,1046.12,1048.76,remove green bean from packaging
+P29_01_277,1048.05,1049.93,chop green beans
+P29_01_278,1049.93,1051.03,throw away green bean packaging
+P29_01_279,1064.57,1066.9,snap green beans
+P29_01_28,78.97,81.51,pick up knife
+P29_01_280,1067.0,1067.8,throw green bean in pan
+P29_01_281,1068.46,1078.86,snap green beans
+P29_01_282,1078.96,1080.09,throw green beans in pan
+P29_01_283,1094.0,1102.83,stir mixture
+P29_01_284,1094.53,1095.74,snap green beans
+P29_01_285,1095.85,1102.98,snap the green beans
+P29_01_286,1104.33,1105.67,pick up lid
+P29_01_287,1105.39,1106.85,throw them in pan
+P29_01_288,1105.67,1106.71,put down lid
+P29_01_289,1106.81,1108.55,pick up chopping board
+P29_01_29,84.05,85.88,put down knife
+P29_01_290,1106.95,1111.66,snap green beans
+P29_01_291,1111.76,1116.09,stack green beans
+P29_01_292,1115.35,1117.38,put down knife and chopping board
+P29_01_293,1121.24,1123.05,throw them in pan
+P29_01_294,1127.69,1128.42,pick up salt
+P29_01_295,1129.13,1131.55,shake salt into pan
+P29_01_296,1132.0,1132.72,put salt on shelf
+P29_01_297,1133.59,1134.65,clear chopping board into bin
+P29_01_298,1134.43,1135.61,put pepper on shelf
+P29_01_299,1138.16,1139.4,pick up raisins
+P29_01_3,15.46,16.73,put down rice
+P29_01_30,87.09,88.41,pick up oil
+P29_01_300,1138.92,1139.67,pick up pepper
+P29_01_301,1139.5,1144.58,pour raisins into hand
+P29_01_302,1143.02,1147.52,grind pepper into pan
+P29_01_303,1144.7,1147.74,pour raisins into pot
+P29_01_304,1147.86,1149.73,empty more raisins
+P29_01_305,1149.72,1151.17,put raisins into pan
+P29_01_306,1152.58,1154.81,put raisins into cupboard
+P29_01_307,1154.96,1156.21,close cupboard
+P29_01_308,1157.91,1159.63,move oil
+P29_01_309,1160.84,1162.96,pick up chopping board
+P29_01_31,89.58,90.51,put down oil
+P29_01_310,1166.02,1167.51,put chopping board in sink
+P29_01_311,1170.72,1178.75,stir mixture
+P29_01_312,1180.4,1181.77,open cupboard
+P29_01_313,1181.46,1184.77,search for plates
+P29_01_314,1183.97,1188.21,pick up plates
+P29_01_315,1188.96,1190.63,close cupboard
+P29_01_316,1191.26,1193.59,put down plates
+P29_01_317,1194.22,1195.82,open drawer
+P29_01_318,1195.85,1197.59,pick up forks
+P29_01_319,1198.14,1199.1,place fork on plate
+P29_01_32,90.6,91.86,pick up watch
+P29_01_320,1199.32,1200.62,place fork on plate
+P29_01_321,1201.71,1208.61,stir mixture
+P29_01_322,1207.95,1218.28,stir mixture
+P29_01_323,1241.98,1248.23,stir mixture
+P29_01_324,1244.36,1249.04,stir ingredients
+P29_01_325,1249.13,1264.73,stir ingredients
+P29_01_326,1250.12,1255.15,place spatula on counter
+P29_01_327,1256.03,1257.32,pick up watch
+P29_01_328,1258.2,1263.5,check watch
+P29_01_329,1265.75,1267.49,pick up oil
+P29_01_33,116.55,117.48,fetch onion
+P29_01_330,1267.59,1270.61,pour oil into pan
+P29_01_331,1270.71,1280.4,stir ingredients
+P29_01_332,1280.5,1281.65,pick up mug
+P29_01_333,1307.29,1308.93,put water into mug
+P29_01_334,1310.11,1311.64,pour water into pan
+P29_01_335,1312.56,1313.95,pour water into pan
+P29_01_336,1316.2,1317.73,empty mug
+P29_01_337,1319.66,1321.4,turn on hob
+P29_01_338,1323.48,1324.91,turn down heat
+P29_01_339,1327.02,1328.03,move pan
+P29_01_34,117.58,120.31,put down onions
+P29_01_340,1329.26,1330.27,stir ingredients
+P29_01_341,1334.79,1335.88,stir ingredients
+P29_01_342,1337.56,1338.37,end video
+P29_01_35,121.23,125.88,fetch garlic
+P29_01_36,121.9,125.19,put down watch
+P29_01_37,125.98,132.26,fetching garlic
+P29_01_38,127.89,132.07,pick up pepper
+P29_01_39,133.4,134.14,put down pepper
+P29_01_4,17.99,20.63,open fridge
+P29_01_40,141.96,149.15,fetch onion
+P29_01_41,141.98,142.92,pick up salt
+P29_01_42,143.6,146.97,put down salt
+P29_01_43,152.55,154.45,fetch garlic
+P29_01_44,155.84,158.5,pick up onion
+P29_01_45,178.17,179.14,pick up knife
+P29_01_46,178.56,180.61,chop onion
+P29_01_47,181.32,185.55,chop onion
+P29_01_48,189.46,193.19,chop onion
+P29_01_49,192.73,204.26,chop onion
+P29_01_5,20.87,25.71,searching
+P29_01_50,195.0,196.04,peeling onion
+P29_01_51,196.14,198.02,pick up knife
+P29_01_52,196.14,196.8,chopping onion
+P29_01_53,196.9,197.74,chopping onion
+P29_01_54,197.84,199.07,chopping onion
+P29_01_55,198.01,203.13,peel onion
+P29_01_56,199.17,200.75,chopping onion
+P29_01_57,200.85,202.62,chopping onion
+P29_01_58,202.72,203.99,chopping onion
+P29_01_59,203.88,205.58,peeling onion
+P29_01_6,20.98,25.33,searching
+P29_01_60,204.09,205.59,chopping onion
+P29_01_61,205.26,206.06,peel onion
+P29_01_62,205.69,214.31,push onion
+P29_01_63,217.54,219.13,pick up spatula
+P29_01_64,218.9,226.15,chop onion
+P29_01_65,219.23,221.51,put down spatula
+P29_01_66,226.91,231.67,chop onion
+P29_01_67,231.78,236.24,chop onion
+P29_01_68,236.34,236.87,chop onion
+P29_01_69,236.97,238.64,chop onion
+P29_01_7,25.32,27.92,searching
+P29_01_70,238.74,242.74,put onion in pan
+P29_01_71,242.84,247.13,pick up onion
+P29_01_72,244.47,245.39,pick up knife
+P29_01_73,245.49,247.46,inspect onion
+P29_01_74,247.23,254.17,put onion in pan
+P29_01_75,251.83,254.95,throw away onion
+P29_01_76,255.77,256.4,pick up onion
+P29_01_77,256.19,257.32,inspect onions
+P29_01_78,260.73,263.14,peel onion
+P29_01_79,269.79,274.4,throw away onion peels
+P29_01_8,28.83,32.3,pick up sausages
+P29_01_80,275.0,280.32,throw away onion choppings
+P29_01_81,277.64,279.9,throw away onion peels
+P29_01_82,281.42,285.59,chop onion
+P29_01_83,281.78,287.63,peel onion
+P29_01_84,283.25,286.26,peel onion
+P29_01_85,285.08,286.23,chop onion
+P29_01_86,287.58,288.38,inspect onion
+P29_01_87,288.31,289.19,throw away onion peelings
+P29_01_88,291.97,299.73,peel onion
+P29_01_89,306.03,307.42,rinse hands
+P29_01_9,35.07,36.26,searching
+P29_01_90,308.32,310.41,dry hands
+P29_01_91,311.07,323.78,chop onion
+P29_01_92,314.53,315.38,peel onion
+P29_01_93,315.81,316.85,throw away onion peeling
+P29_01_94,316.64,318.47,chopping onion
+P29_01_95,316.68,319.61,put salt on onion in pan
+P29_01_96,319.2,321.81,chop onion
+P29_01_97,321.17,322.04,pick up pepper
+P29_01_98,321.29,323.64,chop onion
+P29_01_99,322.35,330.81,put pepper on onion in pan

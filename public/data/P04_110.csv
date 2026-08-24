@@ -1,0 +1,401 @@
+P04_110_0,1.54,2.3,pick up spatula
+P04_110_1,2.24,7.5,stir broccoli in pan
+P04_110_10,37.71,38.79,put down oven dish
+P04_110_100,232.95,234.03,open spicy bean sauce
+P04_110_101,234.08,235.1,put down lid
+P04_110_102,235.11,239.74,spoon spicy bean sauce onto broccoli
+P04_110_103,239.76,244.04,spoon spicy bean sauce onto broccoli
+P04_110_104,243.0,249.61,spoon spicy bean sauce onto broccoli
+P04_110_105,249.77,251.05,put down spicy bean sauce jar
+P04_110_106,251.1,251.81,pick up spatula
+P04_110_107,252.22,270.11,stir spicy bean sauce into broccoli
+P04_110_108,270.17,270.76,put down spatula
+P04_110_109,270.71,274.86,lift rice cooker lid
+P04_110_11,38.89,39.98,open oven
+P04_110_110,274.96,276.21,fill steamed bun
+P04_110_111,277.5,278.56,prod steamed bun
+P04_110_112,281.74,283.52,put down rice cooker lid
+P04_110_113,283.45,284.75,open cupboard
+P04_110_114,284.76,286.81,pick up plate
+P04_110_115,286.91,289.29,put down plate
+P04_110_116,289.19,290.43,pick up rice cooker lid
+P04_110_117,290.6,291.5,put rice cooker lid on plate
+P04_110_118,291.8,292.57,pick up spatula
+P04_110_119,292.67,294.62,lift steamed bun out of steamer tray with spatula
+P04_110_12,40.09,41.48,pick up oven dish
+P04_110_120,295.1,295.92,pick up rice cooker lid
+P04_110_121,295.92,296.73,put down steamed bun
+P04_110_122,297.03,299.83,pick up steamed bun with spatula
+P04_110_123,300.21,301.23,put down steamed bun
+P04_110_124,302.49,303.15,put down spatula
+P04_110_125,302.95,304.2,put down rice cooker lid
+P04_110_126,305.09,306.56,lift tea towel off baking tray
+P04_110_127,306.52,308.31,pick up baking tray
+P04_110_128,308.34,309.26,pick up dough
+P04_110_129,309.34,310.17,put dough in rice cooker
+P04_110_13,41.58,45.29,put oven dish in oven
+P04_110_130,310.15,313.45,pick up dough
+P04_110_131,313.55,314.34,put dough in rice cooker
+P04_110_132,314.42,315.87,pick up dough
+P04_110_133,315.97,317.01,put dough in rice cooker
+P04_110_134,318.74,319.61,pick up rice cooker lid
+P04_110_135,319.65,320.65,put lid on rice cooker
+P04_110_136,321.21,323.6,put down baking tray
+P04_110_137,325.03,325.79,pick up steamed bun
+P04_110_138,325.85,326.44,open steamed bun
+P04_110_139,327.37,328.64,squeeze steamed bun
+P04_110_14,45.79,46.54,close oven door
+P04_110_140,328.72,329.47,prod steamed bun
+P04_110_141,329.15,330.7,open steamed bun
+P04_110_142,332.42,334.05,move steamed bun
+P04_110_143,335.2,338.14,cut steamed bun with fork
+P04_110_144,338.49,339.19,smell steamed bun
+P04_110_145,339.43,340.23,inspect steamed bun
+P04_110_146,340.3,341.59,open piece of steamed bun
+P04_110_147,341.95,342.98,eat piece of steamed bun
+P04_110_148,342.85,344.55,look at piece of steamed bun
+P04_110_149,344.6,345.61,eat piece of steamed bun
+P04_110_15,47.25,49.61,press button on oven
+P04_110_150,345.71,347.1,open steamed bun
+P04_110_151,346.79,347.28,prod steamed bun
+P04_110_152,347.35,347.75,close steamed bun
+P04_110_153,347.66,350.18,move fork away from plate
+P04_110_154,348.31,349.9,put down fork
+P04_110_155,352.93,354.72,adjust steamed bun
+P04_110_156,354.05,356.0,open steamed bun
+P04_110_157,356.1,356.85,close steamed bun
+P04_110_158,356.83,358.9,move steamed bun
+P04_110_159,360.8,363.64,pick up tea towel
+P04_110_16,51.78,52.55,pick up spatula
+P04_110_160,364.97,365.84,cover steamed buns with tea towel
+P04_110_161,364.15,367.13,pick up spatula
+P04_110_162,367.1,369.05,stir broccoli in pan with spatula
+P04_110_163,368.54,371.49,open cupboard
+P04_110_164,370.32,372.33,pick up plate
+P04_110_165,372.89,373.56,move rolling pin
+P04_110_166,373.8,374.23,pick up rolling pin
+P04_110_167,373.86,374.56,put down plate
+P04_110_168,374.68,376.51,put rolling pin in sink
+P04_110_169,377.0,377.82,pick up pan
+P04_110_17,52.65,57.63,stir broccoli in pan
+P04_110_170,377.46,378.48,pick up spatula
+P04_110_171,377.8,382.11,tip broccoli onto plate
+P04_110_172,379.05,382.85,scrape broccoli out of pan with spatula
+P04_110_173,383.47,384.13,put down pan
+P04_110_174,383.17,385.37,put down spatula
+P04_110_175,385.86,386.42,pick up spatula
+P04_110_176,387.62,388.97,pick up sesame oil
+P04_110_177,389.07,390.01,open sesame oil
+P04_110_178,390.47,391.32,pour sesame oil into pan
+P04_110_179,391.2,392.0,close sesame oil
+P04_110_18,57.7,58.96,look at time on oven
+P04_110_180,392.84,393.94,pick up piece of tofu
+P04_110_181,393.96,394.56,put piece of tofu in pan
+P04_110_182,394.52,395.29,move piece of tofu with spatula
+P04_110_183,395.38,396.8,pick up piece of tofu
+P04_110_184,394.0,394.64,put piece of tofu in pan
+P04_110_185,394.74,395.45,move tofu with spatula
+P04_110_186,395.55,396.24,pick up piece of tofu
+P04_110_187,396.27,396.99,put piece of tofu in pan
+P04_110_188,396.89,397.64,move tofu with spatula
+P04_110_189,397.56,399.54,pick up piece of tofu
+P04_110_19,62.91,63.68,put down spatula
+P04_110_190,399.62,400.15,put piece of tofu in pan
+P04_110_191,400.15,400.8,move piece of tofu with spatula
+P04_110_192,400.79,402.35,pick up piece of tofu
+P04_110_193,402.45,403.27,move piece of tofu with spatula
+P04_110_194,404.65,406.51,move tofu pieces with spatula
+P04_110_195,406.37,407.18,put piece of tofu in pan
+P04_110_196,407.12,407.93,spread tofu into oil
+P04_110_197,409.05,410.34,move plate of broccoli
+P04_110_198,410.17,411.05,put down spatula
+P04_110_199,410.99,412.89,turn on hob
+P04_110_2,7.33,8.16,put down spatula
+P04_110_20,63.83,65.11,turn on oven
+P04_110_200,412.89,417.75,adjust temperature on hob
+P04_110_201,417.85,418.79,put piece of tofu in pan
+P04_110_202,418.79,419.85,move piece of tofu into oil
+P04_110_203,419.95,420.78,pick up piece of tofu
+P04_110_204,420.67,421.36,put piece of tofu in pan
+P04_110_205,421.6,422.4,move piece of tofu around pan
+P04_110_206,422.5,423.21,pick up piece of tofu
+P04_110_207,423.31,424.0,put tofu into pan
+P04_110_208,423.9,424.6,move tofu with spatula
+P04_110_209,424.7,426.0,pick up piece of tofu
+P04_110_21,65.15,66.66,select oven setting
+P04_110_210,426.08,426.47,put piece of tofu into pan
+P04_110_211,426.55,427.22,move tofu with spatula
+P04_110_212,427.12,427.65,pick up piece of tofu
+P04_110_213,427.69,428.21,put piece of tofu into pan
+P04_110_214,426.48,427.18,move tofu with spatula
+P04_110_215,427.01,427.51,pick up piece of tofu
+P04_110_216,427.74,428.16,put piece of tofu in pan
+P04_110_217,428.22,428.82,move piece of tofu with spatula
+P04_110_218,428.92,429.97,pick up piece of tofu
+P04_110_219,430.36,430.81,put piece of tofu in pan
+P04_110_22,66.61,75.87,adjust oven temperature
+P04_110_220,430.84,431.58,move piece of tofu with spatula
+P04_110_221,431.36,431.93,pick up piece of tofu
+P04_110_222,432.03,433.64,put piece of tofu in pan
+P04_110_223,433.89,434.64,move piece of tofu with spatula
+P04_110_224,435.0,435.81,pick up piece of tofu
+P04_110_225,435.76,436.29,put piece of tofu in pan
+P04_110_226,438.79,439.99,move piece of tofu with spatula
+P04_110_227,437.02,438.05,pick up piece of tofu
+P04_110_228,438.15,438.65,put piece of tofu in pan
+P04_110_229,438.75,440.06,move piece of tofu with spatula
+P04_110_23,75.97,77.02,look at oven display
+P04_110_230,440.05,440.99,pick up piece of tofu
+P04_110_231,440.95,441.6,put piece of tofu in pan
+P04_110_232,441.53,442.32,move piece of tofu in pan
+P04_110_233,443.06,443.6,pick up piece of tofu
+P04_110_234,446.41,446.88,put down piece of tofu
+P04_110_235,446.98,447.8,move piece of tofu in pan
+P04_110_236,447.9,449.05,pick up piece of tofu
+P04_110_237,449.07,449.76,put piece of tofu in pan
+P04_110_238,449.77,450.59,move piece of tofu with spatula
+P04_110_239,451.02,453.09,move piece of tofu around pan
+P04_110_24,78.16,79.22,pick up spatula
+P04_110_240,452.52,453.72,pick up piece of tofu
+P04_110_241,453.62,454.13,pick up piece of tofu
+P04_110_242,453.82,454.37,put piece of tofu in pan
+P04_110_243,454.46,455.05,move piece of tofu with spatula
+P04_110_244,453.18,453.78,pick up piece of tofu
+P04_110_245,455.73,456.44,put piece of tofu in pan
+P04_110_246,456.48,456.98,move piece of tofu with spatula
+P04_110_247,456.93,458.16,move mug
+P04_110_248,458.28,458.88,pick up piece of tofu
+P04_110_249,458.93,459.53,put piece of tofu in pan
+P04_110_25,79.26,87.74,stir broccoli in pan
+P04_110_250,459.53,460.26,move piece of tofu with spatula
+P04_110_251,459.83,460.73,pick up piece of tofu
+P04_110_252,460.83,461.41,put piece of tofu in pan
+P04_110_253,461.48,462.13,move piece of tofu with spatula
+P04_110_254,460.0,460.59,pick up piece of tofu
+P04_110_255,460.75,461.33,put piece of tofu in pan
+P04_110_256,461.2,461.91,move piece of tofu with spatula
+P04_110_257,461.93,462.47,pick up piece of tofu
+P04_110_258,462.49,462.97,put piece of tofu in pan
+P04_110_259,463.04,463.56,move piece of tofu
+P04_110_26,87.73,88.63,put down spatula
+P04_110_260,463.56,464.11,pick up piece of tofu
+P04_110_261,464.18,464.58,put piece of tofu in pan
+P04_110_262,464.56,465.16,move piece of tofu with spatula
+P04_110_263,465.12,465.91,pick up piece of tofu
+P04_110_264,465.0,466.47,put piece of tofu in pan
+P04_110_265,466.47,466.99,move piece of tofu with spatula
+P04_110_266,467.08,467.78,pick up piece of tofu
+P04_110_267,467.65,468.18,put piece of tofu in pan
+P04_110_268,468.19,468.69,move piece of tofu with spatula
+P04_110_269,468.78,469.09,pick up piece of tofu
+P04_110_27,88.73,90.67,open cupboard
+P04_110_270,469.14,469.55,put piece of tofu in pan
+P04_110_271,469.65,470.09,move piece of tofu with spatula
+P04_110_272,470.14,470.51,pick up piece of tofu
+P04_110_273,470.6,471.07,put piece of tofu in pan
+P04_110_274,471.59,473.47,move piece of tofu with spatula
+P04_110_275,473.83,474.99,pick up plate
+P04_110_276,475.02,475.91,pick up piece of broccoli
+P04_110_277,475.79,477.53,eat piece of broccoli
+P04_110_278,478.88,480.83,adjust piece of broccoli
+P04_110_279,478.85,482.23,adjust pieces of broccoli
+P04_110_28,91.28,92.88,pick up mug
+P04_110_280,482.66,483.65,lick finger
+P04_110_281,485.53,487.21,pick up plate
+P04_110_282,487.15,488.42,open oven
+P04_110_283,488.42,492.05,put plate in oven
+P04_110_284,491.99,493.24,close oven door
+P04_110_285,498.29,499.42,pick up spatula
+P04_110_286,499.88,503.29,move piece of tofu in pan
+P04_110_287,503.15,503.79,put down spatula
+P04_110_288,503.59,505.46,pick up teaspoon
+P04_110_289,504.29,505.64,dip finger in sauce
+P04_110_29,92.87,93.57,close cupboard
+P04_110_290,505.55,506.86,lick finger
+P04_110_291,506.39,510.07,stir sauce
+P04_110_292,512.07,512.8,pick up spatula
+P04_110_293,512.88,518.96,scrape sauce off spoon into mug
+P04_110_294,516.18,516.94,wipe spatula on side of mug
+P04_110_295,518.28,519.36,put down spatula
+P04_110_296,518.91,520.67,stir sauce with spoon
+P04_110_297,520.38,520.83,put down spoon
+P04_110_298,521.14,522.0,pick up peanut
+P04_110_299,522.34,523.09,eat peanut
+P04_110_3,8.07,11.64,pick up lid from rice cooker
+P04_110_30,93.01,93.95,put down mug
+P04_110_300,523.71,525.26,pick up measuring jug
+P04_110_301,525.69,527.06,pick up ramekin of peanuts
+P04_110_302,531.92,532.71,put down measuring jug on table
+P04_110_303,532.21,533.09,put down ramekin of peanuts on table
+P04_110_304,537.22,538.0,pick up spatula
+P04_110_305,538.47,540.58,flip over piece of tofu
+P04_110_306,540.68,543.29,move piece of tofu off other piece of tofu
+P04_110_307,544.77,546.31,pick up mug
+P04_110_308,545.4,546.69,move gochujang
+P04_110_309,546.79,548.4,pick up coriander ramekin
+P04_110_31,94.38,97.22,open fridge
+P04_110_310,552.35,552.85,put down mug
+P04_110_311,552.45,553.01,put down coriander ramekin
+P04_110_312,558.55,560.05,lift lid off rice cooker
+P04_110_313,561.27,562.15,put down rice cooker lid
+P04_110_314,571.34,572.2,pick up gochujang lid
+P04_110_315,572.55,573.59,put lid on gochujang
+P04_110_316,573.56,574.72,pick up gochujang
+P04_110_317,575.0,576.25,open fridge door
+P04_110_318,576.62,577.89,put gochujang in fridge
+P04_110_319,578.76,579.54,close fridge door
+P04_110_32,96.25,99.2,tap fingers against side of fridge
+P04_110_320,580.16,580.79,pick up knife
+P04_110_321,580.83,581.82,pick up spatula
+P04_110_322,581.55,582.57,put down knife and spatula
+P04_110_323,582.67,584.86,pick up chopping board
+P04_110_324,585.71,586.11,pick up sponge
+P04_110_325,586.21,588.53,wipe chopping board with sponge
+P04_110_326,588.16,589.09,put down sponge
+P04_110_327,589.19,589.82,pick up coriander packet
+P04_110_328,589.79,590.95,put down coriander packet
+P04_110_329,590.97,594.95,put down chopping board
+P04_110_33,99.18,100.36,move jar
+P04_110_330,594.93,596.4,lift tea towel off bowl
+P04_110_331,597.29,597.97,feel chopping board
+P04_110_332,598.07,599.21,turn on tap
+P04_110_334,599.54,601.33,wipe water over chopping board
+P04_110_336,601.99,602.77,pick up bowl
+P04_110_337,602.81,604.17,take kitchen roll off bowl
+P04_110_338,603.44,604.5,move greaseproof paper and kitchen roll
+P04_110_339,605.12,607.56,lift dough away from edge of bowl
+P04_110_34,101.55,102.93,pick up egg in ramekin
+P04_110_340,607.49,608.52,put down bowl
+P04_110_341,608.62,613.15,pull hair out of bowl
+P04_110_342,613.3,625.32,lift dough away from edge of bowl
+P04_110_343,624.91,628.08,upturn bowl
+P04_110_344,617.0,625.37,scrape dough out of bowl
+P04_110_345,625.47,628.37,turn over bowl
+P04_110_346,628.47,631.03,put down bowl
+P04_110_347,630.98,632.57,stretch dough
+P04_110_348,632.67,633.47,fold dough
+P04_110_349,633.53,634.82,stretch dough
+P04_110_35,103.35,105.27,move gochujang
+P04_110_350,634.85,635.77,fold dough
+P04_110_351,635.77,638.02,lift dough off chopping board
+P04_110_352,638.01,638.77,put down dough
+P04_110_353,638.75,639.87,stretch dough
+P04_110_354,639.72,640.78,fold dough
+P04_110_355,641.09,643.19,lift dough away from chopping board
+P04_110_356,643.19,643.84,put dough back on chopping board
+P04_110_357,644.15,645.41,stretch dough
+P04_110_358,644.89,645.87,fold dough
+P04_110_359,646.72,650.4,stretch dough
+P04_110_36,105.26,107.08,put egg in ramekin back in fridge
+P04_110_360,650.44,651.16,push coriander away from dough
+P04_110_361,651.34,652.64,fold dough
+P04_110_362,653.81,655.03,lift dough off chopping board
+P04_110_363,655.72,656.33,adjust coriander packet
+P04_110_364,656.18,657.31,stretch dough
+P04_110_365,655.71,657.6,fold dough
+P04_110_366,658.46,659.18,pick up ball of dough
+P04_110_367,658.85,660.11,put down ball of dough
+P04_110_368,660.23,660.71,stretch dough
+P04_110_369,660.78,661.3,fold dough
+P04_110_37,107.18,108.35,pick up gochujang
+P04_110_370,661.89,662.49,stretch dough
+P04_110_371,662.55,663.67,fold dough
+P04_110_372,663.76,664.91,pick up ball of dough
+P04_110_373,664.68,666.1,put ball of dough in bowl
+P04_110_375,667.32,668.57,take kitchen roll out of bowl
+P04_110_376,669.31,671.01,lay tea towel over bowl
+P04_110_377,671.5,672.11,turn on tap
+P04_110_378,672.29,673.74,rinse hands
+P04_110_379,673.4,675.3,scrape dough off fingers
+P04_110_38,108.45,109.53,close fridge
+P04_110_380,675.32,676.6,turn off tap
+P04_110_381,676.67,677.2,turn on tap
+P04_110_382,677.27,678.07,scrape dough off fingers
+P04_110_383,678.01,678.62,turn off tap
+P04_110_384,679.49,681.72,dry hands on tea towel
+P04_110_385,681.74,682.66,pick up spatula
+P04_110_386,682.56,685.68,turn over piece of tofu
+P04_110_387,686.58,687.74,feel piece of tofu
+P04_110_388,687.83,688.84,adjust piece of tofu
+P04_110_389,689.51,693.59,flip over piece of tofu
+P04_110_39,109.55,111.61,open gochujang
+P04_110_390,693.68,694.42,feel piece of tofu
+P04_110_391,694.58,696.64,move piece of tofu off other piece of tofu
+P04_110_392,696.86,698.07,put down spatula
+P04_110_393,698.78,700.76,pick up rice cooker lid
+P04_110_394,699.53,701.38,put down rice cooker lid
+P04_110_395,701.5,704.44,look at time on oven
+P04_110_396,709.09,710.79,prod piece of tofu
+P04_110_397,713.26,714.23,lift tea towel off plate
+P04_110_398,714.28,716.0,pick up steamed bun
+P04_110_399,715.84,717.44,pull greaseproof paper off steamed bun
+P04_110_4,10.04,12.12,look at steamed buns
+P04_110_40,111.7,112.75,put down lid
+P04_110_400,717.41,718.21,put down steamed bun and greaseproof paper
+P04_110_401,718.31,719.69,fold over bao
+P04_110_402,719.79,720.48,pick up bao
+P04_110_403,720.37,721.93,put bao on plate
+P04_110_41,112.22,113.46,peel back plastic from container
+P04_110_42,114.49,115.81,push cupboard door
+P04_110_43,115.87,116.49,open drawer
+P04_110_44,117.28,118.32,close dishwasher drawer
+P04_110_45,118.3,118.96,push down dishwasher door
+P04_110_46,119.04,120.53,open dishwasher drawer
+P04_110_47,120.71,123.98,pick up teaspoon
+P04_110_48,124.12,126.08,spoon gochujang into mug
+P04_110_49,126.1,127.47,tap spoon on side of mug
+P04_110_5,11.53,12.66,put down rice cooker lid
+P04_110_50,128.02,128.3,put down teaspoon
+P04_110_51,128.94,129.77,put down gochujang
+P04_110_52,129.85,130.51,pick up sesame oil
+P04_110_53,130.51,131.79,open sesame oil
+P04_110_54,131.58,133.44,pour sesame oil into mug
+P04_110_55,133.44,134.01,close sesame oil
+P04_110_56,134.1,135.0,put down sesame oil
+P04_110_57,136.48,137.86,pick up soy sauce
+P04_110_58,137.85,141.05,open soy sauce
+P04_110_59,141.33,143.93,pour soy sauce into mug
+P04_110_6,23.32,24.59,pick up rice cooker lid
+P04_110_60,143.99,144.49,close soy sauce
+P04_110_61,144.49,146.26,put down soy sauce
+P04_110_62,145.36,146.33,move sesame oil
+P04_110_63,147.11,147.77,pick up mug
+P04_110_64,147.71,148.85,turn on tap
+P04_110_65,147.95,150.0,put mug under tap
+P04_110_66,149.71,150.74,turn off tap
+P04_110_67,151.0,151.5,put down mug
+P04_110_68,151.8,161.66,stir mixture with teaspoon
+P04_110_69,161.24,162.84,pick up mug
+P04_110_7,26.45,29.17,examine steamed buns
+P04_110_70,162.69,163.3,dip finger in mixture
+P04_110_71,163.55,164.11,lick finger
+P04_110_72,164.65,170.38,stir mixture with teaspoon
+P04_110_73,170.2,171.12,put down mug
+P04_110_74,174.75,176.59,pick up sugar
+P04_110_75,176.27,177.83,unclip sugar
+P04_110_76,177.78,181.53,pour sugar into cup
+P04_110_77,182.77,185.25,put clip around sugar bag
+P04_110_78,185.35,186.5,close clip
+P04_110_79,186.65,188.13,put sugar in cupboard
+P04_110_8,28.92,29.91,put down rice cooker lid
+P04_110_80,188.24,190.12,pick up rice vinegar
+P04_110_81,189.86,191.29,open rice vinegar
+P04_110_82,191.36,194.97,pour rice vinegar into mug
+P04_110_83,195.01,195.81,close rice vinegar
+P04_110_84,196.64,198.66,put rice vinegar in cupboard
+P04_110_85,199.44,200.29,pick up spatula
+P04_110_86,200.34,204.04,stir broccoli in pan
+P04_110_87,204.03,204.45,put down spatula
+P04_110_88,204.47,206.24,stir mixture with teaspoon
+P04_110_89,206.23,207.36,dip finger in mixture
+P04_110_9,32.31,35.5,pick up oven dish
+P04_110_90,207.32,208.64,lick finger
+P04_110_91,208.72,212.3,stir mixture with teaspoon
+P04_110_92,212.35,213.69,dip finger on spoon
+P04_110_93,213.79,214.65,lick finger
+P04_110_94,214.25,216.14,stir mixture with spoon
+P04_110_95,216.14,216.9,wipe finger on spoon
+P04_110_96,216.82,217.97,taste mixture
+P04_110_97,218.07,225.16,stir mixture with teaspoon
+P04_110_98,225.34,226.89,pick up spicy bean sauce
+P04_110_99,230.26,232.77,take spoon from dishwasher

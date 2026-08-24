@@ -1,0 +1,84 @@
+P11_105_0,4.33,7.22,open fridge
+P11_105_1,7.11,9.72,pick up pizza
+P11_105_10,32.75,35.49,open pizza
+P11_105_11,35.59,36.74,put down pizza
+P11_105_12,36.75,39.02,open pizza
+P11_105_13,38.99,39.63,put down pizza
+P11_105_14,39.13,41.08,pick up pizza box
+P11_105_15,39.35,42.68,throw away pizza box
+P11_105_16,45.97,47.06,pick up knife
+P11_105_17,49.18,57.94,open pizza
+P11_105_18,57.34,63.69,put pizza on oven tray
+P11_105_19,58.56,62.88,remove pizza packaging
+P11_105_2,10.79,11.75,put down pizza
+P11_105_20,62.35,66.6,pick up pizza packaging
+P11_105_21,68.49,77.26,open pizza
+P11_105_22,73.85,75.21,remove pizza packaging
+P11_105_23,76.18,77.83,pick up oven tray
+P11_105_24,79.32,81.33,remove pizza packaging
+P11_105_25,81.43,83.84,remove pizza packaging
+P11_105_26,84.82,85.66,pick up pizza packaging
+P11_105_27,85.3,89.88,throw away pizza packaging
+P11_105_28,89.36,93.64,recycle pizza packaging
+P11_105_29,97.03,97.97,pick up knife
+P11_105_3,12.5,13.15,open oven
+P11_105_30,99.17,99.9,pick up knife sharpener
+P11_105_31,100.71,109.15,hone knife
+P11_105_32,109.35,109.84,put down knife
+P11_105_33,109.73,111.51,put down knife sharpener
+P11_105_34,113.49,114.39,open cupboard
+P11_105_35,114.14,116.25,pick up chopping board
+P11_105_36,116.48,117.24,drop chopping board
+P11_105_37,118.46,119.72,put down chopping board
+P11_105_38,119.82,120.65,pick up chopping board
+P11_105_39,121.05,121.68,open cupboard
+P11_105_4,13.0,22.43,turn on oven
+P11_105_40,121.78,123.38,put away chopping board
+P11_105_41,123.88,124.79,close cupboard
+P11_105_42,125.26,126.0,pick up chopping board
+P11_105_43,127.81,128.62,put down chopping board
+P11_105_44,131.46,132.49,open fridge
+P11_105_45,133.36,136.71,pick up tomatoes
+P11_105_46,137.47,138.1,put down tomatoes
+P11_105_47,142.32,145.34,pick up mushrooms
+P11_105_48,147.11,147.8,close fridge
+P11_105_49,147.84,149.24,put down mushrooms
+P11_105_5,22.53,26.0,pick up oven tray
+P11_105_50,152.91,154.6,pick up onion
+P11_105_51,154.8,158.25,pick up onion
+P11_105_52,159.49,162.44,pick up onion
+P11_105_53,164.92,165.47,put down onion
+P11_105_54,167.55,168.61,put down onion
+P11_105_55,168.71,169.82,pick up onion
+P11_105_56,171.52,172.25,put down onions
+P11_105_57,172.63,173.38,pick up knife
+P11_105_58,173.43,178.46,chop onion
+P11_105_59,181.1,198.26,peel onion
+P11_105_6,26.13,26.9,put down oven tray
+P11_105_60,198.42,199.12,put down onion
+P11_105_61,200.16,203.31,chop onion
+P11_105_62,206.49,227.9,peel onion
+P11_105_63,228.09,228.71,pick up knife
+P11_105_64,228.49,229.62,put down knife
+P11_105_65,232.01,232.7,pick up knife
+P11_105_66,232.88,234.45,put down knife
+P11_105_67,234.54,235.79,open drawer
+P11_105_68,236.48,237.51,pick up slicer
+P11_105_69,238.6,243.49,slice onion
+P11_105_7,27.23,28.22,pick up oven tray
+P11_105_70,250.18,251.08,pick up onion
+P11_105_71,252.02,256.06,slice onion
+P11_105_72,254.58,255.49,put down onion slicer
+P11_105_73,256.53,260.09,rearrange pepperoni
+P11_105_74,268.31,271.66,rearrange pepperoni
+P11_105_75,274.89,284.42,slice onion
+P11_105_76,284.47,285.62,put down onion slicer
+P11_105_77,285.7,294.96,rearrange onion
+P11_105_78,295.92,309.73,rearrange onion
+P11_105_79,310.73,311.41,turn on tap
+P11_105_8,28.24,29.18,close oven
+P11_105_80,311.3,312.36,wash hands
+P11_105_81,316.8,318.54,move up slicer
+P11_105_82,319.0,323.55,open mushrooms
+P11_105_83,324.55,328.91,pick up mushrooms
+P11_105_9,28.87,32.01,put down oven tray

@@ -1,0 +1,164 @@
+P22_101_0,2.54,3.82,open cupboard
+P22_101_1,3.87,4.8,pick up glass
+P22_101_10,18.62,20.19,pick up glass
+P22_101_100,225.65,226.76,rinse jar
+P22_101_101,226.51,227.62,adjust tap
+P22_101_102,228.22,229.16,rinse jar
+P22_101_103,232.1,233.89,turn off tap
+P22_101_104,233.56,234.47,shake jar
+P22_101_105,234.32,235.27,put down jar
+P22_101_106,235.0,235.94,pick up lid
+P22_101_107,235.82,236.71,put down lid
+P22_101_108,236.68,237.13,turn on tap
+P22_101_109,237.17,238.18,rinse hands
+P22_101_11,20.06,21.52,turn on tap
+P22_101_110,238.24,239.71,shake hands
+P22_101_111,240.0,240.27,pick up cloth
+P22_101_112,240.21,243.12,dry hands
+P22_101_113,242.95,243.82,put down cloth
+P22_101_114,245.28,247.2,open cupboard
+P22_101_115,248.17,250.14,pick up cereals
+P22_101_116,249.74,251.87,close cupboard
+P22_101_117,251.6,252.35,put down cereals
+P22_101_118,252.03,253.45,open cereals
+P22_101_119,252.75,253.79,extract cereals
+P22_101_12,21.43,22.71,rinse glass
+P22_101_120,253.89,255.33,extract cereals
+P22_101_121,255.75,256.47,move cereals
+P22_101_122,256.32,261.96,open cereals
+P22_101_123,260.65,265.63,pour cereals
+P22_101_124,265.0,267.54,put down cereals
+P22_101_125,267.59,268.72,open cereals
+P22_101_126,268.63,269.47,put down clip
+P22_101_127,269.41,270.43,open cereals
+P22_101_128,270.53,274.79,pour cereals
+P22_101_129,275.3,275.86,put down cereals
+P22_101_13,21.62,23.41,turn off tap
+P22_101_130,275.95,276.47,close package
+P22_101_131,276.59,277.55,pick up clip
+P22_101_132,277.65,279.62,put clip
+P22_101_133,279.64,283.34,put down cereals
+P22_101_134,282.83,284.65,close box
+P22_101_135,285.57,286.13,open cupboard
+P22_101_136,286.63,288.35,put down package
+P22_101_137,288.8,289.13,pick up bag
+P22_101_138,292.69,293.32,open cupboard
+P22_101_139,293.42,295.37,throw away packaging
+P22_101_14,21.7,23.82,empty glass
+P22_101_140,295.47,297.27,close cupboard
+P22_101_141,301.04,301.47,pick up clip
+P22_101_142,302.02,302.72,open drawer
+P22_101_143,302.74,303.49,put down clip
+P22_101_144,303.23,303.66,close drawer
+P22_101_145,303.71,305.38,open drawer
+P22_101_146,305.46,308.2,pick up place mats
+P22_101_147,308.25,309.47,close drawer
+P22_101_148,311.94,313.92,put down place mats
+P22_101_149,317.38,328.04,stir mixture
+P22_101_15,24.19,26.7,put down glass
+P22_101_150,327.44,328.11,pick up glass
+P22_101_151,330.46,331.78,put down glass
+P22_101_152,333.9,334.74,pick up bowl
+P22_101_153,335.88,336.84,put down bowl
+P22_101_154,336.73,346.49,stir cereals
+P22_101_155,348.04,349.75,open cupboard
+P22_101_156,349.66,352.8,pick up glass
+P22_101_157,352.87,354.11,close cupboard
+P22_101_158,354.21,355.82,pick up bottle
+P22_101_159,356.3,356.97,put down glass
+P22_101_16,26.8,28.2,pick up cloth
+P22_101_160,357.31,359.47,open bottle
+P22_101_161,359.46,361.87,pour water
+P22_101_162,362.09,363.91,close bottle
+P22_101_163,364.01,364.96,put down bottle
+P22_101_17,27.69,28.72,dry hands
+P22_101_18,29.2,29.69,put down cloth
+P22_101_19,29.77,31.08,open drawer
+P22_101_2,4.9,5.85,close cupboard
+P22_101_20,31.18,32.73,pick up teaspoon
+P22_101_21,31.96,33.33,close drawer
+P22_101_22,34.51,35.95,open jar
+P22_101_23,35.95,39.0,put down lid
+P22_101_24,35.87,37.27,put down teaspoon
+P22_101_25,37.37,49.84,open jar
+P22_101_26,49.78,50.62,pick up teaspoon
+P22_101_27,50.73,52.3,pick up powder
+P22_101_28,52.13,52.54,pick up glass
+P22_101_29,52.92,53.49,put down powder
+P22_101_3,5.88,7.37,put down glass
+P22_101_30,53.59,54.38,pick up powder
+P22_101_31,54.47,55.37,put down powder
+P22_101_32,55.85,56.85,pick up powder
+P22_101_33,56.86,58.52,put down powder
+P22_101_34,58.69,59.73,pick up powder
+P22_101_35,58.11,58.65,put down powder
+P22_101_36,61.6,62.29,put down teaspoon
+P22_101_37,61.91,62.84,put down glass
+P22_101_38,62.68,63.44,close jar
+P22_101_39,63.54,64.5,pick up lid
+P22_101_4,8.53,10.23,open fridge
+P22_101_40,64.28,65.78,put down lid
+P22_101_41,65.88,68.98,close jar
+P22_101_42,69.08,70.06,pick up jar
+P22_101_43,70.83,71.67,open cupboard
+P22_101_44,72.0,74.1,pick up candies
+P22_101_45,74.17,75.22,put down jar
+P22_101_46,75.32,76.38,put down candies
+P22_101_47,76.47,77.72,close cupboard
+P22_101_48,78.5,79.94,pick up bottle
+P22_101_49,79.69,80.49,open bottle
+P22_101_5,10.33,11.52,pick up bottle
+P22_101_50,80.41,81.04,put down lid
+P22_101_51,81.12,81.76,pick up glass
+P22_101_52,82.23,82.98,shake glass
+P22_101_53,82.35,83.55,pick up bottle
+P22_101_54,82.0,87.18,pour water
+P22_101_55,87.22,88.69,put down bottle
+P22_101_56,88.67,91.68,pick up glass
+P22_101_57,91.77,94.92,pour water
+P22_101_58,94.8,96.92,put down glass
+P22_101_59,97.02,98.9,stir mixture
+P22_101_6,11.52,13.11,close fridge
+P22_101_60,99.0,102.87,put down glass
+P22_101_61,111.44,113.72,lift up teaspoon
+P22_101_62,114.39,114.96,stir mixture
+P22_101_63,123.31,126.96,shake hands
+P22_101_64,128.06,132.08,pick up bottle
+P22_101_65,130.4,131.15,pick up lid
+P22_101_66,131.29,132.25,close bottle
+P22_101_67,133.42,133.68,pick up bottle
+P22_101_68,133.73,134.92,turn on tap
+P22_101_69,135.39,136.74,rinse glass
+P22_101_7,13.44,14.32,close cupboard
+P22_101_70,136.6,137.36,turn off tap
+P22_101_71,137.32,138.05,put down glass
+P22_101_72,137.84,138.65,shake hands
+P22_101_73,138.94,139.75,pick up cloth
+P22_101_74,138.68,141.05,dry hands
+P22_101_75,139.85,142.1,put down cloth
+P22_101_76,142.2,143.5,pick up bottle
+P22_101_77,143.6,146.02,open fridge
+P22_101_78,146.37,147.32,put down bottle
+P22_101_79,147.62,149.86,pick up yogurt
+P22_101_8,14.8,17.14,put down bottle
+P22_101_80,152.11,154.62,close fridge
+P22_101_81,157.14,158.33,open cupboard
+P22_101_82,158.46,160.55,pick up bowl
+P22_101_83,161.49,162.46,close cupboard
+P22_101_84,163.9,165.66,put down bowl
+P22_101_85,166.39,167.33,open drawer
+P22_101_86,167.4,168.82,pick up spoon
+P22_101_87,168.69,169.52,close drawer
+P22_101_88,170.41,175.12,open yogurt
+P22_101_89,175.64,194.07,pour yogurt
+P22_101_9,17.2,18.07,pick up jar
+P22_101_90,184.76,208.49,pick up yogurt
+P22_101_91,208.45,209.45,put down spoon
+P22_101_92,209.56,210.95,pick up lid
+P22_101_93,211.83,216.88,wash lid
+P22_101_94,216.99,217.87,pick up jar
+P22_101_95,219.4,220.44,put down jar
+P22_101_96,220.47,221.48,turn on tap
+P22_101_97,221.79,223.26,rinse lid
+P22_101_98,224.02,225.05,put down lid
+P22_101_99,224.91,225.3,pick up jar

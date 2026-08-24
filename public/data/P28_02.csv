@@ -1,0 +1,156 @@
+P28_02_0,2.96,4.14,take food container
+P28_02_1,4.98,5.86,take lid
+P28_02_10,18.44,19.26,take dish
+P28_02_100,286.66,294.32,wash dish
+P28_02_101,295.57,304.07,continue washing dish
+P28_02_102,304.86,305.93,put down dish
+P28_02_103,305.74,306.24,take dish
+P28_02_104,306.34,312.41,wash dish
+P28_02_105,312.51,314.1,put down dish
+P28_02_106,313.71,314.72,put down sponge
+P28_02_107,314.82,316.01,turn on tap
+P28_02_108,316.39,316.94,take dish
+P28_02_109,316.94,329.81,rinse dish
+P28_02_11,18.46,21.01,take cutlery
+P28_02_110,331.26,331.91,take sponge
+P28_02_111,332.72,336.55,wash sponge
+P28_02_112,336.97,337.6,put down sponge
+P28_02_113,337.95,341.38,rinse dish
+P28_02_114,342.64,343.7,put dish in drainer
+P28_02_115,344.11,345.43,take dish
+P28_02_116,345.62,353.53,rinse dish
+P28_02_117,353.83,354.58,turn off tap
+P28_02_118,354.93,357.14,put dish in drainer
+P28_02_119,359.11,361.25,turn on tap
+P28_02_12,19.95,21.0,take dish
+P28_02_120,361.45,362.63,rinse pan
+P28_02_121,362.81,363.34,take sponge
+P28_02_122,364.9,373.12,wash pan
+P28_02_123,373.22,384.18,continue washing pan
+P28_02_124,384.58,386.31,turn on tap
+P28_02_125,386.16,386.66,soak sponge
+P28_02_126,388.69,389.75,put down sponge
+P28_02_127,389.41,393.33,rinse pan
+P28_02_128,393.9,395.01,turn off tap
+P28_02_129,394.31,410.19,wash pan
+P28_02_13,23.68,24.91,open cupboard
+P28_02_130,396.0,397.04,take sponge
+P28_02_131,397.14,399.61,put dish washing liquid in sponge
+P28_02_132,397.23,397.89,put pan in drainer
+P28_02_133,399.21,400.68,put down dish washing liquid
+P28_02_134,400.46,403.32,turn on tap
+P28_02_135,401.32,403.17,soak sponge
+P28_02_136,403.15,403.74,turn off tap
+P28_02_137,407.99,426.59,continue washing pan
+P28_02_138,413.86,428.18,continue washing pan
+P28_02_139,433.84,434.61,put down sponge
+P28_02_14,23.74,24.89,open drawer
+P28_02_140,435.21,435.91,turn on tap
+P28_02_141,435.84,449.19,rinse pan
+P28_02_142,449.29,453.29,continue rinsing pan
+P28_02_143,454.17,454.95,turn off tap
+P28_02_144,454.74,459.74,put pan in drainer
+P28_02_145,460.44,461.84,take sponge
+P28_02_146,462.35,463.44,soak sponge
+P28_02_147,464.87,467.05,clean
+P28_02_148,467.23,473.15,clean counter
+P28_02_149,473.44,478.67,continue cleaning counter
+P28_02_15,24.89,25.72,put dishes in cupboard
+P28_02_150,478.77,480.19,turn on tap
+P28_02_151,479.6,481.1,soak sponge
+P28_02_152,482.74,493.08,clean counter
+P28_02_153,492.91,493.54,put down sponge
+P28_02_154,496.17,501.8,wipe hands
+P28_02_155,501.64,502.48,put down towel
+P28_02_16,24.99,26.83,put cutlery in drawer
+P28_02_17,26.93,28.12,close drawer
+P28_02_18,27.22,28.37,close cupboard
+P28_02_19,30.82,33.35,take cup
+P28_02_2,5.96,7.57,put lid in food container
+P28_02_20,35.67,36.94,open drawer
+P28_02_21,36.03,37.15,open drawer
+P28_02_22,37.29,40.03,put cutlery in drawer
+P28_02_23,37.49,40.18,put mugs in drawer
+P28_02_24,40.13,41.17,close drawer
+P28_02_25,43.18,44.85,take coffee pot
+P28_02_26,71.66,72.27,take spatula
+P28_02_27,72.63,73.4,put down spatula
+P28_02_28,73.63,74.53,take sponge
+P28_02_29,74.63,75.5,take dish washing liquid
+P28_02_3,7.24,13.62,seal food container
+P28_02_30,75.53,77.57,put liquid in sponge
+P28_02_31,77.63,78.57,put down dish washing liquid
+P28_02_32,78.67,80.13,turn on tap
+P28_02_33,80.19,81.37,soak sponge
+P28_02_34,81.77,82.84,take knife
+P28_02_35,83.18,84.24,turn on tap
+P28_02_36,83.18,86.76,rinse knife
+P28_02_37,86.6,87.71,turn off tap
+P28_02_38,88.08,96.9,wash knife
+P28_02_39,93.51,101.51,continue washing knife
+P28_02_4,13.72,14.55,open cupboard
+P28_02_40,102.21,103.19,take spatula
+P28_02_41,104.04,105.34,wash spatula
+P28_02_42,105.44,107.3,put down knife
+P28_02_43,113.92,115.82,put down spatula
+P28_02_44,114.92,116.67,take knife
+P28_02_45,117.49,120.26,wash knife
+P28_02_46,119.91,121.68,put down knife
+P28_02_47,122.1,122.95,take fork
+P28_02_48,123.23,123.78,take sponge
+P28_02_49,123.85,130.72,wash fork
+P28_02_5,13.77,14.87,open cupboard
+P28_02_50,130.82,131.41,put down fork
+P28_02_51,131.51,132.58,take cutlery
+P28_02_52,133.39,134.53,turn on tap
+P28_02_53,134.74,144.21,rinse cutlery
+P28_02_54,144.43,145.34,turn off tap
+P28_02_55,145.28,147.85,put cutlery in drainer
+P28_02_56,147.8,149.61,take sponge and food container
+P28_02_57,149.79,153.32,open food container
+P28_02_58,153.3,154.05,put down lid
+P28_02_59,154.21,165.7,wash food container
+P28_02_6,14.57,15.89,put coffee pot in cupboard
+P28_02_60,166.07,167.22,take lid
+P28_02_61,166.16,166.88,put down food container
+P28_02_62,167.29,174.22,wash lid
+P28_02_63,174.56,175.4,put down sponge
+P28_02_64,175.49,176.5,take food container and lid
+P28_02_65,176.72,178.27,turn on tap
+P28_02_66,177.75,190.85,rinse food container and lid
+P28_02_67,190.95,192.95,continue washing lid
+P28_02_68,193.03,194.37,turn off tap
+P28_02_69,195.09,196.11,put food container in drainer
+P28_02_7,14.65,15.91,put down food container
+P28_02_70,195.84,197.04,put lid in drainer
+P28_02_71,198.48,199.35,take sponge
+P28_02_72,199.04,200.39,take dish washing liquid
+P28_02_73,200.14,201.99,put liquid in sponge
+P28_02_74,202.08,202.93,put down dish washing liquid
+P28_02_75,202.94,204.86,turn on tap
+P28_02_76,203.43,205.67,soak sponge
+P28_02_77,205.77,207.0,take chopping board
+P28_02_78,207.1,213.38,rinse chopping board
+P28_02_79,212.48,213.54,turn off tap
+P28_02_8,15.74,17.07,close cupboard
+P28_02_80,214.46,225.25,wash chopping board
+P28_02_81,225.35,233.29,continue washing chopping board
+P28_02_82,233.68,234.71,put down sponge
+P28_02_83,235.68,236.65,turn on tap
+P28_02_84,236.65,247.56,rinse chopping board
+P28_02_85,247.16,248.56,turn off tap
+P28_02_86,250.0,253.3,put chopping board in drainer
+P28_02_87,254.8,256.54,take dishes
+P28_02_88,256.64,257.89,turn on tap
+P28_02_89,257.88,258.96,take dish
+P28_02_9,15.9,17.06,close cupboard
+P28_02_90,259.06,267.26,rinse dish
+P28_02_91,267.29,269.11,take dish
+P28_02_92,269.55,276.14,rinse dish
+P28_02_93,276.15,276.99,turn off tap
+P28_02_94,277.65,278.39,put down dish
+P28_02_95,278.02,278.93,take sponge
+P28_02_96,280.74,283.04,put dish washing liquid in sponge
+P28_02_97,282.75,283.65,put down dish washing liquid
+P28_02_98,283.75,284.91,turn on tap
+P28_02_99,284.65,285.71,soak sponge

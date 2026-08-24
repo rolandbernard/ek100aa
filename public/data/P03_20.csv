@@ -1,0 +1,74 @@
+P03_20_0,3.46,4.71,open lid
+P03_20_1,4.94,6.53,put lid
+P03_20_10,57.46,58.26,put saucepan
+P03_20_11,59.65,61.59,take saucepan
+P03_20_12,61.18,71.93,scoop food
+P03_20_13,63.43,95.54,spoon food
+P03_20_14,96.22,97.72,put down saucepan
+P03_20_15,98.51,99.63,pick up lid
+P03_20_16,99.28,101.38,put lid
+P03_20_17,104.9,105.4,turn on tap
+P03_20_18,106.94,110.44,put spoon
+P03_20_19,112.36,120.02,rinse saucepan
+P03_20_2,5.02,5.76,put lid
+P03_20_20,118.65,119.65,turn off tap
+P03_20_21,120.03,122.29,pour water
+P03_20_22,122.57,123.57,grab saucepan
+P03_20_23,124.54,125.29,put down lid
+P03_20_24,125.77,130.06,fill saucepan
+P03_20_25,129.87,134.84,rinse saucepan
+P03_20_26,134.61,135.61,turn off tap
+P03_20_27,135.67,137.35,pour water
+P03_20_28,137.61,138.3,grab sponge
+P03_20_29,139.43,147.15,wash lid
+P03_20_3,6.48,7.56,turn off hob
+P03_20_30,147.25,150.67,put lid in drying rack
+P03_20_31,153.18,153.98,grab saucepan
+P03_20_32,154.06,165.01,wash saucepan
+P03_20_33,164.94,166.84,put saucepan
+P03_20_34,167.5,168.75,grab saucepan
+P03_20_35,168.89,188.1,wash saucepan
+P03_20_36,188.2,204.04,continue washing saucepan
+P03_20_37,207.05,210.05,put saucepan in drying rack
+P03_20_38,210.65,211.65,put lunch box
+P03_20_39,214.5,216.25,pour water
+P03_20_4,10.93,12.07,grab spoon
+P03_20_40,216.56,217.45,grab spoon
+P03_20_41,217.95,225.49,wash spoon
+P03_20_42,225.8,226.87,put spoon
+P03_20_43,227.9,229.63,pour water
+P03_20_44,235.39,236.39,put bowl
+P03_20_45,237.07,238.19,turn on tap
+P03_20_46,237.91,244.28,rinse sponge
+P03_20_47,244.67,247.16,clean side
+P03_20_48,247.1,256.19,clean sink
+P03_20_49,260.27,264.81,clean plug
+P03_20_5,15.22,19.96,stir rice
+P03_20_50,264.59,265.7,put plug
+P03_20_51,270.01,273.09,wipe sink
+P03_20_52,274.34,276.33,grab plug
+P03_20_53,281.23,286.15,empty plug in bin
+P03_20_54,292.44,295.31,put lid on bin
+P03_20_55,297.11,298.54,put plug in sink
+P03_20_56,298.2,299.58,turn on tap
+P03_20_57,301.22,306.55,clean side
+P03_20_58,307.78,310.31,rinse bowl
+P03_20_59,310.49,320.49,clean bowl
+P03_20_6,15.32,17.59,pick up sauce
+P03_20_60,320.59,322.84,move tap
+P03_20_61,322.88,323.76,turn off tap
+P03_20_62,324.61,327.49,clean side
+P03_20_63,327.22,328.43,put sponge
+P03_20_64,329.13,334.38,dry hands
+P03_20_65,335.68,339.11,put lid on lunch box
+P03_20_66,339.71,340.21,grab lid
+P03_20_67,340.29,342.67,put lid on lunch box
+P03_20_68,342.64,343.64,grab lunch boxes
+P03_20_69,344.74,345.99,open fridge
+P03_20_7,22.15,34.3,spoon rice into the lunch box
+P03_20_70,346.5,349.59,put lunch box in fridge
+P03_20_71,349.94,350.95,close fridge
+P03_20_72,351.3,354.9,grab grape
+P03_20_73,355.15,356.26,close fridge
+P03_20_8,34.44,36.19,pat down rice
+P03_20_9,36.54,51.02,spoon rice

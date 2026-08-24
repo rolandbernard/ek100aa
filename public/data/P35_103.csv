@@ -1,0 +1,240 @@
+P35_103_0,3.0,13.96,blend peas
+P35_103_1,18.14,21.85,pick up mixer
+P35_103_10,53.14,55.56,pour salt
+P35_103_100,642.64,643.51,pick up jar
+P35_103_101,644.09,645.65,open cupboard
+P35_103_102,645.74,646.8,put down jar
+P35_103_103,646.89,647.59,close cupboard
+P35_103_104,649.08,651.37,turn on tap
+P35_103_105,652.97,684.33,wash mixer
+P35_103_106,684.17,686.19,put down mixer
+P35_103_107,687.35,695.83,wash grater
+P35_103_108,695.93,697.17,put down grater
+P35_103_109,698.38,707.06,wash spoon
+P35_103_11,55.95,58.68,pour salt
+P35_103_110,707.0,710.0,put down spoon
+P35_103_111,710.1,723.72,wash pan
+P35_103_112,723.82,726.16,put down pan
+P35_103_113,725.25,726.97,pick up pot
+P35_103_114,727.07,728.25,pick up pot rest
+P35_103_115,728.35,730.12,put down pot rest
+P35_103_116,730.16,742.73,wash pot
+P35_103_117,742.82,745.19,adjust tap
+P35_103_118,772.79,774.64,put down pot
+P35_103_119,774.75,781.29,wash saucepan
+P35_103_12,59.26,80.75,stir peas
+P35_103_120,790.12,792.65,put down saucepan
+P35_103_121,793.54,813.49,wash colander
+P35_103_122,814.01,815.76,put down colander
+P35_103_123,815.86,827.62,wash spoon
+P35_103_124,830.63,831.68,put down spoon
+P35_103_125,832.95,834.87,pick up container
+P35_103_126,834.42,844.19,wash container
+P35_103_127,844.13,845.52,put down container
+P35_103_128,845.99,846.48,pick up sponge
+P35_103_129,846.64,850.89,rinse sponge
+P35_103_13,82.42,85.84,taste peas
+P35_103_130,850.06,851.16,turn off tap
+P35_103_131,851.6,852.65,pick up soap
+P35_103_132,852.75,855.08,pour washing up liquid
+P35_103_133,855.1,856.21,put down washing up liquid
+P35_103_134,856.71,858.11,pick up container
+P35_103_135,857.93,865.0,lather container
+P35_103_136,865.85,873.38,lather spoon
+P35_103_137,873.87,882.98,lather spoon
+P35_103_138,883.05,899.7,lather grater
+P35_103_139,900.4,911.55,lather pan
+P35_103_14,86.35,90.49,pour salt
+P35_103_140,922.73,934.21,lather mixer
+P35_103_141,937.11,955.11,lather colander
+P35_103_142,956.15,973.21,lather saucepan
+P35_103_143,974.36,1002.12,lather pot
+P35_103_144,1002.7,1003.3,put down sponge
+P35_103_145,1003.56,1005.58,turn on tap
+P35_103_146,1005.68,1035.55,rinse pot
+P35_103_147,1039.58,1040.86,put down pot
+P35_103_148,1041.43,1050.54,rinse saucepan
+P35_103_149,1051.02,1052.1,put down saucepan
+P35_103_15,90.68,108.5,stir peas
+P35_103_150,1053.41,1064.98,rinse colander
+P35_103_151,1066.25,1067.17,put down colander
+P35_103_152,1067.94,1074.39,rinse pan
+P35_103_153,1074.49,1075.28,put down pan
+P35_103_154,1076.12,1079.59,rinse container
+P35_103_155,1079.71,1080.25,put down container
+P35_103_156,1081.3,1087.22,rinse mixer
+P35_103_157,1086.93,1088.39,put down mixer
+P35_103_158,1089.39,1095.75,rinse grater
+P35_103_159,1095.85,1097.05,put down grater
+P35_103_16,109.99,174.12,pour peas
+P35_103_160,1097.75,1100.62,rinse spoon
+P35_103_161,1100.72,1102.12,put down spoon
+P35_103_162,1102.19,1106.19,rinse spoon
+P35_103_163,1105.65,1107.3,turn off tap
+P35_103_164,1107.4,1108.5,put down spoon
+P35_103_165,1108.24,1111.03,put down spoon
+P35_103_166,1114.34,1121.54,dry hands
+P35_103_167,1121.64,1126.89,pick up colander
+P35_103_168,1126.22,1129.33,put down colander
+P35_103_169,1132.09,1134.34,pick up mixer
+P35_103_17,174.58,176.16,put down pot
+P35_103_170,1134.27,1145.22,dry mixer
+P35_103_171,1146.26,1147.24,put down mixer
+P35_103_172,1149.82,1151.12,pick up saucepan
+P35_103_173,1151.69,1153.9,drain saucepan
+P35_103_174,1154.17,1165.95,dry saucepan
+P35_103_175,1167.1,1168.47,open drawer
+P35_103_176,1168.43,1169.95,put down saucepan
+P35_103_177,1170.88,1172.13,close drawer
+P35_103_178,1173.57,1174.24,pick up grater
+P35_103_179,1175.38,1176.65,drain grater
+P35_103_18,176.61,237.91,stir pasta
+P35_103_180,1178.85,1181.32,put down grater
+P35_103_181,1184.87,1186.06,pick up container
+P35_103_182,1185.98,1188.92,drain container
+P35_103_183,1191.04,1195.02,put down container
+P35_103_184,1196.49,1204.8,move colander
+P35_103_185,1206.99,1207.79,pick up pan
+P35_103_186,1207.79,1210.43,drain pan
+P35_103_187,1210.06,1226.43,dry pan
+P35_103_188,1227.61,1229.17,open drawer
+P35_103_189,1229.14,1239.56,put down pan
+P35_103_19,241.65,244.91,turn on tap
+P35_103_190,1241.57,1242.22,pick up pot
+P35_103_191,1242.36,1245.53,drain pot
+P35_103_192,1245.67,1267.12,dry pot
+P35_103_193,1269.07,1271.01,put down cloth
+P35_103_194,1272.82,1276.34,put down pot
+P35_103_195,1277.1,1278.3,close drawer
+P35_103_196,1281.37,1283.56,pick up salt
+P35_103_197,1284.09,1284.85,open cupboard
+P35_103_198,1286.2,1287.12,open cupboard
+P35_103_199,1287.03,1287.6,put down salt
+P35_103_2,28.72,31.79,put down mixer
+P35_103_20,245.0,249.09,rinse hands
+P35_103_200,1287.69,1288.8,close cupboard
+P35_103_201,1293.0,1294.48,throw food
+P35_103_202,1296.98,1297.69,pick up cloth
+P35_103_203,1298.21,1299.44,turn on tap
+P35_103_204,1299.97,1314.09,rinse cloth
+P35_103_205,1314.26,1315.86,turn off tap
+P35_103_206,1319.97,1323.86,wash sink
+P35_103_207,1323.87,1329.31,move drying rack
+P35_103_208,1332.05,1334.4,move sponge
+P35_103_209,1334.45,1335.73,move soap
+P35_103_21,249.12,250.76,turn off tap
+P35_103_210,1340.73,1349.11,clean counter top
+P35_103_211,1349.86,1351.9,turn on tap
+P35_103_212,1352.04,1359.63,rinse cloth
+P35_103_213,1359.73,1360.23,turn off tap
+P35_103_214,1360.3,1363.48,wring cloth
+P35_103_215,1365.92,1366.76,put down cloth
+P35_103_216,1368.41,1370.56,pick up cloth
+P35_103_217,1375.09,1376.6,put down cloth
+P35_103_218,1380.33,1381.27,close oven
+P35_103_219,1381.82,1390.6,adjust oven
+P35_103_22,252.7,253.44,pick up cloth
+P35_103_220,1386.31,1390.65,turn on oven
+P35_103_221,1394.15,1395.72,unplug cable
+P35_103_222,1396.18,1397.11,pick up hand-held hoover
+P35_103_223,1398.34,1400.81,hoover crumbs
+P35_103_224,1400.88,1401.62,pick up pot rest
+P35_103_225,1402.53,1403.22,put down trivet
+P35_103_226,1453.31,1454.3,turn off hand-held hoover
+P35_103_227,1451.19,1453.26,put down hand-held hoover
+P35_103_228,1455.44,1457.3,pick up bag
+P35_103_229,1457.77,1458.44,put down bag
+P35_103_23,253.01,256.1,dry hands
+P35_103_230,1463.32,1465.05,pick up drying rack
+P35_103_231,1465.44,1468.86,pour water
+P35_103_232,1468.78,1469.38,pick up cloth
+P35_103_233,1469.87,1474.53,dry counter top
+P35_103_234,1474.51,1475.24,put down cloth
+P35_103_235,1474.91,1480.02,put down drying rack
+P35_103_236,1481.92,1486.38,dry hands
+P35_103_237,1489.86,1492.27,move baking tray
+P35_103_238,1492.07,1499.59,remove foil from baking tray
+P35_103_239,1505.92,1506.95,turn off light
+P35_103_24,257.14,258.39,open cupboard
+P35_103_25,257.92,260.42,pick up container
+P35_103_26,260.43,262.04,put down container
+P35_103_27,262.14,264.31,pick up container
+P35_103_28,264.31,266.32,close cupboard
+P35_103_29,268.51,270.37,put down container
+P35_103_3,32.43,34.62,pick up pot
+P35_103_30,269.9,271.42,open container
+P35_103_31,271.75,272.87,open container
+P35_103_32,275.97,276.88,pick up pot
+P35_103_33,278.15,283.84,pick up pasta
+P35_103_34,283.44,286.96,pour pasta
+P35_103_35,286.94,290.35,pour pasta
+P35_103_36,296.11,299.03,pour pasta
+P35_103_37,305.51,309.03,pour pasta
+P35_103_38,311.95,316.17,pour pasta
+P35_103_39,317.78,322.21,pour pasta
+P35_103_4,33.85,37.54,pick up pot
+P35_103_40,326.75,330.75,pour pasta
+P35_103_41,331.04,335.86,pour pasta
+P35_103_42,335.95,350.52,pour pasta
+P35_103_43,351.37,361.35,pour pasta
+P35_103_44,362.49,364.55,put down pot
+P35_103_45,364.42,366.19,pick up pot
+P35_103_46,366.15,368.27,pick up spoon
+P35_103_47,372.2,378.09,pour bacon
+P35_103_48,381.68,384.33,pour bacon
+P35_103_49,385.45,393.37,pour bacon
+P35_103_5,37.34,38.54,put down pot
+P35_103_50,406.43,409.95,put down spoon
+P35_103_51,409.45,413.35,put down pot
+P35_103_52,414.92,417.85,unplug plug
+P35_103_53,418.66,419.42,pick up mixer
+P35_103_54,421.86,426.31,disassemble mixer
+P35_103_55,429.58,436.78,coil cable
+P35_103_56,437.63,441.05,put down mixer
+P35_103_57,443.05,443.78,pick up lid
+P35_103_58,443.31,446.07,close jar
+P35_103_59,446.17,447.27,pick up lid
+P35_103_6,40.2,40.94,pick up spoon
+P35_103_60,446.94,449.79,close jar
+P35_103_61,450.81,452.84,move jar
+P35_103_62,453.89,455.58,open fridge
+P35_103_63,456.27,458.28,pick up cheese
+P35_103_64,459.49,460.49,close fridge
+P35_103_65,460.92,462.14,put down cheese
+P35_103_66,462.03,463.96,open drawer
+P35_103_67,464.06,465.84,pick up grater
+P35_103_68,466.09,466.89,close drawer
+P35_103_69,467.31,470.77,put down grater
+P35_103_7,42.72,46.58,stir peas
+P35_103_70,470.47,471.33,open container
+P35_103_71,471.87,474.21,pick up cheese
+P35_103_72,479.45,480.78,pick up grater
+P35_103_73,481.32,530.36,grate cheese
+P35_103_74,530.3,531.22,put down grater
+P35_103_75,531.14,532.31,put down cheese
+P35_103_76,532.79,533.73,pick up lid
+P35_103_77,533.89,536.19,close container
+P35_103_78,537.75,538.68,move container
+P35_103_79,539.23,540.64,pick up grater
+P35_103_8,45.54,48.28,pick up salt
+P35_103_80,540.68,542.39,open container
+P35_103_81,545.01,579.9,grate cheese
+P35_103_82,581.24,582.25,put down grater
+P35_103_83,587.13,592.23,close container
+P35_103_84,593.76,595.82,put down cheese
+P35_103_85,595.92,600.52,wrap cheese
+P35_103_86,600.56,604.13,open fridge
+P35_103_87,604.07,606.36,put down cheese
+P35_103_88,608.1,610.94,move food
+P35_103_89,612.68,616.43,pick up containers
+P35_103_9,48.28,49.18,put down salt
+P35_103_90,616.14,617.7,put down containers
+P35_103_91,619.32,620.35,close fridge
+P35_103_92,622.14,623.2,pick up grater
+P35_103_93,625.44,626.8,put down grater
+P35_103_94,628.13,628.85,pick up cream
+P35_103_95,632.37,633.32,open fridge
+P35_103_96,634.0,634.78,put down cream
+P35_103_97,635.0,636.58,close fridge
+P35_103_98,638.11,639.95,pick up salt
+P35_103_99,640.53,641.8,put down salt

@@ -1,0 +1,742 @@
+P22_07_0,3.69,5.91,put down clip
+P22_07_1,3.88,4.71,pick up clip
+P22_07_10,16.48,17.29,pick up cloth
+P22_07_100,214.69,215.51,put down knife
+P22_07_101,215.47,216.29,pick up knife
+P22_07_102,216.13,222.01,cut onion
+P22_07_103,222.27,223.32,place knife
+P22_07_104,223.42,224.42,open drawer
+P22_07_105,224.56,230.22,move cutlery
+P22_07_106,228.37,232.08,move pasta
+P22_07_107,230.54,233.51,open drawer
+P22_07_108,233.27,240.51,move cutlery
+P22_07_109,239.04,247.08,move cutlery
+P22_07_11,18.13,18.78,open cabinet
+P22_07_110,245.13,251.66,move cutlery
+P22_07_111,251.68,252.68,close drawer
+P22_07_112,252.25,253.51,open drawer
+P22_07_113,257.1,258.85,pick up box
+P22_07_114,260.45,261.45,close drawer
+P22_07_115,263.16,270.63,open box
+P22_07_116,266.69,271.14,open box
+P22_07_117,270.54,272.72,pick up mincing knife
+P22_07_118,275.42,276.48,open tap
+P22_07_119,275.49,278.49,rinse mincing knife
+P22_07_12,19.5,21.85,pick up carafe
+P22_07_120,280.07,282.91,put down mincing knife
+P22_07_121,282.94,287.44,pick up scraps
+P22_07_122,288.33,289.46,open trash can
+P22_07_123,289.55,293.48,throw away scraps
+P22_07_124,293.55,294.09,close trash can
+P22_07_125,295.57,296.51,move onion
+P22_07_126,297.06,304.36,cut onion
+P22_07_127,300.41,301.54,cut onion
+P22_07_128,302.25,303.91,cut onion
+P22_07_129,305.02,307.27,cut onion
+P22_07_13,20.95,22.8,pick up filter
+P22_07_130,326.14,340.25,cut onion
+P22_07_131,341.82,346.72,clean mincing knife
+P22_07_132,341.93,346.52,clean mincing knife
+P22_07_133,345.71,351.79,clean mincing knife
+P22_07_134,351.81,352.47,put down knife
+P22_07_135,352.33,352.83,put down mincing knife
+P22_07_136,354.21,355.52,open container
+P22_07_137,355.65,356.15,put in onion
+P22_07_138,356.25,357.75,close container
+P22_07_139,356.74,359.24,put down container
+P22_07_14,23.02,24.31,shake filter
+P22_07_140,358.68,359.78,pick up mincing knife
+P22_07_141,359.88,361.43,put down mincing knife
+P22_07_142,362.21,362.71,pick up box
+P22_07_143,362.58,363.52,put down box
+P22_07_144,364.41,365.16,open tap
+P22_07_145,364.83,366.38,rinse hands
+P22_07_146,366.45,367.09,close tap
+P22_07_147,367.19,368.02,shake hands
+P22_07_148,367.97,373.31,dry hands
+P22_07_149,373.41,375.16,put down cloth
+P22_07_15,25.85,26.75,insert filter
+P22_07_150,375.68,377.35,open drawer
+P22_07_151,377.45,380.11,pick up pan
+P22_07_152,380.52,381.69,pick up lid
+P22_07_153,382.13,383.6,put down pan
+P22_07_154,383.22,384.33,close drawer
+P22_07_155,385.03,385.72,put down lid
+P22_07_156,386.34,387.04,open cabinet
+P22_07_157,386.61,387.7,close cabinet
+P22_07_158,387.92,389.3,open drawer
+P22_07_159,388.5,390.5,pick up lighter
+P22_07_16,26.59,28.92,put down cup
+P22_07_160,389.24,390.77,pick up lighter
+P22_07_161,391.07,392.95,light cooker
+P22_07_162,391.29,392.98,light cooker
+P22_07_163,393.08,393.92,put down lighter
+P22_07_164,394.9,407.83,put down pan
+P22_07_165,397.85,398.35,put down lighter
+P22_07_166,407.93,409.72,pick up oil
+P22_07_167,409.57,411.45,open oil
+P22_07_168,411.0,422.15,get pan
+P22_07_169,411.37,413.06,put in oil
+P22_07_17,29.34,33.16,put down cup
+P22_07_170,412.96,416.16,pour oil
+P22_07_171,416.26,418.43,close oil
+P22_07_172,418.28,419.63,put down oil
+P22_07_173,420.38,424.61,put down pan
+P22_07_174,424.39,425.12,get knife
+P22_07_175,425.17,425.83,get cutting board
+P22_07_176,427.18,430.64,pour in onion
+P22_07_177,429.31,436.28,pour in onion
+P22_07_178,436.99,437.88,put down cutting board
+P22_07_179,437.0,438.25,set down cutlery
+P22_07_18,34.35,35.63,open cabinet
+P22_07_180,437.98,438.84,put down knife
+P22_07_181,439.18,440.12,open drawer
+P22_07_182,439.89,446.14,get cutlery
+P22_07_183,440.6,447.6,get wooden spoon
+P22_07_184,448.26,453.55,mix onion
+P22_07_185,453.19,454.11,put down wooden spoon
+P22_07_186,456.2,457.19,open refrigerator
+P22_07_187,457.29,458.36,open drawer
+P22_07_188,458.43,459.69,get courgette
+P22_07_189,462.91,465.0,open bag
+P22_07_19,35.22,36.34,pick up dish
+P22_07_190,465.01,468.31,take out courgette
+P22_07_191,468.02,470.05,put down bag
+P22_07_192,471.9,473.03,open tap
+P22_07_193,472.96,479.2,rinse courgette
+P22_07_194,478.72,479.77,close tap
+P22_07_195,480.82,482.14,put down courgette
+P22_07_196,481.91,484.21,cut courgette
+P22_07_197,485.57,487.35,clean knife
+P22_07_198,487.59,488.5,put down wooden spoon
+P22_07_199,490.13,490.8,put down knife
+P22_07_2,4.72,6.11,open drawer
+P22_07_20,35.98,41.21,place dish
+P22_07_200,490.72,491.67,open drawer
+P22_07_201,492.16,493.41,pick up potato peeler
+P22_07_202,495.0,500.35,peel courgette
+P22_07_203,501.7,511.2,peel courgette
+P22_07_204,509.77,517.89,peel courgette
+P22_07_205,517.14,525.43,peel courgette
+P22_07_206,526.49,535.98,peel courgette
+P22_07_207,547.53,548.66,cut courgette
+P22_07_208,547.91,548.78,cut courgette
+P22_07_209,550.21,552.51,remove peel
+P22_07_21,36.51,39.19,place dish
+P22_07_210,554.73,558.83,set cooker
+P22_07_211,557.75,558.75,move pan
+P22_07_212,559.64,562.36,pick up peels
+P22_07_213,562.46,564.89,set cooker
+P22_07_214,565.08,571.65,pick up peels
+P22_07_215,573.27,574.33,open trash can
+P22_07_216,574.31,576.18,throw away peelings
+P22_07_217,576.24,576.89,close trash can
+P22_07_218,577.35,578.09,open tap
+P22_07_219,578.17,579.35,rinse hands
+P22_07_22,39.17,40.16,pick up dish
+P22_07_220,579.36,579.86,close tap
+P22_07_221,579.96,581.05,shake hands
+P22_07_222,580.53,583.17,dry hands
+P22_07_223,583.21,584.73,put down cloth
+P22_07_224,584.83,586.28,pick up knife
+P22_07_225,585.89,590.19,slice courgette
+P22_07_226,590.49,593.0,slice courgette
+P22_07_227,593.39,596.39,slice courgette
+P22_07_228,595.46,599.84,slice courgette
+P22_07_229,600.27,604.85,slice courgette
+P22_07_23,41.78,42.4,pick up cutlery
+P22_07_230,605.19,605.9,pick up wooden spoon
+P22_07_231,606.2,608.99,stir onion
+P22_07_232,608.65,609.94,adjust heat
+P22_07_233,609.96,610.76,put down wooden spoon
+P22_07_234,610.82,616.92,cut courgette
+P22_07_235,618.19,640.69,cut courgette
+P22_07_236,638.44,648.1,cut courgette
+P22_07_237,647.8,660.47,cut courgette
+P22_07_238,660.57,668.55,cut courgette
+P22_07_239,665.67,673.94,cut courgette
+P22_07_24,43.12,43.73,close cabinet
+P22_07_240,668.65,671.13,cut courgette
+P22_07_241,671.23,672.67,cut courgette
+P22_07_242,672.77,680.36,cut courgette
+P22_07_243,675.28,691.51,cut courgette
+P22_07_244,687.35,698.94,cut courgette
+P22_07_245,700.88,701.58,grab wooden spoon
+P22_07_246,701.68,709.08,stir onion
+P22_07_247,709.03,710.39,put wooden spoon down
+P22_07_248,710.1,710.69,grab wooden spoon
+P22_07_249,711.94,715.01,put wooden spoon down
+P22_07_25,43.83,44.89,close cabinet
+P22_07_250,715.72,717.5,move knife aside
+P22_07_251,717.44,720.34,grab chopping board
+P22_07_252,721.65,726.81,pour courgette
+P22_07_253,726.91,727.85,put chopping board down
+P22_07_254,727.8,728.55,put knife down
+P22_07_255,728.99,729.76,grab wooden spoon
+P22_07_256,729.98,739.27,stir courgette
+P22_07_257,730.07,739.48,stir courgette
+P22_07_258,739.3,740.18,put wooden spoon down
+P22_07_259,740.11,741.15,grab salt
+P22_07_26,45.72,47.14,open drawer
+P22_07_260,740.29,740.97,grab salt
+P22_07_261,741.49,742.73,open salt
+P22_07_262,746.65,751.68,pour salt
+P22_07_263,751.52,753.05,close salt
+P22_07_264,752.81,756.8,shake salt
+P22_07_265,756.68,757.54,open salt
+P22_07_266,757.62,760.56,pour salt
+P22_07_267,760.49,761.41,close salt
+P22_07_268,761.26,762.05,put down salt
+P22_07_269,762.3,763.7,pick up wooden spoon
+P22_07_27,47.55,48.78,place knife
+P22_07_270,763.22,766.72,stir courgette
+P22_07_271,763.47,767.44,stir courgette
+P22_07_272,767.17,768.6,adjust heat
+P22_07_273,767.38,768.65,adjust heat
+P22_07_274,772.34,773.06,put down wooden spoon
+P22_07_275,773.75,775.27,pick up spice
+P22_07_276,776.87,779.62,pour spice
+P22_07_277,779.72,780.95,close spice
+P22_07_278,781.07,781.92,put down spice
+P22_07_279,782.42,783.27,pick up wooden spoon
+P22_07_28,49.42,50.27,place forks
+P22_07_280,783.27,787.52,stir courgette
+P22_07_281,787.87,788.54,place wooden spoon
+P22_07_282,790.23,791.64,pick up lid
+P22_07_283,791.57,793.51,place lid
+P22_07_284,794.2,795.53,pick up scales
+P22_07_285,795.85,797.26,place scales
+P22_07_286,797.55,799.81,reverse lid
+P22_07_287,802.08,803.17,open cabinet
+P22_07_288,803.54,805.37,pick up pasta
+P22_07_289,805.53,806.36,close cabinet
+P22_07_29,50.15,51.21,close drawer
+P22_07_290,807.04,808.03,turn on scales
+P22_07_291,808.13,810.63,open sachet
+P22_07_292,813.6,817.5,pour pasta
+P22_07_293,817.41,825.95,pour pasta
+P22_07_294,818.98,829.56,pour pasta
+P22_07_295,830.19,832.37,close bag
+P22_07_296,832.97,833.74,open cupboard
+P22_07_297,833.82,834.9,put down down pasta
+P22_07_298,834.82,836.03,close cupboard
+P22_07_299,836.13,837.33,turn on scale
+P22_07_3,6.45,7.57,pick up glass
+P22_07_30,51.01,52.33,pick up carafe
+P22_07_300,839.57,841.64,stir courgette
+P22_07_301,841.98,842.68,put down down wooden spoon
+P22_07_302,844.16,846.09,grab kettle
+P22_07_303,846.17,846.94,open kettle
+P22_07_304,846.96,848.23,close kettle
+P22_07_305,848.05,849.43,open kettle
+P22_07_306,854.91,857.54,put in water
+P22_07_307,857.48,858.33,fill kettle
+P22_07_308,857.64,862.88,fill kettle
+P22_07_309,869.34,871.28,empty kettle
+P22_07_31,52.96,56.42,place carafe
+P22_07_310,871.38,874.28,pour water
+P22_07_311,874.13,876.93,pour water
+P22_07_312,877.57,878.5,close tap
+P22_07_313,881.17,884.5,put kettle
+P22_07_314,882.52,884.19,open kettle
+P22_07_315,885.7,886.45,pick up lid
+P22_07_316,886.55,888.8,close kettle
+P22_07_317,891.65,892.65,open drawer
+P22_07_318,895.25,896.86,pick up pot
+P22_07_319,899.96,901.3,put pot
+P22_07_32,54.19,55.13,open maker
+P22_07_320,902.81,904.56,pick up lid
+P22_07_321,904.51,905.87,close drawer
+P22_07_322,907.38,908.8,put lid
+P22_07_323,909.53,911.79,put down pot
+P22_07_324,912.76,913.9,pick up wooden spoon
+P22_07_325,913.65,918.73,stir courgette
+P22_07_326,918.92,920.6,put down wooden spoon
+P22_07_327,920.5,921.74,pick up lid
+P22_07_328,921.58,925.18,put on lid
+P22_07_329,927.61,931.26,adjust cooker
+P22_07_33,55.22,58.06,insert filter
+P22_07_330,933.74,936.64,pick up pot
+P22_07_331,936.75,938.06,put down pot
+P22_07_332,940.35,941.35,move wooden spoon
+P22_07_333,942.75,944.92,open cabinet
+P22_07_334,945.74,947.4,pick up ladle rest
+P22_07_335,950.12,951.23,put down ladle rest
+P22_07_336,951.74,952.65,put down wooden spoon
+P22_07_337,952.75,953.5,move knife
+P22_07_338,953.35,954.96,pick up bag
+P22_07_339,955.97,957.72,open cabinet
+P22_07_34,59.5,60.95,insert carafe
+P22_07_340,959.82,961.32,put away bag
+P22_07_341,961.2,962.32,close cabinet
+P22_07_342,963.5,964.06,pick up knife
+P22_07_343,963.99,964.78,move knife
+P22_07_344,964.87,965.56,pick up potato peeler
+P22_07_345,966.07,966.72,pick up scraps
+P22_07_346,966.82,968.78,pick up scraps
+P22_07_347,970.18,970.76,open basket
+P22_07_348,970.86,971.86,toss rinds
+P22_07_349,971.48,972.17,close basket
+P22_07_35,60.91,62.28,close coffee machine
+P22_07_350,973.53,974.77,move cutlery
+P22_07_351,974.26,976.17,move cutting board
+P22_07_352,978.86,979.83,grab gas lighter
+P22_07_353,981.81,982.73,open drawer
+P22_07_354,982.96,983.74,put down down gas lighter
+P22_07_355,983.84,985.06,close drawer
+P22_07_356,986.63,988.29,open lid
+P22_07_357,987.99,989.77,close lid
+P22_07_358,989.49,991.26,adjust stove
+P22_07_359,991.31,992.4,open lid
+P22_07_36,64.47,65.79,turn on light
+P22_07_360,992.49,996.76,stir courgette
+P22_07_361,996.61,998.98,close lid
+P22_07_362,998.65,1004.49,adjust stove
+P22_07_363,1005.43,1007.15,open tap
+P22_07_364,1006.5,1007.79,rinse hands
+P22_07_365,1007.53,1008.99,rinse sponge
+P22_07_366,1008.84,1010.98,move cutting board
+P22_07_367,1011.87,1021.15,clean mezzaluna
+P22_07_368,1024.49,1025.99,put down mincing knife
+P22_07_369,1026.04,1030.2,lather potato peeler
+P22_07_37,66.64,67.68,pick up cloth
+P22_07_370,1030.3,1033.91,lather knife
+P22_07_371,1032.0,1044.02,lather cutting board
+P22_07_372,1034.26,1043.97,lather cutting board
+P22_07_373,1043.86,1044.92,put down cutting board
+P22_07_374,1044.52,1045.47,open tap
+P22_07_375,1045.45,1055.49,rinse cutting board
+P22_07_376,1055.42,1061.54,rinse cutting board
+P22_07_377,1061.64,1066.44,rinse cutting board
+P22_07_378,1066.54,1069.37,put down cutting board
+P22_07_379,1069.17,1075.81,rinse mincing knife
+P22_07_38,67.7,68.29,open tap
+P22_07_380,1075.46,1076.82,put down mincing knife
+P22_07_381,1076.75,1079.06,rinse potato peeler
+P22_07_382,1078.98,1079.95,put down potato peeler
+P22_07_383,1079.93,1081.44,rinse knife
+P22_07_384,1081.29,1082.09,put down knife
+P22_07_385,1083.33,1084.9,rinse cloth
+P22_07_386,1085.0,1085.66,close tap
+P22_07_387,1087.39,1089.75,clean sink
+P22_07_388,1090.05,1090.62,open tap
+P22_07_389,1090.87,1092.04,rinse steel wool
+P22_07_39,68.39,70.21,rinse cloth
+P22_07_390,1093.28,1093.83,close tap
+P22_07_391,1093.99,1094.83,put down cloth
+P22_07_392,1094.34,1095.32,open tap
+P22_07_393,1095.25,1096.26,rinse hands
+P22_07_394,1096.36,1096.89,close tap
+P22_07_395,1096.82,1102.4,dry hands
+P22_07_396,1102.5,1103.86,put down cloth
+P22_07_397,1107.03,1108.58,open drawer
+P22_07_398,1109.15,1109.93,close drawer
+P22_07_399,1110.22,1111.97,turn on gas
+P22_07_4,8.14,9.52,move bottle
+P22_07_40,72.04,73.89,put down cloth
+P22_07_400,1112.07,1115.72,light stove
+P22_07_401,1120.14,1122.73,move pot
+P22_07_402,1120.6,1122.25,move roll of paper
+P22_07_403,1122.84,1125.82,remove lid
+P22_07_404,1125.93,1132.82,stir courgette
+P22_07_405,1127.92,1130.28,stir courgette
+P22_07_406,1140.15,1141.08,put down wooden spoon
+P22_07_407,1140.91,1142.4,replace lid
+P22_07_408,1145.76,1149.68,move scale
+P22_07_409,1148.66,1150.88,pick up container
+P22_07_41,73.83,74.71,pick up sponge
+P22_07_410,1151.41,1152.35,move scale
+P22_07_411,1153.38,1155.38,pick up kettle
+P22_07_412,1157.4,1160.18,pour water
+P22_07_413,1159.83,1163.6,pour water
+P22_07_414,1162.44,1165.62,pour water
+P22_07_415,1166.87,1169.21,pour water
+P22_07_416,1176.48,1177.4,pour water
+P22_07_417,1184.69,1185.83,put down kettle
+P22_07_418,1188.2,1188.9,pick up salt
+P22_07_419,1189.94,1190.94,open drawer
+P22_07_42,73.88,78.38,rinse sponge
+P22_07_420,1191.0,1195.19,pick up spoon
+P22_07_421,1195.22,1196.52,close drawer
+P22_07_422,1198.48,1200.65,open salt
+P22_07_423,1200.81,1208.75,pour salt
+P22_07_424,1209.09,1209.69,put salt
+P22_07_425,1209.47,1212.5,pour salt
+P22_07_426,1212.6,1215.42,put sale
+P22_07_427,1216.21,1218.01,mix water
+P22_07_428,1222.28,1224.03,put lid
+P22_07_429,1223.58,1234.49,put spoon
+P22_07_43,78.1,79.23,put down sponge
+P22_07_430,1237.42,1238.37,pick up put plug
+P22_07_431,1239.67,1241.06,put salt
+P22_07_432,1242.75,1246.0,pour pasta
+P22_07_433,1246.35,1248.3,put lid
+P22_07_434,1249.21,1249.96,open drawer
+P22_07_435,1250.14,1254.34,pick up wooden fork
+P22_07_436,1255.65,1259.45,stir pasta
+P22_07_437,1260.26,1261.32,put down wooden fork
+P22_07_438,1266.62,1268.01,pick up pasta
+P22_07_439,1273.76,1276.09,close bag
+P22_07_44,79.26,80.33,rinse hands
+P22_07_440,1275.9,1277.25,put down pasta
+P22_07_441,1277.03,1278.37,close cabinet
+P22_07_442,1278.97,1280.39,pick up lid
+P22_07_443,1280.38,1281.52,pick up wooden spoon
+P22_07_444,1283.39,1284.59,put down lid
+P22_07_445,1284.19,1284.97,put down wooden spoon
+P22_07_446,1285.16,1285.91,pick up lighter
+P22_07_447,1285.69,1286.21,open drawer
+P22_07_448,1286.31,1287.76,close drawer
+P22_07_449,1288.43,1289.24,open drawer
+P22_07_45,80.36,80.93,pick up sponge
+P22_07_450,1289.34,1290.17,pick up lighter
+P22_07_451,1290.27,1291.41,light stove
+P22_07_452,1292.74,1294.08,close drawer
+P22_07_453,1301.31,1301.87,take
+P22_07_454,1303.19,1304.94,set down scale
+P22_07_455,1309.94,1310.78,turn on tap
+P22_07_456,1310.88,1311.89,wash hands
+P22_07_457,1311.85,1315.06,soap spoon
+P22_07_458,1315.49,1320.07,rinse spoon
+P22_07_459,1319.92,1320.52,turn off tap
+P22_07_46,80.9,81.53,rinse sponge
+P22_07_460,1320.91,1322.17,put spoon
+P22_07_461,1326.29,1330.54,dry hands
+P22_07_462,1331.52,1332.33,take cloth
+P22_07_463,1333.17,1334.63,open closet
+P22_07_464,1334.23,1336.66,take cleanser
+P22_07_465,1338.2,1343.19,spray cleanser
+P22_07_466,1343.15,1352.84,wash table
+P22_07_467,1352.85,1353.39,spray detergent
+P22_07_468,1353.49,1356.64,wash table
+P22_07_469,1356.74,1359.28,clean table
+P22_07_47,81.63,83.63,put on soap
+P22_07_470,1361.98,1364.71,put down detergent
+P22_07_471,1362.69,1363.91,open cabinet
+P22_07_472,1363.26,1365.48,put away detergent
+P22_07_473,1365.33,1366.15,open tap
+P22_07_474,1366.28,1369.22,rinse cloth
+P22_07_475,1368.66,1369.68,close tap
+P22_07_476,1375.0,1382.01,clean table
+P22_07_477,1388.05,1389.51,open tap
+P22_07_478,1390.21,1391.16,rinse cloth
+P22_07_479,1391.9,1392.84,put down cloth
+P22_07_48,84.79,85.66,open tap
+P22_07_480,1395.7,1396.54,open cabinet
+P22_07_481,1397.12,1400.44,pick up plate
+P22_07_482,1397.2,1402.07,pick up plate
+P22_07_483,1403.13,1404.21,close cabinet
+P22_07_484,1404.11,1407.32,put down plates
+P22_07_485,1407.42,1408.11,open drawer
+P22_07_486,1408.43,1410.15,dry hands
+P22_07_487,1409.81,1412.75,pick up place mat
+P22_07_488,1412.85,1414.37,pick up place mat
+P22_07_489,1414.47,1416.09,close drawer
+P22_07_49,85.86,86.4,rinse sponge
+P22_07_490,1416.19,1416.82,pick up trivet
+P22_07_491,1416.92,1417.47,close drawer
+P22_07_492,1418.4,1419.65,put down trivet
+P22_07_493,1419.85,1424.94,arrange place mat
+P22_07_494,1425.12,1427.4,arrange place mat
+P22_07_495,1430.14,1431.09,open drawer
+P22_07_496,1431.17,1436.36,pick up silverware
+P22_07_497,1438.6,1439.89,put down fork
+P22_07_498,1439.74,1440.54,put down fork
+P22_07_499,1442.15,1443.48,open lid
+P22_07_5,9.62,10.55,pick up paper
+P22_07_50,85.93,89.43,lather glass
+P22_07_500,1443.1,1446.38,stir courgette
+P22_07_501,1446.58,1447.35,turn off stove
+P22_07_502,1448.78,1449.98,replace lid
+P22_07_503,1449.89,1451.92,put down wooden spoon
+P22_07_504,1453.21,1455.82,pick up plates
+P22_07_505,1455.44,1457.41,put down plate
+P22_07_506,1457.29,1458.44,put down plate
+P22_07_507,1461.05,1461.95,pick up ladle
+P22_07_508,1461.49,1469.75,stir pasta
+P22_07_509,1470.8,1472.97,put down wooden fork
+P22_07_51,89.53,93.46,lather bowl
+P22_07_510,1474.6,1476.84,pick up glass
+P22_07_511,1474.8,1475.94,open cabinet
+P22_07_512,1476.04,1476.79,pick up glass
+P22_07_513,1478.06,1480.04,put down glass
+P22_07_514,1480.41,1481.63,put down glass
+P22_07_515,1482.84,1484.34,pick up water
+P22_07_516,1484.58,1485.83,put down water
+P22_07_517,1489.09,1490.22,open microwave oven
+P22_07_518,1490.25,1492.02,grab grill
+P22_07_519,1492.12,1494.58,remove plate
+P22_07_52,94.25,97.24,lather fork
+P22_07_520,1496.44,1499.02,remove crumbs from plate
+P22_07_521,1500.16,1501.13,open tap
+P22_07_522,1500.64,1503.97,rinse plate
+P22_07_523,1503.92,1504.86,close tap
+P22_07_524,1506.44,1513.94,lather plate
+P22_07_525,1514.24,1514.96,open tap
+P22_07_526,1515.14,1522.23,rinse plate
+P22_07_527,1522.24,1523.99,put down down plate
+P22_07_528,1523.95,1525.79,move plate
+P22_07_529,1526.52,1527.43,rinse hands
+P22_07_53,96.44,97.68,open tap
+P22_07_530,1527.6,1528.1,close tap
+P22_07_531,1528.14,1533.85,dry hands
+P22_07_532,1534.12,1536.33,put rag
+P22_07_533,1537.09,1537.82,take towel
+P22_07_534,1537.28,1539.4,open locker
+P22_07_535,1539.5,1541.22,take detergent
+P22_07_536,1542.66,1544.72,remove holder
+P22_07_537,1544.82,1546.08,spray detergent
+P22_07_538,1546.18,1551.9,clean microwave
+P22_07_539,1552.0,1558.71,clean microwave
+P22_07_54,97.35,103.72,rinse fork
+P22_07_540,1558.81,1565.23,clean microwave
+P22_07_541,1565.43,1566.24,move detergent
+P22_07_542,1568.59,1569.71,take sponge
+P22_07_543,1569.81,1570.56,turn tap on
+P22_07_544,1570.66,1571.56,wash sponge
+P22_07_545,1571.6,1572.4,turn tap off
+P22_07_546,1575.46,1576.35,spray detergent
+P22_07_547,1577.25,1581.07,clean microwave
+P22_07_548,1581.17,1589.92,clean microwave
+P22_07_549,1591.02,1598.32,clean microwave
+P22_07_55,100.31,101.13,adjust tap
+P22_07_550,1600.37,1601.41,open tap
+P22_07_551,1601.39,1604.37,rinse sponge
+P22_07_552,1604.15,1604.82,close tap
+P22_07_553,1605.99,1608.29,dry hands
+P22_07_554,1608.25,1609.26,put cloth
+P22_07_555,1609.36,1610.23,open cupboard
+P22_07_556,1610.18,1610.94,pick up degreaser
+P22_07_557,1612.17,1612.97,pick up sponge
+P22_07_558,1616.31,1617.69,spray degreaser
+P22_07_559,1618.81,1629.19,clean microwave
+P22_07_56,101.1,103.96,rinse fork
+P22_07_560,1629.41,1630.57,pick up detergent
+P22_07_561,1630.45,1631.21,put down detergent
+P22_07_562,1630.94,1631.86,pick up support
+P22_07_563,1632.69,1633.75,pick up grill
+P22_07_564,1635.62,1636.46,put down grill
+P22_07_565,1636.56,1637.4,put down support
+P22_07_566,1638.32,1647.82,lather grill
+P22_07_567,1647.92,1652.06,lather grill
+P22_07_568,1652.16,1657.53,lather grill
+P22_07_569,1657.63,1662.15,lather grill
+P22_07_57,104.05,105.3,put down down fork
+P22_07_570,1662.22,1663.25,put down grill
+P22_07_571,1665.72,1666.8,put on soap
+P22_07_572,1666.77,1667.64,open tap
+P22_07_573,1668.93,1673.06,lather support
+P22_07_574,1673.06,1674.53,open tap
+P22_07_575,1674.63,1684.27,rinse support
+P22_07_576,1684.37,1685.36,put down down support
+P22_07_577,1685.22,1689.08,rinse grill
+P22_07_578,1690.08,1692.34,lather grill
+P22_07_579,1692.44,1694.86,rinse grill
+P22_07_58,104.63,109.53,rinse glass
+P22_07_580,1695.46,1697.21,lather grill
+P22_07_581,1697.08,1703.7,rinse grill
+P22_07_582,1697.31,1704.03,rinse grill
+P22_07_583,1704.15,1705.29,put down down grill
+P22_07_584,1705.79,1707.15,rinse sponge
+P22_07_585,1707.25,1708.59,rinse sponge
+P22_07_586,1708.69,1709.39,put down down sponge
+P22_07_587,1709.89,1710.56,put down down sponge
+P22_07_588,1710.94,1711.78,rinse hands
+P22_07_589,1711.52,1712.03,close tap
+P22_07_59,110.59,118.07,rinse glass
+P22_07_590,1714.57,1716.83,dry hands
+P22_07_591,1717.3,1718.05,put down down rug
+P22_07_592,1718.6,1719.29,grab cloth
+P22_07_593,1719.39,1723.01,clean microwave oven
+P22_07_594,1722.87,1727.82,clean stove
+P22_07_595,1727.75,1734.54,clean microwave
+P22_07_596,1734.41,1738.7,clean microwave
+P22_07_597,1738.8,1742.47,clean stove top
+P22_07_598,1739.88,1743.01,clean stove top
+P22_07_599,1742.52,1746.48,clean microwave
+P22_07_6,10.65,11.95,move paper
+P22_07_60,112.24,122.96,rinse glass
+P22_07_600,1744.58,1745.26,wring cloth
+P22_07_601,1749.68,1750.31,open tap
+P22_07_602,1750.19,1752.94,rinse cloth
+P22_07_603,1750.39,1753.29,rinse cloth
+P22_07_604,1754.28,1757.07,put down cloth
+P22_07_605,1757.14,1758.39,open tap
+P22_07_606,1758.17,1758.73,rinse hands
+P22_07_607,1758.83,1759.59,close tap
+P22_07_608,1759.57,1760.69,shake hands
+P22_07_609,1760.79,1764.79,dry hands
+P22_07_61,123.06,129.22,dry hands
+P22_07_610,1764.89,1765.64,pick up grill
+P22_07_611,1765.52,1769.49,dry grill
+P22_07_612,1769.5,1771.22,put grill
+P22_07_613,1771.37,1772.33,put cloth
+P22_07_614,1773.7,1781.15,mix pasta
+P22_07_615,1783.46,1785.1,move lid
+P22_07_616,1785.34,1786.78,pick up lid
+P22_07_617,1787.74,1791.24,put lid
+P22_07_618,1790.31,1791.76,put wooden fork
+P22_07_619,1791.44,1794.19,pick up support
+P22_07_62,128.32,129.84,put down down rag
+P22_07_620,1795.05,1799.0,dry support
+P22_07_621,1798.22,1800.48,open microwave oven
+P22_07_622,1799.4,1804.07,insert support
+P22_07_623,1805.26,1808.2,pick up dish
+P22_07_624,1806.97,1813.47,dry dish
+P22_07_625,1813.47,1816.77,insert dish
+P22_07_626,1819.17,1820.17,take rack
+P22_07_627,1820.43,1822.87,put rack in
+P22_07_628,1824.59,1825.34,close microwave door
+P22_07_629,1826.72,1827.72,put down rag
+P22_07_63,130.21,131.57,grab container
+P22_07_630,1827.88,1828.71,open cupboard
+P22_07_631,1828.68,1829.54,get pasta strainer
+P22_07_632,1829.97,1830.93,close cupboard
+P22_07_633,1831.03,1832.11,turn on tap
+P22_07_634,1832.11,1834.58,rinse sink
+P22_07_635,1833.84,1840.13,rinse sink
+P22_07_636,1839.0,1839.57,turn off tap
+P22_07_637,1839.72,1841.98,put down pasta strainer
+P22_07_638,1843.39,1845.57,turn off cooker
+P22_07_639,1848.82,1849.4,open drawer
+P22_07_64,131.92,132.92,close container
+P22_07_640,1849.35,1852.28,get pot holder
+P22_07_641,1852.38,1854.5,get rag
+P22_07_642,1854.31,1855.46,close drawer
+P22_07_643,1855.25,1859.64,get pot
+P22_07_644,1861.36,1862.43,put down down pot
+P22_07_645,1861.85,1864.62,open tap
+P22_07_646,1864.38,1865.39,move tap
+P22_07_647,1865.49,1869.26,pour water
+P22_07_648,1869.36,1871.5,put down down pot
+P22_07_649,1871.18,1872.43,grab colander
+P22_07_65,132.58,133.54,put down down container
+P22_07_650,1872.53,1876.13,put down down colander
+P22_07_651,1876.56,1877.31,close tap
+P22_07_652,1877.8,1882.58,pour pasta
+P22_07_653,1882.85,1886.85,put down down pot
+P22_07_654,1886.9,1888.37,put down down mitt
+P22_07_655,1886.94,1887.44,put down down pot
+P22_07_656,1888.48,1893.28,shake pasta
+P22_07_657,1896.24,1897.49,open drawer
+P22_07_658,1897.76,1898.59,grab gas lighter
+P22_07_659,1898.69,1900.44,turn on pan
+P22_07_66,135.07,135.87,open cupboard
+P22_07_660,1900.32,1901.54,turn on stove
+P22_07_661,1901.64,1902.64,turn on stove
+P22_07_662,1913.9,1914.63,pick up lid
+P22_07_663,1917.27,1919.56,put down lid
+P22_07_664,1921.52,1922.34,pick up pasta
+P22_07_665,1923.47,1924.52,pour pasta
+P22_07_666,1925.38,1926.48,put down colander
+P22_07_667,1927.4,1928.94,pick up wooden spoon
+P22_07_668,1929.49,1936.88,stir pasta
+P22_07_669,1937.6,1938.41,open cabinet
+P22_07_67,137.62,138.87,pick up carrot
+P22_07_670,1940.95,1941.53,pick up pesto sauce
+P22_07_671,1941.48,1943.65,close cabinet
+P22_07_672,1943.96,1946.14,open pesto sauce
+P22_07_673,1946.21,1946.96,open drawer
+P22_07_674,1947.31,1948.48,pick up teaspoon
+P22_07_675,1949.16,1951.16,take pesto sauce
+P22_07_676,1951.46,1952.51,put on pesto sauce
+P22_07_677,1952.4,1954.11,take pesto sauce
+P22_07_678,1954.21,1955.71,put on pesto sauce
+P22_07_679,1957.31,1958.06,pick up spoon
+P22_07_68,138.71,139.71,pick up onion
+P22_07_680,1958.16,1968.41,stir pasta
+P22_07_681,1963.47,1980.52,stir pasta
+P22_07_682,1966.68,1980.19,stir pasta
+P22_07_683,1980.52,1982.4,pick up jar
+P22_07_684,1982.5,1984.01,pick up pesto sauce
+P22_07_685,1984.11,1986.89,put in pesto sauce
+P22_07_686,1987.36,2002.14,stir pasta
+P22_07_687,1990.85,1993.46,stir pasta
+P22_07_688,1991.88,2002.19,stir pasta
+P22_07_689,2002.29,2003.64,pick up jar
+P22_07_69,141.19,143.06,put down onion
+P22_07_690,2003.74,2005.67,put in pesto sauce
+P22_07_691,2005.77,2012.39,pour pesto
+P22_07_692,2010.78,2014.85,put pesto
+P22_07_693,2014.95,2016.07,pick up pesto
+P22_07_694,2016.17,2017.62,put pesto
+P22_07_695,2017.72,2021.17,pick up pesto
+P22_07_696,2021.14,2023.11,put pesto
+P22_07_697,2021.71,2022.59,put jar
+P22_07_698,2024.16,2025.97,clean teaspoon
+P22_07_699,2026.07,2026.99,put teaspoon
+P22_07_7,13.44,14.38,open trash can
+P22_07_70,143.91,144.91,open drawer
+P22_07_700,2027.09,2030.07,mix pasta
+P22_07_701,2030.17,2033.78,mix pasta
+P22_07_702,2032.0,2039.89,mix pasta
+P22_07_703,2039.99,2046.81,mix pasta
+P22_07_704,2046.91,2053.23,mix pasta
+P22_07_705,2053.33,2062.52,stir pasta
+P22_07_706,2062.74,2064.98,pick up teaspoon
+P22_07_707,2064.9,2068.33,take pesto
+P22_07_708,2066.03,2067.84,put in pesto
+P22_07_709,2067.93,2069.75,put in pesto
+P22_07_71,144.99,146.26,pick up cutting board
+P22_07_710,2069.65,2071.57,take pesto
+P22_07_711,2071.67,2072.68,put in pesto
+P22_07_712,2072.78,2074.85,take pesto
+P22_07_713,2076.7,2077.88,put down teaspoon
+P22_07_714,2079.85,2081.18,pick up water
+P22_07_715,2081.19,2084.94,pour water
+P22_07_716,2085.04,2085.96,close bottle of water
+P22_07_717,2086.54,2087.18,put down bottle of water
+P22_07_718,2086.74,2088.74,pour water
+P22_07_719,2089.95,2095.43,stir pasta
+P22_07_72,146.41,147.82,put down cutting board
+P22_07_720,2093.67,2094.75,stir pasta
+P22_07_721,2095.53,2104.91,stir pasta
+P22_07_722,2101.0,2102.86,stir pasta
+P22_07_723,2105.3,2107.56,stir pasta
+P22_07_724,2105.75,2107.55,stir pasta
+P22_07_725,2131.7,2132.79,pick spoon
+P22_07_726,2132.32,2136.16,clean teaspoon
+P22_07_727,2136.78,2137.55,put down teaspoon
+P22_07_728,2138.8,2140.36,stir pasta
+P22_07_729,2144.48,2145.95,set up stove
+P22_07_73,146.58,147.36,close drawer
+P22_07_730,2146.05,2152.42,stir pasta
+P22_07_731,2148.15,2150.37,stir pasta
+P22_07_732,2158.04,2159.04,put down wooden spoon
+P22_07_733,2158.93,2160.04,pick lid
+P22_07_734,2159.99,2162.34,put lid in place
+P22_07_735,2161.77,2164.61,turn off cooker
+P22_07_736,2166.29,2167.04,move
+P22_07_737,2166.97,2168.42,turn on tap
+P22_07_738,2168.34,2170.09,rinse hands
+P22_07_739,2169.61,2170.78,turn off tap
+P22_07_74,148.15,148.82,pick up onion
+P22_07_740,2170.79,2175.54,dry hands
+P22_07_741,2174.49,2176.92,put down kitchen towel
+P22_07_75,148.82,149.45,put down onion
+P22_07_76,149.78,150.73,open drawer
+P22_07_77,150.83,152.14,pick up knife
+P22_07_78,152.6,153.83,put down knife
+P22_07_79,153.6,154.21,pick up onion
+P22_07_8,14.48,15.24,throw away paper
+P22_07_80,154.67,159.14,pick up onion
+P22_07_81,160.08,162.6,put down onion
+P22_07_82,161.06,162.17,pick up onion
+P22_07_83,162.61,164.01,move bag
+P22_07_84,166.37,167.36,turn on light
+P22_07_85,167.36,171.23,peel onion
+P22_07_86,170.35,174.53,cut onion
+P22_07_87,174.55,176.0,peel onion
+P22_07_88,176.18,178.3,cut onion
+P22_07_89,181.49,186.57,peel onion
+P22_07_9,14.88,15.57,close trash can
+P22_07_90,186.67,193.07,peel onion
+P22_07_91,197.33,198.05,put down knife
+P22_07_92,198.8,199.48,open tap
+P22_07_93,199.31,202.8,rinse onions
+P22_07_94,202.67,204.36,shake onions
+P22_07_95,202.7,203.44,close tap
+P22_07_96,204.64,208.81,put down onions
+P22_07_97,205.28,206.34,pick up knife
+P22_07_98,206.4,208.18,move peelings
+P22_07_99,210.0,215.09,cut onion

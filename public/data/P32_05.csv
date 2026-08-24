@@ -1,0 +1,37 @@
+P32_05_0,4.66,10.52,put water
+P32_05_1,11.83,16.08,put pot
+P32_05_10,111.45,114.51,open door
+P32_05_11,114.33,115.97,pick up plate
+P32_05_12,116.97,119.41,put plate
+P32_05_13,119.27,119.99,pick up pasta
+P32_05_14,128.02,140.68,put pasta
+P32_05_15,147.37,148.63,pick up mushrooms
+P32_05_16,164.86,169.19,throw paper
+P32_05_17,174.03,175.77,put lid
+P32_05_18,178.25,181.25,pick up salt
+P32_05_19,182.95,187.23,put on salt
+P32_05_2,27.45,35.86,turn on cooker
+P32_05_20,194.98,202.15,put on salt
+P32_05_21,208.49,213.71,open jar
+P32_05_22,215.2,216.38,pick up teaspoon
+P32_05_23,229.34,233.09,close jar
+P32_05_24,248.92,253.91,stir water
+P32_05_25,258.43,264.52,stir mushrooms
+P32_05_26,287.42,290.16,put down lighter
+P32_05_27,302.14,303.99,pick up spoon
+P32_05_28,304.06,315.79,stir mushrooms
+P32_05_29,320.95,332.39,boil pasta
+P32_05_3,50.49,55.62,pick up pan
+P32_05_30,332.03,338.86,stir pasta
+P32_05_31,338.45,340.44,put down spoon
+P32_05_32,341.37,346.82,stir mushrooms
+P32_05_33,344.09,346.6,stir mushrooms
+P32_05_34,393.18,395.71,put down lid
+P32_05_35,395.6,417.98,stir mushrooms
+P32_05_36,417.95,420.24,put down spoon
+P32_05_4,56.58,60.61,rinse pan
+P32_05_5,69.81,72.24,pick up lid
+P32_05_6,80.29,82.6,pick up oil
+P32_05_7,88.17,91.34,put sheet
+P32_05_8,92.33,100.37,turn on cooker
+P32_05_9,108.15,110.47,dry hands

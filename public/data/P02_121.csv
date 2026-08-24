@@ -1,0 +1,99 @@
+P02_121_0,4.07,4.79,pick up baking paper
+P02_121_1,4.76,6.4,open baking paper
+P02_121_10,32.01,32.86,pick up scissors
+P02_121_11,35.38,40.25,cut baking paper
+P02_121_12,40.19,40.8,put down scissors
+P02_121_13,40.7,42.1,close baking paper
+P02_121_14,43.09,44.4,put baking paper in cupboard
+P02_121_15,44.33,45.23,close cupboard
+P02_121_16,47.34,48.39,pick up scissors
+P02_121_17,48.46,53.08,cut baking paper
+P02_121_18,52.67,54.44,turn baking paper
+P02_121_19,52.0,52.64,cut baking paper
+P02_121_2,6.41,11.65,unroll baking paper
+P02_121_20,52.67,53.84,turn baking paper
+P02_121_21,53.94,59.37,cut baking paper
+P02_121_22,58.43,60.76,turn baking paper
+P02_121_23,60.81,64.17,cut baking paper
+P02_121_24,64.27,65.88,turn baking paper
+P02_121_25,65.83,69.87,cut baking paper
+P02_121_26,69.9,71.7,turn baking paper
+P02_121_27,71.8,77.01,cut baking paper
+P02_121_28,81.79,83.75,tear baking paper
+P02_121_29,83.77,86.17,turn baking paper
+P02_121_3,11.47,14.02,place cake mould on baking paper
+P02_121_30,85.69,91.84,cut baking paper
+P02_121_31,91.81,93.69,turn baking paper
+P02_121_32,93.44,97.39,cut baking paper
+P02_121_33,97.48,98.83,put down scissors
+P02_121_34,98.9,100.03,move baking paper pieces
+P02_121_35,100.13,101.62,pick up baking paper piece from floor
+P02_121_36,101.81,102.27,throw baking paper piece on surface
+P02_121_37,102.37,103.06,pick up baking paper
+P02_121_38,103.2,105.02,move cake mould
+P02_121_39,106.16,111.1,place baking paper inside cake mould
+P02_121_4,14.02,14.83,open pen cover
+P02_121_40,110.65,117.47,fold baking paper
+P02_121_41,115.19,119.24,fold baking paper
+P02_121_42,119.34,134.29,fold baking paper
+P02_121_43,135.54,136.27,close drawer
+P02_121_44,136.36,137.55,open drawer
+P02_121_45,138.24,139.15,open drawer
+P02_121_46,139.25,147.14,pick up laundry clips
+P02_121_47,150.05,155.89,attach clips to cake mould
+P02_121_48,155.42,159.37,attach clip to cake mould
+P02_121_49,154.0,159.91,attach clip to cake mould
+P02_121_5,14.93,25.74,mark cake mould boundaries on baking paper
+P02_121_50,159.54,161.71,hold hand blender
+P02_121_51,161.81,163.37,turn on hand blender
+P02_121_52,162.76,165.61,blend mixture
+P02_121_53,165.23,166.01,turn off hand blender
+P02_121_54,165.78,167.28,unattach hand blender
+P02_121_55,167.36,168.78,put down hand blender motor
+P02_121_56,168.58,177.12,sort drawer components
+P02_121_57,175.8,177.9,close drawer
+P02_121_58,178.0,179.78,close drawer
+P02_121_59,179.55,180.48,open drawer
+P02_121_6,25.83,26.39,remove cake mould
+P02_121_60,180.35,181.32,pick up spoon
+P02_121_61,181.39,181.78,close drawer
+P02_121_62,182.87,204.86,clear mixture of hand blender using spoon
+P02_121_63,204.86,206.47,shake spoon
+P02_121_64,210.29,212.14,put hand blender in sink
+P02_121_65,214.09,216.28,move bowl
+P02_121_66,216.18,219.44,mix mixture using spoon
+P02_121_67,219.6,220.2,pick up bowl
+P02_121_68,220.3,232.95,pour mixture from bowl into cake mould
+P02_121_69,233.65,236.59,put down bowl
+P02_121_7,26.49,27.64,put down cake mould
+P02_121_70,237.55,242.06,adjust baking paper in cake mould
+P02_121_71,241.93,243.52,move clip
+P02_121_72,244.33,246.26,pick up bowl
+P02_121_73,246.18,274.71,pour mixture from bowl into cake mould using spoon
+P02_121_74,267.24,298.4,scrape bowl using spoon
+P02_121_75,298.67,300.62,shake spoon
+P02_121_76,303.84,311.09,scrape bowl using spoon
+P02_121_77,310.95,312.67,shake spoon
+P02_121_78,312.72,313.59,put down bowl
+P02_121_79,312.87,313.77,put spoon in bowl
+P02_121_8,27.57,28.84,close pen cover
+P02_121_80,314.11,314.49,remove clip
+P02_121_81,314.55,315.01,put down clip
+P02_121_82,315.11,315.59,remove clip
+P02_121_83,315.69,316.06,put down clip
+P02_121_84,315.96,316.36,remove clip
+P02_121_85,316.38,317.3,put down clip
+P02_121_86,317.35,318.33,pick up spoon
+P02_121_87,318.35,323.51,flatten surface of mixture in cake mould
+P02_121_88,323.53,324.19,put spoon in bowl
+P02_121_89,324.33,326.83,shake cake mould
+P02_121_9,28.89,29.69,put down pen
+P02_121_90,330.68,332.51,pick up bowl
+P02_121_91,333.62,335.39,put bowl in sink
+P02_121_92,337.41,337.89,pick up pan
+P02_121_93,338.29,339.4,put down pan
+P02_121_94,339.46,340.44,open cupboard
+P02_121_95,341.25,342.4,open cupboard
+P02_121_96,345.44,388.29,search cupboard
+P02_121_97,389.19,390.29,close cupboard
+P02_121_98,390.03,391.34,close cupboard

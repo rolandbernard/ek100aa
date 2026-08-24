@@ -1,0 +1,57 @@
+P28_11_0,4.05,6.09,open fridge
+P28_11_1,6.3,8.3,open egg package
+P28_11_10,36.53,43.96,take sausages out of package
+P28_11_11,44.61,45.8,open drawer
+P28_11_12,45.88,47.73,put sausages package in drawer
+P28_11_13,47.07,48.64,close drawer
+P28_11_14,49.2,50.49,close freezer
+P28_11_15,53.26,55.84,put down sausages
+P28_11_16,57.69,59.06,open cupboard
+P28_11_17,67.25,69.24,take out salt
+P28_11_18,74.2,74.85,take out oil
+P28_11_19,74.95,75.56,close cupboard
+P28_11_2,8.39,14.1,take eggs
+P28_11_20,75.62,76.76,take salt and oil
+P28_11_21,77.65,79.62,put down salt and oil
+P28_11_22,84.32,85.65,open cupboard
+P28_11_23,86.73,88.0,take pan
+P28_11_24,87.95,88.65,close cupboard
+P28_11_25,88.14,88.92,close cupboard
+P28_11_26,88.75,90.66,put down pan
+P28_11_27,90.83,91.55,open cupboard
+P28_11_28,99.58,101.43,take oil
+P28_11_29,102.02,106.1,open oil
+P28_11_3,13.82,15.37,close eggs package
+P28_11_30,107.98,112.99,put oil in pan
+P28_11_31,113.09,114.17,put down oil
+P28_11_32,124.1,126.73,put down dish
+P28_11_33,145.41,147.01,take dish
+P28_11_34,147.0,148.25,take sausages
+P28_11_35,148.05,152.82,put sausages in pan
+P28_11_36,155.04,157.33,open drawer
+P28_11_37,155.65,157.08,open drawer
+P28_11_38,157.43,158.92,take fork
+P28_11_39,157.52,158.97,take spoon
+P28_11_4,17.12,19.68,close fridge
+P28_11_40,158.88,159.95,close drawer
+P28_11_41,159.09,159.85,close drawer and put down spoon
+P28_11_42,164.86,175.75,turn sausages
+P28_11_43,166.92,177.39,apply oil in pan
+P28_11_44,178.31,179.59,put down pan
+P28_11_45,179.69,181.03,turn on stove
+P28_11_46,181.13,182.56,adjust cooker
+P28_11_47,221.0,226.8,adjust cooker
+P28_11_48,228.65,230.59,wait for sausages to be fried
+P28_11_49,230.92,237.07,turn sausages
+P28_11_5,21.58,25.86,put down eggs
+P28_11_50,244.18,246.94,turn sausages
+P28_11_51,247.85,251.71,wait for sausages to be fried
+P28_11_52,251.65,264.64,turn sausages
+P28_11_53,275.23,277.58,check cooker
+P28_11_54,279.41,303.61,turn sausages
+P28_11_55,304.57,311.78,wait for sausages to be fried
+P28_11_56,311.51,325.12,turn sausages
+P28_11_6,27.74,29.6,open freezer
+P28_11_7,29.84,31.58,open drawer
+P28_11_8,31.68,34.17,take sausages package
+P28_11_9,34.16,35.54,close drawer

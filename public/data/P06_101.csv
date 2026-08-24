@@ -1,0 +1,422 @@
+P06_101_0,2.2,3.95,open fridge
+P06_101_1,3.97,5.7,pull drawer
+P06_101_10,25.06,26.02,pick up sweet potato
+P06_101_100,361.78,366.59,chop garlic
+P06_101_101,367.62,372.31,chop garlic
+P06_101_102,372.83,374.32,peel garlic
+P06_101_103,375.52,379.37,scrape chopping board
+P06_101_104,381.99,384.31,open door
+P06_101_105,384.18,387.77,open freezer
+P06_101_106,387.73,389.05,open drawer
+P06_101_107,388.93,395.75,pick up chilli
+P06_101_108,395.79,399.52,pick up bag
+P06_101_109,399.57,400.0,close drawer
+P06_101_11,27.36,28.5,close drawer
+P06_101_110,400.51,401.57,close fridge
+P06_101_111,403.52,403.98,put down bag
+P06_101_112,404.22,405.31,put down chillies
+P06_101_113,405.17,405.82,pick up knife
+P06_101_114,406.46,433.31,chop chilli
+P06_101_115,435.31,436.3,wipe knife
+P06_101_116,436.77,437.36,pick up chilli
+P06_101_117,438.26,449.69,chop chilli
+P06_101_118,451.49,451.94,put down knife
+P06_101_119,452.26,453.23,adjust hob
+P06_101_12,33.93,35.31,pick up garlic
+P06_101_120,453.82,457.07,stir pan
+P06_101_121,457.8,458.42,pick up knife
+P06_101_122,458.15,468.92,chop chillies and garlic
+P06_101_123,471.16,471.78,put down knife
+P06_101_124,471.7,472.57,pick up chilli
+P06_101_125,472.38,474.2,put chilli in bin
+P06_101_126,474.35,475.67,pick up knife
+P06_101_127,475.61,487.85,chop chillies and garlic
+P06_101_128,488.38,489.59,pick up rubbish
+P06_101_129,489.69,491.3,put rubbish in bin
+P06_101_13,35.99,37.35,close fridge
+P06_101_130,491.41,492.29,pick up knife
+P06_101_131,493.73,523.31,chop chillies and garlic
+P06_101_132,523.57,524.71,pick up chopping board
+P06_101_133,524.84,532.97,scrape ingredients into pan
+P06_101_134,526.85,534.39,put down chopping board and knife
+P06_101_135,534.57,539.21,stir pan
+P06_101_136,539.15,540.71,adjust hob
+P06_101_137,540.4,543.66,put down spoon
+P06_101_138,560.26,561.61,pick up pepper and knife
+P06_101_139,562.06,583.94,chop pepper
+P06_101_14,39.81,40.51,put down vegetables
+P06_101_140,583.83,585.24,pick up pepper
+P06_101_141,584.64,585.62,put down pepper
+P06_101_142,586.47,596.93,chop pepper
+P06_101_143,633.66,641.89,stir pan
+P06_101_144,642.35,644.05,pick up knife
+P06_101_145,643.51,645.13,pick up chopping board
+P06_101_146,645.1,649.06,scrape pepper into pan
+P06_101_147,649.03,650.33,put down chopping board
+P06_101_148,650.11,650.77,pick up pepper
+P06_101_149,650.87,664.04,chop pepper
+P06_101_15,41.93,42.61,pick up chopping board
+P06_101_150,664.44,673.07,stir pan
+P06_101_151,673.76,674.88,pick up knife
+P06_101_152,673.9,685.2,chop pepper
+P06_101_153,677.19,678.23,pick up pepper
+P06_101_154,678.32,679.07,put pepper into pan
+P06_101_155,680.07,727.48,chop pepper
+P06_101_156,727.83,729.34,pick up chopping board
+P06_101_157,729.44,734.08,scrape pepper into pan
+P06_101_158,734.81,735.57,put down chopping board and knife
+P06_101_159,735.62,744.14,stir pan
+P06_101_16,44.94,45.73,put down chopping board
+P06_101_160,744.2,744.85,pick up salt
+P06_101_161,745.08,747.38,pour salt into hand
+P06_101_162,747.48,748.6,put salt in pan
+P06_101_163,747.78,749.43,put down salt
+P06_101_164,748.85,751.3,scrape pans
+P06_101_165,751.3,752.3,open cupboard
+P06_101_166,752.61,753.33,pick up pepper
+P06_101_167,754.44,755.01,take lid off pepper
+P06_101_168,756.36,758.71,pour pepper into pan
+P06_101_169,759.68,760.02,pick up lid
+P06_101_17,46.12,47.06,open drawer
+P06_101_170,760.16,761.95,put lid on pepper
+P06_101_171,763.35,764.01,put pepper in cupboard
+P06_101_172,764.11,764.93,close cupboard
+P06_101_173,765.01,782.74,stir pan
+P06_101_174,786.16,787.86,open cupboard
+P06_101_175,787.75,789.95,pick up chopped tomatoes
+P06_101_176,790.05,793.22,pick up chopped tomatoes
+P06_101_177,792.25,796.32,close cupboard
+P06_101_178,800.1,801.02,open cupboard
+P06_101_179,800.81,803.58,pick up colander
+P06_101_18,47.48,49.09,pick up knife
+P06_101_180,805.65,807.41,shake can
+P06_101_181,807.45,814.73,open can
+P06_101_182,815.13,821.47,pour tomatoes into pan
+P06_101_183,823.31,836.56,stir pan
+P06_101_184,836.66,838.04,pick up can
+P06_101_185,837.91,838.82,shake can
+P06_101_186,838.6,843.55,open can
+P06_101_187,844.37,850.75,pour chopped tomatoes into pan
+P06_101_188,850.47,851.57,put down can
+P06_101_189,851.67,858.8,stir pan
+P06_101_19,49.64,51.09,check knife
+P06_101_190,858.9,861.83,pick up can
+P06_101_191,863.28,864.93,open drawer
+P06_101_192,867.33,870.08,move foil
+P06_101_193,869.9,871.08,close drawer
+P06_101_194,870.94,873.01,move bowl
+P06_101_195,875.48,876.32,open drawer
+P06_101_196,876.83,878.57,pick up can opener
+P06_101_197,879.55,880.66,pick up can
+P06_101_198,883.48,884.08,open drawer
+P06_101_199,884.19,884.87,put down can opener
+P06_101_2,5.8,12.61,pick up pepper
+P06_101_20,51.28,54.47,pick up knife sharpener
+P06_101_200,885.08,885.55,close drawer
+P06_101_201,885.99,886.63,shake can
+P06_101_202,886.81,890.76,open can
+P06_101_203,890.84,897.42,pour beans into colander
+P06_101_204,897.77,899.53,put down can
+P06_101_205,898.86,902.1,pick up can
+P06_101_206,902.75,903.95,shake can
+P06_101_207,903.74,913.09,open can
+P06_101_208,913.72,919.19,pour beans into colander
+P06_101_209,919.29,919.89,put down can
+P06_101_21,55.11,56.03,pick up spoon
+P06_101_210,919.9,920.6,pick up colander
+P06_101_211,920.44,923.05,shake colander
+P06_101_212,922.91,923.91,move plug
+P06_101_213,924.21,925.48,turn on tap
+P06_101_214,926.81,929.73,shake colander
+P06_101_215,929.83,932.55,adjust tap
+P06_101_216,932.53,933.0,turn off tap
+P06_101_217,933.31,937.5,shake colander
+P06_101_218,937.88,941.61,pour beans into pan
+P06_101_219,941.97,947.77,stir pan
+P06_101_22,55.99,56.7,close drawer
+P06_101_220,947.77,949.6,put colander in sink
+P06_101_221,950.26,959.89,stir pan
+P06_101_222,962.97,964.31,put spoon
+P06_101_223,965.65,967.13,pick up chocolate
+P06_101_224,972.06,972.42,break chocolate
+P06_101_225,972.63,975.37,put chocolate in pan
+P06_101_226,975.47,978.6,break chocolate
+P06_101_227,978.53,982.33,break chocolate
+P06_101_228,981.86,988.78,put chocolate in pan
+P06_101_229,988.7,993.31,pick up chocolate
+P06_101_23,57.0,58.0,put down spoon
+P06_101_230,992.73,996.31,put chocolate down
+P06_101_231,998.09,1004.53,stir pan
+P06_101_232,1004.96,1005.71,open cupboard
+P06_101_233,1006.0,1008.43,pick out tub
+P06_101_234,1008.1,1010.14,put down tub
+P06_101_235,1010.58,1011.77,pick up spices
+P06_101_236,1012.39,1015.39,look at spices
+P06_101_237,1015.07,1017.46,open pot
+P06_101_238,1017.45,1018.65,put down lid
+P06_101_239,1018.75,1024.54,pour spice into hand
+P06_101_24,58.6,66.71,sharpen knife
+P06_101_240,1024.61,1026.18,put spice in pan
+P06_101_241,1026.28,1029.85,put lid on jar
+P06_101_242,1028.15,1034.74,pick up stock
+P06_101_243,1038.65,1039.67,put stock in cupboard
+P06_101_244,1040.75,1041.42,open pot
+P06_101_245,1045.65,1046.83,open bag
+P06_101_246,1049.89,1053.19,pour spice into pan
+P06_101_247,1054.91,1056.66,close bag
+P06_101_248,1056.26,1057.45,put bag in pot
+P06_101_249,1058.73,1059.99,put lid on pot
+P06_101_25,66.81,67.94,deburr knife
+P06_101_250,1060.62,1074.38,stir pan
+P06_101_251,1079.02,1079.78,pick up can
+P06_101_252,1081.47,1082.31,put down can
+P06_101_253,1083.12,1084.44,pick up lid
+P06_101_254,1084.52,1085.81,put lids in cans
+P06_101_255,1085.14,1087.34,pick up stock cube
+P06_101_256,1087.12,1096.67,unwrap stock cube
+P06_101_257,1096.38,1098.16,pick up chopped tomatoes
+P06_101_258,1098.26,1099.24,shake can
+P06_101_259,1099.2,1102.47,open can
+P06_101_26,68.05,69.56,open drawer
+P06_101_260,1102.48,1106.58,pour chopped tomatoes into pan
+P06_101_261,1108.41,1109.76,close can
+P06_101_262,1111.02,1120.06,stir pan
+P06_101_263,1120.35,1121.79,pick up stock cube
+P06_101_264,1121.67,1129.41,unwrap stock cube
+P06_101_265,1130.05,1130.69,pick up knife
+P06_101_266,1130.79,1140.0,chop stock cube
+P06_101_267,1140.1,1141.18,pick up chopping board
+P06_101_268,1141.28,1143.57,scrape stock cubes into pan
+P06_101_269,1144.22,1145.56,put down chopping board and knife
+P06_101_27,69.32,71.12,put down knife sharpener
+P06_101_270,1145.37,1162.47,stir pan
+P06_101_271,1162.35,1163.65,pick up lid
+P06_101_272,1164.39,1166.14,put lid on pan
+P06_101_273,1166.54,1167.86,adjust hob
+P06_101_274,1168.49,1170.2,put down spoon
+P06_101_275,1170.39,1175.04,pick up sweet potato
+P06_101_276,1174.32,1175.14,pick up can
+P06_101_277,1175.46,1176.24,put down can
+P06_101_278,1176.44,1178.16,pick up knife
+P06_101_279,1178.26,1223.11,chop sweet potato
+P06_101_28,71.05,71.97,close drawer
+P06_101_280,1223.21,1248.48,turn on oven
+P06_101_281,1248.17,1249.93,open oven
+P06_101_282,1249.22,1252.92,take out tray
+P06_101_283,1264.15,1265.48,close oven
+P06_101_284,1265.65,1267.59,put down tray
+P06_101_285,1267.05,1269.11,pick up knife
+P06_101_286,1269.08,1271.01,scrape chopping board
+P06_101_287,1271.01,1297.48,chop sweet potato
+P06_101_288,1297.4,1299.05,scrape chopping board
+P06_101_289,1298.89,1302.69,chop sweet potato
+P06_101_29,72.08,72.62,put down knife
+P06_101_290,1303.89,1305.85,pick up sweet potato
+P06_101_291,1304.73,1355.39,chop sweet potato
+P06_101_292,1355.49,1359.2,scrape chopping board
+P06_101_293,1359.75,1389.54,chop sweet potato
+P06_101_294,1389.34,1390.29,scrape chopping board
+P06_101_295,1390.84,1391.76,pick up chopping board
+P06_101_296,1392.04,1394.83,put down chopping board
+P06_101_297,1397.24,1399.34,open cupboard
+P06_101_298,1400.04,1403.39,pick up lid
+P06_101_299,1403.78,1409.64,pick up pan
+P06_101_3,7.81,8.31,pick up onion
+P06_101_30,72.72,74.73,open cupboard
+P06_101_300,1412.44,1413.34,close cupboard
+P06_101_301,1415.37,1417.47,put down pan
+P06_101_302,1417.39,1418.91,put down lid
+P06_101_303,1418.0,1421.0,pick up knife
+P06_101_304,1420.32,1439.59,chop sweet potato
+P06_101_305,1439.66,1441.09,put sweet potato in pan
+P06_101_306,1441.19,1450.92,chop sweet potato
+P06_101_307,1450.53,1452.49,put sweet potato in pan
+P06_101_308,1452.58,1467.99,chop sweet potato
+P06_101_309,1468.09,1470.2,put sweet potato in pan
+P06_101_31,79.23,80.76,pick up pan
+P06_101_310,1469.69,1478.69,chop sweet potato
+P06_101_311,1479.23,1484.14,put sweet potato in pan
+P06_101_312,1484.03,1497.1,chop sweet potato
+P06_101_314,1495.62,1497.35,cut sweet potato
+P06_101_315,1505.6,1507.8,put sweet potato in pan
+P06_101_316,1507.9,1517.85,chop sweet potato
+P06_101_317,1517.95,1519.36,put sweet potato in pan
+P06_101_318,1519.46,1527.78,chop sweet potato
+P06_101_319,1527.22,1528.58,put sweet potato in pan
+P06_101_32,82.05,82.83,put down pan
+P06_101_320,1528.59,1529.59,put down knife
+P06_101_321,1529.31,1530.55,pick up spice
+P06_101_322,1531.5,1537.69,pour spice into hand
+P06_101_323,1537.52,1539.14,put spice in pan
+P06_101_324,1541.0,1543.18,put lid on spice
+P06_101_325,1544.34,1546.33,pick up packet
+P06_101_326,1546.38,1550.66,pour packet into pan
+P06_101_327,1550.69,1554.6,roll up bag
+P06_101_328,1554.64,1556.11,put bag in pot
+P06_101_329,1556.11,1557.93,close pot
+P06_101_33,83.66,85.87,pick up lid
+P06_101_330,1557.92,1561.5,pick up salt
+P06_101_331,1561.67,1567.36,pour salt into hand
+P06_101_332,1567.46,1570.51,pour salt in pan
+P06_101_333,1573.87,1574.53,open cupboard
+P06_101_334,1574.94,1575.85,cut pepper
+P06_101_335,1579.78,1581.7,put pepper in pan
+P06_101_336,1581.39,1583.14,put lid on pepper
+P06_101_337,1584.3,1584.71,put pepper in cupboard
+P06_101_338,1584.74,1586.59,close cupboard
+P06_101_339,1585.84,1588.34,pick up oil
+P06_101_34,85.85,88.36,close cupboard
+P06_101_340,1588.04,1588.54,open oil
+P06_101_341,1588.94,1591.19,pour oil into pan
+P06_101_342,1591.75,1593.66,put lid on oil
+P06_101_343,1594.45,1595.74,put down oil
+P06_101_344,1596.14,1619.39,mix ingredients in pan
+P06_101_345,1620.28,1620.83,pick up lid
+P06_101_346,1621.03,1622.12,put lid on pan
+P06_101_347,1622.14,1624.39,open oven
+P06_101_348,1624.53,1626.22,pick up pan
+P06_101_349,1625.83,1628.7,put pan in oven
+P06_101_35,87.52,89.15,move pan
+P06_101_350,1628.8,1630.07,close oven
+P06_101_351,1632.33,1634.08,turn on tap
+P06_101_352,1634.18,1637.94,wash hands
+P06_101_353,1638.14,1638.91,pick up washing up liquid
+P06_101_354,1638.99,1640.25,pour washing up liquid into hand
+P06_101_355,1641.15,1648.46,wash hands
+P06_101_356,1649.07,1649.99,turn off tap
+P06_101_357,1647.36,1648.69,shake hands
+P06_101_358,1652.91,1653.92,pick up spoon
+P06_101_359,1653.97,1656.15,take lid off pan
+P06_101_36,90.01,90.64,put down lid
+P06_101_360,1656.32,1671.28,stir pan
+P06_101_361,1672.17,1673.14,put lid on pan
+P06_101_362,1673.08,1674.59,taste spoon
+P06_101_363,1674.75,1676.08,put spoon down
+P06_101_364,1678.37,1680.19,pick up can
+P06_101_365,1682.95,1684.06,open fridge
+P06_101_366,1684.4,1685.6,put can in fridge
+P06_101_367,1686.53,1687.15,close fridge
+P06_101_368,1693.48,1694.17,pick up colander
+P06_101_369,1694.03,1695.16,turn on tap
+P06_101_37,91.15,92.71,pick up onion
+P06_101_370,1695.44,1697.44,wash colander
+P06_101_371,1701.32,1701.94,turn off tap
+P06_101_372,1702.02,1702.93,put colander in drying rack
+P06_101_373,1703.12,1704.08,pick up can
+P06_101_374,1704.11,1704.63,turn on tap
+P06_101_375,1704.84,1705.39,rinse can
+P06_101_376,1706.48,1707.16,pick up can
+P06_101_377,1707.63,1712.91,rinse can
+P06_101_378,1714.18,1714.78,put down cans
+P06_101_379,1714.93,1715.87,pick up cans
+P06_101_38,92.62,93.71,pick up knife
+P06_101_380,1715.7,1719.32,rinse can
+P06_101_381,1719.34,1724.69,rinse can
+P06_101_382,1724.9,1727.33,shake cans
+P06_101_383,1725.0,1727.5,put down cans
+P06_101_384,1729.63,1731.64,pick up rubbish
+P06_101_385,1731.25,1734.34,put rubbish in bin
+P06_101_386,1735.14,1740.17,pick up recycling
+P06_101_387,1747.44,1749.42,pick up food recycling bin
+P06_101_388,1750.18,1751.95,open food recycling bin
+P06_101_389,1751.24,1756.33,put rubbish in food recycling bin
+P06_101_39,93.43,100.93,chop onion
+P06_101_390,1755.84,1758.95,pick up garlic
+P06_101_391,1760.57,1761.7,open fridge
+P06_101_392,1761.79,1763.04,put garlic in fridge
+P06_101_393,1762.34,1763.71,close fridge
+P06_101_394,1765.46,1769.0,cut rubbish
+P06_101_395,1768.12,1770.54,rubbish in recycling bin
+P06_101_396,1770.62,1774.69,put rubbish in bin
+P06_101_397,1775.03,1777.06,pick up knife and chopping board
+P06_101_398,1776.69,1789.98,scrape rubbish onto chopping board
+P06_101_399,1790.08,1799.08,scrape rubbish into bin
+P06_101_4,8.77,9.7,pick up onion
+P06_101_40,102.93,104.23,wipe chopping board
+P06_101_400,1799.18,1802.44,close recycling bin
+P06_101_401,1802.54,1803.48,pick up recycling bin
+P06_101_402,1803.32,1804.72,put recycling bin on shelf
+P06_101_403,1806.54,1807.86,pick up rubbish
+P06_101_404,1807.31,1809.64,put rubbish in bin
+P06_101_405,1809.67,1812.35,pick up pots
+P06_101_406,1812.36,1813.32,put pot in cupboard
+P06_101_407,1813.27,1815.24,put pot in cupboard
+P06_101_408,1817.39,1818.31,pick up onion
+P06_101_409,1819.98,1821.79,open fridge
+P06_101_41,104.34,108.82,peel onion
+P06_101_410,1821.88,1824.34,put onion in fridge
+P06_101_411,1824.44,1826.3,close fridge
+P06_101_412,1828.95,1830.25,pick up knife
+P06_101_413,1830.68,1831.68,turn on tap
+P06_101_414,1831.52,1834.69,wash up knife
+P06_101_415,1836.86,1837.66,pick up chopping board
+P06_101_416,1837.34,1837.84,put down knife
+P06_101_417,1837.7,1841.77,wash chopping board
+P06_101_418,1843.93,1845.25,put chopping board in drying rack
+P06_101_419,1845.32,1850.9,pull out plug
+P06_101_42,108.84,111.68,pick up knife
+P06_101_420,1851.0,1852.43,pick up towel
+P06_101_421,1851.99,1854.69,dry hands
+P06_101_422,1855.21,1855.79,put down towel
+P06_101_43,108.0,110.5,put down knife
+P06_101_44,112.32,120.9,peel onion
+P06_101_45,121.67,122.4,pick up knife
+P06_101_46,122.93,123.94,pick up onion
+P06_101_47,124.39,132.64,chop onion
+P06_101_48,133.11,133.58,put down onion
+P06_101_49,134.09,134.65,pick up onion
+P06_101_5,10.29,12.72,pick up pepper
+P06_101_50,135.98,139.04,chop onion
+P06_101_51,138.9,140.9,put down knife
+P06_101_52,141.14,149.64,peel onion
+P06_101_53,156.68,158.83,put down onion
+P06_101_54,162.04,187.13,chop onion
+P06_101_55,190.32,191.22,pick up olive oil
+P06_101_56,191.3,192.34,take lid off oil
+P06_101_57,192.42,194.05,pour olive oil into pan
+P06_101_58,194.52,196.29,put lid on oil
+P06_101_59,195.84,197.54,put down oil
+P06_101_6,12.71,13.53,close drawer
+P06_101_60,197.64,199.92,turn on extractor
+P06_101_61,199.59,207.93,turn on hob
+P06_101_62,211.24,215.85,open window
+P06_101_63,217.03,218.07,pick up knife
+P06_101_64,218.11,222.55,pick up chopping board
+P06_101_65,222.6,225.86,scrape onion into pan
+P06_101_66,226.35,229.44,put down chopping board
+P06_101_67,229.05,253.89,chop onion
+P06_101_68,253.99,255.04,pick up chopping board
+P06_101_69,255.14,258.55,scrape onion into pan
+P06_101_7,16.06,17.14,put down vegetables
+P06_101_70,258.91,259.98,put down chopping board
+P06_101_71,261.5,284.76,chop onion
+P06_101_72,284.71,295.43,pick up chopping board
+P06_101_73,285.0,289.59,scrape onion into pan
+P06_101_74,289.52,291.28,put down chopping board and knife
+P06_101_75,291.58,292.04,pick up spoon
+P06_101_76,292.36,294.99,stir onion
+P06_101_77,294.98,296.92,adjust hob
+P06_101_78,296.96,301.08,stir onion
+P06_101_79,301.16,301.59,put down spoon
+P06_101_8,20.32,21.23,open drawer
+P06_101_80,302.19,303.46,pick up pepper
+P06_101_81,303.56,307.05,take sticker off pepper
+P06_101_82,307.05,308.56,put down pepper
+P06_101_83,308.83,309.68,pick up pepper
+P06_101_84,309.78,310.78,take sticker off pepper
+P06_101_85,311.46,312.18,put down pepper
+P06_101_86,311.66,312.86,pick up knife
+P06_101_87,313.26,314.01,put down pepper and knife
+P06_101_88,313.76,315.11,pick up garlic
+P06_101_89,315.26,318.87,break garlic
+P06_101_9,21.44,23.75,pick up sweet potato
+P06_101_90,322.9,326.5,put down garlic
+P06_101_91,325.89,326.92,pick up knife
+P06_101_92,327.02,330.07,crush garlic
+P06_101_93,331.38,342.27,chop garlic
+P06_101_94,342.7,343.65,adjust
+P06_101_95,343.73,346.64,stir pan
+P06_101_96,347.35,347.94,pick up knife
+P06_101_97,348.4,348.9,crush garlic
+P06_101_98,350.67,359.66,peel garlic
+P06_101_99,360.65,361.37,pick up garlic

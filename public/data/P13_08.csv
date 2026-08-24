@@ -1,0 +1,186 @@
+P13_08_0,5.42,7.78,take detergent
+P13_08_1,8.24,10.83,pour detergent in pan
+P13_08_10,69.7,71.33,open fridge
+P13_08_100,1422.96,1423.86,pick up spatula
+P13_08_101,1424.54,1447.43,stir onion
+P13_08_102,1458.66,1460.51,put down spatula
+P13_08_103,1462.32,1463.63,pick up plate with bacon
+P13_08_104,1464.35,1471.07,put bacon in pane
+P13_08_105,1471.17,1475.47,put down plate
+P13_08_106,1474.75,1522.7,stir bacon with onion
+P13_08_107,1524.15,1525.07,put down spatula
+P13_08_108,1526.33,1527.94,pick up salt
+P13_08_109,1527.51,1535.51,add salt in bacon and onion
+P13_08_11,73.21,76.58,take onion
+P13_08_110,1535.61,1538.7,put down salt
+P13_08_111,1538.8,1582.6,stir bacon and onion
+P13_08_112,1585.76,1597.15,stir spaghetti
+P13_08_113,1598.55,1600.78,open fridge
+P13_08_114,1602.03,1602.81,grab cream
+P13_08_115,1607.3,1610.89,throw plastic in trash
+P13_08_116,1621.39,1622.41,open drawer
+P13_08_117,1622.46,1623.6,put scissors in drawer
+P13_08_118,1624.42,1633.35,open cream package
+P13_08_119,1637.68,1652.45,clean knife
+P13_08_12,77.61,79.76,close fridge
+P13_08_120,1655.98,1657.93,open drawer
+P13_08_121,1657.3,1659.56,put knife in drawer
+P13_08_122,1659.62,1661.03,close drawer
+P13_08_123,1660.94,1661.94,grab plate
+P13_08_124,1662.45,1685.08,clean plate
+P13_08_125,1689.48,1691.92,put down plate
+P13_08_126,1695.08,1696.59,stir onion and bacon
+P13_08_127,1748.88,1749.88,pick up wooden spoon
+P13_08_128,1749.98,1758.92,stir spaghetti
+P13_08_129,1763.16,1764.66,pick up cream
+P13_08_13,80.87,81.63,peel onion
+P13_08_130,1782.39,1789.99,pour cream on onion and bacon
+P13_08_131,1821.69,1825.61,throw cream package into trash
+P13_08_132,1829.21,1830.46,adjust stove
+P13_08_133,1844.77,1871.15,clean plate
+P13_08_134,1879.63,1882.03,adjust cooker
+P13_08_135,1885.96,1886.96,pick up wooden spoon
+P13_08_136,1887.2,1905.95,stir spaghetti
+P13_08_137,1912.04,1929.71,stir cream with bacon and onion
+P13_08_138,1931.8,1932.81,open cupboard
+P13_08_139,1932.91,1937.43,pick up pepper
+P13_08_14,101.48,117.28,keep peeling onion
+P13_08_140,1937.67,1942.24,put down pepper on table
+P13_08_141,1954.58,1974.36,stir cream
+P13_08_142,1975.27,1978.23,open fridge
+P13_08_143,1978.98,1982.54,pick up cheese pack
+P13_08_144,1984.22,1986.9,put cheese pack on table
+P13_08_145,1988.08,1990.86,pick up plate
+P13_08_146,1989.17,1991.29,put plate on table
+P13_08_147,1994.1,1995.32,open cupboard
+P13_08_148,1996.26,1998.67,pick up strainer
+P13_08_149,1997.75,2013.11,clean strainer
+P13_08_15,119.69,121.8,put down onion
+P13_08_150,2013.21,2031.64,clean spoon
+P13_08_151,2030.45,2056.43,remove cream
+P13_08_152,2058.06,2060.51,put spoon in drawer
+P13_08_153,2060.41,2078.7,clean mug
+P13_08_154,2090.53,2092.78,put down mug
+P13_08_155,2092.88,2094.32,put strainer in sink
+P13_08_156,2098.25,2115.5,stir spaghetti
+P13_08_157,2123.75,2151.42,remove cream
+P13_08_158,2156.65,2158.54,turn off cooker
+P13_08_159,2159.3,2160.8,take pot with spaghetti
+P13_08_16,123.55,128.45,throw onion skin into trash
+P13_08_160,2162.27,2167.62,drain spaghetti
+P13_08_161,2172.25,2174.0,take fork
+P13_08_162,2174.75,2177.26,remove skin
+P13_08_163,2202.57,2204.44,turn off cooker
+P13_08_164,2208.69,2210.72,take colander
+P13_08_165,2210.82,2215.4,put spaghetti in the pot
+P13_08_166,2223.64,2240.64,clean spatula
+P13_08_167,2242.7,2243.98,open drawer
+P13_08_168,2243.81,2245.07,put spatula in the drawer
+P13_08_169,2245.13,2245.99,close drawer
+P13_08_17,130.43,143.93,wash plate
+P13_08_170,2246.09,2248.27,pick up pan
+P13_08_171,2253.09,2264.62,put cream with onion and bacon on spaghetti
+P13_08_172,2269.73,2274.6,put down pan
+P13_08_173,2274.17,2298.2,pour water into pan
+P13_08_174,2308.36,2316.64,stir spaghetti
+P13_08_175,2316.74,2341.9,keep stirring spaghetti
+P13_08_176,2362.47,2371.98,put spaghetti on plate
+P13_08_177,2392.5,2400.75,put spaghetti on plate
+P13_08_178,2409.26,2411.9,open pepper can
+P13_08_179,2411.67,2415.27,pour pepper on spaghetti
+P13_08_18,148.41,149.57,put plate on table
+P13_08_180,2416.89,2419.81,open cheese bag
+P13_08_181,2419.91,2424.23,put cheese on spaghetti
+P13_08_182,2428.84,2433.48,close cheese bag
+P13_08_183,2433.58,2436.57,put cheese bag on fridge
+P13_08_184,2436.67,2438.1,close fridge
+P13_08_185,2438.2,2446.08,stir spaghetti
+P13_08_19,150.43,151.24,pick up knife
+P13_08_2,17.76,30.63,clean pan
+P13_08_20,152.96,155.3,pick up onion
+P13_08_21,157.08,164.08,cut onion
+P13_08_22,183.31,201.49,peel onion
+P13_08_23,201.59,204.12,put down onion
+P13_08_24,204.22,209.54,throw onion skin in the trash
+P13_08_25,204.51,212.56,pick up knife
+P13_08_26,210.97,212.03,pick up onion
+P13_08_27,213.49,218.52,cut onion
+P13_08_28,219.04,225.04,keep cutting onion
+P13_08_29,233.89,241.39,keep cutting onion
+P13_08_3,32.5,43.92,keep cleaning pan
+P13_08_30,247.24,249.24,keep cutting onion
+P13_08_31,255.34,264.09,keep cutting onion
+P13_08_32,273.19,273.69,keep cutting onion
+P13_08_33,278.04,282.29,keep cutting onion
+P13_08_34,302.39,303.89,continue chopping onion
+P13_08_35,308.49,329.49,continue chopping onion
+P13_08_36,540.75,543.0,put down knife
+P13_08_37,546.71,551.59,put water in pot
+P13_08_38,553.7,573.07,clean pot
+P13_08_39,576.05,610.73,continue cleaning pot
+P13_08_4,54.62,55.45,put dish on table
+P13_08_40,611.22,615.28,put water in pot
+P13_08_41,616.0,617.5,open fridge
+P13_08_42,618.25,621.79,take bacon package
+P13_08_43,623.38,625.44,open drawer
+P13_08_44,627.28,629.29,close drawer
+P13_08_45,628.66,631.43,take scissors
+P13_08_46,629.0,651.25,wash scissors
+P13_08_47,652.36,658.57,put scissors on table
+P13_08_48,660.2,662.45,pick up pot
+P13_08_49,661.55,663.05,put pot on stove
+P13_08_5,55.1,56.28,put down pan
+P13_08_50,663.65,667.15,turn on stove
+P13_08_51,672.0,681.0,open bacon package
+P13_08_52,683.35,697.1,cut bacon
+P13_08_53,741.95,789.95,keep cutting bacon
+P13_08_54,790.05,851.3,keep cutting bacon
+P13_08_55,851.4,896.4,keep cutting bacon
+P13_08_56,879.75,901.5,keep cutting bacon
+P13_08_57,907.1,909.01,put scissors on sink
+P13_08_58,969.45,972.2,pick up plastic
+P13_08_59,972.22,974.21,throw plastic on trash
+P13_08_6,58.6,61.11,take dish
+P13_08_60,977.4,984.37,wash hands
+P13_08_61,987.25,992.0,dry hands
+P13_08_62,996.76,1000.56,dry pan
+P13_08_63,1002.75,1011.14,put pan on cooker
+P13_08_64,1011.55,1013.05,pick up oil
+P13_08_65,1014.9,1018.79,put oil in pan
+P13_08_66,1018.75,1025.47,put down oil
+P13_08_67,1028.12,1032.44,turn on cooker
+P13_08_68,1048.47,1052.15,change pot for pan
+P13_08_69,1109.77,1110.67,pick up salt
+P13_08_7,61.85,63.46,open drawer
+P13_08_70,1113.69,1115.29,put salt in pan
+P13_08_71,1123.55,1125.28,open drawer
+P13_08_72,1125.25,1125.91,take wooden spoon
+P13_08_73,1128.4,1141.65,remove pan
+P13_08_74,1171.66,1185.9,clean scissors
+P13_08_75,1184.96,1188.31,put scissors in drawer
+P13_08_76,1186.56,1187.43,open drawer
+P13_08_77,1189.26,1190.53,pick up spatula
+P13_08_78,1194.8,1204.91,clean fork
+P13_08_79,1204.22,1209.9,put fork in drawer
+P13_08_8,65.11,66.04,take knife
+P13_08_80,1209.71,1211.61,close drawer
+P13_08_81,1211.62,1230.67,clean plate
+P13_08_82,1230.77,1235.31,put down plate
+P13_08_83,1234.94,1236.97,pick up plate
+P13_08_84,1241.54,1244.84,pour water in plate
+P13_08_85,1248.25,1250.72,pick up plate with onion and bacon
+P13_08_86,1256.51,1257.14,pick up spatula
+P13_08_87,1258.6,1269.02,put onion in pan
+P13_08_88,1272.82,1274.07,put down plate with bacon
+P13_08_89,1275.33,1284.47,stir onion
+P13_08_9,66.33,67.71,put knife on table
+P13_08_90,1282.12,1310.25,still stir onion
+P13_08_91,1329.91,1330.77,put down spatula
+P13_08_92,1334.12,1335.35,pick up spaghetti bag
+P13_08_93,1339.26,1340.58,open drawer
+P13_08_94,1340.53,1342.48,pick up scissors
+P13_08_95,1342.58,1352.44,open spaghetti bag
+P13_08_96,1360.97,1373.82,take spaghetti
+P13_08_97,1374.48,1379.67,put spaghetti in pot
+P13_08_98,1387.78,1417.14,stir spaghetti
+P13_08_99,1418.62,1420.6,put down wooden spoon

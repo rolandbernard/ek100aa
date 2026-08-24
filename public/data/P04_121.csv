@@ -1,0 +1,717 @@
+P04_121_0,0.0,2.3,move instructions
+P04_121_1,3.76,6.93,move finger along text of instructions
+P04_121_10,32.1,34.0,push cupboard door open
+P04_121_100,362.84,368.97,wash chopping board
+P04_121_101,366.0,369.05,rinse chopping board
+P04_121_102,369.53,369.92,turn off tap
+P04_121_103,373.04,374.59,pick up tea towel
+P04_121_104,373.03,378.44,dry chopping board with tea towel
+P04_121_105,378.51,380.57,put tea towel on oven door
+P04_121_106,380.67,382.34,put down chopping board
+P04_121_107,382.24,383.31,pick up tea towel
+P04_121_108,383.41,384.7,put tea towel on oven door
+P04_121_109,384.72,385.44,lift lid off rice cooker
+P04_121_11,34.1,35.27,pick up knife
+P04_121_110,385.3,387.4,pick up rice cooker bowl
+P04_121_111,387.37,387.61,put down rice cooker lid
+P04_121_112,387.67,389.29,take steamer away from rice cooker bowl
+P04_121_113,389.2,390.26,tip out water from rice cooker bowl
+P04_121_114,390.3,391.59,put down steamer tray
+P04_121_115,391.44,392.31,open dishwasher
+P04_121_116,392.33,393.69,pull out dishwasher drawer
+P04_121_117,394.26,395.29,put rice cooker bowl in dishwasher
+P04_121_118,395.55,396.08,pick up steamer tray
+P04_121_119,396.08,396.5,pull out dishwasher drawer
+P04_121_12,35.16,36.76,unsheathe knife
+P04_121_120,397.28,397.82,put steamer tray in dishwasher
+P04_121_121,397.88,398.77,pick up rice cooker lid
+P04_121_122,399.29,399.84,pull sticker from rice cooker lid
+P04_121_123,400.15,400.86,put rice cooker lid in dishwasher
+P04_121_124,400.95,402.03,put sticker on countertop
+P04_121_125,401.66,402.82,close dishwasher drawer
+P04_121_126,402.65,404.07,close dishwasher
+P04_121_127,405.3,407.2,pick up spoons
+P04_121_128,406.12,409.02,pick up spoon
+P04_121_129,410.05,410.44,open dishwasher
+P04_121_13,36.77,44.05,cut cheese with knife
+P04_121_130,409.72,410.78,put spoons in dishwasher
+P04_121_131,413.37,413.93,close dishwasher
+P04_121_132,414.15,414.81,open drawer
+P04_121_133,414.91,415.41,close drawer
+P04_121_134,415.86,416.31,open drawer
+P04_121_135,416.41,417.77,pick up spoon
+P04_121_136,417.34,418.04,close drawer
+P04_121_137,418.75,419.41,pick up tea towel
+P04_121_138,419.46,419.98,put tea towel on oven door
+P04_121_139,420.15,420.8,put down sieve spoon
+P04_121_14,44.15,51.9,slice cheese with knife
+P04_121_140,421.29,421.82,pick up box
+P04_121_141,422.65,423.5,put down box
+P04_121_142,424.65,426.3,unplug rice cooker
+P04_121_143,426.1,428.1,pick up rice cooker
+P04_121_144,429.61,430.68,put rice cooker on floor
+P04_121_145,432.97,434.73,unplug plug
+P04_121_146,435.45,436.34,move glass
+P04_121_147,434.0,437.3,pick up kettle
+P04_121_148,437.26,438.98,pull kettle wire
+P04_121_149,438.9,440.13,pull kettle wire
+P04_121_15,52.0,54.55,push spatula off pan
+P04_121_150,440.17,440.84,pick up kettle stand
+P04_121_151,440.8,441.84,put down kettle stand
+P04_121_152,440.97,442.95,put kettle down on stand
+P04_121_153,443.05,444.46,plug in kettle
+P04_121_154,444.34,446.1,tip over oil bottle
+P04_121_155,447.8,450.2,pick up milk bottle
+P04_121_156,450.3,452.23,put milk bottle down upside down
+P04_121_157,451.07,452.17,slide kettle along counter
+P04_121_158,452.27,454.11,pick up oil bottle
+P04_121_159,456.23,456.88,push flour bag back
+P04_121_16,49.19,59.12,slice cheese with knife
+P04_121_160,457.52,458.44,pick up water bottle
+P04_121_161,458.54,459.39,unscrew water bottle
+P04_121_162,459.49,460.57,drink water from bottle
+P04_121_163,460.5,463.4,screw lid on water bottle
+P04_121_164,463.4,464.2,put down water bottle
+P04_121_165,464.3,465.37,move rubber gloves
+P04_121_166,465.41,466.67,pick up mug
+P04_121_167,465.0,466.91,tip out mug into sink
+P04_121_168,466.88,467.7,turn on tap
+P04_121_169,467.72,468.36,fill mug with water
+P04_121_17,120.0,128.35,slice cheese lengthways with knife
+P04_121_170,468.37,469.04,pick up washing up liquid
+P04_121_171,469.32,470.3,squirt washing up liquid into mug
+P04_121_172,471.34,472.76,pick up sponge
+P04_121_173,472.7,473.7,rinse out sponge under water
+P04_121_174,473.48,473.93,tip water out of mug
+P04_121_175,473.93,475.08,wash mug with sponge
+P04_121_176,475.18,476.57,wipe sink with sponge
+P04_121_177,475.69,477.62,rinse sponge under water
+P04_121_178,477.62,483.32,wash mug with sponge
+P04_121_179,483.41,484.04,drop sponge into sink
+P04_121_18,127.63,129.03,pick up spatula
+P04_121_180,483.6,491.15,rinse mug under tap
+P04_121_181,491.09,492.16,turn off tap
+P04_121_182,492.12,493.24,empty water from mug
+P04_121_183,494.04,496.15,pick up tea towel
+P04_121_184,495.55,504.75,dry mug with tea towel
+P04_121_185,504.8,505.65,pick up spatula
+P04_121_186,505.88,512.41,stir cheese curds in pan with spatula
+P04_121_187,511.75,512.41,put down spatula
+P04_121_188,512.47,517.55,dry mug with tea towel
+P04_121_189,517.65,518.9,put mug on counter
+P04_121_19,129.13,152.05,cut cheese with spatula
+P04_121_190,519.44,521.54,put tea towel on oven door
+P04_121_191,522.64,524.99,open cupboard
+P04_121_192,525.59,526.39,open cupboard
+P04_121_193,527.13,527.93,close cupboard
+P04_121_194,529.24,536.59,open fridge
+P04_121_195,536.69,537.34,close fridge
+P04_121_196,538.19,540.27,open dishwasher
+P04_121_197,538.28,538.78,pull out dishwasher drawer
+P04_121_198,540.72,541.47,lift up rice cooker bowl
+P04_121_199,541.84,542.58,pick up bowl
+P04_121_2,7.03,8.13,pick up spatula
+P04_121_20,153.3,158.03,scoop cheese curds with spatula
+P04_121_200,542.48,543.33,put down rice cooker bowl
+P04_121_201,543.14,544.19,close dishwasher drawer
+P04_121_202,544.23,545.25,close dishwasher
+P04_121_203,545.35,546.84,put bowl in sink
+P04_121_204,546.93,551.32,pull dough away from bowl
+P04_121_205,550.83,552.3,squeeze dough into ball
+P04_121_206,552.33,552.86,open food bin
+P04_121_207,552.21,552.88,put down food bin
+P04_121_208,552.98,553.65,close food bin
+P04_121_209,553.54,554.7,turn on tap
+P04_121_21,156.59,158.56,hold cheese curds with knife
+P04_121_210,554.69,555.44,pick up washing up liquid
+P04_121_211,555.54,557.04,squirt washing up liquid into bowl
+P04_121_212,557.14,557.89,put down washing up liquid
+P04_121_213,559.66,560.96,read instructions
+P04_121_214,561.04,562.09,pick up thermometer
+P04_121_215,562.34,563.54,read thermometer temperature
+P04_121_216,564.59,565.74,pick up spatula
+P04_121_217,566.01,592.89,stir cheese curds in pan with spatula
+P04_121_218,592.99,594.59,put down spatula
+P04_121_219,593.27,594.04,put down thermometer
+P04_121_22,158.72,160.5,pick up cheese curd
+P04_121_220,596.43,597.37,turn off tap
+P04_121_221,597.4,598.07,pick up bowl
+P04_121_222,598.04,598.52,tip water out of bowl
+P04_121_223,602.86,603.67,turn on tap
+P04_121_224,604.11,606.2,put down bowl
+P04_121_225,604.37,606.06,pick up sponge
+P04_121_226,606.28,607.27,put down sponge
+P04_121_227,605.0,608.61,pick up scourer
+P04_121_228,608.71,609.32,turn off tap
+P04_121_229,609.61,610.85,turn on tap
+P04_121_23,160.37,161.46,wipe spatula on side of pan
+P04_121_230,611.61,612.83,tip water out of bowl
+P04_121_231,613.13,616.17,scour bowl
+P04_121_232,615.24,616.45,rinse scourer under tap
+P04_121_233,616.39,619.04,scour bowl
+P04_121_234,619.07,620.39,move bowl to under tap
+P04_121_235,620.49,641.39,move bowl away from tap
+P04_121_236,641.99,651.49,move bowl under tap
+P04_121_237,643.0,646.98,rinse scourer
+P04_121_238,646.31,657.81,scour bowl
+P04_121_239,657.91,658.54,turn off tap
+P04_121_24,161.56,162.63,put down spatula
+P04_121_240,658.6,659.45,turn on tap
+P04_121_241,659.52,660.54,turn on tap
+P04_121_242,660.59,661.56,empty water out of bowl
+P04_121_243,661.66,682.78,scour bowl
+P04_121_244,682.88,684.33,tip water out of bowl
+P04_121_245,684.42,685.1,put down bowl
+P04_121_246,685.0,693.0,scour bowl
+P04_121_247,689.74,690.7,adjust tap
+P04_121_248,691.07,691.83,move bowl under tap
+P04_121_249,691.37,693.0,let go of scourer
+P04_121_25,162.04,164.03,eat cheese curd
+P04_121_250,693.1,693.72,shake hands
+P04_121_251,693.43,695.97,dry hands on tea towel
+P04_121_252,696.03,696.77,pick up thermometer
+P04_121_253,696.75,698.36,read temperature of liquid in pan
+P04_121_254,697.82,699.72,pick up spatula
+P04_121_255,698.57,702.83,stir cheese curds in pan using spatula
+P04_121_256,702.6,712.64,stir cheese curds in pan using spatula
+P04_121_257,720.0,721.28,move thermometer
+P04_121_258,723.44,725.29,move thermometer
+P04_121_259,724.85,727.25,move thermometer
+P04_121_26,163.48,166.16,eat cheese curd
+P04_121_260,725.42,727.35,take thermometer away from liquid
+P04_121_261,727.83,728.35,put down spatula
+P04_121_262,728.45,730.36,turn off hob
+P04_121_263,730.35,731.08,put down thermometer
+P04_121_264,731.18,732.7,move pan slightly
+P04_121_265,732.05,736.71,take out water from bowl
+P04_121_266,734.98,738.34,pick up scourer
+P04_121_267,734.44,736.05,scour bowl
+P04_121_268,738.25,738.93,tip water out of bowl
+P04_121_269,739.03,740.59,put down bowl
+P04_121_27,166.0,170.38,wipe knife on side of pan
+P04_121_270,741.19,751.33,scour bowl
+P04_121_271,751.32,752.67,move bowl under tap
+P04_121_272,754.15,758.74,move bowl away from tap
+P04_121_273,760.05,762.21,move bowl under tap
+P04_121_274,760.73,761.19,drop scourer in sink
+P04_121_275,761.29,761.62,pick up sponge
+P04_121_276,761.72,767.38,wash bowl with sponge
+P04_121_277,766.0,767.17,move bowl under water
+P04_121_278,768.71,769.73,wipe away dough with sponge
+P04_121_279,767.95,769.22,move bowl away from water
+P04_121_28,170.27,174.86,wipe knife with tea towel
+P04_121_280,770.69,772.13,dip sponge in water
+P04_121_281,771.35,772.96,wash bowl with sponge
+P04_121_282,772.43,773.25,scratch dough away from bowl
+P04_121_283,773.26,777.76,scratch dough off bowl
+P04_121_284,777.86,779.79,scratch dough off bowl
+P04_121_285,779.89,787.7,wipe bowl with sponge
+P04_121_286,787.8,791.11,scratch dough off bowl
+P04_121_287,790.88,791.63,tip water out of bowl
+P04_121_288,791.69,793.27,put bowl under tap
+P04_121_289,793.19,793.85,wipe bowl with sponge
+P04_121_29,172.07,176.61,turn on tap
+P04_121_290,794.03,794.29,put down bowl
+P04_121_291,794.4,794.64,put down sponge
+P04_121_292,794.73,795.17,pick up scourer
+P04_121_293,795.66,799.08,scour bowl
+P04_121_294,798.19,799.39,tip water out of bowl
+P04_121_295,799.85,800.89,put down bowl
+P04_121_296,801.39,810.67,scour bowl
+P04_121_297,825.52,826.15,pick up bowl
+P04_121_298,826.47,826.91,put bowl under tap
+P04_121_299,826.74,827.73,tip water out of bowl
+P04_121_3,8.19,10.97,move cheese in saucepan
+P04_121_30,176.47,177.14,rinse knife
+P04_121_300,827.14,828.3,put down bowl
+P04_121_301,828.4,829.43,put down scourer
+P04_121_302,829.52,830.14,upturn bowl
+P04_121_303,833.29,835.04,scratch dough off bowl
+P04_121_304,835.43,837.01,turn bowl around
+P04_121_305,837.11,842.63,scratch dough off bowl
+P04_121_306,840.19,845.81,empty water from bowl
+P04_121_307,843.81,845.28,empty water from bowl
+P04_121_308,845.49,846.95,move wok
+P04_121_309,847.17,849.15,rinse bowl
+P04_121_31,176.99,177.36,turn off tap
+P04_121_310,849.05,850.41,wipe bowl with sponge
+P04_121_311,850.24,850.73,put down sponge
+P04_121_312,851.38,851.98,pick up sponge
+P04_121_313,852.05,853.28,wipe bowl with sponge
+P04_121_314,853.34,854.91,empty water from bowl
+P04_121_315,854.62,863.64,wipe bowl with sponge
+P04_121_316,863.68,865.02,scratch dough off bowl
+P04_121_317,867.0,871.22,wipe bowl with sponge
+P04_121_318,871.09,873.34,scratch dough off bowl
+P04_121_319,873.37,873.62,put down sponge
+P04_121_32,177.24,177.92,shake knife
+P04_121_320,872.46,878.77,put bowl under tap
+P04_121_321,878.87,879.92,tip out bowl
+P04_121_322,880.85,881.98,turn off tap
+P04_121_323,881.65,882.95,turn off tap
+P04_121_324,882.64,885.31,pick up tea towel
+P04_121_325,885.36,886.41,dry bowl with tea towel
+P04_121_326,886.55,890.48,read instructions
+P04_121_327,891.75,892.6,put down bowl
+P04_121_328,892.7,894.11,put tea towel on bowl
+P04_121_329,893.64,902.77,dry inside of bowl
+P04_121_33,179.11,181.72,wipe knife on tea towel
+P04_121_330,902.87,903.95,feel inside of bowl
+P04_121_331,905.57,906.36,pick up thermometer
+P04_121_332,906.46,916.28,measure temperature of curds and whey
+P04_121_333,916.38,917.3,put down thermometer
+P04_121_334,917.23,918.6,pick up sieve spatula
+P04_121_335,918.39,918.86,move pan
+P04_121_336,918.96,919.97,pick up water bottle
+P04_121_337,919.25,920.58,put down water bottle
+P04_121_338,920.68,921.44,pick up spatula
+P04_121_339,921.54,925.43,scoop curds out of whey with spatulas
+P04_121_34,182.22,188.02,put sheath on knife
+P04_121_340,925.53,927.02,drain curds
+P04_121_341,927.53,928.42,put down spatula
+P04_121_342,928.52,929.21,pick up bowl
+P04_121_343,929.51,930.71,put down bowl
+P04_121_344,931.01,931.95,tip curds into bowl
+P04_121_345,933.78,935.23,scoop up cheese curds
+P04_121_346,935.23,943.4,drain cheese curds
+P04_121_347,936.12,936.95,put down spatula
+P04_121_348,936.85,937.86,move instruction booklet
+P04_121_349,937.96,941.68,shake spatula with cheese curds
+P04_121_35,188.05,191.46,put knife in drawer
+P04_121_350,949.95,951.79,empty cheese curds into bowl
+P04_121_351,952.3,954.1,scoop cheese curds with spatula
+P04_121_352,953.08,956.58,push cheese curds into spatula with fingers
+P04_121_353,956.33,957.15,pick up bowl
+P04_121_354,957.75,960.46,tip whey into saucepan
+P04_121_355,962.65,964.35,tip bowl to empty whey into saucepan
+P04_121_356,968.62,971.45,hold cheese curds
+P04_121_357,969.34,972.24,drain whey from cheese curds
+P04_121_358,972.09,973.48,empty cheese curds into bowl
+P04_121_359,974.34,977.69,scoop up cheese curds with spatulas
+P04_121_36,191.19,194.81,move wok
+P04_121_360,976.63,979.35,tip cheese curds into bowl
+P04_121_361,980.29,982.19,scoop whey using spatulas
+P04_121_362,982.25,983.09,tip cheese curds into bowl
+P04_121_363,983.49,986.24,scoop whey using spatulas
+P04_121_364,986.34,987.34,tip cheese curds into bowl
+P04_121_365,987.55,990.14,scoop whey using spatulas
+P04_121_366,991.94,993.14,tip cheese curds into bowl
+P04_121_367,993.73,996.35,scoop around in whey
+P04_121_368,996.33,997.24,put down spatula
+P04_121_369,997.67,998.23,shake cheese curds into bowl
+P04_121_37,194.0,196.86,turn on hob
+P04_121_370,997.72,998.24,tap spatula on side of bowl
+P04_121_371,998.56,999.79,pick up bowl
+P04_121_372,1001.57,1003.03,hold cheese curds with spatula
+P04_121_373,1001.57,1004.92,drain whey from bowl
+P04_121_374,1004.35,1006.03,look at instructions
+P04_121_375,1016.4,1017.67,turn bowl upright
+P04_121_376,1017.88,1022.69,hold cheese curds with spatula
+P04_121_377,1018.91,1028.28,drain whey from bowl
+P04_121_378,1028.38,1028.9,turn bowl upright
+P04_121_379,1028.9,1030.64,put down spatula
+P04_121_38,196.1,198.85,pick up thermometer
+P04_121_380,1030.57,1033.11,rotate bowl
+P04_121_381,1032.56,1033.74,pick up spatula
+P04_121_382,1033.76,1034.96,hold cheese curds in place with spatula
+P04_121_383,1034.62,1042.08,drain whey from bowl
+P04_121_384,1043.38,1044.13,turn bowl upright
+P04_121_385,1044.27,1046.24,put down spatula
+P04_121_386,1046.76,1048.63,put down bowl
+P04_121_387,1048.72,1050.62,turn over instruction booklet
+P04_121_388,1049.98,1056.78,read instructions
+P04_121_389,1056.44,1057.79,pick up tea towel
+P04_121_39,198.39,199.64,adjust temperature on hob
+P04_121_390,1057.94,1059.35,mop up spilt whey with tea towel
+P04_121_391,1059.09,1066.61,put tea towel on oven door
+P04_121_392,1066.71,1067.59,pick up bowl
+P04_121_393,1067.68,1070.03,open microwave
+P04_121_394,1069.26,1070.36,pull open microwave door
+P04_121_395,1070.51,1071.36,put bowl in microwave
+P04_121_396,1071.25,1072.04,close microwave door
+P04_121_397,1071.86,1075.23,turn on microwave
+P04_121_398,1076.3,1090.61,read instructions
+P04_121_399,1090.55,1091.65,pick up rubber glove
+P04_121_4,10.65,12.35,peel cheese away from side of saucepan with spatula
+P04_121_40,198.84,200.91,look at thermometer
+P04_121_400,1091.7,1093.56,sniff rubber glove
+P04_121_401,1092.4,1095.19,unfold rubber glove
+P04_121_402,1095.57,1095.93,hold rubber glove under tap
+P04_121_403,1095.97,1096.75,turn on tap
+P04_121_404,1097.13,1097.62,turn off tap
+P04_121_405,1097.64,1098.66,wipe water off rubber glove
+P04_121_406,1099.27,1102.22,dry rubber glove with tea towel
+P04_121_407,1102.0,1106.31,put on rubber glove
+P04_121_408,1106.13,1107.98,pick up rubber glove
+P04_121_409,1107.73,1108.79,turn on tap
+P04_121_41,201.01,203.52,wipe thermometer with tea towel
+P04_121_410,1107.73,1108.88,rinse rubber glove
+P04_121_411,1108.97,1109.49,turn off tap
+P04_121_412,1109.24,1112.49,shake rubber glove
+P04_121_413,1110.29,1111.47,wipe water from rubber glove
+P04_121_414,1111.45,1112.66,pick up tea towel
+P04_121_415,1112.71,1117.2,dry rubber glove with tea towel
+P04_121_416,1116.64,1117.89,put tea towel on oven door
+P04_121_417,1119.04,1124.05,put on rubber glove
+P04_121_418,1123.09,1124.45,straighten out rubber glove fingers
+P04_121_419,1124.28,1125.27,pull down rubber glove
+P04_121_42,204.29,204.84,feel end of thermometer
+P04_121_420,1126.03,1127.13,open microwave door
+P04_121_421,1127.23,1128.61,pick up bowl
+P04_121_422,1128.71,1129.63,put bowl back in microwave
+P04_121_423,1129.74,1130.35,close microwave door
+P04_121_424,1130.38,1133.28,turn on microwave
+P04_121_425,1134.25,1139.23,read instructions
+P04_121_426,1139.29,1140.58,pick up thermometer case
+P04_121_427,1139.44,1140.26,put down thermometer case
+P04_121_428,1140.38,1142.29,slide pan across hob
+P04_121_429,1142.39,1143.37,pick up tea towel
+P04_121_43,204.94,207.63,put thermometer in saucepan
+P04_121_430,1143.45,1144.25,rotate pan handle
+P04_121_431,1144.32,1145.49,clean up spills on hob
+P04_121_432,1145.57,1146.29,put tea towel on oven door
+P04_121_433,1147.86,1148.68,open microwave door
+P04_121_434,1148.87,1150.23,pick up bowl
+P04_121_435,1150.33,1151.28,close microwave door
+P04_121_436,1151.38,1152.88,put down bowl
+P04_121_437,1151.0,1151.75,pick up bowl
+P04_121_438,1153.85,1157.97,hold cheese curds with rubber gloved hand
+P04_121_439,1155.11,1156.61,hold curds with hand
+P04_121_44,207.69,208.51,pick up spatula
+P04_121_440,1156.34,1160.34,drain whey into pan
+P04_121_441,1160.91,1161.82,turn bowl upright
+P04_121_442,1160.19,1162.64,hold onto curds
+P04_121_443,1162.39,1165.86,tip bowl
+P04_121_444,1165.03,1168.73,drain whey into pan
+P04_121_445,1170.08,1171.26,lift up curds
+P04_121_446,1171.99,1173.05,turn bowl upright
+P04_121_447,1172.47,1176.03,press curds against side of bowl
+P04_121_448,1175.74,1178.3,tip bowl
+P04_121_449,1177.49,1178.44,turn bowl upright
+P04_121_45,208.54,211.28,stir cheese curds with spatula
+P04_121_450,1178.34,1180.38,put down bowl
+P04_121_451,1181.4,1185.34,fold cheese
+P04_121_452,1185.32,1187.78,fold cheese
+P04_121_453,1188.65,1189.48,fold cheese
+P04_121_454,1191.94,1192.56,pick up cheese
+P04_121_455,1193.31,1194.67,pick up bowl
+P04_121_456,1195.26,1196.28,tip whey into pan
+P04_121_457,1196.73,1197.74,put cheese in bowl
+P04_121_458,1197.84,1199.23,put down bowl
+P04_121_459,1199.17,1200.58,pick up cheese
+P04_121_46,210.39,212.89,cut large cheese curds with spatula
+P04_121_460,1200.56,1201.73,pick up bowl
+P04_121_461,1202.32,1203.81,tip whey into pan
+P04_121_462,1203.91,1205.4,put down bowl
+P04_121_463,1205.37,1206.17,put cheese in bowl
+P04_121_464,1206.6,1207.82,look at time on oven
+P04_121_465,1208.25,1211.68,fold cheese
+P04_121_466,1212.84,1215.85,fold cheese
+P04_121_467,1213.0,1214.23,fold cheese
+P04_121_468,1214.58,1215.67,fold cheese
+P04_121_469,1218.43,1221.4,read instructions
+P04_121_47,220.66,222.25,lift cheese curds out of whey
+P04_121_470,1221.84,1226.08,fold cheese
+P04_121_471,1225.78,1228.85,fold cheese
+P04_121_472,1229.51,1231.39,fold cheese
+P04_121_473,1232.5,1235.35,fold cheese
+P04_121_474,1237.49,1238.54,fold cheese
+P04_121_475,1239.65,1241.16,fold cheese
+P04_121_476,1241.18,1241.81,stretch cheese
+P04_121_477,1240.01,1241.42,fold cheese
+P04_121_478,1241.14,1242.04,pick up cheese
+P04_121_479,1242.02,1243.52,pick up bowl
+P04_121_48,220.78,222.96,drop cheese curds
+P04_121_480,1243.57,1244.54,empty whey into pan
+P04_121_481,1244.7,1245.83,put down bowl
+P04_121_482,1245.93,1246.61,put cheese in bowl
+P04_121_483,1246.78,1249.83,stretch cheese
+P04_121_484,1248.89,1251.39,fold cheese
+P04_121_485,1250.52,1253.91,fold cheese
+P04_121_486,1254.44,1255.53,rotate cheese
+P04_121_487,1254.0,1257.13,stretch cheese
+P04_121_488,1257.24,1257.74,fold cheese
+P04_121_489,1258.49,1260.21,stretch cheese
+P04_121_49,222.83,227.24,stir cheese curds with spatula
+P04_121_490,1260.14,1260.54,fold cheese
+P04_121_491,1260.86,1262.44,stretch cheese
+P04_121_492,1262.49,1263.38,pick up cheese
+P04_121_493,1263.14,1264.11,fold cheese
+P04_121_494,1265.04,1267.39,stretch cheese
+P04_121_495,1267.39,1267.94,fold cheese
+P04_121_496,1267.99,1269.8,stretch cheese
+P04_121_497,1269.71,1270.99,fold cheese
+P04_121_498,1270.82,1272.7,stretch cheese
+P04_121_499,1272.38,1274.04,fold cheese
+P04_121_5,13.4,20.18,slice cheese with spatula
+P04_121_50,227.3,228.8,cut cheese curd
+P04_121_500,1274.32,1275.82,look at time on oven
+P04_121_501,1275.92,1277.41,stretch cheese
+P04_121_502,1277.77,1280.93,read instructions
+P04_121_503,1278.61,1278.93,fold cheese
+P04_121_504,1279.75,1280.17,stretch cheese
+P04_121_505,1279.41,1284.67,fold cheese
+P04_121_506,1284.55,1285.65,pick up bowl
+P04_121_507,1285.59,1286.87,tip whey into pan
+P04_121_508,1287.09,1287.69,put cheese in bowl
+P04_121_509,1287.79,1288.29,put down bowl
+P04_121_51,228.8,230.45,cut cheese curd with spatula
+P04_121_510,1288.33,1289.28,pick up bowl
+P04_121_511,1289.38,1290.49,open microwave door
+P04_121_512,1290.99,1292.44,pull open microwave door
+P04_121_513,1292.86,1293.43,put bowl in microwave
+P04_121_514,1293.74,1294.07,close microwave door
+P04_121_515,1294.09,1297.09,turn on microwave
+P04_121_516,1297.43,1302.12,pull off rubber glove
+P04_121_517,1300.1,1300.9,put down rubber glove
+P04_121_518,1300.59,1301.85,pull off rubber glove
+P04_121_519,1301.95,1302.64,put down rubber glove
+P04_121_52,231.2,232.26,stir cheese curds with spatula
+P04_121_520,1302.85,1303.46,pick up instructions
+P04_121_521,1303.67,1305.29,read instructions
+P04_121_522,1305.49,1306.09,pick up tea towel
+P04_121_523,1306.08,1307.62,dry instruction booklet with tea towel
+P04_121_524,1307.52,1309.42,put tea towel on oven door
+P04_121_525,1309.5,1309.89,turn over instruction booklet
+P04_121_526,1309.71,1310.26,put down instruction booklet
+P04_121_527,1310.44,1311.12,pick up bag
+P04_121_528,1311.44,1311.9,put down bag
+P04_121_529,1312.97,1313.91,open drawer
+P04_121_53,232.37,234.73,cut cheese curds with spatula
+P04_121_530,1314.12,1318.85,rifle through contents of drawer
+P04_121_531,1314.92,1319.09,pick up spoon
+P04_121_532,1318.99,1319.97,close drawer
+P04_121_533,1319.85,1321.42,pick up instruction booklet
+P04_121_534,1321.49,1323.02,read instructions
+P04_121_535,1323.03,1323.66,put down instruction booklet
+P04_121_536,1323.71,1326.78,open bag
+P04_121_537,1325.0,1327.18,pick up bag
+P04_121_538,1325.97,1329.58,scoop salt out of bag
+P04_121_539,1330.28,1332.18,empty salt into bag
+P04_121_54,233.5,254.82,stir cheese curds in pan with spatula
+P04_121_540,1331.59,1332.16,scoop salt out of bag
+P04_121_541,1332.76,1333.1,tip salt into bag
+P04_121_542,1333.2,1334.09,put down bag
+P04_121_543,1335.08,1335.58,scoop salt out of bag
+P04_121_544,1336.19,1337.4,empty salt into bag
+P04_121_545,1337.58,1339.27,squeeze salt in bag
+P04_121_546,1338.42,1344.05,scoop salt out of bag
+P04_121_547,1337.0,1340.51,empty salt into bag
+P04_121_548,1341.15,1341.78,move bag
+P04_121_549,1341.45,1342.98,shake spoon
+P04_121_55,254.19,256.68,put down spatula
+P04_121_550,1344.99,1346.32,open microwave door
+P04_121_551,1346.63,1348.34,pick up bowl
+P04_121_552,1348.44,1350.74,put down bowl
+P04_121_553,1349.92,1351.87,close microwave door
+P04_121_554,1351.72,1352.21,put down spoon
+P04_121_555,1352.31,1353.82,pick up rubber glove
+P04_121_556,1353.78,1361.91,put on rubber glove
+P04_121_557,1358.54,1359.79,pick up rubber glove
+P04_121_558,1359.24,1362.2,pull on rubber glove
+P04_121_559,1362.2,1363.27,pick up bowl
+P04_121_56,256.66,270.98,read instructions
+P04_121_560,1363.09,1365.04,pick up cheese
+P04_121_561,1364.7,1366.44,tip whey out of bowl into pan
+P04_121_562,1367.11,1368.2,put down bowl
+P04_121_563,1368.22,1368.69,pick up bowl
+P04_121_564,1368.69,1370.23,tip whey out of bowl into pan
+P04_121_565,1370.33,1371.73,put down bowl
+P04_121_566,1371.71,1376.01,fold cheese
+P04_121_567,1372.0,1375.63,stretch cheese
+P04_121_568,1375.73,1377.45,pick up teaspoon
+P04_121_569,1377.49,1378.8,sprinkle salt onto cheese
+P04_121_57,262.71,265.34,move hand to face
+P04_121_570,1378.73,1380.21,put down teaspoon
+P04_121_571,1380.62,1385.66,spread salt over cheese
+P04_121_572,1385.76,1386.33,stretch cheese
+P04_121_573,1386.4,1387.22,fold cheese
+P04_121_574,1387.61,1388.11,stretch cheese
+P04_121_575,1387.76,1388.8,fold cheese
+P04_121_576,1389.37,1390.48,stretch cheese
+P04_121_577,1388.0,1389.59,fold cheese
+P04_121_578,1391.65,1392.53,stretch cheese
+P04_121_579,1392.62,1393.08,fold cheese
+P04_121_58,265.06,267.89,move hand away from face
+P04_121_580,1393.93,1395.4,stretch cheese
+P04_121_581,1395.33,1396.28,fold cheese
+P04_121_582,1396.63,1399.08,stretch cheese
+P04_121_583,1399.17,1400.21,fold cheese
+P04_121_584,1400.33,1401.67,stretch cheese
+P04_121_585,1401.68,1402.86,fold cheese
+P04_121_586,1403.73,1404.43,stretch cheese
+P04_121_587,1404.72,1406.3,fold cheese
+P04_121_588,1406.26,1407.21,stretch cheese
+P04_121_589,1407.31,1408.08,fold cheese
+P04_121_59,274.06,275.06,pick up thermometer
+P04_121_590,1409.41,1410.71,stretch cheese
+P04_121_591,1409.73,1411.98,fold cheese
+P04_121_592,1413.93,1414.74,pick up bowl
+P04_121_593,1414.64,1416.27,tip whey out of bowl into pan
+P04_121_594,1416.31,1417.72,put down bowl
+P04_121_595,1417.82,1421.61,read instructions
+P04_121_596,1421.26,1422.22,stretch cheese
+P04_121_597,1420.93,1422.7,fold cheese
+P04_121_598,1423.26,1425.15,stretch cheese
+P04_121_599,1425.06,1425.87,fold cheese
+P04_121_6,20.15,23.32,read instructions
+P04_121_60,274.91,280.03,read temperature on thermometer
+P04_121_600,1425.84,1430.01,stretch cheese
+P04_121_601,1429.86,1430.72,fold cheese
+P04_121_602,1430.69,1433.65,stretch cheese
+P04_121_603,1433.52,1434.13,fold cheese
+P04_121_604,1435.18,1437.14,stretch cheese
+P04_121_605,1436.46,1437.21,fold cheese
+P04_121_606,1437.22,1440.16,stretch cheese
+P04_121_607,1439.86,1440.94,fold cheese
+P04_121_608,1443.63,1445.4,stretch cheese
+P04_121_609,1445.04,1445.9,fold cheese
+P04_121_61,279.25,282.08,feel temperature of whey
+P04_121_610,1446.29,1453.5,squeeze mozzarella ball together
+P04_121_611,1452.84,1453.94,stretch cheese
+P04_121_612,1453.91,1454.97,turn over cheese
+P04_121_613,1455.67,1456.99,fold cheese
+P04_121_614,1456.56,1458.76,stretch cheese
+P04_121_615,1458.68,1459.35,fold cheese
+P04_121_616,1459.45,1462.27,stretch cheese
+P04_121_617,1460.3,1461.95,fold cheese
+P04_121_618,1463.72,1465.52,stretch cheese
+P04_121_619,1465.19,1466.85,fold cheese
+P04_121_62,291.19,292.29,put down thermometer
+P04_121_620,1467.19,1469.74,fold mozzarella into ball
+P04_121_621,1472.37,1476.89,squeeze whey from mozzarella ball
+P04_121_622,1474.34,1476.69,fold mozzarella into ball
+P04_121_623,1485.09,1487.84,squeeze bottom of mozzarella ball
+P04_121_624,1479.94,1481.29,turn over mozzarella ball
+P04_121_625,1481.49,1484.09,turn over mozzarella ball
+P04_121_626,1486.09,1518.89,squeeze bottom of mozzarella ball
+P04_121_627,1509.0,1511.22,squeeze bottom of mozzarella ball
+P04_121_628,1511.39,1512.26,put down mozzarella ball
+P04_121_629,1512.36,1518.27,squeeze bottom of mozzarella ball
+P04_121_63,292.63,293.32,pick up spatula
+P04_121_630,1518.43,1519.68,pick up mozzarella ball
+P04_121_631,1519.78,1521.26,pick up bowl
+P04_121_632,1521.35,1522.75,tip whey from bowl into wok
+P04_121_633,1522.33,1526.75,put cheese in bowl
+P04_121_634,1526.85,1528.11,turn on tap
+P04_121_635,1528.71,1529.75,put down bowl
+P04_121_636,1529.95,1536.06,pull off rubber gloves
+P04_121_637,1532.41,1535.85,pull off rubber glove
+P04_121_638,1535.85,1536.61,put rubber gloves in sink
+P04_121_639,1537.14,1537.98,move instructions
+P04_121_64,293.49,296.89,stir curds with spatula
+P04_121_640,1538.74,1539.87,wipe instructions with tea towel
+P04_121_641,1540.12,1541.39,move thermometer
+P04_121_642,1541.1,1543.61,wipe counter with tea towel
+P04_121_643,1543.5,1544.81,move teaspoon
+P04_121_644,1545.48,1548.25,put tea towel on oven door
+P04_121_645,1549.54,1550.36,feel mozzarella
+P04_121_646,1556.3,1557.67,feel temperature of water
+P04_121_647,1557.0,1558.33,pick up bowl
+P04_121_648,1558.43,1559.85,adjust tap
+P04_121_649,1560.07,1562.7,put bowl under tap
+P04_121_65,296.75,298.59,cut cheese curd with spatula
+P04_121_650,1563.66,1564.79,feel temperature of water
+P04_121_651,1565.01,1567.99,adjust tap
+P04_121_652,1575.43,1576.5,adjust tap
+P04_121_653,1575.21,1577.43,turn off tap
+P04_121_654,1578.15,1579.36,put down bowl
+P04_121_655,1580.84,1582.81,open freezer
+P04_121_656,1583.73,1585.61,open freezer drawer
+P04_121_657,1585.34,1586.46,move prawns
+P04_121_658,1586.41,1587.53,pick up ice cube tray
+P04_121_659,1587.5,1588.1,close freezer drawer
+P04_121_66,299.83,302.31,stir cheese curds with spatula
+P04_121_660,1588.2,1589.29,close freezer door
+P04_121_661,1589.11,1591.35,pop ice cube out of tray
+P04_121_662,1590.67,1592.08,pick up ice cube
+P04_121_663,1592.17,1592.79,put ice cube into bowl
+P04_121_664,1592.73,1594.88,pop ice cube out of tray
+P04_121_665,1594.92,1597.12,pick up ice cube
+P04_121_666,1597.0,1598.42,put ice cube into bowl
+P04_121_667,1598.15,1599.98,pop ice cube out of tray
+P04_121_668,1599.69,1602.14,pick up ice cube
+P04_121_669,1602.12,1602.87,pop ice cube into bowl
+P04_121_67,301.8,302.59,cut cheese curds with spatula
+P04_121_670,1602.95,1604.81,feel temperature of bowl
+P04_121_671,1605.05,1606.31,pop ice cube out of tray
+P04_121_672,1606.41,1607.0,pick up ice cube
+P04_121_673,1607.18,1607.49,put ice cube into bowl
+P04_121_674,1607.87,1608.54,pop ice cube out of tray
+P04_121_675,1608.62,1609.33,pick up ice cube
+P04_121_676,1609.43,1610.02,put ice cube into bowl
+P04_121_677,1608.0,1609.0,pop ice cube out of tray
+P04_121_678,1610.64,1612.18,pop ice cube out of tray
+P04_121_679,1611.31,1612.69,pick up ice cube
+P04_121_68,302.69,312.98,stir cheese curds in pan with spatula
+P04_121_680,1615.21,1617.33,read instructions
+P04_121_681,1613.83,1619.36,put ice cube into bowl
+P04_121_682,1619.46,1621.43,pop ice cube out of tray
+P04_121_683,1621.53,1622.0,pick up ice cube
+P04_121_684,1622.1,1622.54,drop ice cube into bowl
+P04_121_685,1622.5,1623.63,pop ice cube out of tray
+P04_121_686,1623.53,1625.78,pick up ice cube
+P04_121_687,1623.0,1626.67,drop ice cube into bowl
+P04_121_688,1627.02,1628.06,turn on tap
+P04_121_689,1628.03,1630.2,fill ice cube tray
+P04_121_69,310.49,313.33,put down spatula
+P04_121_690,1631.2,1633.05,turn off tap
+P04_121_691,1638.53,1640.99,open freezer door
+P04_121_692,1641.68,1644.97,open freezer drawer
+P04_121_693,1645.07,1649.38,put ice cube tray in freezer drawer
+P04_121_694,1649.46,1651.91,close freezer drawer
+P04_121_695,1652.3,1653.88,close freezer
+P04_121_696,1654.95,1656.39,feel temperature of bowl
+P04_121_697,1657.44,1658.83,pick up spatulas
+P04_121_698,1660.28,1662.31,pick up pan
+P04_121_699,1664.08,1666.84,empty whey from pan into sink
+P04_121_7,24.71,27.37,slice cheese with spatula
+P04_121_70,313.33,314.33,pick up thermometer
+P04_121_700,1667.11,1667.79,put spatulas in pan
+P04_121_701,1668.79,1669.4,put pan on hob
+P04_121_702,1670.62,1671.57,pick up rubber glove
+P04_121_703,1671.66,1672.77,turn on tap
+P04_121_704,1672.07,1673.33,rinse rubber glove
+P04_121_705,1673.38,1673.92,pick up rubber glove
+P04_121_706,1673.96,1676.7,rinse rubber glove
+P04_121_707,1676.32,1677.03,turn off tap
+P04_121_708,1677.09,1679.91,squeeze water out of rubber gloves
+P04_121_709,1680.01,1682.24,lay rubber gloves on counter
+P04_121_71,315.23,326.93,read temperature on thermometer
+P04_121_710,1682.3,1683.78,pick up tea towel
+P04_121_711,1683.56,1684.51,dry hands
+P04_121_712,1684.61,1685.18,move thermometer sheath
+P04_121_713,1685.28,1686.38,dry counter
+P04_121_714,1686.95,1688.22,pick up thermometer and thermometer cover
+P04_121_715,1688.98,1690.68,dry thermometer with tea towel
+P04_121_716,1690.64,1692.43,put tea towel on oven door
+P04_121_72,326.71,327.68,put down thermometer
+P04_121_73,327.78,329.6,pick up ramekin
+P04_121_74,330.1,331.15,pull open dishwasher drawer
+P04_121_75,331.19,332.15,put ramekin in dishwasher
+P04_121_76,332.55,333.55,pick up tablespoon
+P04_121_77,333.22,334.04,pick up ramekin
+P04_121_78,334.28,335.19,put ramekin in dishwasher
+P04_121_79,335.65,336.2,push dishwasher drawer
+P04_121_8,27.76,28.84,put down spatula
+P04_121_80,335.79,336.27,put tablespoon in cutlery tray
+P04_121_81,336.23,336.66,pull open dishwasher drawer
+P04_121_82,336.9,337.85,pick up baking tray
+P04_121_83,339.28,339.73,close dishwasher drawer
+P04_121_84,340.39,345.33,put baking tray in dishwasher
+P04_121_85,345.35,346.55,close dishwasher drawer
+P04_121_86,346.65,347.79,close dishwasher
+P04_121_87,348.1,349.45,pick up knife
+P04_121_88,349.63,350.76,open dishwasher
+P04_121_89,350.46,350.95,put knife into dishwasher
+P04_121_9,28.85,32.1,open drawer
+P04_121_90,351.65,354.15,pick up chopping board
+P04_121_91,353.79,354.56,wipe bits off chopping board and into sink
+P04_121_92,354.65,355.4,turn on tap
+P04_121_93,355.34,356.3,rinse chopping board
+P04_121_94,356.25,356.9,pick up sponge
+P04_121_95,356.85,358.91,wipe chopping board with sponge
+P04_121_96,359.01,359.55,put down sponge
+P04_121_97,359.61,360.32,pick up washing up liquid
+P04_121_98,360.39,361.33,squirt washing up liquid onto chopping board
+P04_121_99,361.89,362.94,pick up sponge

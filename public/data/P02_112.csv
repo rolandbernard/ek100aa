@@ -1,0 +1,317 @@
+P02_112_0,2.0,4.94,open drawer
+P02_112_1,5.04,6.74,pick up spoon
+P02_112_10,22.2,25.02,close cupboard
+P02_112_100,353.72,357.4,pick up plate
+P02_112_101,358.53,360.43,put down plate
+P02_112_102,361.28,362.47,open oil bottle
+P02_112_103,362.72,363.19,put down lid
+P02_112_104,363.13,363.93,pick up oil bottle
+P02_112_105,363.98,366.83,pour oil from bottle onto plate
+P02_112_106,366.27,368.3,put down bottle
+P02_112_107,368.4,374.62,squeeze ball of dough
+P02_112_108,374.23,375.43,get some oil from plate
+P02_112_109,374.61,375.94,oil ball of dough
+P02_112_11,24.86,26.73,pick up tahini sauce jar
+P02_112_110,375.8,413.25,knead dough
+P02_112_111,413.35,420.83,shape ball of dough
+P02_112_112,421.12,426.55,move tray
+P02_112_113,426.75,430.77,move plate
+P02_112_114,432.05,433.84,put ball of dough on tray
+P02_112_115,434.0,438.25,squeeze ball of dough
+P02_112_116,437.99,453.7,knead dough
+P02_112_117,453.16,457.85,shape ball of dough
+P02_112_118,457.95,459.44,put ball of dough onto tray
+P02_112_119,459.43,462.35,squeeze dough
+P02_112_12,26.76,27.89,open jar
+P02_112_120,462.52,472.87,knead dough
+P02_112_121,473.55,474.11,get some oil from plate
+P02_112_122,474.2,474.97,oil hand
+P02_112_123,475.07,494.2,knead dough
+P02_112_124,494.27,500.1,shape ball of dough
+P02_112_125,500.25,502.15,put ball of dough on tray
+P02_112_126,502.42,505.7,squeeze dough
+P02_112_127,505.9,506.82,get some oil from plate
+P02_112_128,507.0,507.5,oil hand
+P02_112_129,506.1,526.84,knead dough
+P02_112_13,27.96,29.27,put down lid
+P02_112_130,526.44,532.94,shape ball of dough
+P02_112_131,533.04,534.34,place ball of dough on tray
+P02_112_132,534.63,537.92,squeeze dough
+P02_112_133,537.79,541.61,move plate
+P02_112_134,548.12,549.18,get some oil from plate
+P02_112_135,548.41,549.57,oil hand
+P02_112_136,549.65,568.0,knead dough
+P02_112_137,568.08,573.64,shape ball of dough
+P02_112_138,573.74,574.75,place ball of dough on tray
+P02_112_139,574.99,577.26,squeeze dough
+P02_112_14,29.17,43.59,stir sauce in jar using spoon
+P02_112_140,577.47,578.24,get some oil from plate
+P02_112_141,578.34,579.29,oil hand
+P02_112_142,579.15,596.08,knead dough
+P02_112_143,595.84,600.17,shape ball of dough
+P02_112_144,600.39,601.69,place ball of dough on tray
+P02_112_145,602.09,603.85,pick up tray
+P02_112_146,603.95,604.79,pick up second tray
+P02_112_147,604.89,605.89,put down first tray
+P02_112_148,605.99,607.3,put down second tray
+P02_112_149,607.39,610.06,squeeze dough
+P02_112_150,610.09,610.72,get some oil from plate
+P02_112_151,610.93,611.47,oil hand
+P02_112_152,611.44,628.55,knead dough
+P02_112_153,628.57,633.3,shape ball of dough
+P02_112_154,633.44,634.14,place ball of dough on tray
+P02_112_155,634.39,636.53,squeeze dough
+P02_112_156,637.09,637.82,get some oil from plate
+P02_112_157,637.88,638.39,oil hand
+P02_112_158,638.49,649.5,knead dough
+P02_112_159,658.34,660.09,shape ball of dough
+P02_112_16,44.55,46.78,pour tahini sauce from spoon into pan
+P02_112_160,660.03,661.69,knead dough
+P02_112_161,661.77,666.96,shape ball of dough
+P02_112_162,667.08,668.19,place ball of dough on tray
+P02_112_163,668.42,670.86,squeeze dough
+P02_112_164,671.26,671.97,get oil from plate
+P02_112_165,671.98,672.24,oil hand
+P02_112_166,672.3,687.2,knead dough
+P02_112_167,687.23,696.38,shape ball of dough
+P02_112_168,696.44,697.74,place ball of dough on tray
+P02_112_169,699.3,700.6,move tray
+P02_112_17,46.63,47.51,pick up lid
+P02_112_170,701.2,703.73,squeeze dough
+P02_112_171,703.86,704.22,get some oil
+P02_112_172,704.32,704.84,oil hand
+P02_112_173,705.3,715.96,knead dough
+P02_112_174,716.05,720.49,shape ball of dough
+P02_112_175,720.45,721.1,place ball of dough on tray
+P02_112_176,721.5,724.72,squeeze dough
+P02_112_177,724.8,725.22,get some oil from plate
+P02_112_178,725.35,726.35,oil hand
+P02_112_179,726.16,743.88,knead dough
+P02_112_18,47.59,49.3,close jar
+P02_112_180,744.14,750.04,shape ball of dough
+P02_112_181,750.23,751.09,place ball of dough on tray
+P02_112_182,751.29,753.97,squeeze dough
+P02_112_183,754.74,755.04,get some oil from plate
+P02_112_184,755.25,755.79,oil hand
+P02_112_185,755.74,771.34,knead dough
+P02_112_186,771.74,775.95,shape ball of dough
+P02_112_187,776.03,777.22,place ball of dough on tray
+P02_112_188,777.32,780.06,squeeze dough
+P02_112_189,780.43,780.95,get some oil from plate
+P02_112_19,48.43,49.63,put down jar
+P02_112_190,781.05,781.45,oil hand
+P02_112_191,781.48,798.75,knead dough
+P02_112_192,799.14,802.35,shape ball of dough
+P02_112_193,802.45,803.39,place ball of dough on tray
+P02_112_194,803.72,811.64,squeeze dough
+P02_112_195,811.74,812.49,get some oil from
+P02_112_196,812.55,812.86,oil hand
+P02_112_197,812.96,827.64,knead dough
+P02_112_198,827.74,834.2,shape ball of dough
+P02_112_199,836.0,839.29,place ball of dough on tray
+P02_112_2,6.84,7.37,close drawer
+P02_112_20,53.96,54.58,open drawer
+P02_112_200,839.93,843.97,squeeze dough
+P02_112_201,845.09,845.49,get some oil from plate
+P02_112_202,845.62,845.96,oil hand
+P02_112_203,846.74,863.93,knead dough
+P02_112_204,864.28,868.76,shape ball of dough
+P02_112_205,869.16,869.96,place ball of dough on tray
+P02_112_206,870.93,872.86,pick up remaining dough
+P02_112_207,877.94,878.54,oil hand
+P02_112_208,878.94,887.98,knead dough
+P02_112_209,886.0,893.13,shape ball of dough
+P02_112_21,54.66,55.95,pick up spoon
+P02_112_210,893.16,894.26,place dough on tray
+P02_112_211,895.03,901.26,pick up remaining dough from bowl
+P02_112_212,900.99,902.28,oil hand
+P02_112_213,902.0,915.87,knead
+P02_112_214,914.89,919.27,shape ball of dough
+P02_112_215,918.94,920.26,place ball of dough on tray
+P02_112_216,921.1,923.04,pick up bowl
+P02_112_217,923.24,924.51,place bowl in sink
+P02_112_218,924.65,928.8,pick up pan
+P02_112_219,927.6,929.22,put down pan
+P02_112_22,55.84,56.93,close drawer
+P02_112_220,929.32,933.12,pick up meat from pan
+P02_112_221,933.01,935.86,place meat on ball of dough
+P02_112_222,935.9,936.57,pick up meat from pan
+P02_112_223,936.75,939.84,place meat on dough
+P02_112_224,939.63,940.21,get meat from pan
+P02_112_225,940.17,941.61,place meat on dough
+P02_112_226,941.56,942.55,pick meat from pan
+P02_112_227,942.53,944.71,place meat on dough
+P02_112_228,944.81,946.25,get meat from pan
+P02_112_229,944.0,949.54,place meat on dough
+P02_112_23,56.71,67.0,open yoghurt
+P02_112_230,949.64,950.55,get meat from pan
+P02_112_231,950.44,952.92,place meat on dough
+P02_112_232,952.68,956.49,get meat from pan
+P02_112_233,956.59,960.88,place meat on dough
+P02_112_234,960.96,961.87,get meat from pan
+P02_112_235,961.68,964.5,place meat on dough
+P02_112_236,964.39,966.71,get meat from pan
+P02_112_237,966.41,969.34,place meat on dough
+P02_112_238,969.43,973.72,get meat from pan
+P02_112_239,973.53,976.42,place meat on dough
+P02_112_24,66.85,69.59,open bin
+P02_112_240,976.4,977.96,get meat from pan
+P02_112_241,977.89,981.59,place meat on dough
+P02_112_242,981.42,983.49,get meat from pan
+P02_112_243,982.97,986.88,place meat on dough
+P02_112_244,987.02,987.75,get meat from pan
+P02_112_245,987.79,990.46,place meat on dough
+P02_112_246,990.38,991.97,get meat from pan
+P02_112_247,991.56,995.4,place meat on dough
+P02_112_248,995.35,996.49,get meat from pan
+P02_112_249,996.4,997.69,place meat on dough
+P02_112_25,69.8,70.26,throw cover
+P02_112_250,997.34,1000.31,get meat from pan
+P02_112_251,1000.36,1001.92,place meat on dough
+P02_112_252,1002.23,1003.25,move dough
+P02_112_253,1003.75,1005.81,get meat from pan
+P02_112_254,1005.9,1008.33,place meat on dough
+P02_112_255,1008.43,1010.54,get meat from pan
+P02_112_256,1010.59,1014.12,place meat on dough
+P02_112_257,1014.19,1015.79,get meat from pan
+P02_112_258,1015.78,1018.13,place meat on dough
+P02_112_259,1023.5,1029.04,turn on oven
+P02_112_26,70.15,70.63,close bin
+P02_112_260,1031.64,1032.99,pick up tray
+P02_112_261,1033.33,1034.75,pick up second tray
+P02_112_262,1035.17,1036.83,place first tray
+P02_112_263,1036.39,1037.98,put down second tray
+P02_112_264,1038.44,1039.23,pick up meat from pan
+P02_112_265,1039.33,1041.65,place meat on dough
+P02_112_266,1041.69,1043.83,pick meat from pan
+P02_112_267,1043.91,1048.01,place meat on dough
+P02_112_268,1049.22,1052.11,get meat from pan
+P02_112_269,1049.96,1053.22,place meat on dough
+P02_112_27,71.84,72.78,pick up yoghurt
+P02_112_270,1053.71,1054.84,get meat from pan
+P02_112_271,1055.02,1056.6,place meat on dough
+P02_112_272,1057.01,1059.6,get meat from pan
+P02_112_273,1060.05,1062.55,place meat on dough
+P02_112_274,1062.88,1064.12,get meat from pan
+P02_112_275,1064.59,1066.53,place meat on dough
+P02_112_276,1066.6,1069.09,get meat from pan
+P02_112_277,1069.14,1071.98,place meat on dough
+P02_112_278,1072.16,1073.17,get meat from pan
+P02_112_279,1073.33,1076.87,place meat on dough
+P02_112_28,72.7,73.46,scoop yoghurt
+P02_112_280,1076.97,1078.73,get meat from pan
+P02_112_281,1078.71,1082.77,place meat on dough
+P02_112_282,1082.85,1084.71,get meat from pan
+P02_112_283,1084.6,1086.92,place meat on dough
+P02_112_284,1086.99,1087.8,get meat from pan
+P02_112_285,1087.9,1089.29,place meat on dough
+P02_112_286,1089.29,1091.08,get meat from pan
+P02_112_287,1091.18,1095.58,place meat on dough
+P02_112_288,1095.51,1097.08,get meat from pan
+P02_112_289,1094.42,1095.2,place meat on dough
+P02_112_29,71.93,75.17,pour yoghurt from spoon into pan
+P02_112_290,1095.63,1096.92,get meat from pan
+P02_112_291,1097.04,1098.13,place meat on dough
+P02_112_292,1101.0,1102.56,get meat from pan
+P02_112_293,1102.52,1104.17,place meat on dough
+P02_112_294,1111.89,1112.43,pick up pan
+P02_112_295,1113.2,1113.66,hold pan
+P02_112_296,1113.53,1114.18,get meat from pan
+P02_112_297,1114.51,1115.17,place meat on dough
+P02_112_298,1117.32,1117.98,get meat from pan
+P02_112_299,1116.1,1117.04,place meat on dough
+P02_112_3,7.44,8.74,open fridge
+P02_112_30,76.06,77.36,put down yoghurt
+P02_112_300,1120.84,1122.33,get meat from pan
+P02_112_301,1122.41,1123.97,place meat on dough
+P02_112_302,1120.84,1122.19,get meat from pan
+P02_112_303,1122.39,1123.74,place meat on dough
+P02_112_304,1123.61,1126.04,get meat from pan
+P02_112_305,1136.88,1140.19,place meat on dough
+P02_112_306,1134.95,1136.36,get meat from pan
+P02_112_307,1141.91,1146.38,place meat on dough
+P02_112_308,1140.29,1141.64,get meat from pan
+P02_112_309,1148.0,1152.39,place meat on dough
+P02_112_31,77.44,80.75,scrape spoon
+P02_112_310,1151.55,1153.95,get meat from pan
+P02_112_311,1153.85,1156.54,place meat on dough
+P02_112_312,1156.39,1158.54,get meat from pan
+P02_112_313,1158.12,1161.91,place meat on dough
+P02_112_314,1161.99,1164.14,get meat from pan
+P02_112_315,1163.24,1168.51,place meat on dough
+P02_112_316,1168.45,1172.37,get meat from pan
+P02_112_317,1172.8,1173.96,taste meat
+P02_112_318,1173.75,1178.11,put pan in sink
+P02_112_32,80.77,84.39,put down spoon
+P02_112_33,84.49,85.65,hold pan
+P02_112_34,85.25,102.4,mix meat with tahini and yoghurt
+P02_112_35,104.18,105.65,pick up spoon
+P02_112_36,106.23,106.9,pick up tahini jar
+P02_112_37,106.87,107.49,open jar
+P02_112_38,107.5,108.23,put down lid
+P02_112_4,8.43,12.13,pick up yoghurt
+P02_112_40,109.79,116.7,pour tahini sauce from spoon into pan
+P02_112_41,116.8,117.92,put down spoon
+P02_112_42,117.69,118.7,pick up lid
+P02_112_43,118.64,119.64,close jar
+P02_112_44,119.16,119.87,put down jar
+P02_112_45,119.75,120.75,hold pan
+P02_112_46,120.78,130.5,mix tahini with meat
+P02_112_47,130.46,132.26,open cupboard
+P02_112_48,131.59,138.15,pick up spice jar
+P02_112_49,136.0,139.12,open spice jar
+P02_112_5,12.23,13.92,close fridge
+P02_112_50,139.1,140.9,pour spice from jar onto lid
+P02_112_51,141.0,142.01,pour spice from lid onto pan
+P02_112_52,142.0,143.26,close jar
+P02_112_53,143.31,144.29,put down jar
+P02_112_54,144.26,144.96,hold pan
+P02_112_55,145.03,159.36,mix meat with spice
+P02_112_56,159.95,160.53,pick up jar
+P02_112_57,160.39,161.26,open jar
+P02_112_58,161.17,163.09,pour spice from jar onto lid
+P02_112_59,160.0,163.7,pour spice from lid onto pan
+P02_112_6,13.41,16.29,put down yoghurt
+P02_112_60,163.64,164.86,close jar
+P02_112_61,164.96,165.52,put down jar
+P02_112_62,165.96,166.83,hold pan
+P02_112_63,166.38,179.39,mix spice with meat
+P02_112_64,181.31,183.56,taste meat
+P02_112_65,183.0,187.23,put down spoon
+P02_112_66,187.33,188.57,pick up lid
+P02_112_67,188.65,190.37,close yoghurt
+P02_112_68,192.6,194.61,open cupboard
+P02_112_69,198.09,203.8,get tray
+P02_112_7,16.4,18.31,open cupboard
+P02_112_70,206.09,207.34,get another tray
+P02_112_71,212.63,213.85,put down trays on surface
+P02_112_72,213.95,214.85,pick up tray
+P02_112_73,216.6,218.55,shake tray
+P02_112_74,220.65,221.55,put down tray
+P02_112_75,222.14,223.2,pick up oil bottle
+P02_112_76,223.3,225.6,open oil bottle
+P02_112_77,225.58,227.26,pour oil from bottle onto tray
+P02_112_78,226.95,228.85,close oil bottle
+P02_112_79,228.79,229.95,put down bottle
+P02_112_8,18.33,21.45,pick up tahini sauce jar
+P02_112_80,229.46,240.14,spread oil on tray using hand
+P02_112_81,240.36,241.51,hold first tray
+P02_112_82,241.37,245.91,spread some oil on second tray
+P02_112_83,247.03,249.3,put down tray
+P02_112_84,250.15,251.4,pick up oil bottle
+P02_112_85,251.27,252.07,open oil bottle
+P02_112_86,251.94,253.03,pour oil from bottle onto tray
+P02_112_87,253.13,253.93,close oil bottle
+P02_112_88,254.13,255.38,put down bottle
+P02_112_89,252.5,261.75,spread oil on tray
+P02_112_9,21.15,22.1,put down tahini sauce jar
+P02_112_90,268.2,270.98,pick up tray from drainer
+P02_112_91,271.08,273.35,spread oil on tray while holding it
+P02_112_92,272.8,289.03,spread oil on tray
+P02_112_93,290.91,292.0,put down tray
+P02_112_94,292.93,298.6,move tray
+P02_112_95,299.23,300.14,move flour bag
+P02_112_96,300.24,303.45,uncover bowl
+P02_112_97,304.18,304.74,put towels away
+P02_112_98,306.85,317.86,knead dough
+P02_112_99,352.14,353.28,open cupboard

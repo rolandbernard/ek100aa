@@ -1,0 +1,116 @@
+P20_02_0,0.0,3.74,pick up plate
+P20_02_1,3.73,5.31,pick up fork
+P20_02_10,37.71,39.83,pick up plate
+P20_02_100,376.12,379.11,open drawer
+P20_02_101,379.22,382.53,put down plates
+P20_02_102,384.42,386.55,pick up frying pan
+P20_02_103,386.65,388.7,open drawer
+P20_02_104,388.92,392.27,put down frying pan
+P20_02_105,392.42,395.56,close drawer
+P20_02_106,395.67,397.17,pick up bowl
+P20_02_107,400.68,402.08,open drawer
+P20_02_108,402.37,403.86,put down bowl
+P20_02_109,403.89,405.39,close drawer
+P20_02_11,41.6,43.27,put down plate
+P20_02_110,407.38,408.38,open dishwasher
+P20_02_111,408.98,410.23,open dishwasher drawer
+P20_02_112,410.33,411.83,put knife and fork in dishwasher
+P20_02_113,412.88,413.43,close dishwasher
+P20_02_114,416.78,418.28,put cup in drawer
+P20_02_115,424.13,426.13,move chair
+P20_02_12,43.3,44.96,pick up plate
+P20_02_13,44.52,45.74,put down plates
+P20_02_14,46.91,48.65,move chair
+P20_02_15,48.76,49.87,pick up cup
+P20_02_16,50.61,52.43,put down cup
+P20_02_17,52.9,55.35,turn on tap
+P20_02_18,55.18,56.34,wash hand
+P20_02_19,57.55,59.91,still washing hand
+P20_02_2,5.36,7.85,move bin
+P20_02_20,60.61,61.49,pick up rag
+P20_02_21,62.41,64.1,wash rag
+P20_02_22,62.67,66.35,still washing rag
+P20_02_23,66.44,68.2,squeeze rag
+P20_02_24,68.07,68.95,put down rag
+P20_02_25,69.04,70.03,pick up knife and fork
+P20_02_26,70.13,81.69,wash knife and fork
+P20_02_27,72.87,83.41,wash knife and fork with rag
+P20_02_28,80.17,83.42,still washing knife and fork with rag
+P20_02_29,83.56,85.35,wash rag
+P20_02_3,19.73,22.62,pick up plates
+P20_02_30,89.13,89.98,pick up bowl
+P20_02_31,90.92,97.16,rinse bowl
+P20_02_32,97.26,104.67,wash bowl with rag
+P20_02_33,102.17,106.67,still washing bowl with rag
+P20_02_34,109.77,112.92,put down bowl and knife and fork
+P20_02_35,113.44,114.23,pick up cup
+P20_02_36,115.37,129.05,still washing cup with rag
+P20_02_37,116.1,127.76,wash cup with rag
+P20_02_38,131.89,137.31,squeeze rag
+P20_02_39,138.05,138.99,pick up plates
+P20_02_4,20.85,22.2,pick up plate
+P20_02_40,139.92,144.18,wash plates with rag
+P20_02_41,142.88,147.16,still washing plates with rag
+P20_02_42,146.85,151.6,still washing plate with rag
+P20_02_43,152.43,156.82,put down plates
+P20_02_44,156.92,158.73,pick up plates
+P20_02_45,159.4,163.4,wash plate with rag
+P20_02_46,163.5,169.15,still washing plate with rag
+P20_02_47,164.84,169.03,still washing plate with rag
+P20_02_48,168.91,171.58,squeeze rag
+P20_02_49,172.14,173.4,put down plate
+P20_02_5,22.3,25.46,put down plate
+P20_02_50,173.5,176.19,pick up plate
+P20_02_51,176.1,179.68,pick up washing up liquid
+P20_02_52,176.83,179.66,squirt washing up liquid onto plate
+P20_02_53,179.55,189.5,wash plate with rag
+P20_02_54,185.48,190.98,still washing plate with rag
+P20_02_55,191.08,195.58,still washing plate with rag
+P20_02_56,197.0,201.72,still washing plate with rag
+P20_02_57,203.62,207.79,put down plate
+P20_02_58,207.89,209.02,put down plate
+P20_02_59,208.03,210.43,pick up plate
+P20_02_6,22.72,31.93,pick up plate
+P20_02_60,211.07,213.92,wash plate with rag
+P20_02_61,213.26,220.6,still washing plate with rag
+P20_02_62,226.4,227.32,pick up plate
+P20_02_63,227.42,228.82,put down plate
+P20_02_64,228.28,230.07,put down plate
+P20_02_65,230.71,242.52,wash spatula with rag
+P20_02_66,231.0,247.18,still washing spatula with rag
+P20_02_67,234.47,246.81,wash spatula with rag
+P20_02_68,251.83,252.75,put down rag
+P20_02_69,252.66,255.06,hang up spatula
+P20_02_7,24.97,25.94,put down fork
+P20_02_70,254.74,257.27,pick up frying pan
+P20_02_71,257.1,260.62,wash counter with rag
+P20_02_72,260.72,265.91,clean counter with rag
+P20_02_73,264.05,270.42,still cleaning counter with rag
+P20_02_74,270.52,276.32,rinse frying pan
+P20_02_75,276.42,279.6,rinse rag
+P20_02_76,281.25,282.54,pick up washing up liquid
+P20_02_77,282.46,284.84,squirt washing up liquid into frying pan
+P20_02_78,286.61,292.7,wash frying pan with rag
+P20_02_79,292.36,297.45,still washing frying pan with rag
+P20_02_8,26.73,27.95,pick up fork
+P20_02_80,298.88,301.92,still washing frying pan with rag
+P20_02_81,302.02,305.5,still washing frying pan with rag
+P20_02_82,308.43,309.16,turn off tap
+P20_02_83,309.32,313.47,squeeze rag
+P20_02_84,313.57,324.2,wipe frying pan with rag
+P20_02_85,324.3,326.05,put down frying pan
+P20_02_86,329.02,334.63,wipe counter with rag
+P20_02_87,335.67,336.39,put down rag
+P20_02_88,336.49,337.27,pick up glass
+P20_02_89,337.62,338.62,put down glass
+P20_02_9,34.43,37.34,put down knife and fork
+P20_02_90,338.43,339.4,turn on tap
+P20_02_91,340.03,341.07,pick up washing up liquid
+P20_02_92,341.67,343.42,squirt washing up liquid into hands
+P20_02_93,344.27,345.52,rub hands
+P20_02_94,345.87,348.37,wash hands
+P20_02_95,347.0,359.13,still washing hands
+P20_02_96,348.72,352.47,still washing hands
+P20_02_97,349.16,358.64,still washing hands
+P20_02_98,357.83,359.15,turn off tap
+P20_02_99,366.8,368.48,pick up plates

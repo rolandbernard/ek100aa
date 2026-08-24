@@ -16,21 +16,7 @@ const router = createBrowserRouter([
         errorElement: <ErrorPage />,
         children: [
             { index: true, element: <HomePage /> },
-            {
-                loader: async ({ params }) => {
-                    // Make sure that the id in the parameter is at least a valid
-                    // integer. We don't yet check if the document exists.
-                    const q = parseInt(params["id"] ?? "missing id");
-                    if (isNaN(q)) {
-                        throw new Response("Missing Sample", {
-                            status: 404,
-                            statusText: "Not Found",
-                        });
-                    }
-                },
-                path: "/sample/:id",
-                element: <SamplePage />,
-            },
+            { path: "/sample/:id", element: <SamplePage /> },
         ],
     },
 ]);
@@ -38,5 +24,5 @@ const router = createBrowserRouter([
 createRoot(document.getElementById("root")!).render(
     <StrictMode>
         <RouterProvider router={router} />
-    </StrictMode>
+    </StrictMode>,
 );

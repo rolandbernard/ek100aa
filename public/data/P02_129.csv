@@ -1,0 +1,494 @@
+P02_129_0,4.18,5.0,pick up lid of pan
+P02_129_1,5.08,6.14,put down lid
+P02_129_10,18.93,20.44,put down kettle
+P02_129_100,215.69,216.63,put down spice jar
+P02_129_101,219.06,219.86,turn off kettle
+P02_129_102,219.96,220.69,pick up kettle
+P02_129_103,221.94,224.26,pour water from kettle into pan
+P02_129_104,224.34,226.34,turn on hob
+P02_129_105,232.52,233.71,put down kettle
+P02_129_106,234.26,235.19,pick up lid
+P02_129_107,235.5,236.33,cover pan using lid
+P02_129_108,238.54,239.79,pick up spaghetti bag
+P02_129_109,241.02,241.46,open cupboard
+P02_129_11,20.38,21.2,turn on kettle
+P02_129_110,241.49,244.77,put spaghetti bag in cupboard
+P02_129_111,245.22,245.89,pick up olive oil bottle
+P02_129_112,245.96,246.66,put olive oil in cupboard
+P02_129_113,247.86,248.49,pick up vegetable oil bottle
+P02_129_114,248.59,250.02,put vegetable oil bottle in cupboard
+P02_129_115,251.82,252.83,pick up spice jar
+P02_129_116,252.9,256.14,put spice jar in cupboard
+P02_129_117,256.12,257.06,pick up spice jar
+P02_129_118,257.08,261.91,put spice jar in cupboard
+P02_129_119,261.98,264.83,pick up flour bag
+P02_129_12,22.89,23.94,pick up pan from drainer
+P02_129_120,264.57,266.99,put flour bag in cupboard
+P02_129_121,268.62,270.87,close cupboard
+P02_129_122,272.47,274.13,lift lid
+P02_129_123,274.02,275.53,cover lid
+P02_129_124,278.43,280.13,pick up plates from drainer
+P02_129_125,281.44,282.2,open cupboard
+P02_129_126,282.2,284.37,put plates in cupboard
+P02_129_127,286.34,287.22,pick up box of tomatoes
+P02_129_128,289.12,289.7,open fridge
+P02_129_129,290.07,291.43,put tomato box in fridge
+P02_129_13,25.21,27.05,put pan on hob
+P02_129_130,291.47,292.34,close fridge
+P02_129_131,295.79,296.58,pick up bag
+P02_129_132,296.5,297.66,close bag
+P02_129_133,297.54,298.32,put down bag
+P02_129_134,298.39,299.81,move salt
+P02_129_135,299.71,301.2,adjust lid
+P02_129_136,301.6,302.14,pick up pan
+P02_129_137,302.61,303.35,open cupboard
+P02_129_138,303.45,309.34,put pan in cupboard
+P02_129_139,309.39,310.66,close cupboard
+P02_129_14,27.0,28.66,move pan
+P02_129_140,314.38,315.67,open fridge
+P02_129_141,315.76,316.85,pick up pesto sauce jar
+P02_129_142,317.0,317.9,close fridge
+P02_129_143,318.3,318.65,hold drawer handle
+P02_129_144,318.61,321.6,check pesto sauce jar
+P02_129_145,321.6,322.61,open drawer
+P02_129_146,322.63,323.66,pick up spoon
+P02_129_147,327.13,328.21,put down pesto sauce jar
+P02_129_148,328.17,329.11,lift lid of pan
+P02_129_149,329.78,330.87,put down lid
+P02_129_15,29.09,29.86,open cupboard
+P02_129_150,330.98,335.16,set timer
+P02_129_151,334.81,336.37,adjust heat
+P02_129_152,336.44,337.57,pick up pesto sauce jar
+P02_129_153,337.67,339.87,try to open jar
+P02_129_154,339.71,340.2,put down spoon
+P02_129_155,340.15,341.89,open jar
+P02_129_156,341.88,342.72,put down lid
+P02_129_157,342.6,343.17,pick up spoon
+P02_129_158,343.3,344.56,scoop pesto sauce from jar using spoon
+P02_129_159,344.6,346.75,pour pesto sauce from spoon into pan
+P02_129_16,30.57,32.0,pick up spaghetti bag
+P02_129_160,347.26,355.3,stir sauce in pan
+P02_129_161,355.7,356.95,put down spoon
+P02_129_162,356.9,357.57,pick up lid
+P02_129_163,357.55,358.9,close pesto sauce jar
+P02_129_164,361.68,362.79,open fridge
+P02_129_165,361.0,364.21,put pesto sauce jar in fridge
+P02_129_166,364.31,365.82,close fridge
+P02_129_167,367.17,368.98,open tap
+P02_129_168,368.37,370.27,rinse hand
+P02_129_169,370.25,371.39,close tap
+P02_129_17,32.48,33.04,close cupboard
+P02_129_170,370.59,372.64,dry hands using towel
+P02_129_171,372.6,373.35,pick up spoon
+P02_129_172,374.23,384.02,stir sauce in pan
+P02_129_173,384.12,385.05,put down spoon
+P02_129_174,385.15,389.95,move chopping board
+P02_129_175,386.62,387.95,pick up cake mould from drainer
+P02_129_176,389.45,390.01,open cupboard
+P02_129_177,390.11,394.34,put cake mould in cupboard
+P02_129_178,394.44,395.11,close cupboard
+P02_129_179,396.83,398.11,pick up glasses from drainer
+P02_129_18,34.08,36.85,get spaghetti from packaging
+P02_129_180,398.49,399.63,open cupboard
+P02_129_181,399.52,400.5,put glasses in cupboard
+P02_129_182,401.09,402.14,pick up glass from drainer
+P02_129_183,402.24,403.18,put glass in cupboard
+P02_129_184,403.72,404.67,pick up mug from drainer
+P02_129_185,405.62,407.71,move mug in drainer
+P02_129_186,407.8,408.96,adjust chopping board
+P02_129_187,408.62,409.82,pick up mug from drainer
+P02_129_188,411.49,412.93,hang mug on stand
+P02_129_189,412.81,414.29,hang mug on stand
+P02_129_19,36.92,37.48,put down bag
+P02_129_190,417.16,417.71,pick up mug from drainer
+P02_129_191,419.98,422.02,hang mug on stand
+P02_129_192,424.94,425.7,pick up mug from drainer
+P02_129_193,425.49,426.79,open cupboard
+P02_129_194,426.78,428.03,put mug in cupboard
+P02_129_195,427.5,428.97,close cupboard
+P02_129_196,428.97,430.73,pick up plates from drainer
+P02_129_197,431.46,432.95,put plate in cupboard
+P02_129_198,433.04,434.41,put plate in cupboard
+P02_129_199,435.78,437.25,pick up spoon
+P02_129_2,6.16,6.51,pick up pan
+P02_129_20,37.79,39.97,break spaghetti
+P02_129_200,437.75,445.03,stir sauce in pan
+P02_129_201,445.64,447.28,put down spoon
+P02_129_202,446.36,449.0,pick up cutlery from drainer
+P02_129_203,450.82,452.23,open drawer
+P02_129_204,452.31,453.29,put spoon in drawer
+P02_129_205,453.02,454.06,put knife in drawer
+P02_129_206,454.05,454.9,close drawer
+P02_129_207,456.87,460.23,wear glove
+P02_129_208,459.56,461.23,move chopping board
+P02_129_209,461.06,464.35,wear glove
+P02_129_21,40.0,40.62,put spaghetti into pan
+P02_129_210,464.45,464.98,pick up sponge
+P02_129_211,465.08,466.04,open tap
+P02_129_212,466.14,466.79,rinse sponge
+P02_129_213,466.43,467.22,close tap
+P02_129_214,467.19,468.11,squeeze sponge
+P02_129_215,467.78,468.33,pick up washing liquid bottle
+P02_129_216,468.34,469.47,pour washing liquid from bottle onto sponge
+P02_129_217,470.04,470.66,put down washing liquid bottle
+P02_129_218,470.65,471.07,pick up spoon from sink
+P02_129_219,471.35,473.63,sponge spoon
+P02_129_22,40.98,42.28,pick up spaghetti bag
+P02_129_220,473.68,474.29,put down sponge
+P02_129_221,474.34,475.22,open tap
+P02_129_222,475.25,478.28,rinse spoon
+P02_129_223,478.05,478.58,close tap
+P02_129_224,479.06,479.6,put down spoon
+P02_129_225,479.49,480.12,pick up plate from sink
+P02_129_226,480.19,480.49,pick up sponge
+P02_129_227,480.59,483.83,sponge plate
+P02_129_228,483.93,484.64,put down sponge
+P02_129_229,484.2,485.29,open tap
+P02_129_23,42.81,45.58,pick spaghetti from packaging
+P02_129_230,485.32,490.02,rinse plate
+P02_129_231,489.82,490.71,close tap
+P02_129_232,490.75,492.18,put plate in drainer
+P02_129_233,491.47,492.12,pick up chopping board from sink
+P02_129_234,492.02,492.38,pick up sponge
+P02_129_235,492.39,501.02,sponge chopping board
+P02_129_236,501.12,501.74,put down sponge
+P02_129_237,501.83,502.95,open tap
+P02_129_238,502.71,505.47,rinse chopping board
+P02_129_239,505.38,505.85,close tap
+P02_129_24,46.09,47.02,put down spaghetti bag
+P02_129_240,505.94,507.65,put chopping board in drainer
+P02_129_241,507.58,508.74,pick up sponge
+P02_129_242,508.77,509.23,pick up washing liquid bottle
+P02_129_243,509.33,510.24,pour washing liquid from bottle onto sponge
+P02_129_244,510.32,511.31,put down washing liquid bottle
+P02_129_245,510.65,511.51,put down sponge
+P02_129_246,511.61,513.66,take off gloves
+P02_129_247,514.27,515.04,pick up spoon
+P02_129_248,515.11,524.72,stir sauce in pan
+P02_129_249,525.39,526.24,press timer button to check timer
+P02_129_25,49.0,50.39,break spaghetti
+P02_129_250,526.44,527.96,put down spoon
+P02_129_251,528.04,529.14,adjust heat
+P02_129_252,531.09,535.61,put on gloves
+P02_129_253,535.69,536.49,pick up sponge
+P02_129_254,535.98,536.53,pick up knife from sink
+P02_129_255,536.75,539.32,sponge knife
+P02_129_256,539.42,539.98,pick up knife from sink
+P02_129_257,540.44,542.14,sponge knife
+P02_129_258,542.84,543.53,pick up knife from sink
+P02_129_259,543.9,546.2,sponge knife
+P02_129_26,50.49,51.16,put spaghetti in pan
+P02_129_260,546.38,546.96,pick up knife from sink
+P02_129_261,547.06,549.6,sponge knife
+P02_129_262,550.15,551.05,pick up knife from top of chopping board
+P02_129_263,550.9,554.19,sponge knife
+P02_129_264,554.13,555.12,pick up knife from sink
+P02_129_265,555.66,558.89,sponge knife
+P02_129_266,559.04,559.61,put down sponge
+P02_129_267,559.49,560.67,open tap
+P02_129_268,560.55,569.3,rinse knives
+P02_129_269,569.39,570.44,close tap
+P02_129_27,54.85,55.71,pick up bag containing garlic
+P02_129_270,570.85,573.78,put knives in drainer
+P02_129_271,573.57,574.19,pick up sponge
+P02_129_272,574.1,574.58,pick up squeezer cover
+P02_129_273,574.7,580.81,sponge squeezer cover
+P02_129_274,580.79,581.48,put down sponge
+P02_129_275,581.57,582.49,open tap
+P02_129_276,582.46,584.42,rinse squeezer cover
+P02_129_277,584.52,586.75,close tap
+P02_129_278,586.63,587.29,put squeezer cover in drainer
+P02_129_279,587.17,587.68,pick up spoon
+P02_129_28,55.51,57.74,open bag
+P02_129_280,587.39,587.65,pick up sponge
+P02_129_281,587.75,590.9,sponge spoon
+P02_129_282,590.93,591.3,pick up spoon from sink
+P02_129_283,591.72,594.39,sponge spoon
+P02_129_284,594.49,595.02,pick up spoon from sink
+P02_129_285,593.59,596.49,sponge spoon
+P02_129_286,600.4,602.56,pick up knife from sink
+P02_129_287,602.62,605.76,sponge knife
+P02_129_288,605.71,610.09,pick up fork from sink
+P02_129_289,610.15,613.03,sponge fork
+P02_129_29,57.57,60.88,get garlic from bag
+P02_129_290,613.04,613.86,put down sponge
+P02_129_291,614.04,614.83,open tap
+P02_129_292,615.18,617.19,rinse fork
+P02_129_293,616.79,617.56,put fork in drainer
+P02_129_294,617.37,619.13,rinse knife
+P02_129_295,618.54,620.36,put knife in drainer
+P02_129_296,620.13,621.72,rinse spoon
+P02_129_297,621.82,622.4,put spoon in drainer
+P02_129_298,622.41,623.68,rinse spoon
+P02_129_299,623.7,624.67,put spoon in drainer
+P02_129_3,6.6,7.84,put down pan
+P02_129_30,63.2,64.59,pick up knife from drainer
+P02_129_300,624.48,625.52,rinse spoon
+P02_129_301,625.49,626.4,close tap
+P02_129_302,626.5,627.48,put spoon in drainer
+P02_129_303,627.27,641.33,empty sink
+P02_129_304,641.39,643.13,pick up chopping board
+P02_129_305,642.03,642.53,pick up sponge
+P02_129_306,642.49,648.06,sponge chopping board
+P02_129_307,648.24,648.6,put down sponge
+P02_129_308,648.8,649.84,open tap
+P02_129_309,649.91,653.16,rinse chopping board
+P02_129_31,65.05,81.94,peel garlic
+P02_129_310,653.23,653.99,close tap
+P02_129_311,654.24,655.69,put chopping board in drainer
+P02_129_312,655.61,656.36,pick up spoon from sink
+P02_129_313,656.41,657.66,pick up sponge
+P02_129_314,657.54,660.54,sponge spoon
+P02_129_315,660.81,661.25,pick up fork from sink
+P02_129_316,661.82,663.85,sponge fork
+P02_129_317,663.81,664.52,pick up spoon from sink
+P02_129_318,664.51,667.05,sponge spoon
+P02_129_319,667.19,667.51,put down sponge
+P02_129_32,81.69,82.98,put down knife
+P02_129_320,667.67,668.98,open tap
+P02_129_321,668.71,670.37,rinse spoon
+P02_129_322,670.66,671.11,put spoon in drainer
+P02_129_323,671.19,672.53,rinse fork
+P02_129_324,672.63,673.4,put fork in drainer
+P02_129_325,672.6,673.43,rinse spoon
+P02_129_326,673.5,674.01,close tap
+P02_129_327,674.06,674.91,put spoon in drainer
+P02_129_328,674.72,675.53,pick up sponge
+P02_129_329,675.55,676.06,pick up washing liquid bottle
+P02_129_33,85.99,86.64,open compost bin
+P02_129_330,676.1,677.17,pour washing liquid from bottle onto sponge
+P02_129_331,677.21,677.76,put down washing liquid bottle
+P02_129_332,677.86,680.36,pick up spoon from sink
+P02_129_333,680.36,682.67,sponge spoon
+P02_129_334,682.49,683.79,pick up spoon from sink
+P02_129_335,684.07,686.3,sponge spoon
+P02_129_336,686.23,687.3,pick up spoon from sink
+P02_129_337,687.4,691.04,sponge spoon
+P02_129_338,693.89,694.41,put down sponge
+P02_129_339,694.42,695.51,open tap
+P02_129_34,86.73,87.34,throw garlic peel in compost bin
+P02_129_340,695.59,699.46,rinse spoons
+P02_129_341,699.09,700.39,close tap
+P02_129_342,700.54,701.79,put spoons in drainer
+P02_129_343,701.71,703.91,take off gloves
+P02_129_344,703.92,704.94,set off timer
+P02_129_345,705.36,706.09,pick up spoon
+P02_129_346,706.34,716.89,stir sauce in pan
+P02_129_347,716.81,718.18,put down spoon
+P02_129_348,719.94,724.38,put on gloves
+P02_129_349,724.64,725.34,pick up garlic presser
+P02_129_35,86.75,87.52,close compost bin
+P02_129_350,725.4,725.86,open garlic presser
+P02_129_351,725.95,726.88,open tap
+P02_129_352,726.73,727.33,rinse garlic presser
+P02_129_353,727.12,727.65,pick up brush
+P02_129_354,727.75,733.06,brush garlic presser
+P02_129_355,741.17,742.24,put down brush
+P02_129_356,741.8,743.16,rinse garlic presser
+P02_129_357,743.42,744.05,close tap
+P02_129_358,744.9,745.82,put garlic presser in drainer
+P02_129_359,746.75,761.14,empty sink
+P02_129_36,90.99,91.79,open drawer
+P02_129_360,761.24,762.66,pick up sink drainer
+P02_129_361,763.91,764.17,open bin
+P02_129_362,764.4,767.0,empty drainer in bin
+P02_129_363,767.1,767.6,close bin
+P02_129_364,768.82,769.62,put sink drainer in sink
+P02_129_365,772.7,773.65,pick up cleaning sponge and cleaning liquid
+P02_129_366,774.78,775.39,open cleaning liquid bottle
+P02_129_367,775.77,777.14,pour cleaning liquid into sink
+P02_129_368,777.06,777.69,clean sink using sponge
+P02_129_369,777.26,778.71,put down cleaning liquid bottle
+P02_129_37,91.84,93.44,pick up garlic presser
+P02_129_370,786.47,787.6,pick up dirt
+P02_129_371,788.09,788.9,open bin
+P02_129_372,788.98,789.4,throw dirt
+P02_129_373,789.4,790.02,close bin
+P02_129_374,790.12,794.66,clean sink
+P02_129_375,794.52,795.28,open tap
+P02_129_376,795.38,799.54,rinse sink
+P02_129_377,799.6,800.15,close tap
+P02_129_378,800.25,802.04,empty sink
+P02_129_379,802.14,803.87,take off gloves
+P02_129_38,93.27,93.85,open garlic presser
+P02_129_380,804.44,805.19,pick up spoon
+P02_129_381,805.34,816.43,stir sauce in pan
+P02_129_382,816.99,817.83,put down spoon
+P02_129_383,819.56,821.09,open cupboard
+P02_129_384,823.86,825.23,open cupboard
+P02_129_385,826.08,827.75,pick up chopping blades from cupboard
+P02_129_386,828.05,829.57,return chopping blades to cupboard
+P02_129_387,830.15,830.83,close cupboard
+P02_129_388,834.72,835.68,pick up blender
+P02_129_389,838.12,839.38,put down blender
+P02_129_39,93.94,94.83,put garlic in garlic presser
+P02_129_390,839.53,840.23,unlock food processors cover
+P02_129_391,843.53,844.57,open cupboard
+P02_129_392,844.9,846.24,open cupboard
+P02_129_393,847.3,848.55,pick up chopping blades from cupboard
+P02_129_394,849.33,852.48,close cupboard
+P02_129_395,852.81,854.49,close cupboard
+P02_129_396,854.7,859.3,remove chopping blade from cover
+P02_129_397,859.57,860.87,put down plastic cover
+P02_129_398,860.23,862.0,put chopping blade in food processor
+P02_129_399,861.97,863.6,remove chopping blade
+P02_129_4,8.07,9.01,open kettle
+P02_129_40,94.84,95.52,close garlic presser
+P02_129_400,863.7,865.3,turn chopping blade
+P02_129_401,865.38,866.31,put chopping blade in food processor
+P02_129_402,869.74,872.0,remove aprons from ladder
+P02_129_403,872.1,873.1,throw aprons on floor
+P02_129_404,874.11,876.08,open ladder
+P02_129_405,874.92,877.68,step on ladder
+P02_129_406,878.21,879.03,open cupboard
+P02_129_407,878.93,880.27,pick up biscuits
+P02_129_408,880.24,880.77,close cupboard
+P02_129_409,881.62,882.85,step off ladder
+P02_129_41,95.62,98.75,press garlic
+P02_129_410,882.39,884.45,close ladder
+P02_129_411,887.9,889.3,put down biscuits
+P02_129_412,888.86,890.31,move cover
+P02_129_413,890.36,890.98,move plastic cover
+P02_129_414,891.14,893.15,move blender
+P02_129_415,891.05,895.4,move food processor
+P02_129_416,895.5,896.5,pick up biscuits
+P02_129_417,897.07,906.45,open biscuits packaging
+P02_129_419,908.83,909.59,pick biscuits from surface
+P02_129_42,98.28,99.06,pick up knife
+P02_129_420,909.76,910.23,put biscuits in food processor
+P02_129_421,910.33,912.58,pick biscuits from floor
+P02_129_422,912.95,913.4,open compost bin
+P02_129_423,913.5,913.93,throw biscuit piece
+P02_129_424,914.17,918.48,put biscuit in food processor
+P02_129_425,915.61,918.66,put biscuits in food processor
+P02_129_426,918.74,919.56,put down biscuits
+P02_129_427,919.61,920.37,pick up food processor cover
+P02_129_428,920.36,923.11,lock food processors cover
+P02_129_429,923.05,926.14,press button
+P02_129_43,99.72,100.61,slide garlic from presser into pan using knife
+P02_129_430,926.08,929.41,lock food processor in place
+P02_129_431,932.08,937.44,check food processor cover
+P02_129_432,937.06,938.71,press button
+P02_129_433,939.54,942.65,try to lock food processor cover
+P02_129_434,943.51,946.72,check cover
+P02_129_435,954.91,960.33,lock food processors cover
+P02_129_436,960.74,961.41,turn on food processor
+P02_129_437,962.06,963.65,turn off food processor
+P02_129_438,963.53,968.33,open food processor cover
+P02_129_439,968.39,969.71,put down cover
+P02_129_44,100.71,102.95,open garlic presser
+P02_129_440,969.81,970.76,pick up biscuits
+P02_129_441,970.82,971.99,open biscuit packaging
+P02_129_442,972.03,974.35,pour biscuits in food processor
+P02_129_443,975.11,976.24,pick up biscuits from surface
+P02_129_444,976.27,976.75,put biscuits in food processor
+P02_129_445,977.0,977.5,put down packaging
+P02_129_446,980.34,981.39,adjust heat on hob
+P02_129_447,981.44,981.94,pick up spoon
+P02_129_448,982.1,987.16,stir sauce in pan
+P02_129_449,987.26,988.08,put down spoon
+P02_129_45,102.82,103.16,close garlic presser
+P02_129_450,990.66,991.34,pick up food processor cover
+P02_129_451,991.29,992.83,lock food processor cover
+P02_129_452,992.93,994.58,turn on food processor
+P02_129_453,998.03,998.55,turn off food processor
+P02_129_454,999.89,1001.63,turn on food processor
+P02_129_455,1004.62,1005.95,turn off food processor
+P02_129_456,1008.76,1009.93,open food processor cover
+P02_129_457,1010.92,1012.58,put down cover
+P02_129_458,1016.49,1017.41,turn off hob
+P02_129_459,1018.19,1019.14,open cupboard
+P02_129_46,102.99,103.79,press garlic
+P02_129_460,1019.58,1021.82,pick up plate
+P02_129_461,1022.54,1024.36,put down plate
+P02_129_462,1027.78,1028.85,open fridge
+P02_129_463,1029.28,1029.88,pick up parmesan cheese
+P02_129_464,1029.97,1030.59,close fridge
+P02_129_465,1030.86,1031.67,open drawer
+P02_129_466,1031.95,1032.92,pick up fork
+P02_129_467,1032.99,1033.53,close door
+P02_129_468,1036.01,1036.85,put down parmesan cheese
+P02_129_469,1037.69,1038.5,pick up pan
+P02_129_47,103.79,105.03,slide garlic into pan using knife
+P02_129_470,1038.98,1045.47,pour pasta and tomatoes from pan into plate
+P02_129_471,1051.26,1051.97,put pan in sink
+P02_129_472,1052.4,1053.32,put fork in plate
+P02_129_473,1053.89,1054.55,open cupboard
+P02_129_474,1055.02,1056.61,pick up grater
+P02_129_475,1055.6,1056.56,close cupboard
+P02_129_476,1057.54,1058.04,pick up parmesan and cheese
+P02_129_477,1057.76,1058.6,put down grater
+P02_129_478,1058.44,1059.36,remove clip from packaging
+P02_129_479,1059.12,1060.28,put down clip
+P02_129_48,105.13,107.61,slide knife on side of pan
+P02_129_480,1060.17,1061.05,open parmesan packaging
+P02_129_481,1062.52,1063.09,pick up grater
+P02_129_482,1063.12,1088.59,grate parmesan cheese on top of plate
+P02_129_483,1089.3,1090.5,put down parmesan cheese
+P02_129_484,1090.78,1092.73,clear cheese from grater
+P02_129_485,1092.65,1093.45,put down grater
+P02_129_486,1093.05,1093.6,pick up cheese
+P02_129_487,1093.68,1096.53,close parmesan cheese packaging
+P02_129_488,1096.64,1097.28,pick up clip
+P02_129_489,1097.24,1098.48,attach clip to packaging
+P02_129_49,107.71,108.81,put down knife
+P02_129_490,1101.18,1104.69,attach clip to packaging
+P02_129_491,1105.53,1106.43,open fridge
+P02_129_492,1106.14,1106.9,put parmesan cheese in fridge
+P02_129_493,1106.82,1107.44,close fridge
+P02_129_494,1110.43,1111.88,pick up plate
+P02_129_5,7.88,8.89,pick up kettle
+P02_129_50,108.91,110.11,put down garlic presser
+P02_129_51,111.0,112.22,pick up olive oil bottle
+P02_129_52,112.24,113.82,open olive oil bottle
+P02_129_53,113.74,116.64,pour olive oil from bottle into pan
+P02_129_54,116.72,118.22,close olive oil bottle
+P02_129_55,118.28,119.32,put down olive oil bottle
+P02_129_56,122.79,123.44,open fridge
+P02_129_57,125.44,127.03,pick up cherry tomato box
+P02_129_58,127.01,128.01,close fridge
+P02_129_59,130.39,132.63,pick up chopping board
+P02_129_6,10.41,12.2,open tap
+P02_129_60,135.17,136.11,put down chopping board
+P02_129_61,136.21,137.4,move water filter
+P02_129_62,138.93,139.98,move blender
+P02_129_63,141.71,142.27,put down cherry tomato box
+P02_129_64,142.46,143.0,close washing machine door
+P02_129_65,143.16,144.34,pick cherry tomato from box
+P02_129_66,144.35,145.14,put cherry tomato in hand
+P02_129_67,145.24,146.22,pick cherry tomato from box
+P02_129_68,145.96,146.65,put cherry tomato in hand
+P02_129_69,148.47,149.62,open tap
+P02_129_7,11.85,16.15,fill water into kettle
+P02_129_70,149.7,153.14,rinse cherry tomato
+P02_129_71,153.17,154.42,close tap
+P02_129_72,154.62,157.45,shake hands
+P02_129_73,157.88,159.99,put cherry tomato on chopping board
+P02_129_74,162.08,162.95,pick up knife
+P02_129_75,165.8,167.51,cut cherry tomato in half
+P02_129_76,167.61,170.94,cut cherry tomato in half
+P02_129_77,171.84,173.6,cut cherry tomato in half
+P02_129_78,174.35,175.87,cut cherry tomato in half
+P02_129_79,176.19,178.2,cut cherry tomato in half
+P02_129_8,16.26,16.98,close tap
+P02_129_80,178.64,180.17,cut cherry tomato in half
+P02_129_81,180.93,182.57,cut cherry tomato in half
+P02_129_82,183.25,184.26,pick up chopping board
+P02_129_83,186.49,189.16,slide cherry tomato halves from chopping board into pan using knife
+P02_129_84,189.48,191.52,put down chopping board
+P02_129_85,190.18,191.27,put down knife
+P02_129_86,194.03,195.07,pick up spice jar
+P02_129_87,194.83,195.45,pick up salt
+P02_129_88,197.45,199.3,pour salt into pan
+P02_129_89,199.29,200.4,put down salt
+P02_129_9,17.36,18.16,close kettle
+P02_129_90,200.36,202.6,pour spice from jar into lid
+P02_129_91,202.24,203.5,return spice to jar
+P02_129_92,203.31,204.37,close spice jar
+P02_129_93,205.26,206.26,pick up spice jar
+P02_129_94,206.35,207.1,put down other spice jar
+P02_129_95,207.46,208.41,open spice jar
+P02_129_96,208.09,211.05,pour spice from jar into lid
+P02_129_97,211.12,212.48,return some spice from lid into jar
+P02_129_98,212.82,214.18,pour spice from lid into pan
+P02_129_99,214.24,215.53,close spice jar

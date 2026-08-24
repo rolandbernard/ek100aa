@@ -1,0 +1,350 @@
+P27_104_0,4.34,6.0,turn off phone
+P27_104_1,6.13,6.97,turn on machine
+P27_104_10,27.83,29.46,pick up towel
+P27_104_100,314.78,315.53,pick up fruit juice
+P27_104_101,315.63,317.96,put down fruit juice
+P27_104_102,319.81,320.57,pick up yogurt
+P27_104_103,320.88,322.88,put down yogurt
+P27_104_104,322.96,324.47,pick up peach
+P27_104_105,324.82,325.73,put down peach
+P27_104_106,326.26,327.43,close bag
+P27_104_107,327.95,328.56,open bag
+P27_104_108,331.55,332.08,open drawer
+P27_104_109,332.64,334.66,take fork
+P27_104_11,29.58,31.88,unfold towel
+P27_104_110,333.51,336.75,pick up knife
+P27_104_111,337.2,337.86,close drawer
+P27_104_112,339.65,340.2,put down fork
+P27_104_113,340.7,341.55,put down knife
+P27_104_114,341.46,348.17,fold tea towel
+P27_104_115,350.22,350.88,put down tea towel
+P27_104_116,352.99,357.4,adjust fruit juice
+P27_104_117,354.05,358.37,adjust tea towel
+P27_104_118,359.04,359.57,close bag
+P27_104_119,360.93,363.86,close bag
+P27_104_12,31.59,32.37,pick up cutlery
+P27_104_120,365.91,366.65,pick up peach
+P27_104_121,371.54,372.06,pick up glass
+P27_104_122,372.15,372.83,put down glass
+P27_104_123,373.03,374.95,pick up glass
+P27_104_124,376.04,376.92,open cupboard
+P27_104_125,377.76,379.15,put down glass
+P27_104_126,379.81,380.71,put down glass
+P27_104_127,380.55,381.96,move glass
+P27_104_128,382.06,382.8,pick up glass
+P27_104_129,383.46,384.22,put down glass
+P27_104_13,33.0,33.93,put down cutlery
+P27_104_130,385.22,387.0,pick up glass
+P27_104_131,387.05,389.1,open cupboard
+P27_104_132,389.03,389.95,put down glass
+P27_104_133,391.17,391.92,pick up glass
+P27_104_134,392.9,394.4,put down glass
+P27_104_135,394.5,399.27,pick up glass
+P27_104_136,399.1,400.6,put down glass
+P27_104_137,400.53,402.71,close cupboard
+P27_104_138,409.09,410.8,close cupboard
+P27_104_139,418.84,419.89,open garbage bin
+P27_104_14,35.85,36.91,move towel
+P27_104_140,418.76,420.28,throw skin
+P27_104_141,420.22,420.88,close garbage bin
+P27_104_142,423.1,423.74,turn on tap
+P27_104_143,423.81,424.26,wash hands
+P27_104_144,424.34,425.14,turn off tap
+P27_104_145,426.11,431.54,dry hands
+P27_104_146,432.93,434.31,pick up towel
+P27_104_147,433.75,435.58,hang towel
+P27_104_148,435.68,436.81,pick up coffee pod
+P27_104_149,436.75,437.78,pick up glass
+P27_104_15,37.09,37.74,open bag
+P27_104_150,438.39,438.81,lift lever
+P27_104_151,438.8,440.72,insert coffee pod
+P27_104_152,441.27,442.14,lower lever
+P27_104_153,441.43,442.53,pick up glass
+P27_104_154,442.41,443.15,put down glass
+P27_104_155,443.16,445.85,press button
+P27_104_156,457.22,466.16,press button
+P27_104_157,466.82,467.86,dry hands
+P27_104_158,468.84,469.57,pick up glass
+P27_104_159,469.93,470.67,put down glass
+P27_104_16,37.84,41.81,pick up container
+P27_104_160,470.83,471.7,pick up glass
+P27_104_161,472.43,473.67,put down glass
+P27_104_162,473.47,475.23,lift lever
+P27_104_163,476.36,477.9,remove coffee pod
+P27_104_164,477.92,478.7,lower lever
+P27_104_165,478.77,481.01,open garbage bin
+P27_104_166,480.19,481.1,throw coffee pod
+P27_104_167,480.9,481.61,close garbage bin
+P27_104_168,482.57,483.28,open sugar jar
+P27_104_169,484.13,485.67,pick up teaspoon
+P27_104_17,43.55,46.51,put down container
+P27_104_170,484.25,487.24,pick up sugar
+P27_104_171,488.83,489.74,pick up sugar
+P27_104_172,491.94,494.7,pour sugar
+P27_104_173,494.73,495.41,put down teaspoon
+P27_104_174,495.58,496.01,pick up lid
+P27_104_175,496.31,497.35,close sugar jar
+P27_104_176,497.32,498.17,pick up teaspoon
+P27_104_177,498.94,499.45,pick up glass
+P27_104_178,500.6,522.26,stir coffee
+P27_104_179,524.28,524.81,turn on tap
+P27_104_18,49.47,51.29,open fridge
+P27_104_180,524.27,528.4,wash teaspoon
+P27_104_181,528.43,530.89,use sponge
+P27_104_182,530.81,534.24,rinse teaspoon
+P27_104_183,534.33,536.37,put down teaspoon
+P27_104_184,536.8,537.63,turn off tap
+P27_104_185,538.72,540.12,dry hands
+P27_104_186,542.55,544.16,turn down machine
+P27_104_187,544.26,545.67,pick up spatula
+P27_104_188,545.77,547.23,put down spatula
+P27_104_189,548.21,551.52,pick up packaging
+P27_104_19,53.37,55.26,pick up bag
+P27_104_190,548.81,556.14,open packaging
+P27_104_191,555.75,561.25,close packaging
+P27_104_192,563.56,565.14,open fridge
+P27_104_193,565.21,566.01,put down packaging
+P27_104_194,567.9,568.67,close fridge
+P27_104_195,571.71,573.11,open oven
+P27_104_196,573.94,574.88,pick up baking tray
+P27_104_197,575.74,580.98,put down baking tray
+P27_104_198,581.08,583.15,close oven
+P27_104_199,592.6,593.11,move bag
+P27_104_2,9.59,11.05,pick up coffee pod
+P27_104_20,56.0,59.24,put down mozzarella
+P27_104_200,593.38,594.24,pick up glass
+P27_104_201,595.6,596.53,put down glass
+P27_104_202,597.13,598.05,pick up sponge
+P27_104_203,598.56,599.59,use soap
+P27_104_204,600.44,601.6,turn on tap
+P27_104_205,601.53,602.29,turn off tap
+P27_104_206,602.3,604.2,rinse sponge
+P27_104_207,604.75,605.53,pick up spatula
+P27_104_208,605.58,615.88,wash spatula
+P27_104_209,615.79,616.41,put down spatula
+P27_104_21,59.34,66.1,pick up yogurt
+P27_104_210,616.4,617.49,pick up cutlery
+P27_104_211,617.85,619.99,wash knife
+P27_104_212,620.22,620.92,put down knife
+P27_104_213,620.9,624.9,wash fork
+P27_104_214,625.0,626.25,put down fork
+P27_104_215,626.1,627.1,pick up knife
+P27_104_216,627.2,630.89,wash knife
+P27_104_217,630.8,631.8,put down knife
+P27_104_218,631.85,632.65,pick up glass
+P27_104_219,633.97,634.5,turn on tap
+P27_104_22,66.11,67.19,put down yogurt
+P27_104_220,633.0,635.64,turn off tap
+P27_104_221,635.72,643.46,wash glass
+P27_104_222,643.42,644.84,put down glass
+P27_104_223,645.55,647.3,pick up container
+P27_104_224,647.31,647.92,open container
+P27_104_225,648.01,655.96,wash lid
+P27_104_226,656.05,656.94,put down lid
+P27_104_227,657.04,658.23,pick up container
+P27_104_228,658.3,659.3,turn on tap
+P27_104_229,658.61,662.51,rinse container
+P27_104_23,67.14,73.04,pick up fruit juice
+P27_104_230,663.12,686.17,wash container
+P27_104_231,685.66,686.85,put down sponge
+P27_104_232,687.26,698.17,rinse container
+P27_104_233,698.27,700.11,put down container
+P27_104_234,700.43,701.24,pick up lid
+P27_104_235,701.18,703.91,rinse lid
+P27_104_236,703.71,705.31,put down lid
+P27_104_237,705.18,706.74,adjust lid
+P27_104_238,706.64,707.33,pick up glass
+P27_104_239,707.13,710.09,rinse glass
+P27_104_24,72.54,73.83,put down fruit juice
+P27_104_240,710.4,711.2,put down glass
+P27_104_241,712.23,713.05,pick up plate
+P27_104_242,713.4,714.2,pick up sponge
+P27_104_243,714.3,723.31,wash plate
+P27_104_244,723.48,723.93,put down sponge
+P27_104_245,724.25,731.0,rinse plate
+P27_104_246,731.23,732.91,put down plate
+P27_104_247,734.15,734.99,pick up spatula
+P27_104_248,735.56,736.49,put down spatula
+P27_104_249,737.07,739.61,pick up cutlery
+P27_104_25,76.69,83.23,pick up fruit juice
+P27_104_250,737.0,740.0,rinse knives
+P27_104_251,739.7,740.49,put down knives
+P27_104_252,740.82,742.21,rinse fork
+P27_104_253,741.05,743.3,put down fork
+P27_104_254,743.39,743.99,turn off tap
+P27_104_255,744.09,748.75,dry hands
+P27_104_256,748.59,750.35,hang towel
+P27_104_257,752.45,755.14,pick up phone
+P27_104_258,754.19,756.3,put down phone
+P27_104_259,757.67,758.66,pick up glass
+P27_104_26,82.54,88.54,pick up bottle
+P27_104_260,767.17,767.98,turn on tap
+P27_104_261,768.05,775.36,rinse glass
+P27_104_262,776.19,778.01,put down glass
+P27_104_263,778.22,778.53,turn off tap
+P27_104_264,778.55,783.71,dry hands
+P27_104_265,784.32,785.67,pick up plate
+P27_104_266,785.26,796.94,dry plate
+P27_104_267,796.96,798.06,open cupboard
+P27_104_268,800.33,800.92,lift napkin holder
+P27_104_269,802.11,803.19,put down plate
+P27_104_27,85.53,95.52,pick up bottle
+P27_104_270,805.35,806.46,pick up grater
+P27_104_271,806.92,807.58,put down grater
+P27_104_272,809.4,809.93,put down napkin holder
+P27_104_273,812.08,814.06,pick up plates
+P27_104_274,814.58,815.15,put down towel
+P27_104_275,817.58,818.91,put down plates
+P27_104_276,819.01,820.35,put down plate
+P27_104_277,823.95,825.69,put down plate
+P27_104_278,826.03,827.12,put down plate
+P27_104_279,829.62,830.59,pick up towel
+P27_104_28,95.62,98.83,put down bottle
+P27_104_280,830.5,832.86,move container
+P27_104_281,835.22,836.83,pick up glass
+P27_104_282,837.08,840.92,dry glass
+P27_104_283,841.09,842.01,open cupboard
+P27_104_284,842.1,843.25,put down glass
+P27_104_285,843.35,843.91,close cupboard
+P27_104_286,844.57,845.39,pick up glass
+P27_104_287,845.18,854.78,dry glass
+P27_104_288,854.85,855.79,put down glass
+P27_104_289,860.85,861.76,hang towel
+P27_104_29,98.72,101.88,close fridge
+P27_104_290,863.71,866.52,close cupboard
+P27_104_291,867.0,867.98,pick up napkin holder
+P27_104_292,869.11,870.38,open cupboard
+P27_104_293,870.89,871.91,put down napkin holder
+P27_104_294,872.84,874.61,close cupboard
+P27_104_295,876.25,877.55,open fridge
+P27_104_296,882.43,883.28,open drawer
+P27_104_297,883.72,884.84,move bag
+P27_104_298,884.97,886.04,close drawer
+P27_104_299,888.26,889.44,pick up fruit juice
+P27_104_3,11.12,15.51,put down coffee pod
+P27_104_30,102.84,103.33,open garbage bin
+P27_104_300,889.89,890.75,open bottle
+P27_104_301,891.52,893.32,pick up bottle
+P27_104_302,893.71,894.92,open bottle
+P27_104_303,896.34,897.09,pick up fruit juice
+P27_104_304,897.78,904.84,pour water
+P27_104_305,905.12,906.12,put down bottles
+P27_104_306,906.16,907.09,pick up lid
+P27_104_307,907.13,908.1,close bottle
+P27_104_308,909.54,911.48,put down bottle
+P27_104_309,912.4,913.74,pick up fruit juice
+P27_104_31,103.23,104.46,throw paper
+P27_104_310,923.02,925.32,pick up bottle
+P27_104_311,924.09,926.08,close fridge
+P27_104_312,927.86,929.11,open cupboard
+P27_104_313,929.91,932.48,open bag
+P27_104_314,931.61,934.39,open bag
+P27_104_315,934.49,935.51,pick up bottle
+P27_104_316,936.63,938.76,pick up bottle
+P27_104_317,939.67,940.61,pick up bottle
+P27_104_318,941.33,943.38,close cupboard
+P27_104_319,945.66,948.56,open fridge
+P27_104_32,105.78,107.07,open cupboard
+P27_104_320,949.5,952.25,put down bottle
+P27_104_321,952.35,954.85,put down bottle
+P27_104_322,957.07,959.15,close fridge
+P27_104_323,966.19,967.03,pick up container
+P27_104_324,968.33,969.31,put down container
+P27_104_325,977.5,979.0,open drawer
+P27_104_326,978.16,980.24,pick up package
+P27_104_327,981.09,985.2,pick up crackers
+P27_104_328,985.04,986.05,put down package
+P27_104_329,986.01,987.51,close drawer
+P27_104_33,108.49,111.56,pick up bottle
+P27_104_330,991.08,993.32,move bag
+P27_104_331,994.0,995.71,open bag
+P27_104_332,996.84,997.64,put down crackers
+P27_104_333,998.04,999.21,move peach
+P27_104_334,999.3,1000.01,put down crackers
+P27_104_335,1000.9,1001.92,move peach
+P27_104_336,1000.82,1002.8,move peach
+P27_104_337,1003.3,1003.85,put down crackers
+P27_104_338,1003.71,1004.7,put down peach
+P27_104_339,1005.2,1005.87,pick up peach
+P27_104_34,111.93,112.92,close cupboard
+P27_104_340,1004.57,1005.97,put down peach
+P27_104_341,1006.04,1010.53,close bag
+P27_104_342,1010.49,1014.59,pick up bag
+P27_104_343,1015.04,1017.19,put down bag
+P27_104_344,1027.72,1030.11,pick up container
+P27_104_345,1029.35,1032.4,dry container
+P27_104_346,1029.35,1038.96,hang towel
+P27_104_347,1040.33,1041.88,open cupboard
+P27_104_348,1041.39,1044.97,put down container
+P27_104_349,1046.01,1047.97,close cupboard
+P27_104_35,114.86,116.01,open fridge
+P27_104_36,117.74,119.42,put down bottle
+P27_104_37,124.69,125.48,pick up tray
+P27_104_38,128.37,130.94,turn on phone
+P27_104_39,133.64,136.0,pick up grapes
+P27_104_4,14.84,15.56,put down coffee pod
+P27_104_40,136.05,137.14,pick up peach
+P27_104_41,138.79,140.46,pick up peach
+P27_104_42,140.51,141.42,put down peach
+P27_104_43,141.4,142.41,pick up peach
+P27_104_44,142.3,143.99,put down peach
+P27_104_45,144.63,145.87,pick up peach
+P27_104_46,145.78,146.72,put down eggs
+P27_104_47,146.72,147.93,put down tray
+P27_104_48,153.02,153.62,turn on tap
+P27_104_49,153.72,155.0,wash peach
+P27_104_5,15.77,16.49,pick up paper
+P27_104_50,154.25,155.0,turn off tap
+P27_104_51,154.88,155.87,shake peach
+P27_104_52,155.93,161.11,use towel
+P27_104_53,156.96,160.47,dry peach
+P27_104_54,166.26,169.9,open drawer
+P27_104_55,170.0,171.44,pick up tin can
+P27_104_56,171.15,172.19,put down tin can
+P27_104_57,172.29,173.29,pick up tin can
+P27_104_58,173.21,175.34,close drawer
+P27_104_59,179.52,183.1,put down tin can
+P27_104_6,16.84,18.3,open garbage bin
+P27_104_60,190.27,191.81,put down peach
+P27_104_61,192.22,193.25,turn on tap
+P27_104_62,194.1,194.92,pick up sponge
+P27_104_63,194.89,196.61,use soap
+P27_104_64,196.34,197.71,rinse sponge
+P27_104_65,198.21,199.17,pick up tray
+P27_104_66,199.27,199.91,wash tray
+P27_104_67,200.4,202.4,wash lid
+P27_104_68,202.46,204.01,open container
+P27_104_69,204.18,204.73,put down lid
+P27_104_7,18.4,19.37,throw paper
+P27_104_70,204.87,205.97,rinse container
+P27_104_71,206.44,218.01,wash container
+P27_104_72,217.61,218.29,put down sponge
+P27_104_73,218.99,225.43,rinse container
+P27_104_74,225.23,226.58,pick up lid
+P27_104_75,226.62,229.64,rinse lid
+P27_104_76,229.33,230.76,turn off tap
+P27_104_77,231.87,233.31,put down container
+P27_104_78,234.55,236.35,pick up sponge
+P27_104_79,235.82,238.64,wash lid
+P27_104_8,19.38,20.01,close garbage bin
+P27_104_80,238.08,238.77,put down sponge
+P27_104_81,238.87,239.59,turn on tap
+P27_104_82,239.45,243.7,rinse lid
+P27_104_83,243.64,244.52,turn off tap
+P27_104_84,246.16,264.02,dry lid
+P27_104_85,265.26,267.29,put down lid
+P27_104_86,268.35,269.12,pick up container
+P27_104_87,271.15,289.46,dry container
+P27_104_88,289.56,290.39,put down container
+P27_104_89,291.77,293.76,put down towel
+P27_104_9,23.0,26.8,open bag
+P27_104_90,294.0,296.5,pick up lid
+P27_104_91,295.85,297.3,put down lid
+P27_104_92,297.4,297.83,pick up mozzarella
+P27_104_93,297.8,299.35,put down mozzarella
+P27_104_94,299.65,300.21,pick up lid
+P27_104_95,299.9,301.05,close container
+P27_104_96,301.15,306.9,pick up container
+P27_104_97,308.27,309.3,put down container
+P27_104_98,310.44,311.32,pick up tin can
+P27_104_99,311.94,312.82,put down tin can

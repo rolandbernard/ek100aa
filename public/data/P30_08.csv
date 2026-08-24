@@ -1,0 +1,331 @@
+P30_08_0,5.89,6.8,take mug
+P30_08_1,8.2,8.77,open bin
+P30_08_10,25.01,25.93,empty cafetiere
+P30_08_100,278.47,294.34,continue rinsing jug
+P30_08_101,294.15,296.36,put jug in drying rack
+P30_08_102,297.02,298.67,turn off tap
+P30_08_103,299.16,301.16,fill jug
+P30_08_104,299.28,300.01,turn on tap
+P30_08_105,301.26,302.32,empty jug
+P30_08_106,302.37,304.19,put jug in drying rack
+P30_08_107,306.53,308.59,turn on tap
+P30_08_108,308.0,311.74,rinse strainer
+P30_08_109,312.98,318.7,wash strainer
+P30_08_11,25.95,27.0,turn tap on
+P30_08_110,318.8,322.04,continue washing cafetiere strainer
+P30_08_111,322.22,327.45,rinse cafetiere strainer
+P30_08_112,327.5,328.24,turn off water
+P30_08_113,328.34,329.54,put cafetiere strainer on drying rack
+P30_08_114,335.14,338.24,wash mug
+P30_08_115,335.34,336.71,rinse mug
+P30_08_116,338.76,343.91,rinse mug
+P30_08_117,342.85,344.26,turn on tap
+P30_08_118,344.01,344.66,turn off tap
+P30_08_119,347.43,350.69,wash v60
+P30_08_12,26.03,30.06,rinse cafetiere
+P30_08_120,351.01,353.95,continue washing v60
+P30_08_121,353.82,355.19,turn on tap
+P30_08_122,355.29,360.82,rinse v60
+P30_08_123,360.73,361.53,turn off tap
+P30_08_124,361.48,363.29,put v60 on drying rack
+P30_08_125,363.46,364.26,take mug
+P30_08_126,364.06,369.54,wash mug
+P30_08_127,369.64,374.64,rinse
+P30_08_128,375.08,377.61,put mug in drying rack
+P30_08_129,375.12,376.62,turn on tap
+P30_08_13,27.1,29.99,rinse cafetiere
+P30_08_130,377.87,379.02,take mug
+P30_08_131,379.12,383.54,wash mug
+P30_08_132,379.34,381.65,rinse mug
+P30_08_133,383.93,388.1,continuing washing mug
+P30_08_134,387.5,391.95,rinse mug
+P30_08_135,392.04,393.16,put mug in drying rack
+P30_08_136,394.29,396.26,fill mug
+P30_08_137,396.43,400.42,wash mug
+P30_08_138,399.59,403.26,continue washing mug
+P30_08_139,403.45,404.43,turn on tap
+P30_08_14,28.98,30.37,turn off tap
+P30_08_140,404.53,407.0,rinse mug
+P30_08_141,407.1,409.53,continue rinsing mug
+P30_08_142,409.47,410.48,turn off tap
+P30_08_143,410.88,416.5,rinse sponge
+P30_08_144,415.24,425.22,wipe surface
+P30_08_145,416.6,424.02,wipe surface
+P30_08_146,424.67,425.6,put mug
+P30_08_147,425.6,426.4,put spoons into washing up bowl
+P30_08_148,426.5,429.75,put mug into washing up bowl
+P30_08_149,429.75,435.3,wash mug
+P30_08_15,30.09,31.63,empty cafetiere
+P30_08_150,435.08,437.59,turn on tap
+P30_08_151,436.91,440.82,rinse mug
+P30_08_152,439.41,441.44,continue rinsing mug
+P30_08_153,441.54,442.66,put mug on drying rack
+P30_08_154,443.19,444.44,take glass
+P30_08_155,445.25,450.46,wash glass
+P30_08_156,449.91,455.25,rinse glass
+P30_08_157,455.22,456.24,put glass
+P30_08_158,456.69,457.51,take glass
+P30_08_159,457.62,465.88,wash glass
+P30_08_16,30.36,31.25,empty cafetiere
+P30_08_160,465.95,467.07,turn on tap
+P30_08_161,466.17,471.94,rinse glass
+P30_08_162,472.2,473.34,put glass on drying rack
+P30_08_163,477.52,478.64,close cupboard
+P30_08_164,478.61,486.61,wash spoons
+P30_08_165,482.83,486.61,continue washing spoons
+P30_08_166,486.61,490.04,rinse spoons
+P30_08_167,490.04,491.1,turn off tap
+P30_08_168,491.19,492.24,put spoons in drying rack
+P30_08_169,492.34,494.97,take bowl
+P30_08_17,32.25,33.33,turn tap on
+P30_08_170,494.88,496.67,put bowl in washing up bowl
+P30_08_171,496.68,497.71,take box
+P30_08_172,497.13,503.21,put box
+P30_08_173,497.81,500.51,close box
+P30_08_174,500.11,501.53,open fridge
+P30_08_175,503.36,504.24,close fridge
+P30_08_176,505.2,508.96,stir pasta
+P30_08_177,509.23,510.47,press button on microwave
+P30_08_178,512.76,518.12,wash spoon
+P30_08_179,515.26,519.41,continue washing spoon
+P30_08_18,32.88,34.4,rinse cafetiere
+P30_08_180,521.97,527.21,rinse bowl
+P30_08_181,526.81,528.16,rinse spoon
+P30_08_182,528.14,530.1,put bowl on drying rack
+P30_08_183,529.15,530.75,put spoon on the drying rack
+P30_08_184,545.67,549.9,dry hands
+P30_08_185,551.51,552.26,take bottle
+P30_08_186,552.13,553.35,turn tap on
+P30_08_187,553.49,554.6,open bottle
+P30_08_188,554.34,555.39,empty bottle
+P30_08_189,556.4,558.15,check watch temperature
+P30_08_19,33.99,34.5,turn tap off
+P30_08_190,558.51,562.76,fill water bottle
+P30_08_191,563.11,564.16,put lid on bottle
+P30_08_192,563.77,571.23,fill bottle
+P30_08_193,564.47,565.25,take bottle
+P30_08_194,565.02,565.74,take bottle lid off
+P30_08_195,570.71,571.54,turn off tap
+P30_08_196,571.63,572.8,put lid on bottle
+P30_08_197,573.84,575.26,open fridge
+P30_08_198,575.68,577.51,take bottle
+P30_08_199,577.37,579.22,put bottle
+P30_08_2,8.97,9.7,put teabag in bin
+P30_08_20,40.17,45.59,remove rubbish from sink
+P30_08_200,579.26,582.38,put bottle in recycling
+P30_08_201,582.54,584.26,close fridge
+P30_08_202,584.62,591.56,stir pasta
+P30_08_203,591.66,592.91,open microwave
+P30_08_204,592.64,596.82,take bowl
+P30_08_205,596.41,597.24,put bowl
+P30_08_206,597.19,598.34,take kettle
+P30_08_207,600.34,603.48,fill kettle
+P30_08_208,604.16,605.81,put kettle
+P30_08_209,605.45,606.19,turn kettle on
+P30_08_21,46.99,47.89,open bin
+P30_08_210,606.39,608.06,open drawer
+P30_08_211,607.87,609.88,take spoon
+P30_08_212,609.91,612.76,mix food
+P30_08_213,611.95,618.72,continue mixing food
+P30_08_214,618.69,619.9,open cupboard
+P30_08_215,620.56,622.43,take colander
+P30_08_216,622.84,623.67,close cupboard
+P30_08_217,623.73,624.35,put colander
+P30_08_218,624.27,625.14,close microwave
+P30_08_219,625.57,627.8,empty washing up bowl
+P30_08_22,47.99,48.67,put rubbish in bin
+P30_08_220,628.15,631.17,rinse washing up bowl
+P30_08_221,631.27,635.75,put washing up bowl
+P30_08_222,635.85,637.17,move sponge
+P30_08_223,636.96,639.19,put sponges on drying rack
+P30_08_224,642.89,645.35,stir pasta
+P30_08_225,645.58,656.77,remove piece of pasta from saucepan
+P30_08_226,663.6,664.96,take kettle
+P30_08_227,665.33,667.65,pour water into bowl
+P30_08_228,667.75,669.39,put kettle
+P30_08_229,669.49,675.14,stir food
+P30_08_23,50.4,51.72,wash hands
+P30_08_230,676.03,676.82,open fridge
+P30_08_231,676.92,679.24,put food box into fridge
+P30_08_232,681.09,683.2,take carrot box
+P30_08_233,683.66,684.46,put carrot box
+P30_08_234,685.21,688.12,take humus
+P30_08_235,688.24,689.48,put humus
+P30_08_236,689.45,690.54,close fridge
+P30_08_237,691.4,692.52,take bowl
+P30_08_238,694.48,696.8,open box of carrots
+P30_08_239,696.4,698.41,take carrots from box
+P30_08_24,50.44,51.24,turn tap on
+P30_08_240,698.51,699.87,put carrots into bowl
+P30_08_241,702.3,704.3,close box
+P30_08_242,704.9,705.69,open fridge
+P30_08_243,706.06,708.27,put box of carrots into fridge
+P30_08_244,708.48,709.4,close fridge
+P30_08_245,710.63,713.92,stir pasta
+P30_08_246,715.62,716.51,open cupboard
+P30_08_247,716.61,718.8,take plate
+P30_08_248,721.4,722.37,open hummus
+P30_08_249,722.22,722.93,put hummus on plate
+P30_08_25,51.82,52.69,rinse cafetiere
+P30_08_250,723.99,725.0,put carrot into hummus
+P30_08_251,724.77,725.88,eat carrot
+P30_08_252,728.36,731.0,close hummus
+P30_08_255,740.02,743.35,stir pasta
+P30_08_256,743.45,744.83,put coffee scoop in coffee grinder
+P30_08_257,760.35,761.58,take mug
+P30_08_258,761.62,763.45,put mug
+P30_08_259,765.02,767.65,take v60
+P30_08_26,52.5,53.32,turn tap off
+P30_08_260,767.75,768.62,put v60
+P30_08_261,769.08,772.42,take filter paper
+P30_08_262,772.69,778.9,fold filter paper
+P30_08_263,774.73,780.99,put filter paper in v60
+P30_08_264,779.0,780.73,open filter paper
+P30_08_265,783.08,785.44,open bag of coffee
+P30_08_266,785.54,788.21,change grind setting on grinder
+P30_08_267,790.03,791.85,scoop coffee
+P30_08_268,791.95,793.8,put coffee into grinder
+P30_08_269,794.17,794.72,turn grinder on
+P30_08_27,53.05,55.4,take bottle
+P30_08_270,795.4,796.6,put coffee back on top of microwave
+P30_08_271,797.31,805.23,take coffee from grinder
+P30_08_272,805.47,807.6,put coffee into v60
+P30_08_273,812.08,814.53,adjust gas temperature
+P30_08_274,820.78,821.88,put colander in sink
+P30_08_275,822.57,827.69,stir pasta
+P30_08_276,851.79,856.55,stir food
+P30_08_277,857.23,858.52,put spoon on plate
+P30_08_278,859.33,860.29,open microwave
+P30_08_279,860.39,861.65,put food in microwave
+P30_08_28,56.55,57.3,open fridge
+P30_08_280,861.65,862.3,close microwave
+P30_08_281,862.48,864.19,start microwave
+P30_08_282,882.23,885.02,open microwave
+P30_08_283,887.84,891.27,take food from microwave
+P30_08_284,888.06,891.81,put food
+P30_08_285,893.97,897.0,wipe the inside microwave
+P30_08_286,896.65,901.78,wipe microwave
+P30_08_287,899.8,903.18,continue wiping microwave
+P30_08_288,903.28,905.65,continue wiping microwave
+P30_08_289,905.75,911.11,continue wiping microwave
+P30_08_29,56.96,59.65,take box from fridge
+P30_08_290,914.98,918.5,put plate into microwave
+P30_08_291,921.24,921.99,close microwave
+P30_08_292,922.24,923.28,take spoon from pot
+P30_08_293,923.31,925.01,put spoon on surface
+P30_08_294,930.64,932.12,pour pasta into colander
+P30_08_295,932.71,934.6,take colander from sink
+P30_08_296,934.12,935.46,put colander on pot
+P30_08_297,950.3,952.28,pour pasta from colander into saucepan
+P30_08_298,953.5,955.03,turn top on
+P30_08_299,955.13,959.12,hang oven gloves
+P30_08_3,10.67,12.97,put mug
+P30_08_30,59.75,62.81,close fridge
+P30_08_300,958.81,964.99,spoon food into pasta
+P30_08_301,966.08,969.62,fill bowl with water
+P30_08_302,973.06,984.93,stir food
+P30_08_303,989.44,990.66,take salt
+P30_08_304,992.63,993.82,put salt
+P30_08_305,994.05,995.01,take pepper
+P30_08_306,994.98,1002.97,put pepper onto food
+P30_08_307,1003.07,1004.63,put pepper
+P30_08_308,1004.88,1014.33,stir food
+P30_08_309,1018.35,1019.34,put spoon in sink
+P30_08_31,62.91,64.63,open cupboard
+P30_08_310,1019.83,1024.25,move pan
+P30_08_311,1025.11,1036.69,spoon contents of pan onto plate
+P30_08_312,1046.38,1047.04,open drawer
+P30_08_313,1047.55,1050.11,take fork
+P30_08_314,1050.02,1051.54,put fork on plate
+P30_08_315,1052.52,1053.83,close drawer
+P30_08_316,1057.36,1058.04,open fridge
+P30_08_317,1058.14,1059.17,take water bottle
+P30_08_318,1059.0,1059.91,close fridge
+P30_08_319,1062.37,1064.15,turn off tap
+P30_08_32,64.15,67.7,take pasta
+P30_08_320,1064.25,1069.57,wash spoon
+P30_08_321,1069.67,1076.83,rinse spoon
+P30_08_322,1076.93,1077.9,turn off tap
+P30_08_323,1077.95,1079.57,put spoon in drying rack
+P30_08_324,1079.41,1081.15,empty bowl
+P30_08_325,1081.53,1082.37,turn on tap
+P30_08_326,1082.41,1087.4,rinse saucepan
+P30_08_327,1087.57,1090.15,rinse bowl
+P30_08_328,1090.25,1091.99,remove colander from washing up bowl
+P30_08_329,1093.27,1098.58,empty washing up bowl
+P30_08_33,67.8,69.05,close cupboard
+P30_08_330,1099.07,1101.21,put spoon in colander
+P30_08_331,1102.54,1109.12,dry hands
+P30_08_332,1103.17,1104.48,put bowl in saucepan
+P30_08_34,70.54,72.01,take kettle
+P30_08_35,72.8,73.56,put kettle
+P30_08_36,73.66,74.45,turn kettle on
+P30_08_37,74.52,75.78,open cupboard
+P30_08_38,78.93,80.0,take bowl
+P30_08_39,80.1,80.87,close cupboard
+P30_08_4,10.77,11.83,take v60
+P30_08_40,81.27,82.17,put bowl
+P30_08_41,84.01,85.49,take pasta
+P30_08_42,85.48,88.31,open pasta bag
+P30_08_43,88.25,95.35,pour pasta into bowl
+P30_08_44,95.3,97.48,close bag of pasta
+P30_08_45,97.58,100.91,put clip on bag of pasta
+P30_08_46,101.75,102.56,open cupboard
+P30_08_47,102.9,103.98,put bag of pasta back
+P30_08_48,105.59,107.87,take bottle
+P30_08_49,107.96,108.66,move bottle
+P30_08_5,12.2,13.98,put filter in bin
+P30_08_50,109.12,109.91,take bowl
+P30_08_51,109.81,110.92,put bowl
+P30_08_52,111.88,113.78,move pan
+P30_08_53,117.71,118.73,open cupboard
+P30_08_54,118.86,122.07,take saucepan
+P30_08_55,123.92,124.64,put saucepan
+P30_08_56,125.39,126.22,put salt in saucepan
+P30_08_57,134.57,135.37,turn off kettle
+P30_08_58,135.5,141.66,pour water into saucepan
+P30_08_59,144.18,145.73,put saucepan on hob
+P30_08_6,14.56,15.8,put v60
+P30_08_60,145.66,148.4,turn on gas
+P30_08_61,149.63,156.41,put pasta into saucepan
+P30_08_62,165.7,167.63,take bowl
+P30_08_63,167.73,172.27,rinse bowl
+P30_08_64,167.88,168.87,turn on tap
+P30_08_65,170.98,171.96,turn off tap
+P30_08_66,172.97,174.94,take plate
+P30_08_67,174.59,176.65,open cupboard
+P30_08_68,176.1,178.05,put plate
+P30_08_69,177.77,179.5,take saucepan lid
+P30_08_7,17.56,18.59,take cafetiere
+P30_08_70,179.82,180.44,put saucepan lid
+P30_08_71,181.23,183.09,put washing up bowl in sink
+P30_08_72,184.29,184.92,open cupboard
+P30_08_73,185.02,186.29,take bowl
+P30_08_74,186.97,189.06,open box of food
+P30_08_75,191.82,199.14,transfer food from box into bowl
+P30_08_76,195.0,202.32,continue transferring food from box into bowl
+P30_08_77,202.42,203.0,take bowl
+P30_08_78,203.34,204.35,open microwave
+P30_08_79,204.14,205.16,put bowl in microwave
+P30_08_8,19.88,20.89,turn tap on
+P30_08_80,206.06,209.03,start microwave
+P30_08_81,216.52,223.94,put lid on box
+P30_08_82,224.74,225.93,move spoons
+P30_08_83,226.75,228.79,take mugs
+P30_08_84,228.68,230.06,put mugs
+P30_08_85,230.16,231.99,take mug in jug
+P30_08_86,232.09,234.42,put mug in jug
+P30_08_87,236.51,237.85,take mug in glass
+P30_08_88,237.95,239.71,put mug in glass
+P30_08_89,239.68,241.12,take jug out cafetiere
+P30_08_9,20.74,23.88,fill cafetiere
+P30_08_90,242.99,244.64,tun water on
+P30_08_91,245.03,250.66,put washing up liquid in washing up bowl
+P30_08_92,251.25,253.13,put sponge in washing up bowl
+P30_08_93,255.95,258.16,turn off tap
+P30_08_94,258.02,260.6,wash jug
+P30_08_95,260.72,265.97,turn down gas
+P30_08_96,265.41,272.57,wash jug
+P30_08_97,272.67,277.17,continue washing jug
+P30_08_98,277.27,285.43,rinse jug
+P30_08_99,277.41,278.37,turn on tap

@@ -1,0 +1,58 @@
+P20_03_0,2.5,4.5,open drawer
+P20_03_1,4.85,6.35,pick up bowl
+P20_03_10,31.55,32.41,pick up bowl
+P20_03_11,32.35,33.25,put down bowl
+P20_03_12,33.62,34.96,put down cereal box
+P20_03_13,33.98,37.42,close cereal box
+P20_03_14,38.29,38.95,move cereal box
+P20_03_15,40.36,40.91,open fridge
+P20_03_16,42.07,43.25,pick up milk
+P20_03_17,43.87,44.77,close fridge
+P20_03_18,45.35,46.23,put down milk
+P20_03_19,46.04,51.01,open lid of milk
+P20_03_2,6.1,7.35,close drawer
+P20_03_20,51.98,60.9,pour milk into cereal bowl
+P20_03_21,61.49,63.02,close
+P20_03_22,63.15,64.54,drink milk
+P20_03_23,65.03,68.16,close milk
+P20_03_24,69.43,71.41,open fridge
+P20_03_25,71.85,75.19,put milk into fridge
+P20_03_26,75.16,77.33,close fridge
+P20_03_27,78.59,79.8,open cupboard
+P20_03_28,79.88,83.41,take bread from cupboard
+P20_03_29,87.37,90.2,put bread on counter
+P20_03_3,7.35,8.61,pick up cereal
+P20_03_30,91.53,92.94,open fridge
+P20_03_31,93.09,94.93,pick up salami
+P20_03_32,97.12,100.05,move bread
+P20_03_33,99.82,100.65,put down salami
+P20_03_34,103.49,104.91,open dishwasher
+P20_03_35,104.95,106.33,open dishwasher drawer
+P20_03_36,106.43,109.15,pick up fork
+P20_03_37,109.25,110.51,close dishwasher
+P20_03_38,111.94,115.09,put fork in bowl
+P20_03_39,112.23,115.07,pick up bowl
+P20_03_4,7.69,10.19,put down cereal
+P20_03_40,119.15,120.64,move chair
+P20_03_41,120.71,123.71,sit on chair
+P20_03_42,130.7,132.19,pick up scissors
+P20_03_43,131.68,137.68,cut salami packaging with scissors
+P20_03_44,144.0,144.58,put down salami
+P20_03_45,144.43,161.66,remove salami from packaging
+P20_03_46,167.51,168.95,take a slice of bread from packaging
+P20_03_47,169.05,171.4,put salami on bread
+P20_03_48,171.43,185.57,take salami from packaging
+P20_03_49,172.23,185.58,still taking salami from packaging
+P20_03_5,9.61,10.76,put down bowl
+P20_03_50,186.09,188.13,put salami on bread
+P20_03_51,191.93,195.89,close bread packaging
+P20_03_52,197.23,200.56,move salami on top of bread
+P20_03_53,200.69,202.25,put salami
+P20_03_54,203.0,204.56,open fridge
+P20_03_55,205.4,206.32,pick up salami
+P20_03_56,206.57,208.17,put salami into fridge
+P20_03_57,209.01,211.03,close fridge
+P20_03_6,10.89,14.79,open cereal box
+P20_03_7,14.89,22.64,still opening cereal box
+P20_03_8,23.49,32.24,pour cereal into bowl
+P20_03_9,23.75,28.48,still pouring cereal into bowl

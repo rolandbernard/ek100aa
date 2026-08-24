@@ -1,0 +1,127 @@
+P25_101_0,2.75,4.37,put down plate
+P25_101_1,4.35,5.6,open drawer
+P25_101_10,27.7,28.89,put down lid
+P25_101_100,340.3,341.85,flip meat
+P25_101_101,342.76,345.4,put down fork
+P25_101_102,352.68,357.19,pick up oil
+P25_101_103,356.98,358.04,put down oil
+P25_101_104,359.89,360.74,pick up lighter
+P25_101_105,361.54,362.11,open drawer
+P25_101_106,362.2,363.07,put down lighter
+P25_101_107,362.13,363.18,close drawer
+P25_101_108,363.51,364.67,pick up lid
+P25_101_109,366.31,368.11,throw lid
+P25_101_11,29.67,41.96,pour oil
+P25_101_110,369.72,370.61,pick up paper
+P25_101_111,371.73,373.12,throw paper
+P25_101_112,373.22,374.75,take fork
+P25_101_113,375.14,378.93,stir meat
+P25_101_114,379.01,379.43,pick up meat
+P25_101_115,380.18,381.42,flip meat
+P25_101_116,380.38,381.7,flip meat
+P25_101_117,395.98,397.49,pick up meat
+P25_101_118,397.46,399.13,put down meat
+P25_101_119,399.2,400.69,pick up meat
+P25_101_12,42.72,43.77,twist on cap
+P25_101_120,400.67,401.93,put down meat
+P25_101_121,401.89,403.32,pick up meat
+P25_101_122,404.8,406.7,put down meat
+P25_101_123,407.1,408.43,put down fork
+P25_101_124,407.75,412.08,pick up pan
+P25_101_125,413.01,415.21,turn on tap
+P25_101_126,414.83,426.95,put down pan
+P25_101_13,44.1,44.72,put down oil
+P25_101_14,49.98,51.22,pick up lid
+P25_101_15,50.05,51.08,move plate
+P25_101_16,52.29,53.39,put down lid
+P25_101_17,53.68,54.68,open cupboard
+P25_101_18,54.67,56.74,pick up plate
+P25_101_19,56.71,59.38,put down plate
+P25_101_2,5.59,6.69,pick up lighter
+P25_101_20,59.42,61.35,close cupboard
+P25_101_21,61.82,63.2,open drawer
+P25_101_22,63.07,68.11,take fork
+P25_101_23,68.21,71.16,put down fork
+P25_101_24,84.12,85.3,pick up meat
+P25_101_25,85.4,87.56,lay meat
+P25_101_26,87.41,91.37,pick up meat
+P25_101_27,91.09,92.52,put down meat
+P25_101_28,92.85,94.35,pick up meat
+P25_101_29,94.45,95.87,put down meat
+P25_101_3,6.99,8.64,move pot
+P25_101_30,95.94,97.11,pick up meat
+P25_101_31,97.21,98.89,put down meat
+P25_101_32,98.93,101.21,pick up meat
+P25_101_33,101.23,102.4,put down meat
+P25_101_34,102.71,103.65,pick up meat
+P25_101_35,103.74,104.93,put down meat
+P25_101_36,104.96,106.06,take fork
+P25_101_37,106.0,113.16,stir meat
+P25_101_38,112.77,113.94,put down fork
+P25_101_39,113.97,123.77,pick up
+P25_101_4,9.14,11.38,turn on hob
+P25_101_40,123.52,125.03,open drawer
+P25_101_41,125.0,126.05,put down washing up liquid
+P25_101_42,127.63,128.71,take fork
+P25_101_43,128.81,136.75,check meat
+P25_101_44,136.74,138.08,put down fork
+P25_101_45,146.94,149.99,take fork
+P25_101_46,149.54,151.83,move oil
+P25_101_47,151.58,153.33,pick up lid
+P25_101_48,152.86,155.87,close jar
+P25_101_49,155.97,156.73,open cupboard
+P25_101_5,13.59,16.59,move pan
+P25_101_50,156.55,157.68,put down jar
+P25_101_51,157.53,158.52,close cupboard
+P25_101_52,160.75,162.23,take fork
+P25_101_53,162.18,167.04,stir meat
+P25_101_54,167.45,184.96,flip meat
+P25_101_55,185.68,187.8,put down fork
+P25_101_56,193.93,196.88,take fork
+P25_101_57,196.84,202.71,stir meat
+P25_101_58,213.72,217.05,put down fork
+P25_101_59,217.93,220.19,take fork
+P25_101_6,17.14,18.26,put down lighter
+P25_101_60,220.64,227.13,stir meat
+P25_101_61,227.58,229.34,flip meat
+P25_101_62,229.42,231.47,flip meat
+P25_101_63,233.42,234.97,flip meat
+P25_101_64,241.13,245.69,flip meat
+P25_101_65,245.79,248.61,flip meat
+P25_101_66,248.71,250.86,flip meat
+P25_101_67,255.97,257.02,flip meat
+P25_101_68,268.63,271.03,pick up meat
+P25_101_69,271.73,273.2,put down meat
+P25_101_7,18.78,19.48,pick up oil
+P25_101_70,273.74,275.02,pick up meat
+P25_101_71,274.9,277.15,put down meat
+P25_101_72,277.14,279.87,pick up meat
+P25_101_73,279.98,280.74,put down meat
+P25_101_74,280.81,282.84,pick up meat
+P25_101_75,283.54,284.9,put down meat
+P25_101_76,284.87,287.51,pick up meat
+P25_101_77,286.94,288.25,put down meat
+P25_101_78,288.51,290.51,pick up meat
+P25_101_79,290.61,291.95,put down meat
+P25_101_8,19.58,21.06,twist off lid
+P25_101_80,293.05,293.92,pick up meat
+P25_101_81,294.12,295.15,put down meat
+P25_101_82,295.03,296.19,pick up meat
+P25_101_83,296.34,297.41,put down meat
+P25_101_84,297.6,298.87,pick up meat
+P25_101_85,299.02,300.05,put down meat
+P25_101_86,301.03,302.81,pick up plate
+P25_101_87,303.22,304.66,move plate
+P25_101_88,304.52,305.7,put down plate
+P25_101_89,305.11,306.95,turn on tap
+P25_101_9,22.82,27.79,remove lid
+P25_101_90,311.09,314.36,rinse hands
+P25_101_91,313.96,315.82,turn off tap
+P25_101_92,319.41,321.36,pick up paper
+P25_101_93,321.81,322.66,tear paper
+P25_101_94,322.32,323.46,put down paper
+P25_101_95,323.39,330.39,dry hands
+P25_101_96,330.31,331.61,throw paper
+P25_101_97,332.63,334.11,take fork
+P25_101_98,334.21,336.41,flip meat
+P25_101_99,337.01,339.61,flip meat

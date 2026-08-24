@@ -1,0 +1,139 @@
+P05_08_0,1.21,2.86,open refrigerator
+P05_08_1,2.66,5.19,take out food packages
+P05_08_10,29.6,31.4,press switch
+P05_08_100,807.4,809.52,pour pasta in container
+P05_08_101,815.57,845.45,pour pesto in container
+P05_08_102,854.67,882.61,stir pasta in container
+P05_08_103,884.15,921.76,stir salad in saucepan
+P05_08_104,924.6,946.46,wash colander
+P05_08_105,945.91,948.12,place colander in drainer
+P05_08_106,949.08,977.22,wash pot
+P05_08_107,978.08,979.88,place pot on drainer
+P05_08_108,980.91,989.27,rinse jar
+P05_08_109,997.44,1004.81,wash spoon
+P05_08_11,31.45,32.91,turn on extractor fan
+P05_08_110,1004.57,1006.48,place teaspoon in drainer
+P05_08_111,1006.58,1024.84,wash wooden spoon
+P05_08_112,1024.28,1027.88,place wooden spoon in drainer
+P05_08_113,1030.14,1032.16,turn off hob
+P05_08_114,1032.17,1062.19,stir salad in saucepan
+P05_08_115,1062.04,1063.54,take hob pan
+P05_08_116,1064.35,1122.58,pour salad in container
+P05_08_117,1130.93,1132.87,place pan in sink
+P05_08_118,1139.7,1148.44,rinse wooden spatula
+P05_08_119,1144.42,1147.84,rinse pan
+P05_08_12,32.94,34.43,start hob
+P05_08_120,1147.59,1170.68,wash pan
+P05_08_121,1171.18,1174.02,wash wooden spatula
+P05_08_122,1175.66,1182.58,rinse wooden spatula
+P05_08_123,1184.64,1185.49,place wooden spatula in drainer
+P05_08_124,1186.48,1201.35,rinse pan
+P05_08_125,1202.7,1204.2,place pan in drainer
+P05_08_126,1206.82,1210.05,close container
+P05_08_127,1211.0,1212.63,close container
+P05_08_128,1217.6,1220.85,rinse rag
+P05_08_129,1221.03,1224.12,wipe table
+P05_08_13,34.53,36.0,start hob
+P05_08_130,1224.22,1229.21,rinse rag
+P05_08_131,1231.68,1235.43,wipe table
+P05_08_132,1235.53,1252.47,wipe hob
+P05_08_133,1253.0,1257.15,rinse rag
+P05_08_134,1264.53,1265.27,turn off extractor fan
+P05_08_135,1265.21,1266.49,press switch
+P05_08_136,1266.09,1267.18,press switch
+P05_08_137,1268.79,1272.96,close container
+P05_08_138,1274.14,1276.46,close container
+P05_08_14,38.1,39.13,take oil bottle
+P05_08_15,39.23,44.21,open oil bottle
+P05_08_16,45.24,51.41,pour oil in saucepan
+P05_08_17,50.85,52.05,close oil bottle
+P05_08_18,51.68,52.73,place oil bottle on refrigerator
+P05_08_19,54.0,56.14,rinse hands
+P05_08_2,5.88,7.95,take out pasta pack
+P05_08_20,59.15,60.56,take kettle
+P05_08_21,60.75,66.72,pour water in jug
+P05_08_22,68.97,80.74,fill kettle
+P05_08_23,81.93,83.77,place kettle on base
+P05_08_24,83.99,84.81,press switch
+P05_08_25,85.08,85.96,turn on kettle
+P05_08_26,89.43,90.67,take pasta pack
+P05_08_27,94.52,95.94,take knife
+P05_08_28,96.35,100.23,open package of pasta
+P05_08_29,100.16,101.23,place knife in drainer
+P05_08_3,9.0,9.75,take out jar of pesto
+P05_08_30,101.75,106.06,open package of pasta
+P05_08_31,106.61,107.45,take meat pack
+P05_08_32,107.5,108.52,take knife
+P05_08_33,108.44,112.3,open meat pack
+P05_08_34,112.4,113.74,place knife in drainer
+P05_08_35,114.5,117.97,open meat pack
+P05_08_36,118.07,119.84,take salad package
+P05_08_37,119.94,135.85,open salad package
+P05_08_38,140.17,146.32,throw packaging
+P05_08_39,147.32,148.33,take pan
+P05_08_4,10.6,12.01,place pasta pack on table
+P05_08_40,148.26,154.98,spread oil in pan
+P05_08_41,175.61,177.29,take salt
+P05_08_42,179.1,182.84,pour salt in saucepan
+P05_08_43,183.15,184.17,place salt on refrigerator
+P05_08_44,184.89,185.89,take pan
+P05_08_45,186.17,191.03,spread oil in pan
+P05_08_46,216.78,217.8,take pan
+P05_08_47,218.36,225.15,spread oil in pan
+P05_08_48,253.34,254.12,take pot
+P05_08_49,254.32,257.78,take kettle
+P05_08_5,13.43,15.37,take pot
+P05_08_50,258.72,270.54,pour water into pot
+P05_08_51,271.2,273.53,place kettle on base
+P05_08_52,274.26,277.05,place pot on hob
+P05_08_53,278.4,279.48,take pasta pack
+P05_08_54,279.52,288.19,pour pasta in pot
+P05_08_55,294.21,295.1,take wooden spoon
+P05_08_56,295.7,301.18,stir pasta
+P05_08_57,302.14,302.75,place wooden spoon on refrigerator
+P05_08_58,315.79,316.39,throw packaging
+P05_08_59,317.24,322.26,take onion
+P05_08_6,15.64,19.64,place pot on hob
+P05_08_60,322.62,325.14,pour onion in saucepan
+P05_08_61,326.6,327.75,take wooden spatula
+P05_08_62,328.09,330.96,move onion in saucepan
+P05_08_63,331.21,332.55,place wooden spatula on refrigerator
+P05_08_64,333.41,335.72,take meat pack
+P05_08_65,337.0,338.23,take wooden spatula
+P05_08_66,338.39,341.06,pour meat in pan
+P05_08_67,346.63,368.77,spread meat in saucepan
+P05_08_68,371.2,377.0,rinse packaging
+P05_08_69,390.05,429.79,stir meat
+P05_08_7,20.46,22.15,open cupboard
+P05_08_70,429.67,431.37,take salad package
+P05_08_71,431.7,451.13,pour salad in saucepan
+P05_08_72,451.63,453.08,place wooden spatula on refrigerator
+P05_08_73,453.67,461.16,rinse packaging
+P05_08_74,471.43,472.82,take wooden spatula
+P05_08_75,472.94,511.84,stir salad in saucepan
+P05_08_76,511.62,513.14,take wooden spoon
+P05_08_77,513.22,542.81,stir pasta
+P05_08_78,542.73,544.04,place wooden spoon on refrigerator
+P05_08_79,549.7,620.29,stir salad in saucepan
+P05_08_8,22.47,23.97,take out pan
+P05_08_80,622.43,623.46,take wooden spoon
+P05_08_81,623.64,629.46,stir pasta
+P05_08_82,640.01,641.39,place wooden spoon on refrigerator
+P05_08_83,643.97,645.78,open cupboard
+P05_08_84,646.04,647.21,remove colander
+P05_08_85,649.02,664.38,take containers
+P05_08_86,721.68,725.22,take hob pot
+P05_08_87,726.3,738.51,pour pasta into colander
+P05_08_88,740.22,742.39,pour pasta into container
+P05_08_89,743.36,746.97,pour pasta into colander
+P05_08_9,25.03,28.99,place pan on hob
+P05_08_90,748.38,750.2,pour pasta into container
+P05_08_91,753.46,754.41,take jar of pesto
+P05_08_92,756.83,759.32,take teaspoon
+P05_08_93,761.49,773.54,pour pesto in container
+P05_08_94,773.64,776.01,place pesto bottle on table
+P05_08_95,778.34,779.32,take wooden spoon
+P05_08_96,779.7,788.94,stir pasta in container
+P05_08_97,794.06,799.3,pour pasta into colander
+P05_08_98,800.34,801.68,pour pasta in container
+P05_08_99,802.56,806.53,pour pasta into colander

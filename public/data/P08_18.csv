@@ -1,0 +1,113 @@
+P08_18_0,1.25,3.75,enter kitchen
+P08_18_1,3.4,4.78,turn on lights
+P08_18_10,51.25,53.87,place pan in sink
+P08_18_100,423.3,424.15,water off
+P08_18_101,424.52,426.77,squeeze sponge
+P08_18_102,426.83,428.93,clean sink
+P08_18_103,433.97,435.47,throw away bits
+P08_18_104,438.57,440.71,throw away bits
+P08_18_105,441.58,442.67,water on
+P08_18_106,446.18,449.52,squeeze sponge
+P08_18_107,449.13,451.87,place away sponge
+P08_18_108,452.32,453.64,get kitchen towel
+P08_18_109,453.74,457.7,wipe off hands
+P08_18_11,54.89,56.13,get bowl
+P08_18_110,461.97,462.96,open trash
+P08_18_111,463.06,467.75,close plastic trash bag
+P08_18_112,466.93,467.86,get plastic trash bag
+P08_18_113,471.16,480.26,take one plastic trash bag
+P08_18_114,485.57,491.75,place new bag in bin
+P08_18_115,493.68,495.45,place plastic bin top
+P08_18_116,495.44,498.14,get trash
+P08_18_12,56.23,59.13,wipe bowl
+P08_18_13,59.27,60.07,open dishwasher
+P08_18_14,60.77,61.9,open drawer
+P08_18_15,62.31,71.19,arrange bowl
+P08_18_16,71.67,73.43,close drawer
+P08_18_17,74.06,75.52,open drawer
+P08_18_18,77.28,78.8,open drawer
+P08_18_19,79.22,81.18,move plate
+P08_18_2,4.88,7.52,place plate
+P08_18_20,81.29,83.87,move pan
+P08_18_21,84.55,86.18,get forks
+P08_18_22,86.64,89.29,place forks and knives
+P08_18_23,89.89,91.1,get towel
+P08_18_24,91.2,93.31,wipe off plate
+P08_18_25,93.41,94.88,place plate
+P08_18_26,95.39,100.49,wipe off food bits
+P08_18_27,100.74,103.33,place pan
+P08_18_28,106.31,109.04,place chopping board
+P08_18_29,109.78,111.03,get pan
+P08_18_3,7.23,8.85,get spoon
+P08_18_30,111.02,117.04,move plates
+P08_18_31,118.23,119.98,lift lid
+P08_18_32,120.08,122.1,place lid
+P08_18_33,121.5,129.57,move bowls
+P08_18_34,129.67,130.81,get pan
+P08_18_35,131.68,139.62,wipe off pan
+P08_18_36,140.27,143.57,place pan
+P08_18_37,142.69,146.45,place bowl
+P08_18_38,145.0,148.4,close drawer
+P08_18_39,148.27,150.4,get spoon
+P08_18_4,9.64,11.17,open cupboard
+P08_18_40,150.37,153.16,wipe off spoon
+P08_18_41,152.89,157.04,place spoon
+P08_18_42,156.95,159.11,close drawer
+P08_18_43,158.03,158.89,get knife
+P08_18_44,158.93,160.17,place knife
+P08_18_45,162.5,165.17,move bowl
+P08_18_46,164.23,168.66,place plastic wrap
+P08_18_47,169.5,170.5,open cupboard
+P08_18_48,170.89,171.7,place bottles
+P08_18_49,172.48,178.16,place bottles
+P08_18_5,12.61,14.18,place bowl
+P08_18_50,178.04,179.29,close cupboard
+P08_18_51,179.14,179.7,get towel
+P08_18_52,180.21,188.03,clean bits
+P08_18_53,188.59,190.09,throw away bits
+P08_18_54,190.44,191.19,close dishwasher
+P08_18_55,191.29,192.04,open dishwasher
+P08_18_56,193.89,195.89,close dishwasher
+P08_18_57,200.38,206.96,open wrap
+P08_18_58,207.06,209.58,place the dishwasher soap
+P08_18_59,217.41,221.58,place dishwasher soap
+P08_18_6,14.28,27.34,pour food from pan
+P08_18_60,221.84,223.71,close dishwasher
+P08_18_61,224.44,227.88,clean sink
+P08_18_62,227.4,229.54,throw away bits
+P08_18_63,229.92,235.97,clean sink
+P08_18_64,235.65,239.07,throw away bits
+P08_18_65,239.63,240.48,tap on
+P08_18_66,240.58,248.27,wash hands
+P08_18_67,247.53,248.74,tap off
+P08_18_68,248.34,250.01,get sponge
+P08_18_69,249.84,251.6,tap on
+P08_18_7,27.58,28.74,place pan
+P08_18_70,250.7,255.61,water the sponge
+P08_18_71,255.57,258.29,squeeze sponge
+P08_18_72,258.39,267.72,clean the counter top
+P08_18_73,267.82,272.33,clean sink
+P08_18_74,271.93,273.77,tap on
+P08_18_76,274.41,276.16,squeeze sponge
+P08_18_77,280.67,288.38,clean wall
+P08_18_78,288.27,289.9,clean around hob
+P08_18_79,290.0,298.86,clean hob
+P08_18_8,30.46,31.52,move lid
+P08_18_80,300.02,300.62,tap on
+P08_18_82,302.59,304.48,squeeze sponge
+P08_18_83,305.94,307.7,spray hob
+P08_18_84,307.74,315.39,sponge the hob
+P08_18_85,311.82,331.2,still clean the hob
+P08_18_86,332.22,333.02,tap on
+P08_18_88,335.06,337.2,squeeze sponge
+P08_18_89,340.44,341.34,place bowl
+P08_18_9,34.23,49.42,place meat on bowl
+P08_18_90,342.03,353.27,clean counter top
+P08_18_91,351.32,362.42,clean hob
+P08_18_92,361.33,369.67,still wipe the hob
+P08_18_93,369.41,370.47,tap on
+P08_18_95,373.17,375.72,squeeze sponge
+P08_18_96,376.38,387.82,wipe off hob
+P08_18_97,391.0,398.85,wipe counter
+P08_18_98,402.11,407.0,wipe counter
+P08_18_99,407.46,424.07,wipe sink

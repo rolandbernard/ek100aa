@@ -1,0 +1,145 @@
+P01_02_0,5.07,6.84,take plate
+P01_02_1,8.61,9.28,open bin
+P01_02_10,30.2,32.45,pour washing up liquid into sponge
+P01_02_100,333.31,334.06,take rag
+P01_02_101,334.16,342.76,still squeezing sponge
+P01_02_102,342.85,347.1,rinse rag
+P01_02_103,347.2,349.2,squeeze rag
+P01_02_104,348.8,352.3,wipe sink
+P01_02_105,349.04,359.01,wipe sink
+P01_02_106,352.4,354.9,squeeze rag
+P01_02_107,359.71,365.53,wipe counter
+P01_02_108,364.88,367.48,still wiping counter
+P01_02_109,367.58,376.73,wipe counter
+P01_02_11,32.48,35.54,squeeze sponge
+P01_02_110,377.71,378.97,open bin
+P01_02_111,378.99,379.74,throw leftovers into bin
+P01_02_112,379.8,381.96,close bin
+P01_02_113,383.35,387.09,wipe cooker
+P01_02_114,387.09,393.36,still wiping cooker
+P01_02_115,393.46,407.45,still wiping cooker
+P01_02_116,404.28,407.51,still wiping cooker
+P01_02_117,407.61,413.07,wipe counter
+P01_02_118,413.16,415.79,still wiping counter
+P01_02_119,413.49,417.91,wipe sink
+P01_02_12,34.64,35.7,take fork
+P01_02_120,417.65,419.53,open tap
+P01_02_121,419.32,424.4,rinse rag
+P01_02_122,424.49,425.83,close tap
+P01_02_123,425.93,427.6,squeeze rag
+P01_02_124,427.73,430.71,wipe sink
+P01_02_125,430.47,440.76,still wiping sink
+P01_02_126,441.11,444.94,squeeze rag
+P01_02_127,444.79,445.95,put down rag
+P01_02_128,445.95,447.33,take cloth
+P01_02_129,446.9,450.9,dry hands
+P01_02_13,35.49,41.24,wash fork
+P01_02_130,451.18,453.43,put down cloth
+P01_02_131,453.77,455.28,move chair
+P01_02_132,455.38,462.13,take eating board
+P01_02_133,463.8,465.8,open drawer
+P01_02_134,465.83,467.33,put down eating board
+P01_02_135,468.13,469.43,take lid
+P01_02_136,468.46,470.99,close lid
+P01_02_137,473.11,475.52,take container
+P01_02_138,475.91,476.68,open fridge
+P01_02_139,477.01,481.11,put container into fridge
+P01_02_14,41.75,42.63,take knife
+P01_02_140,482.12,483.47,close fridge
+P01_02_141,487.35,488.64,take bottle
+P01_02_142,489.0,493.1,pour water into glass
+P01_02_143,493.2,494.2,put down bottle
+P01_02_144,493.8,499.25,drink water
+P01_02_145,494.65,497.15,close bottle
+P01_02_15,42.69,49.44,wash knife
+P01_02_16,49.51,50.02,put down knife
+P01_02_17,50.32,51.14,take plate
+P01_02_18,50.89,60.52,wash plate
+P01_02_19,60.45,63.42,still washing plate
+P01_02_2,10.13,18.13,throw leftovers into bin
+P01_02_20,63.16,64.13,put down plate
+P01_02_21,64.23,64.86,take spatula
+P01_02_22,66.61,67.63,open tap
+P01_02_23,67.38,69.37,rinse spatula
+P01_02_24,69.32,77.33,wash spatula
+P01_02_25,76.18,81.23,still washing spatula
+P01_02_26,80.12,82.0,put down spatula
+P01_02_27,82.1,82.92,take colander
+P01_02_28,82.91,88.34,wash colander
+P01_02_29,88.08,89.72,put down colander
+P01_02_3,18.38,19.13,close bin
+P01_02_30,89.79,91.38,take saucepan
+P01_02_31,91.48,95.73,wash saucepan
+P01_02_32,95.71,101.2,still washing saucepan
+P01_02_33,101.3,108.4,still washing saucepan
+P01_02_34,109.17,111.29,take colander
+P01_02_35,109.17,110.91,put down saucepan
+P01_02_36,110.75,112.25,put down colander
+P01_02_37,113.35,115.98,empty pan
+P01_02_38,116.69,123.94,wash pan
+P01_02_39,125.13,131.38,still washing pan
+P01_02_4,21.01,22.56,put down plate
+P01_02_40,131.48,136.33,continue washing pan
+P01_02_41,136.33,137.93,put down pan
+P01_02_42,138.53,140.53,take cutting board
+P01_02_43,140.87,146.62,wash cutting board
+P01_02_44,147.73,152.22,still washing cutting board
+P01_02_45,152.32,153.57,put down cutting board
+P01_02_46,153.75,154.79,take grater
+P01_02_47,154.71,157.06,wash grater
+P01_02_48,155.68,163.6,still washing grater
+P01_02_49,163.39,163.96,put down sponge
+P01_02_5,24.02,25.25,take sponge
+P01_02_50,164.84,166.74,put down grater
+P01_02_51,168.31,169.34,take spoon
+P01_02_52,170.83,171.46,take sponge
+P01_02_53,171.54,173.54,wash spoon
+P01_02_54,172.98,173.71,put down sponge
+P01_02_55,173.74,175.49,open tap
+P01_02_56,175.36,176.45,rinse hand
+P01_02_57,176.55,179.73,rinse spoon
+P01_02_58,181.48,188.71,rinse grater
+P01_02_59,188.81,199.08,still rinsing grater
+P01_02_6,24.53,25.87,squeeze sponge
+P01_02_60,199.58,200.5,put down grater
+P01_02_61,200.43,202.26,take colander
+P01_02_62,202.42,210.66,rinse colander
+P01_02_63,208.16,216.92,still rinsing colander
+P01_02_64,217.48,218.43,put down colander
+P01_02_65,218.35,219.61,take spatula
+P01_02_67,226.66,228.11,put down spatula
+P01_02_68,230.37,231.17,take saucepan
+P01_02_69,231.27,238.94,rinse saucepan
+P01_02_7,26.26,27.3,open tap
+P01_02_70,239.04,246.2,still rinsing saucepan
+P01_02_71,245.66,248.95,put down saucepan
+P01_02_72,249.25,253.4,empty pan
+P01_02_73,252.43,253.91,empty pan
+P01_02_74,253.77,261.44,rinse pan
+P01_02_75,254.0,262.99,wash pan
+P01_02_76,256.74,258.28,adjusting top
+P01_02_77,257.96,264.21,wash pan
+P01_02_78,262.51,270.91,still rinsing pan
+P01_02_79,270.59,278.5,washing pans
+P01_02_8,26.75,29.25,rinse sponge
+P01_02_80,278.9,285.87,rinse pan
+P01_02_81,279.21,288.69,still rinsing pan
+P01_02_82,288.79,290.98,put down pan
+P01_02_83,290.08,291.44,take knife
+P01_02_84,291.32,295.41,rinse knife
+P01_02_85,295.47,296.22,take fork
+P01_02_86,295.49,296.98,put down knife
+P01_02_87,296.32,299.6,rinse fork
+P01_02_88,299.67,300.45,put down fork
+P01_02_89,300.52,301.27,take plate
+P01_02_9,28.71,30.18,take washing up liquid
+P01_02_90,301.47,305.47,rinse plate
+P01_02_91,305.57,308.25,still rinsing plate
+P01_02_92,309.1,311.17,put down plate
+P01_02_93,309.27,310.02,take cutting board
+P01_02_94,310.05,319.15,rinse cutting board
+P01_02_95,319.5,324.25,still rinsing cutting board
+P01_02_96,324.25,327.0,put down cutting board
+P01_02_97,325.07,327.2,take sponge
+P01_02_98,326.7,327.7,squeeze sponge
+P01_02_99,327.8,333.75,still squeezing sponge

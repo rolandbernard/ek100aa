@@ -1,0 +1,196 @@
+P22_11_0,1.73,2.75,open cabinet
+P22_11_1,3.55,5.4,place glass
+P22_11_10,25.22,26.47,pick up container
+P22_11_100,218.05,221.26,push button
+P22_11_101,220.29,222.0,open lid
+P22_11_102,222.98,224.09,open drawer
+P22_11_103,224.56,226.16,grab teaspoon
+P22_11_104,226.26,226.97,close drawer
+P22_11_105,227.64,229.08,put down lid
+P22_11_106,228.89,235.54,remove coffee
+P22_11_107,235.89,237.26,put down teaspoon
+P22_11_108,236.18,236.86,grab lid
+P22_11_109,236.85,238.52,put on lid
+P22_11_11,26.89,28.72,close container
+P22_11_110,238.62,239.87,flip coffee grinder
+P22_11_111,239.3,241.06,push button
+P22_11_112,242.0,244.54,remove lid
+P22_11_113,244.61,245.99,put down coffee grinder
+P22_11_114,245.65,246.47,pour coffee
+P22_11_115,246.57,249.35,put on lid
+P22_11_116,251.84,252.84,pick up filter
+P22_11_117,253.09,254.61,shake filter
+P22_11_118,254.71,256.53,insert filter
+P22_11_119,258.23,260.1,pick up measure
+P22_11_12,28.74,30.74,place container
+P22_11_120,258.85,260.75,insert measure
+P22_11_121,260.85,262.23,close jar
+P22_11_122,262.29,263.12,open cabinet
+P22_11_123,263.64,264.78,place jar
+P22_11_124,264.63,265.35,pick up jar
+P22_11_125,265.41,267.11,close jar
+P22_11_126,266.87,268.31,pick up teaspoon
+P22_11_127,267.91,269.34,pick up jar
+P22_11_128,269.96,270.71,place jar
+P22_11_129,271.56,272.56,place jar
+P22_11_13,30.84,33.19,move colander
+P22_11_130,271.61,273.02,place teaspoon
+P22_11_131,275.2,277.08,pick up carafe
+P22_11_132,276.68,277.97,open carafe
+P22_11_133,278.95,280.43,pick up water
+P22_11_134,280.81,281.53,open water
+P22_11_135,281.5,289.91,pour water
+P22_11_136,289.51,291.93,close water
+P22_11_137,291.85,292.91,put down water
+P22_11_138,293.53,294.26,close carafe
+P22_11_139,295.89,301.89,pour water
+P22_11_14,33.29,36.29,move glass
+P22_11_140,302.57,306.24,insert carafe
+P22_11_141,307.22,308.8,close coffee maker
+P22_11_142,309.56,310.7,push button
+P22_11_143,309.85,310.46,push button
+P22_11_144,315.19,316.41,open tap
+P22_11_145,317.04,318.62,rinse sponge
+P22_11_146,318.47,320.2,put on soap
+P22_11_147,320.3,321.53,rinse sponge
+P22_11_148,321.53,322.3,close tap
+P22_11_149,322.14,322.96,pick up glass
+P22_11_15,34.47,36.29,place glass
+P22_11_150,323.06,325.16,lather glass
+P22_11_151,325.26,325.8,put down glass
+P22_11_152,325.9,326.71,open lid
+P22_11_153,327.52,330.3,rinse jar
+P22_11_154,330.38,331.31,shake jar
+P22_11_155,331.41,332.97,empty jar
+P22_11_156,331.63,333.01,rinse jar
+P22_11_157,333.11,334.28,fill jar
+P22_11_158,334.38,335.79,rinse lid
+P22_11_159,335.87,336.43,close tap
+P22_11_16,36.45,38.18,pick up glass
+P22_11_160,336.74,340.38,lather lid
+P22_11_161,340.57,341.38,put down lid
+P22_11_162,341.32,342.34,rinse jar
+P22_11_163,342.44,351.86,lather jar
+P22_11_164,351.96,352.57,put down jar
+P22_11_165,352.55,353.52,pick up teaspoon
+P22_11_166,352.81,355.15,lather teaspoon
+P22_11_167,355.25,356.06,open tap
+P22_11_168,355.82,360.39,rinse teaspoon
+P22_11_169,361.7,363.82,put down teaspoon
+P22_11_17,36.62,37.96,pick up glass
+P22_11_170,363.56,365.85,rinse glass
+P22_11_171,365.33,366.58,shake glass
+P22_11_172,367.41,369.07,rinse glass
+P22_11_173,368.49,378.81,shake jar
+P22_11_174,372.69,373.55,put down glass
+P22_11_175,374.16,376.26,rinse jar
+P22_11_176,376.52,378.92,fill jar
+P22_11_177,379.29,379.79,empty jar
+P22_11_178,380.22,383.92,fill jar
+P22_11_179,384.0,384.91,shake can
+P22_11_18,38.3,40.27,place glass
+P22_11_180,384.76,385.39,empty can
+P22_11_181,386.0,387.6,fill up can
+P22_11_182,387.95,388.45,empty can
+P22_11_183,388.55,389.56,put can
+P22_11_184,389.23,391.88,pick up lid
+P22_11_185,391.83,397.74,rinse lid
+P22_11_186,397.75,399.0,put lid
+P22_11_187,399.02,400.0,close tap
+P22_11_188,399.7,402.31,rinse sponge
+P22_11_189,402.3,404.55,rinse hands
+P22_11_19,44.03,45.56,pick up cutting board
+P22_11_190,404.64,405.2,close tap
+P22_11_191,405.25,406.31,shake hands
+P22_11_192,406.35,410.35,dry hands
+P22_11_193,409.93,412.2,put cloth rag
+P22_11_194,412.59,419.8,pick up saucer
+P22_11_195,419.9,421.15,close cupboard
+P22_11_2,5.49,7.53,place glass
+P22_11_20,47.41,48.66,open drawer
+P22_11_21,48.94,49.73,put away mincing knife
+P22_11_22,52.12,54.44,pick up silverware
+P22_11_23,55.99,56.77,open drawer
+P22_11_24,57.41,59.13,put away utensil
+P22_11_25,58.13,59.2,put away knives
+P22_11_26,59.23,61.6,put away potato peeler
+P22_11_27,59.95,61.81,put away utensil
+P22_11_28,62.43,63.49,put away knives
+P22_11_29,67.45,71.2,put away silverware
+P22_11_3,7.63,8.71,open cabinet
+P22_11_30,71.3,72.97,put away fork
+P22_11_31,73.58,74.55,move toothpicks
+P22_11_32,75.15,75.81,put away spoon
+P22_11_33,76.91,77.58,put away fork
+P22_11_34,78.23,79.07,put away knife
+P22_11_35,79.17,80.1,close drawer
+P22_11_36,81.23,82.38,pick up plate
+P22_11_37,82.66,85.61,put down plate
+P22_11_38,85.71,86.9,pick up plate
+P22_11_39,87.0,88.27,put down plate
+P22_11_4,8.81,11.08,pick up salad bowl
+P22_11_40,91.01,92.81,pick up bowl
+P22_11_41,93.71,95.31,move cups
+P22_11_42,95.52,97.13,move funnel
+P22_11_43,97.54,103.71,move saucer
+P22_11_44,97.92,98.53,pick up cheese grater
+P22_11_45,98.71,99.62,put down cheese grater
+P22_11_46,99.55,100.38,move cup
+P22_11_47,103.81,104.82,move cups
+P22_11_48,104.92,106.75,move coffee cups
+P22_11_49,106.85,108.47,move saucer
+P22_11_5,12.21,16.0,dry salad bowl
+P22_11_50,108.55,111.1,move coffee cup
+P22_11_51,111.02,112.61,put down bowl
+P22_11_52,112.71,114.11,pick up bowl
+P22_11_53,113.99,116.11,put down bowl
+P22_11_54,116.16,118.0,pick up bowl
+P22_11_55,118.08,119.15,put down bowl
+P22_11_56,120.51,121.84,close cabinets
+P22_11_57,122.16,122.88,pick up cutting board
+P22_11_58,123.92,125.85,open drawer
+P22_11_59,125.86,127.6,put down cutting board
+P22_11_6,16.13,19.15,place rag
+P22_11_60,127.6,128.95,close drawer
+P22_11_61,131.18,131.93,pick up glass
+P22_11_62,133.21,134.24,put down glass
+P22_11_63,135.97,136.81,open cabinet
+P22_11_64,136.92,139.27,pick up coffee
+P22_11_65,138.57,141.09,put down coffee
+P22_11_66,139.19,140.47,pick up coffee
+P22_11_67,141.35,142.1,close cabinet
+P22_11_68,142.55,143.78,open coffee
+P22_11_69,143.54,145.05,open coffee grinder
+P22_11_7,18.72,20.98,move salad bowl
+P22_11_70,145.15,146.56,put down lid
+P22_11_71,146.66,147.25,pick up coffee
+P22_11_72,147.35,152.9,put in coffee
+P22_11_73,155.0,156.22,put down measuring cup
+P22_11_74,155.71,160.35,pour coffee
+P22_11_75,157.47,159.84,pour coffee
+P22_11_76,160.85,162.48,pour coffee
+P22_11_77,166.82,167.99,put down jar
+P22_11_78,168.6,169.6,pick up jar
+P22_11_79,169.51,170.24,open jar
+P22_11_8,21.08,23.52,place salad bowl
+P22_11_80,170.0,174.84,pour coffee beans
+P22_11_81,170.42,171.49,pick up measuring cup
+P22_11_82,172.13,174.0,pick up coffee beans
+P22_11_83,174.54,175.46,pour coffee beans
+P22_11_84,174.94,178.79,pour coffee beans
+P22_11_85,176.3,177.92,pick up coffee beans
+P22_11_86,177.98,178.97,pour coffee beans
+P22_11_87,179.17,179.69,pick up coffee beans
+P22_11_88,183.64,187.09,put on lid
+P22_11_89,183.87,185.31,pour coffee
+P22_11_9,24.37,25.12,pick up container
+P22_11_90,187.75,195.16,grind coffee
+P22_11_91,190.99,200.74,turn coffee grinder upside down
+P22_11_92,202.15,203.52,put down coffee grinder
+P22_11_93,202.7,203.5,remove lid
+P22_11_94,203.62,205.63,shake lid
+P22_11_95,205.59,206.76,open coffee machine
+P22_11_96,206.08,209.2,put coffee ground
+P22_11_97,210.06,211.32,put down lid
+P22_11_98,210.17,213.56,put on lid
+P22_11_99,213.71,215.29,flip coffee grinder

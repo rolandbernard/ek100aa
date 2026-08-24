@@ -1,0 +1,87 @@
+P02_01_0,2.31,4.01,walk to sink
+P02_01_1,4.25,6.06,put plate
+P02_01_10,23.69,26.07,pick mug
+P02_01_11,25.72,26.66,close cupboard
+P02_01_12,28.7,30.16,put cup
+P02_01_13,32.22,33.2,close cupboard
+P02_01_14,34.74,36.74,pick plate
+P02_01_15,36.63,37.8,close cupboard
+P02_01_16,40.41,41.37,put plate down
+P02_01_17,41.87,43.74,pick cereal
+P02_01_18,43.84,45.41,remove bag from cereal
+P02_01_19,47.43,48.21,open bag
+P02_01_2,6.16,7.59,put plate on the side
+P02_01_20,48.31,53.5,put cereal in plate
+P02_01_21,49.36,53.89,put cereal in plate
+P02_01_22,53.73,54.94,close bag
+P02_01_23,55.04,57.39,return bag into the cereal box
+P02_01_24,57.49,58.73,put cereal box away
+P02_01_25,60.25,61.77,press button
+P02_01_26,64.48,65.87,open fridge
+P02_01_27,65.97,67.85,pick up milk
+P02_01_28,67.56,69.13,close fridge
+P02_01_29,70.65,72.84,put milk into cup
+P02_01_3,9.99,11.95,pick filter
+P02_01_30,72.94,76.97,put milk into plate
+P02_01_31,76.95,77.87,close milk
+P02_01_32,79.27,80.32,open fridge
+P02_01_33,80.22,81.52,return milk
+P02_01_34,81.54,82.72,close fridge
+P02_01_35,82.38,82.93,open drawer
+P02_01_36,83.03,85.25,pick up two spoons
+P02_01_37,86.85,89.49,put spoon into the cereal plate
+P02_01_38,90.67,91.84,press button
+P02_01_39,92.0,93.33,open sugar jar
+P02_01_4,12.16,13.32,open
+P02_01_40,94.23,95.62,scoop sugar
+P02_01_41,94.62,96.02,put sugar into the coffee
+P02_01_42,96.89,98.99,and close sugar jar
+P02_01_43,98.71,102.77,stir sugar
+P02_01_44,102.8,106.13,stir the coffee in the mug
+P02_01_45,109.47,112.26,pick up mug
+P02_01_47,112.0,113.42,empty water
+P02_01_48,114.84,115.75,open sink
+P02_01_49,116.54,117.04,close sink
+P02_01_5,13.3,16.59,put water into the coffee machine
+P02_01_52,121.53,122.76,put cup
+P02_01_53,122.69,125.69,pick up coffee pot
+P02_01_54,126.04,126.79,open the coffee machine
+P02_01_55,126.89,127.68,put coffee pot
+P02_01_56,127.78,128.77,close coffee machine
+P02_01_57,128.87,130.51,put mug
+P02_01_58,131.07,132.06,press button
+P02_01_59,135.04,136.29,open fridge
+P02_01_6,16.69,17.33,close coffee machine
+P02_01_60,136.14,137.64,pick up milk
+P02_01_61,137.04,137.73,close fridge
+P02_01_62,140.78,143.13,put milk in cup
+P02_01_63,143.29,145.27,close milk
+P02_01_64,146.45,147.21,open fridge
+P02_01_65,147.31,148.08,put milk
+P02_01_66,148.33,149.08,close fridge
+P02_01_67,151.8,152.79,hold sugar jar
+P02_01_68,152.79,153.76,open sugar jar
+P02_01_69,155.92,157.17,scoop sugar
+P02_01_7,17.43,18.44,press button
+P02_01_70,157.43,158.41,put sugar
+P02_01_71,158.12,159.48,stir coffee mug
+P02_01_72,159.48,162.23,close sugar jar
+P02_01_73,163.46,166.96,wait for coffee
+P02_01_74,167.39,168.02,pick up water filter
+P02_01_75,169.64,170.39,open coffee machine
+P02_01_76,170.74,173.55,fill water into the coffee machine
+P02_01_77,173.65,174.39,close the lid
+P02_01_78,174.94,177.39,put water filter
+P02_01_79,179.05,181.76,press button
+P02_01_8,19.43,20.29,put water filter down
+P02_01_80,179.82,188.06,wait for coffee
+P02_01_81,180.14,182.54,press button
+P02_01_82,188.81,191.46,stir coffee
+P02_01_84,198.35,198.96,pick up spoon
+P02_01_85,200.31,201.47,put spoon in sink
+P02_01_86,203.78,205.06,hold mug
+P02_01_87,205.57,211.71,keep holding mug
+P02_01_88,212.36,224.69,keep holding mug
+P02_01_89,224.79,225.75,press button
+P02_01_9,22.28,24.22,open cupboard
+P02_01_90,227.2,228.97,pick up mug

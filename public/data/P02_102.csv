@@ -1,0 +1,110 @@
+P02_102_0,3.16,4.76,put bag
+P02_102_1,4.22,5.16,open bag
+P02_102_10,15.42,16.26,open fridge
+P02_102_100,192.75,198.75,shake bottle
+P02_102_101,204.45,206.05,open tap
+P02_102_102,206.2,206.94,pour water into bottle
+P02_102_103,206.75,207.3,close tap
+P02_102_104,207.01,208.5,shake bottle
+P02_102_105,208.62,209.73,pour sauce from bottle to tupperware
+P02_102_106,209.7,210.63,hit bottle
+P02_102_107,210.92,219.39,shake bottle
+P02_102_108,219.35,222.78,close sauce bottle
+P02_102_109,222.85,224.84,put sauce bottle down
+P02_102_11,16.41,18.49,put milk in fridge
+P02_102_12,19.16,19.79,close fridge
+P02_102_13,20.43,21.02,pick up yoghurt
+P02_102_14,20.66,21.61,pick up eggs
+P02_102_15,22.53,23.6,open fridge
+P02_102_16,23.68,25.22,put eggs in fridge
+P02_102_17,25.29,28.13,put yoghurt in fridge
+P02_102_18,30.02,31.21,pick up lemons
+P02_102_19,33.09,33.87,open drawer
+P02_102_2,5.26,6.05,pick up yoghurt
+P02_102_20,32.51,34.43,put lemon in drawer
+P02_102_21,34.53,35.62,close drawer
+P02_102_22,35.29,37.11,close fridge
+P02_102_23,38.49,39.51,pick up bag
+P02_102_24,39.52,40.13,put down bag
+P02_102_25,40.23,40.92,pick up bag
+P02_102_26,40.6,41.41,put down bag
+P02_102_27,41.36,42.32,pick up box
+P02_102_28,42.42,43.04,put down box
+P02_102_29,43.14,44.36,pick up bag
+P02_102_3,6.15,6.96,put yoghurt down
+P02_102_30,42.0,44.82,put down bag
+P02_102_31,44.72,45.66,pick up box
+P02_102_32,45.69,46.87,put down box
+P02_102_33,46.79,48.45,pick up bread bag
+P02_102_34,48.5,50.45,put down bread bag
+P02_102_35,50.87,53.61,pick up bag
+P02_102_36,53.58,56.97,open freezer
+P02_102_37,57.07,57.89,open drawer
+P02_102_38,57.94,60.09,put bag in drawer
+P02_102_39,59.75,61.97,close drawer
+P02_102_4,7.02,7.84,move glass
+P02_102_40,61.88,63.4,close freezer
+P02_102_41,64.78,66.9,pick up cheese
+P02_102_42,66.82,67.98,pick up bag
+P02_102_43,67.85,68.56,put down bag
+P02_102_44,68.66,70.05,pick up bag
+P02_102_45,70.11,70.66,put down bag
+P02_102_46,72.54,73.29,open fridge
+P02_102_47,73.44,75.81,put cheese in fridge
+P02_102_48,77.16,78.17,pick up boxes
+P02_102_49,78.24,80.1,put down meat box
+P02_102_5,7.76,8.54,pick up lemons
+P02_102_50,79.92,80.55,pick up box
+P02_102_51,80.65,82.15,open fridge
+P02_102_52,82.24,83.79,put box in fridge
+P02_102_53,83.89,86.21,put box in fridge
+P02_102_54,86.31,87.97,close fridge
+P02_102_55,87.63,89.18,pick up meat
+P02_102_56,89.21,92.5,put light on
+P02_102_57,92.54,94.83,put down meat box
+P02_102_58,94.89,96.34,pick up tupperware
+P02_102_59,96.44,98.22,put tupperware down
+P02_102_6,8.71,9.58,put lemons down
+P02_102_60,96.0,99.32,open cupboard
+P02_102_61,104.66,106.6,pick up oil
+P02_102_62,107.49,108.72,pick up oil
+P02_102_63,108.46,109.68,put oil back
+P02_102_64,109.44,111.12,close cupboard
+P02_102_65,111.97,113.68,open oil bottle
+P02_102_66,113.97,116.27,pour oil in tupperware
+P02_102_67,116.59,118.78,close oil bottle
+P02_102_68,118.98,120.04,put oil bottle down
+P02_102_69,123.21,124.47,open fridge
+P02_102_7,9.82,10.73,pick up eggs
+P02_102_70,124.36,126.29,pick up sauce bottle
+P02_102_71,125.66,126.71,close fridge
+P02_102_72,127.84,131.8,open sauce bottle
+P02_102_73,132.45,136.7,shake sauce bottle
+P02_102_74,138.49,144.99,pour sauce from bottle
+P02_102_75,139.39,144.89,shake bottle
+P02_102_76,144.56,147.94,close sauce bottle
+P02_102_77,147.0,151.56,put sauce bottle down upside down
+P02_102_78,152.34,154.17,open cupboard
+P02_102_79,153.66,157.45,move box
+P02_102_8,10.83,12.17,put eggs down
+P02_102_80,153.0,156.25,pick up jar
+P02_102_81,156.35,159.12,pick up spice
+P02_102_82,159.61,160.95,close cupboard
+P02_102_83,160.49,161.95,put down spice
+P02_102_84,162.03,163.25,open spice jar
+P02_102_85,163.35,165.07,pour spice into lid
+P02_102_86,165.17,166.45,pour spice from lid to tupperware
+P02_102_87,166.28,167.8,close spice jar
+P02_102_88,167.78,168.42,put jar down
+P02_102_89,168.85,169.38,open spice bottle
+P02_102_9,12.27,13.74,pick up milk
+P02_102_90,169.56,171.28,pour thyme spice into lid
+P02_102_91,171.15,172.3,pour thyme spice from lid to tupperware
+P02_102_92,172.4,174.34,close spice jar
+P02_102_93,174.15,175.14,put down spice jar
+P02_102_94,174.34,175.36,pick up sauce bottle
+P02_102_95,175.46,177.97,shake bottle
+P02_102_96,178.02,179.29,hit bottle
+P02_102_97,179.39,186.06,shake bottle
+P02_102_98,186.05,189.11,hit bottle
+P02_102_99,189.12,192.87,open sauce bottle

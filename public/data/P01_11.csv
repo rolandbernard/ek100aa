@@ -1,0 +1,148 @@
+P01_11_0,0.0,1.89,take plate
+P01_11_1,1.56,2.45,put down plate
+P01_11_10,49.15,50.95,take paper
+P01_11_100,327.28,331.97,wash cloth
+P01_11_101,327.37,329.86,take cloth
+P01_11_102,330.62,335.02,squeeze cloth
+P01_11_103,335.56,341.14,wipe counter
+P01_11_104,341.24,348.23,wipe sink
+P01_11_105,348.67,356.1,continue wiping sink
+P01_11_106,356.18,357.82,squeeze cloth
+P01_11_107,357.26,359.66,take onion
+P01_11_108,360.5,361.77,turn on tap
+P01_11_109,362.01,368.6,wash sink
+P01_11_11,51.6,52.49,open bin
+P01_11_110,367.74,368.9,turn off tap
+P01_11_111,369.65,371.72,squeeze cloth
+P01_11_112,373.15,380.94,wipe cooker
+P01_11_113,381.79,382.79,put down cloth
+P01_11_114,384.89,385.64,open bin
+P01_11_115,385.24,385.8,throw onion in
+P01_11_116,385.69,386.36,close bin
+P01_11_117,388.2,389.28,take cloth
+P01_11_118,388.52,392.17,dry hands
+P01_11_119,393.27,394.99,hand cloth
+P01_11_12,51.98,53.03,throw paper into bin
+P01_11_120,396.3,397.35,take hand
+P01_11_121,401.48,402.74,throw can into bin
+P01_11_122,403.69,405.81,take bin
+P01_11_123,406.53,409.64,put bin onto other bin
+P01_11_124,410.53,413.82,take bins
+P01_11_125,413.73,416.72,put down bins
+P01_11_126,418.16,419.82,open bin
+P01_11_127,420.74,438.5,close bag
+P01_11_128,423.71,437.74,tie bag
+P01_11_129,437.79,439.09,close bin
+P01_11_13,52.97,53.66,close bin
+P01_11_130,439.64,445.01,put bin onto other bin
+P01_11_131,445.59,447.98,open bin
+P01_11_132,448.08,465.15,remove bag of the bin
+P01_11_133,465.78,467.03,take bin out
+P01_11_134,467.36,484.27,tie bag
+P01_11_135,485.53,490.72,put bag into bin
+P01_11_136,492.11,500.14,take garbage bag
+P01_11_137,502.8,510.49,open bag
+P01_11_138,512.25,514.0,open bin
+P01_11_139,516.04,531.22,put bag into bin
+P01_11_14,53.89,54.68,take tray
+P01_11_140,534.13,535.81,take lid
+P01_11_141,534.87,537.85,close container
+P01_11_142,537.95,541.5,take container and plate
+P01_11_143,541.88,544.26,open fridge
+P01_11_144,546.44,549.9,move things in the fridge
+P01_11_145,550.79,552.54,put container into fridge
+P01_11_146,552.89,555.39,put plate into fridge
+P01_11_147,555.74,558.24,close fridge
+P01_11_15,55.53,56.75,take spatula
+P01_11_16,56.71,57.71,put down tray
+P01_11_17,58.51,60.4,take trays
+P01_11_18,61.48,62.53,put down trays
+P01_11_19,62.51,64.06,put down spatula and pizza cutter
+P01_11_2,2.97,13.79,take pizza
+P01_11_20,64.86,66.64,dry hands
+P01_11_21,67.3,68.68,take plate
+P01_11_22,69.42,70.99,put down plate
+P01_11_23,72.45,74.08,take tablecloth
+P01_11_24,73.59,78.85,fold tablecloth
+P01_11_25,78.91,80.45,put tablecloth into cupboard
+P01_11_26,80.99,82.42,take container
+P01_11_27,82.29,84.36,open container
+P01_11_28,84.97,87.47,take pizza slice
+P01_11_29,88.14,89.52,put pizza slice into container
+P01_11_3,14.36,15.42,put pizza onto plate
+P01_11_30,89.79,93.86,take pizza slice
+P01_11_31,96.02,96.99,take knife
+P01_11_32,97.09,98.09,put down knife
+P01_11_33,97.76,102.48,cut pizza
+P01_11_34,103.92,104.94,put pizza slice into container
+P01_11_35,112.85,113.93,put down knife
+P01_11_36,114.88,115.59,take lid
+P01_11_37,115.25,117.75,put down lid
+P01_11_38,115.61,116.66,close container
+P01_11_39,121.35,122.35,turn on tap
+P01_11_4,16.75,31.82,take pizza
+P01_11_40,122.44,123.44,wash hand
+P01_11_41,122.88,123.63,turn off tap
+P01_11_42,123.89,124.89,take sponge
+P01_11_43,124.85,125.49,squeeze sponge
+P01_11_44,126.34,127.09,take washing up liquid
+P01_11_45,128.69,130.44,put down washing up liquid
+P01_11_46,132.15,138.54,wash knife
+P01_11_47,138.56,139.64,take fork
+P01_11_48,138.99,143.57,wash fork
+P01_11_49,143.44,144.51,put down fork
+P01_11_5,32.72,33.87,put pizza slice onto plate
+P01_11_50,144.34,145.27,take pizza cutter
+P01_11_51,145.45,146.74,turn on tap
+P01_11_52,146.14,147.55,rinse pizza cutter
+P01_11_53,147.65,153.75,wash pizza cutter
+P01_11_54,154.34,155.13,put down pizza cutter
+P01_11_55,155.23,155.96,take plate
+P01_11_56,155.74,167.01,wash plate
+P01_11_57,166.65,168.4,put down plate
+P01_11_58,168.0,168.9,take spatula
+P01_11_59,169.08,178.69,wash spatula
+P01_11_6,34.38,41.15,take pizza slice
+P01_11_60,178.49,179.9,put down spatula
+P01_11_61,180.47,182.72,take tray
+P01_11_62,182.65,192.07,wash tray
+P01_11_63,191.85,192.59,put down tray
+P01_11_64,193.11,194.23,take tray
+P01_11_65,194.24,204.63,wash tray
+P01_11_66,204.5,205.61,put down tray
+P01_11_67,206.01,206.9,put down sponge
+P01_11_68,210.28,211.41,take glass
+P01_11_69,212.62,216.2,wash glass
+P01_11_7,41.24,42.56,put pizza slice onto plate
+P01_11_70,216.07,217.14,turn on tap
+P01_11_71,217.04,229.41,rinse glass
+P01_11_72,229.83,231.17,put glass into rack
+P01_11_73,231.93,232.93,take spatula
+P01_11_74,233.66,242.2,rinse spatula
+P01_11_75,242.3,243.28,put spatula into rack.
+P01_11_76,243.16,243.89,take knife
+P01_11_77,243.84,244.57,rinse knife.
+P01_11_78,243.99,248.05,wash knife.
+P01_11_79,245.2,246.93,wash knife.
+P01_11_8,42.83,44.03,take paper
+P01_11_80,247.01,248.28,rinse knife.
+P01_11_81,253.92,254.42,put knife into rack.
+P01_11_82,254.41,254.95,take fork.
+P01_11_83,254.91,257.63,wash fork.
+P01_11_84,257.63,259.09,rinse fork.
+P01_11_85,259.19,260.1,take pizza cutter.
+P01_11_86,260.2,266.11,rinse pizza cutter.
+P01_11_87,266.05,266.55,put pizza cutter into rack.
+P01_11_88,267.16,268.62,take tray.
+P01_11_89,269.15,284.79,rinse tray.
+P01_11_9,44.1,46.17,fold paper
+P01_11_90,284.92,286.63,put tray into rack.
+P01_11_91,286.58,287.39,take tray.
+P01_11_92,287.68,302.35,rinse tray.
+P01_11_93,303.32,304.59,put tray into rack
+P01_11_94,304.63,305.16,take plate
+P01_11_95,305.26,308.31,rinse plate
+P01_11_96,309.0,312.94,wash plate
+P01_11_97,313.6,318.49,rinse plate
+P01_11_98,318.78,320.42,put plate into track
+P01_11_99,320.78,326.75,wash sponge

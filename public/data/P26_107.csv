@@ -1,0 +1,28 @@
+P26_107_0,1.42,3.63,pick up pot
+P26_107_1,3.65,4.93,put down pot
+P26_107_10,57.17,58.09,take fork
+P26_107_11,102.68,103.28,put down fork
+P26_107_12,103.09,104.15,put down spatula
+P26_107_13,104.68,105.34,pick up cloth
+P26_107_14,105.39,106.23,pick up baking tray
+P26_107_15,109.08,109.94,open oven
+P26_107_16,110.63,111.89,put down baking tray
+P26_107_17,112.95,113.53,put down cloth
+P26_107_18,112.0,118.74,close oven
+P26_107_19,120.35,121.35,remove lid
+P26_107_2,4.99,8.45,open oven
+P26_107_20,121.39,122.19,pick up spoon
+P26_107_21,122.21,129.79,stir
+P26_107_22,129.67,132.94,put down lid
+P26_107_23,132.78,143.06,pick up pasta
+P26_107_24,143.15,153.1,taste pasta
+P26_107_25,151.28,154.43,pick up lid
+P26_107_26,154.27,157.58,put down lid
+P26_107_27,157.12,160.67,put down spoon
+P26_107_3,8.53,10.96,pick up cloth
+P26_107_4,10.96,16.04,pick up baking tray
+P26_107_5,15.88,19.75,put down baking tray
+P26_107_6,19.68,23.54,close oven
+P26_107_7,23.39,26.44,pick up spatula
+P26_107_8,29.15,29.85,pick up cloth
+P26_107_9,29.76,55.91,flip food

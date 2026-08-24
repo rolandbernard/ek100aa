@@ -1,0 +1,395 @@
+P20_04_0,0.0,2.07,turn on tap
+P20_04_1,2.17,3.65,wash hands
+P20_04_10,27.89,30.0,close freezer
+P20_04_100,390.41,390.91,close dishwasher
+P20_04_101,391.35,393.33,pick up bowl
+P20_04_102,393.7,394.95,put down bowl
+P20_04_103,394.23,396.58,pick up meat
+P20_04_104,396.31,402.84,slice meat with knife
+P20_04_105,409.04,415.86,move meat
+P20_04_106,417.52,427.37,slice meat with knife
+P20_04_107,430.77,457.24,slice meat with knife
+P20_04_108,457.63,459.61,move meat pieces
+P20_04_109,459.49,461.25,move meat piece
+P20_04_11,32.6,36.77,open meat packaging with scissors
+P20_04_110,467.89,473.55,slice meat with knife
+P20_04_111,471.72,476.75,slice meat with knife
+P20_04_112,480.41,486.76,slice meat with knife
+P20_04_113,491.38,494.57,pick up meat piece
+P20_04_114,492.0,509.43,put meat pieces in bowl
+P20_04_115,493.25,494.5,put down meat piece
+P20_04_116,495.46,500.95,pick up meat pieces
+P20_04_117,506.19,511.25,put down knife
+P20_04_118,511.35,512.01,pick up bowl
+P20_04_119,512.11,514.41,put bowl on counter
+P20_04_12,37.45,40.45,peel open meat packaging
+P20_04_120,514.51,515.4,turn on tap
+P20_04_121,515.3,515.97,rinse hands
+P20_04_122,516.07,516.87,turn off tap
+P20_04_123,516.63,517.79,pick up bowl
+P20_04_124,517.89,519.24,put down bowl
+P20_04_125,519.34,520.4,pick up cloth
+P20_04_126,519.62,521.09,put down cloth
+P20_04_127,524.03,525.03,open drawer
+P20_04_128,525.52,534.6,put sauce on meat
+P20_04_129,531.99,537.14,still putting sauce on meat
+P20_04_13,43.05,44.3,move bin
+P20_04_130,537.81,541.06,close sauce
+P20_04_131,540.81,543.25,put down sauce
+P20_04_132,543.95,546.07,pick up pepper
+P20_04_133,547.88,553.93,grind pepper onto meat
+P20_04_134,553.64,554.89,put down pepper
+P20_04_135,556.74,578.11,move meat pieces
+P20_04_136,582.06,585.11,turn on tap
+P20_04_137,585.07,586.02,rinse hands
+P20_04_138,585.87,586.53,turn off tap
+P20_04_139,586.63,592.25,pick up bowl
+P20_04_14,45.65,47.15,put packaging into bin
+P20_04_140,592.38,596.94,put down bowl
+P20_04_141,597.04,599.35,open drawer
+P20_04_142,599.45,601.02,pick up bowl
+P20_04_143,601.12,602.98,put down bowl
+P20_04_144,603.08,603.75,turn on tap
+P20_04_145,603.12,608.81,turn off tap
+P20_04_146,603.8,605.04,rinse hands
+P20_04_147,610.54,612.13,open cupboard
+P20_04_148,613.26,614.41,pick up sauce
+P20_04_149,614.94,617.86,open sauce lid
+P20_04_15,47.41,51.04,move meat from packaging
+P20_04_150,617.96,622.75,pour sauce
+P20_04_151,622.53,626.39,put down sauce
+P20_04_152,630.09,633.78,open salt jar
+P20_04_153,634.25,642.8,sprinkle salt onto bowl
+P20_04_154,641.89,643.84,close sauce jar
+P20_04_155,643.78,645.92,move salt jar
+P20_04_156,648.04,649.04,pick up pepper
+P20_04_157,649.98,654.55,grind pepper into bowl
+P20_04_158,653.72,660.05,inspect hand
+P20_04_159,660.63,661.55,turn on tap
+P20_04_16,65.46,66.6,open drawer
+P20_04_160,661.65,663.63,wash hand
+P20_04_161,663.31,664.3,turn off tap
+P20_04_162,664.07,669.07,inspect hand
+P20_04_163,669.79,670.29,pick up pepper
+P20_04_164,676.71,677.91,put down pepper
+P20_04_165,678.45,679.64,turn on tap
+P20_04_166,678.51,680.3,wash hands
+P20_04_167,680.63,681.26,turn off tap
+P20_04_168,692.82,694.24,pick up pepper
+P20_04_169,694.82,699.19,look at pepper
+P20_04_17,67.33,69.11,pick up bowl
+P20_04_170,699.25,700.75,put down pepper
+P20_04_171,700.85,705.85,inspect hand
+P20_04_172,707.19,709.16,still inspecting hand
+P20_04_173,710.21,713.13,still inspecting cut on hand
+P20_04_174,724.89,726.2,turn on tap
+P20_04_175,726.63,727.4,wash hands
+P20_04_176,727.19,728.36,turn off tap
+P20_04_177,732.82,734.07,pick up rag
+P20_04_178,734.17,735.25,clean hand
+P20_04_179,737.05,738.06,inspect hand
+P20_04_18,68.46,69.47,put down bowl
+P20_04_180,738.01,740.39,inspect cut on hand
+P20_04_181,739.84,749.69,inspect cut on hand
+P20_04_182,752.19,752.83,pick up pepper
+P20_04_183,754.05,760.44,grind pepper into bowl
+P20_04_184,757.79,770.99,still grinding pepper into bowl
+P20_04_185,770.87,772.16,put down pepper
+P20_04_186,776.15,778.37,open drawer
+P20_04_187,778.28,780.38,pick up frying pan
+P20_04_188,781.63,783.21,turn on tap
+P20_04_189,782.84,789.83,rinse frying pan
+P20_04_19,69.57,70.93,pick up bowl
+P20_04_190,787.97,789.22,turn off tap
+P20_04_191,789.97,792.56,put frying pan on hob
+P20_04_192,793.48,795.78,turn on hop
+P20_04_193,794.96,796.5,inspect hand
+P20_04_194,798.41,799.59,pick up tissue
+P20_04_195,798.94,803.4,wipe cut with tissue
+P20_04_196,799.66,802.24,wipe cut with tissue
+P20_04_197,803.87,811.72,wipe cut with tissue
+P20_04_198,808.47,815.93,squeeze cut with hand
+P20_04_199,809.82,810.69,wipe cut with tissue
+P20_04_2,3.06,4.5,turn off tap
+P20_04_20,71.03,72.19,put meat in bowl
+P20_04_200,821.44,826.62,dab cut with tissue
+P20_04_201,827.3,836.58,squeeze cut with hand
+P20_04_202,830.09,842.77,squeeze cut with hand
+P20_04_203,836.68,841.87,squeeze cut with hand
+P20_04_204,844.04,848.38,dab hand with tissue
+P20_04_205,848.72,849.56,put tissue
+P20_04_206,853.89,855.3,open fridge
+P20_04_207,854.9,861.21,pick up ginger
+P20_04_208,860.08,868.17,inspect ginger
+P20_04_209,861.18,882.98,break ginger pieces off with hands
+P20_04_21,74.28,75.53,open microwave
+P20_04_210,883.08,884.44,pick up ginger piece
+P20_04_211,884.54,885.78,put ginger piece on counter
+P20_04_212,886.76,888.33,open fridge
+P20_04_213,887.94,889.58,put ginger pieces in fridge
+P20_04_214,890.03,891.9,pick up ginger pieces
+P20_04_215,891.56,896.51,inspect ginger pieces
+P20_04_216,900.51,901.74,turn on tap
+P20_04_217,901.84,903.54,wash ginger piece
+P20_04_218,904.63,905.8,pick up knife
+P20_04_219,906.36,907.12,turn on tap
+P20_04_22,75.63,78.32,put bowl in microwave
+P20_04_220,907.22,911.28,wash knife with hand
+P20_04_221,909.74,913.35,turn off tap
+P20_04_222,918.47,922.73,cut ginger piece
+P20_04_223,918.62,920.69,cut ginger piece
+P20_04_224,922.83,934.7,take skin off ginger piece off with knife
+P20_04_225,933.52,960.33,take skin off ginger piece off with knife
+P20_04_226,945.18,969.22,take skin off ginger piece off with knife
+P20_04_227,973.97,975.59,open drawer
+P20_04_228,975.65,977.02,pick up grater
+P20_04_229,983.92,984.47,pick up bowl
+P20_04_23,78.42,80.62,close microwave
+P20_04_230,985.51,986.43,put down bowl
+P20_04_231,986.72,1035.62,grate ginger into bowl
+P20_04_232,990.37,1023.19,still grating ginger into bowl
+P20_04_233,1065.34,1068.49,put ginger piece in bin
+P20_04_234,1084.31,1086.26,put down grater
+P20_04_235,1087.99,1089.29,pick up bowl
+P20_04_236,1090.34,1092.13,put down bowl
+P20_04_237,1092.68,1094.26,pick up olive oil
+P20_04_238,1093.79,1095.36,take lid off olive oil
+P20_04_239,1096.86,1099.29,pour olive oil into bowl
+P20_04_24,80.72,83.6,pick up packaging from bin
+P20_04_240,1100.12,1100.84,pick up lid
+P20_04_241,1100.61,1102.89,close olive oil
+P20_04_242,1102.8,1104.18,put down olive oil
+P20_04_243,1104.28,1105.15,pick up bowl
+P20_04_244,1105.25,1109.49,stir mixture in bowl with finger
+P20_04_245,1108.6,1115.92,still stirring mixture in bowl with finger
+P20_04_246,1154.11,1155.21,pick up bowl
+P20_04_247,1155.31,1163.15,stir meat pieces in bowl with hand
+P20_04_248,1162.76,1170.51,still stirring meat pieces in bowl with hand
+P20_04_249,1173.57,1174.6,smell hand
+P20_04_25,83.7,86.0,put packaging in
+P20_04_250,1174.4,1176.54,put down bowl
+P20_04_251,1177.42,1178.93,turn on tap
+P20_04_252,1179.6,1184.75,rinse hand
+P20_04_253,1187.1,1188.59,turn on tap
+P20_04_254,1188.46,1191.71,rinse hand
+P20_04_255,1191.66,1192.64,turn off tap
+P20_04_256,1200.46,1202.4,pick up rag
+P20_04_257,1202.71,1203.54,put down rag
+P20_04_258,1204.72,1206.14,pick frying pan
+P20_04_259,1206.05,1208.1,put down frying pan
+P20_04_26,97.0,98.26,bin
+P20_04_260,1210.31,1212.43,pick up olive oil
+P20_04_261,1212.59,1214.23,take lid off olive oil
+P20_04_262,1215.49,1216.31,pour olive oil
+P20_04_263,1216.53,1217.73,pick up lid
+P20_04_264,1217.89,1220.51,close lid of olive oil
+P20_04_265,1220.31,1221.87,put down olive oil
+P20_04_266,1222.26,1225.2,pick up bowl
+P20_04_267,1225.51,1226.86,put down bowl
+P20_04_268,1229.85,1231.06,pick up bowl
+P20_04_269,1230.75,1232.96,pick up spatula
+P20_04_27,99.24,103.11,setting microwave
+P20_04_270,1236.56,1237.79,turn on light
+P20_04_271,1237.27,1243.08,tip meat pieces into frying pan
+P20_04_272,1243.18,1256.41,stir meat with spatula
+P20_04_273,1252.82,1255.13,stir meat with with spatula
+P20_04_274,1256.51,1337.42,still stirring meat with spatula
+P20_04_275,1265.01,1273.66,flip meat in frying pan
+P20_04_276,1513.01,1513.53,turn off hob
+P20_04_277,1513.2,1514.6,turn down hob
+P20_04_278,1522.72,1533.01,stir meat with spatula
+P20_04_279,1528.09,1548.7,stir meat with spatula
+P20_04_28,101.26,103.31,turn on microwave
+P20_04_280,1546.17,1559.29,stir meat with spatula
+P20_04_281,1560.76,1573.96,stir meat with spatula
+P20_04_282,1576.05,1657.86,stir meat with spatula
+P20_04_283,1659.16,1660.96,look at hand
+P20_04_284,1670.95,1678.38,stir meat with spatula
+P20_04_285,1678.48,1713.36,still stir meat with spatula
+P20_04_286,1694.69,1703.16,still stir meat with spatula
+P20_04_287,1698.9,1699.45,still stir meat with spatula
+P20_04_288,1701.46,1702.54,flip meat pieces with spatula
+P20_04_289,1704.0,1704.66,stir meat pieces with spatula
+P20_04_29,106.7,108.32,turn on tap
+P20_04_290,1758.19,1765.68,stir meat pieces with spatula
+P20_04_291,1783.09,1785.39,put down spatula
+P20_04_292,1788.53,1791.16,pick up pepper
+P20_04_293,1792.9,1809.29,grind pepper into frying pan
+P20_04_294,1805.7,1806.81,put down pepper
+P20_04_295,1808.45,1837.62,stir meat with spatula
+P20_04_296,1821.0,1837.13,still stir meat with spatula
+P20_04_297,1837.87,1839.54,put down spatula
+P20_04_298,1842.72,1845.1,open drawer
+P20_04_299,1845.74,1846.84,pick up bowl
+P20_04_3,6.79,8.1,pick up rag
+P20_04_30,107.61,109.2,wash hands
+P20_04_300,1848.57,1849.32,put down bowl
+P20_04_301,1850.77,1852.65,pick up bowl
+P20_04_302,1854.71,1855.77,put down bowl
+P20_04_303,1858.2,1859.5,put down bowl
+P20_04_304,1859.35,1860.22,pick up spatula
+P20_04_305,1860.2,1865.82,stir meat pieces with spatula
+P20_04_306,1864.43,1869.18,put down spatula
+P20_04_307,1869.35,1870.35,turn off hob
+P20_04_308,1874.08,1875.85,pick up bowl
+P20_04_309,1875.95,1879.76,put down bowl
+P20_04_31,108.05,109.0,turn off tap
+P20_04_310,1879.86,1880.83,move cup
+P20_04_311,1881.71,1883.18,turn on tap
+P20_04_312,1883.28,1883.88,wash hand
+P20_04_313,1883.95,1884.85,turn off tap
+P20_04_314,1886.25,1888.21,pick up bowl
+P20_04_315,1888.32,1906.83,move pieces of meat into bowl with spatula
+P20_04_316,1890.07,1893.56,move meat piece into bowl with spatula
+P20_04_317,1894.18,1899.17,move meat piece into bowl with spatula
+P20_04_318,1899.05,1902.81,move meat piece into bowl with spatula
+P20_04_319,1902.82,1906.5,move meat piece into bowl with spatula
+P20_04_32,114.77,117.59,open fridge
+P20_04_320,1908.02,1914.12,move meat piece into bowl with spatula
+P20_04_321,1910.18,1913.71,move meat piece into bowl with spatula
+P20_04_322,1918.41,1922.02,move meat piece into bowl with spatula
+P20_04_323,1921.17,1922.06,put down spatula
+P20_04_324,1922.96,1923.68,move meat piece into bowl with spatula
+P20_04_325,1936.3,1937.09,put down spatula
+P20_04_326,1938.74,1939.67,put down bowl
+P20_04_327,1944.25,1946.27,move frying pan
+P20_04_328,1946.82,1950.22,pick up spatula
+P20_04_329,1950.88,1951.98,put down spatula
+P20_04_33,117.65,120.07,pick up bag from fridge
+P20_04_330,1955.84,1957.59,open fridge
+P20_04_331,1958.01,1960.37,take lettuce out of fridge
+P20_04_332,1960.49,1966.42,open lettuce packaging
+P20_04_333,1968.57,1971.23,take bag out of packaging
+P20_04_334,1974.85,1977.78,inspect bag
+P20_04_335,1979.72,1980.91,put bag in bin
+P20_04_336,1987.7,1988.54,open salad dressing
+P20_04_337,1990.69,1991.75,put down salad dressing
+P20_04_338,1992.03,1992.73,pick up plates
+P20_04_339,1994.33,1995.78,wash rinse plates
+P20_04_34,120.3,122.28,close fridge
+P20_04_340,1999.38,2000.86,put down plates
+P20_04_341,2001.36,2001.93,pick up bag of salad
+P20_04_342,2002.36,2006.88,pour salad into bowl
+P20_04_343,2006.76,2007.91,still pouring salad into bowl
+P20_04_344,2010.13,2015.44,still pouring salad into bowl
+P20_04_345,2012.49,2016.07,pick up salad
+P20_04_346,2016.14,2019.1,put down salad
+P20_04_347,2025.77,2026.38,put down salad
+P20_04_348,2026.72,2027.53,pick up salad dressing
+P20_04_349,2027.62,2033.35,pour salad dressing into bowl
+P20_04_35,123.21,124.25,put down bag
+P20_04_350,2030.16,2040.14,still pouring salad dressing into bowl
+P20_04_351,2040.73,2041.69,close salad dressing
+P20_04_352,2041.28,2042.52,put down salad dressing
+P20_04_353,2042.49,2044.38,pick up salad piece
+P20_04_354,2044.3,2046.3,put in bin
+P20_04_355,2046.24,2051.41,pick up salad
+P20_04_356,2049.34,2056.11,close salad packaging
+P20_04_357,2056.68,2062.79,fasten salad packaging with clip
+P20_04_358,2063.78,2065.35,open fridge
+P20_04_359,2065.29,2067.35,put salad packaging in fridge
+P20_04_36,123.61,131.47,open bag
+P20_04_360,2067.34,2069.06,close fridge
+P20_04_361,2069.76,2074.43,pick up bag
+P20_04_362,2075.02,2076.35,pick up milk bottle
+P20_04_363,2087.77,2089.28,pick up scissors
+P20_04_364,2089.68,2094.81,open packaging with scissors
+P20_04_365,2105.6,2126.81,pour milk and packaging into milk bottle
+P20_04_366,2107.0,2116.08,still pouring milk and packing into milk bottle
+P20_04_367,2115.43,2121.8,still pouring milk and packaging into milk bottle
+P20_04_368,2121.69,2127.58,still pouring milk and packaging into milk bottle
+P20_04_369,2127.68,2133.62,still pouring milk and packaging into milk bottle
+P20_04_37,131.05,136.94,still opening bag
+P20_04_370,2133.72,2140.07,still pouring milk and packaging into milk bottle
+P20_04_371,2138.33,2152.79,still pouring milk and packaging into milk bottle
+P20_04_372,2150.07,2155.79,still pouring milk and packaging into milk bottle
+P20_04_373,2155.89,2162.13,still pouring milk and packaging into milk bottle
+P20_04_374,2164.67,2165.86,pick up cup
+P20_04_375,2165.85,2174.31,pour milk in packaging into cup
+P20_04_376,2168.47,2173.85,put packaging in bin
+P20_04_377,2180.52,2184.08,put lid on milk bottle
+P20_04_378,2185.08,2186.06,pick up milk bottle
+P20_04_379,2186.92,2193.54,rinse milk bottle
+P20_04_38,137.0,139.19,still opening bag
+P20_04_380,2196.65,2199.4,wipe milk bottle with rag
+P20_04_381,2199.5,2200.27,open fridge
+P20_04_382,2200.7,2202.61,put milk bottle into fridge
+P20_04_383,2203.43,2204.72,close fridge
+P20_04_384,2205.9,2208.58,wipe counter with rag
+P20_04_385,2208.86,2211.42,wipe cabinet with rag
+P20_04_386,2218.14,2219.75,drink milk
+P20_04_387,2220.16,2223.77,put down milk
+P20_04_388,2227.44,2228.42,pick up frying pan
+P20_04_389,2228.76,2230.06,turn on tap
+P20_04_39,138.95,140.52,taking bag out of bag
+P20_04_390,2229.96,2232.95,rinse frying pan
+P20_04_391,2233.27,2234.55,put frying pan on hob
+P20_04_392,2241.97,2242.8,move sauce
+P20_04_393,2242.34,2243.3,pick up sauce
+P20_04_394,2244.72,2246.08,put sauce into cupboard
+P20_04_4,8.2,8.73,put down rag
+P20_04_40,142.8,147.15,close bag
+P20_04_41,146.25,149.64,still closing bag
+P20_04_42,149.74,155.98,still closing bag
+P20_04_43,157.74,158.58,open fridge
+P20_04_44,158.65,161.14,put bag in fridge
+P20_04_45,161.24,162.52,close fridge
+P20_04_46,163.71,164.46,pick up glasses
+P20_04_47,164.44,165.94,move glasses
+P20_04_48,164.79,166.29,put down glasses
+P20_04_49,166.27,170.61,open microwave
+P20_04_5,9.91,11.24,open freezer
+P20_04_50,170.71,173.22,pick up bowl of meat
+P20_04_51,173.23,186.93,inspect meat
+P20_04_52,194.33,200.01,pick up chopping board
+P20_04_53,201.18,201.79,put chopping board on counter
+P20_04_54,201.68,207.26,open dishwasher
+P20_04_55,207.36,208.49,open dishwasher drawer
+P20_04_56,209.58,211.07,pick up knife
+P20_04_57,214.87,216.56,pick up meat from bowl
+P20_04_58,218.56,230.68,take skin off meat with knife
+P20_04_59,233.55,238.63,still taking skin off meat with knife
+P20_04_6,11.55,15.1,take meat out of freezer
+P20_04_60,236.68,255.11,still taking skin off meat with knife
+P20_04_61,255.21,266.46,still taking skin off meat with knife
+P20_04_62,264.35,266.3,still taking skin off meat with knife
+P20_04_63,266.56,269.92,still taking skin off meat with knife
+P20_04_64,268.76,272.64,still taking skin off meat with knife
+P20_04_65,270.02,272.48,still taking skin off meat with knife
+P20_04_66,272.74,280.11,still taking skin off meat with knife
+P20_04_67,275.2,283.43,still taking skin off meat with knife
+P20_04_68,280.21,285.38,still taking skin off meat with knife
+P20_04_69,285.48,311.86,still taking skin off meat with knife
+P20_04_7,12.6,14.85,still taking meat out of freezer
+P20_04_70,286.92,293.13,still taking skin off meat with knife
+P20_04_71,292.63,304.46,still taking skin off meat with knife
+P20_04_72,306.05,311.48,ripping skin off meat with hands
+P20_04_73,311.64,315.38,ripping skin off meat with hands
+P20_04_74,315.12,318.21,still ripping skin off meat with hands
+P20_04_75,317.82,327.71,still ripping skin off meat with hands
+P20_04_76,329.18,333.82,inspect meat
+P20_04_77,334.14,335.68,put down meat
+P20_04_78,335.6,337.55,put skin in bin
+P20_04_79,340.58,345.98,inspect meat
+P20_04_8,17.75,21.79,put meat in freezer drawer
+P20_04_80,346.78,348.4,pick up knife
+P20_04_81,348.09,349.25,pick up bowl
+P20_04_82,349.66,350.51,put down bowl
+P20_04_83,350.52,351.67,put down knife
+P20_04_84,351.96,352.51,pick up bowl
+P20_04_85,352.69,353.62,put down bowl
+P20_04_86,353.43,354.42,turn on tap
+P20_04_87,354.47,357.29,rinse meat
+P20_04_88,357.15,360.22,still rinsing meat
+P20_04_89,360.32,361.45,turn off tap
+P20_04_9,23.85,27.79,close freezer drawer
+P20_04_90,371.74,373.12,put meat in bowl
+P20_04_91,374.45,374.95,turn on tap
+P20_04_92,375.0,376.55,rinse hands
+P20_04_93,376.59,377.19,turn off tap
+P20_04_94,381.25,382.25,open dishwasher
+P20_04_95,382.6,384.6,open drawer
+P20_04_96,384.09,386.86,pick up knife
+P20_04_97,386.96,387.77,put down knife
+P20_04_98,387.63,388.86,pick up knife
+P20_04_99,388.96,390.4,close drawer

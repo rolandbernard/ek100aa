@@ -1,0 +1,259 @@
+P03_117_0,2.29,3.99,turn on tap
+P03_117_1,3.81,6.75,pick up bowl
+P03_117_10,30.13,31.34,pick up bowl
+P03_117_100,330.03,332.59,put saucepan lid in drying rack
+P03_117_101,333.5,334.56,pick up saucepan lid
+P03_117_102,334.66,345.51,wash saucepan lid
+P03_117_103,345.41,346.59,squeeze sponge
+P03_117_104,347.08,349.56,put lid on drying rack
+P03_117_105,350.74,351.83,pick up cup
+P03_117_106,352.47,355.34,take rice out of cup
+P03_117_107,355.44,356.98,turn on tap
+P03_117_108,356.18,357.06,fill cup
+P03_117_109,356.85,358.0,pour out cup
+P03_117_11,32.41,34.65,fill up bowl
+P03_117_110,357.81,360.03,turn off tap
+P03_117_111,359.7,361.74,pick up sponge
+P03_117_112,361.84,372.85,wash cup
+P03_117_113,372.86,374.88,squeeze sponge
+P03_117_114,374.96,378.33,put cup on drying rack
+P03_117_115,378.03,380.31,pick up bowl
+P03_117_116,380.41,387.47,wash bowl
+P03_117_117,387.24,389.74,take bit of cheese off sponge
+P03_117_118,389.56,397.72,wash bowl
+P03_117_119,397.5,398.27,squeeze sponge
+P03_117_12,35.12,36.17,pour out bowl
+P03_117_120,399.85,403.57,put bowl in drying rack
+P03_117_121,403.48,405.7,pick up knife
+P03_117_122,405.71,407.55,rinse sponge
+P03_117_123,406.62,408.7,wash knife
+P03_117_124,408.5,410.0,put knife in drying rack
+P03_117_125,410.05,411.23,pick up knife
+P03_117_126,411.63,413.11,wash knife
+P03_117_127,413.19,414.22,put knife in drying rack
+P03_117_128,414.41,416.01,pick up fork
+P03_117_129,415.62,419.35,wash fork
+P03_117_13,36.84,38.05,put down bowl
+P03_117_130,418.95,420.3,put fork in drying rack
+P03_117_131,421.07,421.76,pick up knife
+P03_117_132,422.05,423.04,rinse sponge
+P03_117_133,422.89,424.66,wash knife
+P03_117_134,424.62,425.61,put knife in drying rack
+P03_117_135,425.71,427.15,pick up fork
+P03_117_136,426.99,428.34,wash fork
+P03_117_137,428.4,429.29,put fork in drying rack
+P03_117_138,433.5,434.19,pick up scissors
+P03_117_139,434.27,435.45,rinse sponge
+P03_117_14,41.15,47.78,move tap
+P03_117_140,435.55,442.71,wash scissors
+P03_117_141,446.9,447.61,put scissors in drying rack
+P03_117_142,448.32,449.98,squeeze out sponge
+P03_117_143,450.15,450.78,put sponge back on side
+P03_117_144,450.84,453.19,pick up washing up bowl
+P03_117_145,452.47,453.3,empty washing up bowl
+P03_117_146,453.39,454.74,turn on tap
+P03_117_147,454.72,457.91,rinse washing up bowl
+P03_117_148,462.72,465.83,pour out washing up bowl
+P03_117_149,466.2,473.18,scrape food off of bottom of sink
+P03_117_15,51.12,52.64,test water
+P03_117_150,475.38,479.1,scrape food off of bottom of sink
+P03_117_151,479.15,480.03,rinse out washing up bowl
+P03_117_152,479.71,480.88,wash hand
+P03_117_153,480.98,484.1,rinse washing up bowl
+P03_117_154,484.2,484.73,pour out washing up bowl
+P03_117_155,484.7,485.67,rinse bottom of washing up bowl
+P03_117_156,486.03,488.12,put washing up bowl down on counter
+P03_117_157,487.79,489.11,pick up sponge
+P03_117_158,489.17,493.04,wash bottom of sink with sponge
+P03_117_159,490.16,493.31,scrape food off of bottom of sink
+P03_117_16,58.59,60.49,turn off tap
+P03_117_160,493.39,494.49,pick up washing up brush
+P03_117_161,494.62,495.72,brush bottom of sink
+P03_117_162,496.4,498.36,scrape food off of bottom of sink
+P03_117_163,498.83,500.01,put washing up brush back on side
+P03_117_164,502.54,504.05,pick up food off of drain
+P03_117_165,504.29,504.94,move tap
+P03_117_166,505.28,506.26,pick up sink strainer
+P03_117_167,507.05,510.65,take food from drain
+P03_117_168,511.9,513.63,empty sink strainer into bin
+P03_117_169,514.94,516.77,rinse out sink strainer
+P03_117_17,61.2,62.85,pick up sponge
+P03_117_170,516.7,517.45,put sink strainer back in sink
+P03_117_171,517.78,519.6,turn on tap more
+P03_117_172,519.7,521.44,turn off tap
+P03_117_173,521.32,525.94,pick up sink strainer
+P03_117_174,525.61,530.98,empty sink strainer into bin
+P03_117_175,530.71,533.33,tap sink strainer against side of bin
+P03_117_176,535.13,536.25,turn on tap
+P03_117_177,536.79,537.9,rinse sink strainer
+P03_117_178,537.55,539.65,put sink strainer back in sink
+P03_117_179,539.67,540.43,turn off tap
+P03_117_18,62.78,64.64,pick up tupperware
+P03_117_180,540.53,541.02,pick up sponge
+P03_117_181,541.12,541.76,squeeze sponge
+P03_117_182,541.7,543.3,put sponge back on side
+P03_117_183,542.89,543.63,pick up washing up bowl
+P03_117_184,543.54,544.19,put washing up bowl in sink
+P03_117_185,544.71,547.29,dry hands
+P03_117_186,552.71,553.35,open cupboard
+P03_117_187,553.62,554.54,take plate
+P03_117_188,554.44,556.02,close cupboard
+P03_117_189,553.0,556.27,put down plate
+P03_117_19,62.0,67.33,pour contents of tupperware down sink
+P03_117_190,556.31,558.3,take knife
+P03_117_191,558.33,559.4,put down knife
+P03_117_192,559.5,561.27,open fridge
+P03_117_193,561.48,562.15,take bread
+P03_117_194,562.24,563.22,take butter
+P03_117_195,563.33,564.65,take cheese
+P03_117_196,565.02,567.01,take tupperware
+P03_117_197,566.97,568.71,close fridge
+P03_117_198,569.34,570.3,put tupperware down on side
+P03_117_199,570.89,571.82,put down cheese
+P03_117_2,6.8,7.79,put down saucepan
+P03_117_20,67.43,68.86,soak tupperware
+P03_117_200,572.4,573.05,put down butter
+P03_117_201,573.9,584.05,open bread
+P03_117_202,585.2,589.44,take slices of bread out of its packaging
+P03_117_203,589.91,590.73,put bread on plate
+P03_117_204,591.03,593.14,pick up bread
+P03_117_205,593.09,604.1,close bread
+P03_117_206,604.89,605.59,pick up bread
+P03_117_207,606.44,608.52,open fridge
+P03_117_208,609.21,609.8,put bread in fridge
+P03_117_209,609.72,611.28,take strawberries from fridge
+P03_117_21,68.76,73.07,wash tupperware
+P03_117_210,615.34,616.96,put strawberries in fridge
+P03_117_211,616.85,617.85,close fridge
+P03_117_212,618.67,619.27,pick up knife
+P03_117_213,619.02,622.12,move piece of bread
+P03_117_214,621.89,622.96,move butter
+P03_117_215,623.11,623.64,open butter
+P03_117_216,623.77,625.11,peel film off butter
+P03_117_217,625.9,627.09,move butter
+P03_117_218,627.3,634.6,spread butter onto knife
+P03_117_219,626.0,629.2,move bread
+P03_117_22,73.09,74.89,fill tupperware with water
+P03_117_220,628.91,636.26,spread butter onto bread
+P03_117_221,636.32,637.32,move bread
+P03_117_222,637.72,638.37,spread butter onto knife
+P03_117_223,638.47,647.67,spread butter onto bread
+P03_117_224,647.85,648.45,move slice of bread
+P03_117_225,648.6,651.35,pick up film
+P03_117_226,651.42,652.2,put film on butter
+P03_117_227,652.52,653.02,pick up lid
+P03_117_228,653.1,654.44,close butter
+P03_117_229,655.19,656.22,pick up cheese
+P03_117_23,74.91,76.63,pour out tupperware
+P03_117_230,656.27,657.11,put down knife
+P03_117_231,657.15,659.03,open cheese
+P03_117_232,659.13,660.61,take cheese out of its packet
+P03_117_233,660.65,661.33,put down cheese
+P03_117_234,661.18,662.08,pick up knife
+P03_117_235,661.88,665.48,move cheese
+P03_117_236,665.58,670.48,cut cheese into slices
+P03_117_237,670.24,671.7,move cheese slice to bread
+P03_117_238,671.62,673.31,move cheese
+P03_117_239,670.0,676.53,cut cheese into slice
+P03_117_24,76.69,88.85,wash tupperware
+P03_117_240,676.63,678.97,move cheese slice to bread
+P03_117_241,678.85,680.57,move cheese slice from knife to bread
+P03_117_242,680.58,683.92,create sandwich
+P03_117_243,684.42,687.46,slice sandwich into two
+P03_117_244,688.29,689.56,put down knife
+P03_117_245,689.47,690.2,pick up cheese
+P03_117_246,691.45,693.45,put cheese in packet
+P03_117_247,693.58,697.62,close cheese packet
+P03_117_248,700.1,705.57,squeeze air out of cheese packet
+P03_117_249,700.61,704.97,close last bit of cheese packet
+P03_117_25,88.89,89.7,put tupperware on drying rack
+P03_117_250,705.55,706.9,pick up butter
+P03_117_251,707.0,708.2,pick up cheese
+P03_117_252,708.45,709.12,pick up tupperware
+P03_117_253,710.13,711.26,open fridge
+P03_117_254,711.64,713.16,put butter and cheese in fridge
+P03_117_255,714.9,716.13,turn on tap
+P03_117_256,716.1,717.05,wash hands
+P03_117_257,717.12,717.97,turn off tap
+P03_117_258,718.68,722.21,dry hands
+P03_117_26,89.61,91.49,pick up bowl
+P03_117_27,91.38,101.76,wash bowl
+P03_117_28,101.83,105.25,put bowl on drying rack
+P03_117_29,105.79,106.78,pick up bottom of spring form tin
+P03_117_3,6.86,7.64,put down bowl
+P03_117_30,106.88,111.1,wash bottom of spring form cake tin
+P03_117_31,111.15,112.47,put bottom of spring form cake tin on drying rack
+P03_117_32,113.54,114.33,pick up cheese grater
+P03_117_33,114.07,116.09,soak cheese grater
+P03_117_34,116.19,117.11,pick up knife
+P03_117_35,117.05,117.87,put knife in bowl
+P03_117_36,117.83,118.72,pick up saucepan lid
+P03_117_37,118.76,119.55,put down saucepan lid
+P03_117_38,119.6,120.93,pick up cutlery
+P03_117_39,120.14,121.34,put cutlery in bowl
+P03_117_4,8.3,9.14,take washing up liquid
+P03_117_40,122.04,123.1,pick up plate
+P03_117_41,123.29,133.99,wash plate
+P03_117_42,133.73,135.5,put plate on drying rack
+P03_117_43,136.79,137.68,pick up spoon
+P03_117_44,138.55,147.61,wash spoon
+P03_117_45,147.65,148.49,put spoon in drying rack
+P03_117_46,149.7,150.65,pick up saucepan
+P03_117_47,150.95,155.37,empty out saucepan down sink
+P03_117_48,155.47,156.57,put down saucepan
+P03_117_49,156.81,157.43,pick up saucepan lid
+P03_117_5,9.24,10.25,put washing up liquid in washing up bowl
+P03_117_50,157.67,158.31,put down saucepan lid
+P03_117_51,158.22,162.65,empty saucepan down sink
+P03_117_52,163.93,177.45,wash saucepan
+P03_117_53,177.4,179.0,put saucepan on drying rack
+P03_117_54,180.59,181.44,pick up plate
+P03_117_55,182.83,184.3,pick up cheese grater
+P03_117_56,184.11,184.82,put down plate
+P03_117_57,184.76,202.68,wash cheese grater
+P03_117_58,202.78,204.53,rinse sponge
+P03_117_59,203.39,204.28,squeeze sponge
+P03_117_6,10.59,11.37,put washing up liquid back on side
+P03_117_60,204.77,211.02,wash cheese grater
+P03_117_61,211.42,212.87,put cheese grater on drying rack
+P03_117_62,212.97,223.6,wash plate
+P03_117_63,223.41,224.51,squeeze sponge
+P03_117_64,225.93,226.57,move saucepan
+P03_117_65,226.56,228.83,put plate in drying rack
+P03_117_66,229.72,231.14,pick up saucepan
+P03_117_67,231.48,240.91,wash saucepan
+P03_117_68,241.66,243.58,rinse sponge
+P03_117_69,242.22,243.56,squeeze sponge
+P03_117_7,12.2,13.06,test water
+P03_117_70,243.61,250.57,wash saucepan
+P03_117_71,250.52,251.28,rinse sponge
+P03_117_72,251.38,252.03,squeeze sponge
+P03_117_73,252.05,255.56,wash saucepan
+P03_117_74,255.4,256.24,squeeze sponge
+P03_117_75,257.1,257.78,rinse sponge
+P03_117_76,257.88,259.8,squeeze sponge
+P03_117_77,259.27,264.47,wash saucepan
+P03_117_78,264.09,266.09,pick up tupperware
+P03_117_79,264.35,266.28,put saucepan on drying rack
+P03_117_8,13.09,14.76,turn on tap more
+P03_117_80,266.31,267.77,put tupperware down
+P03_117_81,267.9,270.07,pick up plate
+P03_117_82,269.77,289.15,wash plate
+P03_117_83,289.12,289.79,rinse sponge
+P03_117_84,289.77,291.0,squeeze sponge
+P03_117_85,291.13,294.97,wash plate
+P03_117_86,295.02,298.33,move tupperware
+P03_117_87,298.01,299.03,pick up tupperware
+P03_117_88,299.13,301.75,put tupperware down
+P03_117_89,302.18,303.45,move saucepan
+P03_117_9,20.59,21.39,move tap
+P03_117_90,303.12,304.64,put plate in drying rack
+P03_117_91,304.93,305.77,pick up tupperware
+P03_117_92,305.87,307.23,put down tupperware
+P03_117_93,308.84,309.6,pick up tupperware lid
+P03_117_94,309.9,316.41,wash tupperware
+P03_117_95,316.21,317.39,squeeze sponge
+P03_117_96,317.4,318.4,put tupperware on drying rack
+P03_117_97,319.36,320.35,pick up saucepan lid
+P03_117_98,320.45,329.46,wash saucepan lid
+P03_117_99,328.99,330.05,squeeze out sponge

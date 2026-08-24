@@ -1,0 +1,95 @@
+P24_01_0,2.25,3.56,open fridge
+P24_01_1,5.42,7.75,pick up melon
+P24_01_10,39.19,40.65,close door
+P24_01_11,42.28,61.17,cut melon
+P24_01_12,68.42,80.73,peel melon
+P24_01_13,88.87,93.11,throw melon peel
+P24_01_14,98.54,114.87,cut melon
+P24_01_15,119.07,121.51,pick up melon
+P24_01_16,126.0,129.19,put melon
+P24_01_17,129.41,131.35,close fridge
+P24_01_18,133.27,134.11,pick up banana
+P24_01_19,134.21,148.42,peel banana
+P24_01_2,15.81,16.79,open drawer
+P24_01_20,153.22,172.19,cut banana
+P24_01_21,172.8,173.57,take banana peel
+P24_01_22,174.8,177.87,throw banana peel away
+P24_01_23,179.29,180.41,take coffee pot
+P24_01_24,182.68,187.56,empty coffee pot
+P24_01_25,184.64,198.58,rinse coffee pot
+P24_01_26,190.29,191.72,move plate
+P24_01_27,204.74,208.98,open coffee pot
+P24_01_28,210.0,215.13,rinse coffee pot
+P24_01_29,215.18,216.65,fill coffee pot with water
+P24_01_3,16.5,23.12,pick up banana
+P24_01_30,219.92,229.97,clean coffee maker filter
+P24_01_31,232.15,245.31,rinse coffee maker
+P24_01_32,255.39,257.15,grab cloth
+P24_01_34,260.26,263.66,grab coffee
+P24_01_35,267.97,281.83,put coffee in coffee maker
+P24_01_36,323.0,334.94,put down down coffee
+P24_01_37,338.59,343.11,rinse hands
+P24_01_38,350.17,358.94,close coffee maker
+P24_01_39,360.42,362.02,rinse hands
+P24_01_4,23.84,24.75,put bag
+P24_01_40,363.52,365.1,rinse externally coffee maker
+P24_01_41,367.01,374.63,clean sink
+P24_01_42,374.73,375.88,put knife in the sink
+P24_01_43,388.59,394.3,dry hands with duster
+P24_01_44,395.56,397.94,squeeze coffee maker
+P24_01_45,398.04,399.92,put coffee maker on the stove
+P24_01_46,399.69,402.35,turn on stove
+P24_01_47,417.79,422.15,take dish
+P24_01_48,422.82,424.1,put dish on the table
+P24_01_49,425.64,427.54,open cage
+P24_01_5,25.17,26.39,close drawer
+P24_01_50,428.22,440.27,pick up fork
+P24_01_51,445.06,445.66,put fork on the table
+P24_01_52,449.97,452.08,check coffee pot
+P24_01_53,454.72,455.92,open door
+P24_01_54,457.25,459.23,pick up coffee cup
+P24_01_55,459.36,462.0,close door
+P24_01_56,465.14,465.88,put down cup
+P24_01_57,469.49,478.63,check coffee
+P24_01_58,480.12,484.87,rinse sponge
+P24_01_59,485.03,489.6,pour washing up liquid on sponge
+P24_01_6,27.23,28.52,close fridge
+P24_01_60,491.77,496.31,wash knife
+P24_01_61,497.25,503.37,rinse knife
+P24_01_62,503.42,504.71,turn off tap
+P24_01_63,506.4,507.33,open door
+P24_01_64,507.22,508.87,put down knife
+P24_01_65,508.76,509.55,close door
+P24_01_66,510.57,512.0,pick up dish cloth
+P24_01_67,511.91,515.68,dry hands
+P24_01_68,517.06,519.51,check coffee spill
+P24_01_69,527.02,532.7,check coffee spill
+P24_01_7,29.23,30.52,put banana
+P24_01_70,547.0,551.32,check coffee spill
+P24_01_71,555.85,556.9,open fridge
+P24_01_72,559.06,559.81,pick up cookie
+P24_01_73,559.81,561.66,close fridge
+P24_01_74,562.39,568.34,eat cookie
+P24_01_75,570.85,577.77,check coffee
+P24_01_76,584.79,586.28,open tap
+P24_01_77,586.12,587.62,rinse hands
+P24_01_78,587.57,594.18,clean sink
+P24_01_79,594.54,595.6,rinse hands
+P24_01_8,33.55,34.99,pick up plate
+P24_01_80,598.94,604.09,dry hands
+P24_01_81,604.19,606.6,check coffee
+P24_01_82,606.25,624.28,check coffee
+P24_01_83,634.26,644.09,lower cooker heat
+P24_01_84,650.3,652.43,check cooker heat
+P24_01_85,670.14,673.21,pick up coffee cup
+P24_01_86,671.81,675.23,put down coffee cup
+P24_01_87,679.5,688.04,turn off cooker
+P24_01_88,693.29,694.03,open door
+P24_01_89,694.13,695.65,pick up teaspoon
+P24_01_9,37.23,39.04,pick up knife
+P24_01_90,695.71,696.65,close door
+P24_01_91,697.95,699.44,stir coffee
+P24_01_92,705.19,708.82,pick up coffee pot
+P24_01_93,708.92,711.69,pour coffee into coffee cup
+P24_01_94,715.44,716.71,put down coffee pot
+P24_01_95,718.64,721.61,put down teaspoon

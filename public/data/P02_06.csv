@@ -1,0 +1,371 @@
+P02_06_0,3.98,6.55,get apron
+P02_06_1,7.84,14.48,wear apron
+P02_06_10,41.13,42.07,open drawer
+P02_06_100,229.5,230.01,close tap
+P02_06_101,230.28,231.73,put plate
+P02_06_102,237.18,238.33,open tap
+P02_06_103,238.46,242.07,rinse mug
+P02_06_104,243.84,244.63,put mug
+P02_06_105,244.97,246.72,pick up mug
+P02_06_106,246.45,247.07,pick up plate
+P02_06_107,247.13,247.71,put plate
+P02_06_108,248.52,250.05,fill mug
+P02_06_109,250.5,251.35,put mug
+P02_06_11,41.93,43.24,put tupperware
+P02_06_110,251.22,252.22,pick up plate
+P02_06_111,252.57,265.17,wash plate
+P02_06_112,257.04,258.29,open tap
+P02_06_113,258.13,264.0,rinse plate
+P02_06_114,264.38,265.01,close tap
+P02_06_115,265.15,266.72,put plate
+P02_06_116,266.82,267.7,pick up mug
+P02_06_117,269.94,270.94,put mug
+P02_06_118,271.47,272.65,pick up plate
+P02_06_119,272.23,279.49,wash plate
+P02_06_12,42.98,43.48,close drawer
+P02_06_120,279.59,281.09,open tap
+P02_06_121,280.42,285.08,rinse plate
+P02_06_122,284.63,285.26,close tap
+P02_06_123,286.01,286.6,put plate
+P02_06_124,288.47,292.86,empty sink
+P02_06_125,292.96,308.96,empty water from sink
+P02_06_126,313.41,334.38,still emptying sink
+P02_06_127,334.85,335.9,open tap
+P02_06_128,335.48,338.5,sprinkle water
+P02_06_129,338.07,338.92,close tap
+P02_06_13,45.94,48.19,pick up two strainers
+P02_06_130,339.2,343.95,empty sink
+P02_06_131,343.02,345.07,take off gloves
+P02_06_132,345.15,345.9,open cupboard
+P02_06_133,346.75,347.75,get strainer
+P02_06_134,353.1,354.1,put strainer
+P02_06_135,354.3,356.37,open fridge
+P02_06_136,358.3,359.05,get tomato
+P02_06_137,366.25,369.34,put tomato in strainer
+P02_06_138,369.44,372.62,still putting tomato
+P02_06_139,373.63,375.63,return tomato to fridge
+P02_06_14,48.74,49.43,open cupboard
+P02_06_140,377.8,379.3,pick up lettuce
+P02_06_141,391.61,394.18,pick up cucumber
+P02_06_142,395.25,396.75,close fridge
+P02_06_143,397.04,398.6,pick up strainer
+P02_06_144,400.98,402.26,put strainer
+P02_06_145,407.58,412.74,remove leaves from lettuce
+P02_06_146,413.42,414.12,open bin
+P02_06_147,414.22,414.72,throw leaves
+P02_06_148,414.57,415.2,close bin
+P02_06_149,416.34,419.61,put lettuce
+P02_06_15,49.6,51.01,put strainers
+P02_06_150,420.2,421.23,open drawer
+P02_06_151,421.29,425.88,get knife
+P02_06_152,427.72,442.45,remove plastic cover from cucumber
+P02_06_153,441.74,443.54,put cover
+P02_06_154,444.7,445.88,open tap
+P02_06_155,445.73,450.79,wash cucumber
+P02_06_156,450.64,451.39,close tap
+P02_06_157,451.99,453.94,pick up strainer
+P02_06_158,453.96,459.63,wash tomatoes
+P02_06_159,459.23,460.48,close tap
+P02_06_16,51.99,52.99,pick up pot
+P02_06_160,461.43,462.99,pick up chopping board
+P02_06_161,462.78,463.88,put chopping board
+P02_06_162,463.05,464.97,put strainer on chopping board
+P02_06_163,465.72,466.69,pick up lettuce
+P02_06_164,467.4,474.47,remove leaves from lettuce
+P02_06_165,474.06,482.46,put leaf
+P02_06_166,474.57,475.91,put leaves in strainer
+P02_06_167,476.03,477.06,remove leaf
+P02_06_168,477.16,477.67,put leaf
+P02_06_169,477.77,479.23,remove leaf
+P02_06_17,54.09,55.34,pick up lid
+P02_06_170,479.31,480.07,put leaf
+P02_06_171,479.98,480.83,remove leaf
+P02_06_172,480.79,481.69,put leaf
+P02_06_173,481.61,483.21,remove leaf
+P02_06_174,483.54,484.16,open trash bin
+P02_06_175,484.14,484.95,throw
+P02_06_176,484.49,485.06,close trash bin
+P02_06_177,486.14,487.58,pick up strainer
+P02_06_178,488.23,494.52,wash lettuce
+P02_06_179,494.78,495.79,close tap
+P02_06_18,55.33,56.44,cover pot
+P02_06_180,496.69,499.09,shake strainer
+P02_06_181,501.12,503.13,pick up chopping board
+P02_06_182,505.68,509.53,put chopping board
+P02_06_183,507.69,508.43,move cup
+P02_06_184,512.57,516.57,pick up plate
+P02_06_185,520.11,521.45,put wooden salad plate
+P02_06_186,522.76,523.93,pick up lettuce
+P02_06_187,524.34,525.11,put lettuce on chopping board
+P02_06_188,525.21,526.4,pick up lettuce
+P02_06_189,526.45,527.06,put lettuce
+P02_06_19,60.99,61.99,pick up pot
+P02_06_190,527.11,527.9,pick up lettuce
+P02_06_191,528.0,528.64,put lettuce
+P02_06_192,528.61,531.72,remove end of tomato
+P02_06_193,532.0,532.87,put
+P02_06_194,532.25,533.11,put strainer
+P02_06_195,533.39,534.03,pick up tomato
+P02_06_196,534.01,538.08,pick up tomato
+P02_06_197,534.13,535.07,remove end
+P02_06_198,535.0,535.92,put tomato
+P02_06_199,535.73,536.39,pick up tomato
+P02_06_2,18.13,22.22,switch on oven
+P02_06_20,62.34,64.34,put pot
+P02_06_200,536.68,537.39,put tomato
+P02_06_201,537.49,538.2,pick up
+P02_06_202,537.63,538.38,remove
+P02_06_203,538.16,542.89,remove end of tomato
+P02_06_204,538.48,538.99,put
+P02_06_205,539.2,545.64,pick up
+P02_06_206,542.5,546.65,put tomato
+P02_06_207,546.8,547.89,pick up strainer
+P02_06_208,550.1,550.92,put strainer next to sink
+P02_06_209,556.66,557.68,pick up knife
+P02_06_21,65.44,66.37,put pot
+P02_06_210,560.04,567.92,chop lettuce using knife on chopping board
+P02_06_211,563.04,574.6,chop lettuce
+P02_06_212,574.76,582.02,pick up chopped lettuce
+P02_06_213,575.08,576.65,put lettuce in salad plate
+P02_06_214,577.21,578.95,pick lettuce
+P02_06_215,579.4,582.22,put lettuce
+P02_06_216,583.13,584.98,chop end of cucumber
+P02_06_217,586.02,590.75,slice cucumber
+P02_06_218,594.03,597.08,slice cucumber using knife
+P02_06_219,597.5,602.82,chop cucumber
+P02_06_22,66.75,69.37,close cupboard
+P02_06_220,601.55,618.51,chop cucumber using knife on chopping board
+P02_06_221,618.92,619.75,pick up cucumber
+P02_06_222,619.56,620.71,pick up chopped cucumber
+P02_06_223,619.83,620.4,put cucumber
+P02_06_224,619.9,630.15,put cucumber in plate
+P02_06_225,620.61,622.4,pick up cucumber
+P02_06_226,622.39,623.21,put cucumber
+P02_06_227,623.31,625.23,pick up cucumber
+P02_06_228,625.38,629.62,put cucumber
+P02_06_229,630.9,632.27,pick up chopping board
+P02_06_23,67.06,69.24,close cupboard
+P02_06_230,634.9,636.32,put chopping board in sink
+P02_06_231,641.15,642.23,pick up towel
+P02_06_232,642.31,645.13,pick up letter
+P02_06_233,647.82,649.17,open cupboard
+P02_06_234,652.96,657.58,remove packaging
+P02_06_235,658.76,659.98,pick up sweetcorn can
+P02_06_236,660.7,662.11,pick up can
+P02_06_237,662.11,663.11,look at can
+P02_06_238,663.41,664.32,return can
+P02_06_239,664.54,665.21,close cupboard
+P02_06_24,70.31,71.76,pick up pan
+P02_06_240,666.5,667.34,put can
+P02_06_241,667.97,671.75,remove ladder
+P02_06_242,674.26,675.07,put towel
+P02_06_243,677.82,688.12,open can
+P02_06_244,693.27,694.61,open tap
+P02_06_245,694.85,699.08,rinse sweet corn
+P02_06_246,700.0,701.4,open tap
+P02_06_247,701.45,702.17,fill can with water
+P02_06_248,702.92,708.73,rinse sweet corn
+P02_06_249,712.28,715.82,put sweet corn on salad
+P02_06_25,72.66,74.18,put pan on stove
+P02_06_250,715.88,716.65,put can
+P02_06_251,716.4,723.83,mixing salad
+P02_06_252,716.69,718.53,mix salad
+P02_06_254,725.3,728.05,open can
+P02_06_255,729.23,730.15,throw can
+P02_06_256,731.75,732.75,open tap
+P02_06_257,732.66,733.92,wash hands
+P02_06_258,736.32,737.65,pick up towel
+P02_06_259,737.65,739.21,dry hands
+P02_06_26,75.02,76.04,pick up bag
+P02_06_260,739.24,740.0,open cupboard
+P02_06_261,740.03,744.99,get tray
+P02_06_262,743.2,751.14,move tray
+P02_06_263,746.37,747.34,close cupboard
+P02_06_264,750.04,751.61,put tray
+P02_06_265,751.71,753.07,open freezer
+P02_06_266,753.77,754.67,open drawer
+P02_06_267,754.85,755.69,close drawer
+P02_06_268,755.51,756.83,open drawer
+P02_06_269,756.71,757.77,get box
+P02_06_27,77.2,78.61,open trash bin
+P02_06_270,758.85,760.75,read on box
+P02_06_271,760.85,769.5,open box
+P02_06_272,769.6,771.15,put chicken burger on tray
+P02_06_273,772.66,773.92,return books to drawer
+P02_06_274,775.85,777.01,open drawer
+P02_06_275,778.2,780.29,get bag
+P02_06_276,780.8,784.2,open bag
+P02_06_277,783.8,787.74,read on bag
+P02_06_278,788.67,791.21,pick up potato
+P02_06_279,791.25,792.5,put potato on in three
+P02_06_28,78.21,79.09,throw bag
+P02_06_280,794.75,797.03,put potato on in three
+P02_06_281,796.79,798.86,close bag
+P02_06_282,797.38,801.55,return bag
+P02_06_283,799.2,800.44,pick up bag
+P02_06_284,804.09,805.27,open bag
+P02_06_285,805.37,806.93,get onion rings
+P02_06_286,807.64,809.69,put onion rings on tray
+P02_06_287,811.11,812.49,cook onion rings
+P02_06_288,811.93,812.94,close bag
+P02_06_289,815.54,816.77,put bag
+P02_06_29,80.42,81.91,pick up wooden spoon
+P02_06_290,816.69,817.39,close drawer
+P02_06_291,817.34,818.24,close drawer
+P02_06_292,818.28,819.57,close freezer
+P02_06_293,819.66,820.67,pick up tray
+P02_06_294,822.03,823.02,open bin
+P02_06_295,823.12,823.73,close bin
+P02_06_296,824.81,825.75,open oven
+P02_06_297,825.85,827.35,put tray
+P02_06_298,827.45,828.28,close oven
+P02_06_299,828.38,830.63,set timer
+P02_06_3,23.55,25.0,pick up plates
+P02_06_30,81.84,82.78,pick up knife
+P02_06_300,834.79,835.83,open cupboard
+P02_06_301,837.03,839.08,get vinegar
+P02_06_302,839.49,842.41,get herb
+P02_06_303,839.68,842.43,get herbs
+P02_06_304,846.21,849.18,put herb on salad
+P02_06_305,847.65,852.1,sprinkle herb
+P02_06_306,854.24,855.95,sprinkle on other herb
+P02_06_307,855.91,857.18,put herb
+P02_06_308,861.68,864.09,put vinegar
+P02_06_309,866.53,867.53,close herb
+P02_06_31,82.88,84.26,pick up cutlery
+P02_06_310,871.01,872.07,put back herb
+P02_06_311,872.3,874.65,put back herb
+P02_06_312,875.19,877.55,put back vinegar
+P02_06_313,879.39,880.94,move pasta
+P02_06_314,881.6,882.83,return pasta
+P02_06_315,882.93,887.7,search
+P02_06_316,887.8,891.59,searching
+P02_06_317,890.55,891.93,searching
+P02_06_318,894.61,896.22,pick up olive oil
+P02_06_319,899.64,900.77,put olive oil
+P02_06_32,86.97,88.33,open drawer
+P02_06_320,900.46,903.23,sprinkle olive oil on salad
+P02_06_321,903.33,907.23,put olive oil on salad
+P02_06_322,906.59,910.26,empty olive oil can
+P02_06_323,910.24,911.02,close olive oil bottle
+P02_06_324,912.72,913.45,open trash bin
+P02_06_325,913.5,914.29,throw olive oil
+P02_06_326,915.99,917.03,open fridge
+P02_06_327,917.12,918.12,pick up olives
+P02_06_328,921.02,924.5,put olives on salad
+P02_06_329,927.06,927.88,open fridge
+P02_06_33,88.04,89.85,put spoons
+P02_06_330,928.02,929.02,return olives
+P02_06_331,929.11,929.69,close fridge
+P02_06_332,935.01,936.26,dry hands
+P02_06_333,936.9,942.76,wear gloves
+P02_06_334,943.12,944.0,get sponge
+P02_06_335,944.18,944.79,return sponge
+P02_06_336,945.52,947.0,pick sponge
+P02_06_337,947.68,950.28,put liquid
+P02_06_338,950.97,954.37,wash chopping board
+P02_06_339,954.47,955.37,open tap
+P02_06_34,93.82,94.47,open drawer
+P02_06_340,955.58,959.52,rinse chopping board
+P02_06_341,960.16,962.09,return chopping board
+P02_06_342,961.12,963.52,wash tap
+P02_06_343,964.77,973.1,wash mug
+P02_06_344,966.49,967.96,open tap
+P02_06_345,971.91,973.69,close tap
+P02_06_346,974.27,975.38,put mug
+P02_06_347,975.48,976.49,pick up knife
+P02_06_348,976.24,977.84,wash knife
+P02_06_349,978.54,979.9,pick up strainer
+P02_06_35,94.33,95.48,put knife
+P02_06_350,981.05,990.87,wash strainer
+P02_06_352,984.12,985.23,open tap
+P02_06_353,984.3,989.04,rinse strainer
+P02_06_354,988.59,990.41,close tap
+P02_06_355,990.64,992.92,put strainer
+P02_06_356,993.07,995.41,open tap
+P02_06_357,993.54,995.34,rinse knife
+P02_06_358,994.72,995.47,close tap
+P02_06_359,995.47,995.97,put knife
+P02_06_36,95.08,96.35,put wooden spoon
+P02_06_360,996.09,1003.59,look around
+P02_06_361,1003.81,1005.91,pick up bags
+P02_06_362,1004.35,1008.33,throw bags
+P02_06_363,1007.37,1008.7,open trash can
+P02_06_364,1010.58,1011.32,pick up water filter
+P02_06_365,1011.12,1011.62,pick up cup
+P02_06_366,1011.57,1013.37,fill water
+P02_06_367,1013.68,1017.82,drink water
+P02_06_368,1020.39,1021.86,close cupboard
+P02_06_369,1022.83,1024.08,open tap
+P02_06_37,96.4,97.28,close drawer
+P02_06_370,1023.17,1028.92,hold and fill water filter
+P02_06_371,1028.57,1029.76,close tap
+P02_06_372,1030.54,1033.47,put water filter
+P02_06_38,98.38,102.35,wear gloves
+P02_06_39,102.39,103.18,pick up sponge
+P02_06_4,26.4,27.27,open cupboard
+P02_06_40,103.6,104.44,open tap
+P02_06_41,106.67,108.36,put liquid
+P02_06_42,110.27,111.91,pick up tupperware
+P02_06_43,111.59,112.46,open tap
+P02_06_44,112.25,113.72,rinse tupperware
+P02_06_45,113.94,123.43,wash tupperware
+P02_06_46,119.62,126.89,still washing tupperware
+P02_06_47,127.28,128.35,open tap
+P02_06_48,128.42,137.93,rinse tupperware
+P02_06_49,138.03,139.49,close tap
+P02_06_5,27.37,28.61,put plates
+P02_06_50,139.59,140.62,put tupperware
+P02_06_51,141.37,142.51,pick up tupperware
+P02_06_52,142.61,145.12,wash lid
+P02_06_53,143.41,146.15,rinse lid
+P02_06_54,146.25,147.19,put lid
+P02_06_55,147.29,147.97,pick up spoon
+P02_06_56,148.04,150.67,wash spoon
+P02_06_57,150.64,152.31,pick up knife
+P02_06_58,152.24,154.01,wash knife
+P02_06_59,154.11,155.03,pick up knife
+P02_06_6,30.16,31.06,pick up plate
+P02_06_60,155.13,156.94,wash knife
+P02_06_61,157.04,158.54,pick up spoon
+P02_06_62,158.41,160.97,wash spoon
+P02_06_63,160.36,161.61,pick up spoon
+P02_06_64,161.93,163.43,wash spoon
+P02_06_65,163.74,164.55,pick up spoon
+P02_06_66,165.16,167.08,wash spoon
+P02_06_67,166.98,168.31,pick up fork
+P02_06_68,168.19,170.12,wash fork
+P02_06_69,170.66,171.55,pick up spoon
+P02_06_7,32.07,32.89,put plate
+P02_06_70,171.73,174.9,wash spoon
+P02_06_71,175.77,177.07,open tap
+P02_06_72,176.85,188.77,rinse cutlery
+P02_06_73,179.56,180.31,put spoon
+P02_06_74,180.41,182.36,rinse fork
+P02_06_75,182.46,183.21,put fork
+P02_06_76,183.31,184.87,rinse spoons
+P02_06_77,184.91,185.66,put spoons
+P02_06_78,185.76,186.76,rinse spoon
+P02_06_79,186.86,187.37,put spoon
+P02_06_8,34.54,36.78,pick up tupperware
+P02_06_80,187.56,189.07,rinse knife
+P02_06_81,189.03,189.78,put knife
+P02_06_82,189.06,189.82,put knife
+P02_06_83,189.91,191.16,rinse knife
+P02_06_84,192.79,194.11,pick up mug
+P02_06_85,197.67,198.95,open tap
+P02_06_86,198.85,203.95,rinse mug
+P02_06_87,202.08,204.41,close tap
+P02_06_88,204.33,205.76,put mug
+P02_06_89,205.92,206.55,pick up plate
+P02_06_9,39.71,40.89,close drawer
+P02_06_90,206.65,210.59,wash plate
+P02_06_91,210.48,211.6,open tap
+P02_06_92,211.55,215.74,rinse plate
+P02_06_93,215.35,216.39,close tap
+P02_06_94,216.52,217.58,put plate
+P02_06_95,217.82,218.89,pick up plate
+P02_06_96,218.78,222.82,wash plate
+P02_06_97,222.86,224.1,open tap
+P02_06_98,224.2,229.37,rinse plate
+P02_06_99,229.22,229.86,close tap

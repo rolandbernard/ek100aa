@@ -1,0 +1,376 @@
+P04_120_0,0.43,1.08,pick up spatula
+P04_120_1,0.87,6.91,pull spatula through milk
+P04_120_10,17.35,40.19,stir mixture in ramekin with teaspoon
+P04_120_100,328.38,330.27,screw milk bottle lid tight
+P04_120_101,331.25,332.07,put down milk bottle
+P04_120_102,332.44,334.56,turn on tap
+P04_120_103,334.66,335.34,rinse hands
+P04_120_104,335.43,336.0,turn off tap
+P04_120_105,335.86,337.94,pick up tea towel
+P04_120_106,337.12,339.7,dry hands on tea towel
+P04_120_107,336.73,340.83,put tea towel back on oven door
+P04_120_108,340.9,341.43,pick up spatula
+P04_120_109,341.71,344.82,scrape cream off side of wok
+P04_120_11,40.28,44.93,crush rennet tablet with back of teaspoon
+P04_120_110,343.45,347.45,drag spatula through milk in pan
+P04_120_111,347.54,347.84,put down spatula
+P04_120_112,347.9,348.65,pick up thermometer
+P04_120_113,348.65,349.87,read thermometer
+P04_120_114,349.87,361.24,put thermometer into milk
+P04_120_115,360.45,361.94,put down thermometer
+P04_120_116,362.49,363.0,pick up spatula
+P04_120_117,363.05,368.45,drag spatula through milk in pan
+P04_120_118,368.2,369.0,put down spatula
+P04_120_119,379.15,382.1,open dishwasher
+P04_120_12,44.36,44.92,put down teaspoon
+P04_120_120,381.45,381.98,turn off dishwasher
+P04_120_121,383.14,384.03,push down dishwasher door
+P04_120_122,384.6,386.2,pull open dishwasher drawer
+P04_120_123,385.95,388.55,open dishwasher drawer
+P04_120_124,388.78,389.46,pick up spatula
+P04_120_125,390.15,391.35,pick up knife
+P04_120_126,391.48,394.27,put bread knife in knife holder
+P04_120_127,394.66,395.64,open drawer
+P04_120_128,395.69,396.87,put spatula in drawer
+P04_120_129,396.82,398.51,pick up plate bowl
+P04_120_13,45.02,46.63,pick up spatula
+P04_120_130,398.42,400.17,wipe plate bowl with hand
+P04_120_131,401.01,401.99,open cupboard
+P04_120_132,402.2,402.87,put plate bowl in cupboard
+P04_120_133,404.91,407.21,pick up ramekin
+P04_120_134,408.82,410.07,turn on tap
+P04_120_135,409.36,410.15,fill ramekin with water
+P04_120_136,408.76,410.48,empty water from ramekin
+P04_120_137,410.76,411.86,pick up sponge
+P04_120_138,411.8,414.33,wipe ramekin with sponge
+P04_120_139,414.25,415.45,rinse ramekin with water
+P04_120_14,46.68,54.44,drag spatula through milk
+P04_120_140,415.34,416.27,wipe ramekin with sponge
+P04_120_141,416.29,416.83,rinse ramekin with water
+P04_120_142,416.5,417.14,transfer ramekin to other hand
+P04_120_143,417.15,417.75,turn off tap
+P04_120_144,417.84,420.21,pick up tea towel
+P04_120_145,420.19,425.9,dry ramekin with tea towel
+P04_120_146,425.41,427.05,put tea towel on oven door
+P04_120_147,427.26,429.9,put ramekin in cupboard
+P04_120_148,430.5,431.29,pick up saucepan
+P04_120_149,431.35,432.57,turn on tap
+P04_120_15,54.53,56.89,feel temperature of milk
+P04_120_150,432.2,433.45,fill saucepan with water
+P04_120_151,432.66,433.97,shake saucepan
+P04_120_152,433.3,434.55,empty water from saucepan
+P04_120_153,434.16,434.55,turn off tap
+P04_120_154,434.93,436.0,shake saucepan
+P04_120_155,436.84,438.5,pick up tea towel from floor
+P04_120_156,438.2,442.49,dry saucepan with tea towel
+P04_120_157,442.58,444.75,put tea towel on oven door
+P04_120_158,445.38,446.46,open cupboard
+P04_120_159,446.56,447.88,put saucepan in cupboard
+P04_120_16,54.0,56.69,put down spatula
+P04_120_160,447.95,449.2,close cupboard
+P04_120_161,448.85,450.05,pick up saucepan lid
+P04_120_162,449.79,451.03,open cupboard
+P04_120_163,451.13,452.86,put saucepan lid in cupboard
+P04_120_164,452.63,456.74,pick up saucepan
+P04_120_165,456.1,459.08,inspect saucepan
+P04_120_166,459.0,459.63,pick up tea towel
+P04_120_167,459.72,461.11,dry inside of saucepan with tea towel
+P04_120_168,461.04,462.02,turn over saucepan
+P04_120_169,461.94,464.54,dry bottom of saucepan with tea towel
+P04_120_17,56.66,59.84,adjust temperature on hob
+P04_120_170,464.15,464.57,put tea towel on oven door
+P04_120_171,464.66,466.65,put saucepan in cupboard
+P04_120_172,467.63,468.33,pick up bowl
+P04_120_173,468.43,470.05,put bowl on stack of bowls in cupboard
+P04_120_174,471.02,472.27,pick up rolling pin
+P04_120_175,472.37,473.45,rotate rolling pin
+P04_120_176,473.39,474.75,close drawer
+P04_120_177,474.78,475.6,open drawer
+P04_120_178,475.49,476.24,put rolling pin in drawer
+P04_120_179,476.34,476.85,close drawer
+P04_120_18,59.91,60.82,pick up thermometer
+P04_120_180,476.89,477.65,close dishwasher drawer
+P04_120_181,478.03,479.3,pick up plate
+P04_120_182,480.96,481.91,pick up tea towel
+P04_120_183,481.97,484.35,dry plates with tea towel
+P04_120_184,484.46,485.36,put tea towel on oven door
+P04_120_185,486.6,487.41,pick up plate bowl
+P04_120_186,486.32,487.22,put plate in cupboard
+P04_120_187,487.53,488.38,put down plate bowl
+P04_120_188,488.66,489.4,pick up spatula
+P04_120_189,489.08,494.38,drag spatula through milk in pan
+P04_120_19,61.76,70.84,look at thermometer
+P04_120_190,494.28,495.09,put down spatula
+P04_120_191,496.61,497.53,move pan handle
+P04_120_192,497.68,498.15,pick up plates
+P04_120_193,498.68,499.43,pick up plate
+P04_120_194,500.15,501.38,stack plates
+P04_120_195,503.43,504.54,pick up plate bowl
+P04_120_196,502.25,505.0,put plates on stack of plates
+P04_120_197,504.46,505.55,put down plate bowl
+P04_120_198,507.08,508.55,pick up plate bowl
+P04_120_199,508.55,511.15,stack plate bowl in cupboard
+P04_120_2,6.84,7.69,put down spatula
+P04_120_20,70.91,71.96,put down thermometer
+P04_120_200,510.56,513.01,pick up plates
+P04_120_201,514.35,515.35,lift plates
+P04_120_202,515.33,517.66,slide plates under plates in cupboard
+P04_120_203,517.38,518.96,put down plates
+P04_120_204,519.36,520.28,pick up spatula
+P04_120_205,520.33,524.21,pull spatula through milk in pan
+P04_120_206,523.94,524.69,put down spatula
+P04_120_207,526.54,527.64,pick up baking tray
+P04_120_208,527.27,528.29,shake baking tray
+P04_120_209,528.64,529.04,pick up tea towel
+P04_120_21,71.21,72.92,pick up spatula
+P04_120_210,530.14,532.69,dry baking tray
+P04_120_211,532.71,533.33,put tea towel back on oven door
+P04_120_212,534.09,535.49,slide baking tray into cupboard
+P04_120_213,534.96,536.33,pick up chopping board
+P04_120_214,536.11,538.86,inspect chopping board
+P04_120_215,538.39,540.59,feel chopping board
+P04_120_216,540.52,541.25,look in sink
+P04_120_217,541.62,542.28,put down chopping board
+P04_120_218,542.45,543.99,lift baking tray
+P04_120_219,543.13,545.28,look in sink
+P04_120_22,73.02,77.53,drag spatula through milk
+P04_120_220,545.31,546.29,put down baking tray
+P04_120_221,546.38,547.31,pick up scourer
+P04_120_222,547.41,551.87,rub chopping board with scourer
+P04_120_223,551.95,552.31,put down scourer
+P04_120_224,552.47,553.02,pick up sponge
+P04_120_225,552.74,553.36,look at bottom of sponge
+P04_120_226,553.0,556.85,wipe chopping board with sponge
+P04_120_227,556.95,557.72,put down sponge
+P04_120_228,557.45,558.47,pick up chopping board
+P04_120_229,558.22,558.79,pick up tea towel
+P04_120_23,76.88,77.76,put down spatula
+P04_120_230,559.17,561.27,wipe chopping board with tea towel
+P04_120_231,561.46,561.98,put tea towel on oven door
+P04_120_232,563.15,566.08,slide tea towel onto trolley
+P04_120_233,566.98,569.59,pick up pan
+P04_120_234,570.73,571.24,pick up tea towel
+P04_120_235,571.28,574.62,wipe pan with tea towel
+P04_120_236,572.0,574.59,wipe bottom of pan with tea towel
+P04_120_237,574.69,577.88,put pan in cupboard
+P04_120_238,576.55,580.9,pick up oven dish
+P04_120_239,580.4,585.9,throw bit into sink
+P04_120_24,77.77,78.6,pick up water bottle
+P04_120_240,585.29,586.65,pull bit off oven dish
+P04_120_241,586.45,587.36,throw bit into sink
+P04_120_242,587.13,588.2,pull bit off oven dish
+P04_120_243,587.65,588.15,pull bit off oven dish
+P04_120_244,588.2,588.84,throw bit into sink
+P04_120_245,588.56,589.75,pick up tea towel
+P04_120_246,589.51,594.14,dry oven dish with tea towel
+P04_120_247,594.19,595.17,put tea towel on oven door
+P04_120_248,595.75,596.6,close cupboard door
+P04_120_249,596.66,597.47,open cupboard door
+P04_120_25,78.46,81.03,take top off water bottle
+P04_120_250,597.7,599.26,stack oven dish on other oven dish
+P04_120_251,598.97,599.89,close cupboard
+P04_120_252,599.79,600.44,pick up spatula
+P04_120_253,600.19,604.6,move spatula through milk in pan
+P04_120_254,604.09,604.74,put down spatula
+P04_120_255,604.83,608.77,pick up thermometer
+P04_120_256,605.25,608.53,read temperature on thermometer
+P04_120_257,609.12,613.96,look closer at thermometer
+P04_120_258,614.01,615.11,pick up spatula
+P04_120_259,614.72,622.07,move spatula through milk in pan
+P04_120_26,78.0,82.23,drink water
+P04_120_260,621.85,622.59,put down thermometer
+P04_120_261,622.55,623.27,put down spatula
+P04_120_262,626.18,627.5,take cutlery holder from dishwasher
+P04_120_263,627.35,628.52,open drawer
+P04_120_264,628.6,629.47,take forks
+P04_120_265,629.54,630.34,put forks in drawer
+P04_120_266,628.91,629.65,pick up fork
+P04_120_267,629.48,630.56,put fork in drawer
+P04_120_268,630.45,632.45,move spatula
+P04_120_269,632.66,633.24,pick up knife
+P04_120_27,80.54,81.3,put top on water bottle
+P04_120_270,633.35,633.99,put knife in drawer
+P04_120_271,634.09,635.21,pick up pastry brush
+P04_120_272,635.25,636.68,put pastry brush in drawer
+P04_120_273,636.65,637.43,pick up fork
+P04_120_274,637.53,638.28,put fork in drawer
+P04_120_275,640.42,641.21,pick up tablespoon
+P04_120_276,637.0,638.13,put tablespoon in drawer
+P04_120_277,640.33,641.21,pick up spoon
+P04_120_278,641.14,641.54,put spoon in drawer
+P04_120_279,641.49,643.33,pick up teaspoon
+P04_120_28,84.96,85.99,put down water bottle
+P04_120_280,643.34,643.79,put teaspoon in drawer
+P04_120_281,643.43,644.24,pick up chopstick
+P04_120_282,644.28,645.16,put chopstick in drawer
+P04_120_283,645.26,646.9,pick up scissors
+P04_120_284,646.86,647.71,put scissors in drawer
+P04_120_285,647.66,648.43,pick up fork
+P04_120_286,647.99,648.84,put fork in drawer
+P04_120_287,648.98,649.58,pick up spoon
+P04_120_288,649.88,650.38,put spoon in drawer
+P04_120_289,650.63,651.09,pick up teaspoon
+P04_120_29,86.68,88.51,pick up instructions
+P04_120_290,651.19,651.59,put teaspoon in drawer
+P04_120_291,651.68,651.95,pick up teaspoon
+P04_120_292,652.13,652.58,put teaspoon in drawer
+P04_120_293,652.64,653.19,pick up tablespoon
+P04_120_294,653.6,654.35,look at tablespoon
+P04_120_295,654.19,655.39,put tablespoon on counter
+P04_120_296,654.0,654.59,pick up spoon
+P04_120_297,656.61,657.1,put spoon in drawer
+P04_120_298,657.05,657.74,pick up knife
+P04_120_299,657.65,659.22,put knife in knife holder
+P04_120_3,7.77,8.64,feel temperature of water in spoon
+P04_120_30,88.08,117.54,read instructions
+P04_120_300,659.23,660.42,pick up scissors
+P04_120_301,660.4,660.85,put scissors in drawer
+P04_120_302,661.05,663.2,pick up teaspoon
+P04_120_303,663.03,664.91,put teaspoon in drawer
+P04_120_304,664.98,666.16,pick up knife
+P04_120_305,666.16,667.56,put knife in knife holder
+P04_120_306,667.75,668.2,pick up fork
+P04_120_307,668.26,668.6,put fork in drawer
+P04_120_308,668.93,669.56,pick up teaspoon
+P04_120_309,669.57,669.88,put teaspoon in drawer
+P04_120_31,117.44,122.3,turn over instruction booklet
+P04_120_310,669.98,671.32,pick up measuring spoon
+P04_120_311,671.41,671.88,put measuring spoon in drawer
+P04_120_312,672.1,673.06,close drawer
+P04_120_313,673.07,674.1,put cutlery holder in dishwasher
+P04_120_314,675.75,676.07,pick up measuring spoon
+P04_120_315,676.49,677.35,turn on tap
+P04_120_316,677.0,679.46,pick up sponge
+P04_120_317,679.55,684.68,wipe measuring spoon with sponge
+P04_120_318,684.72,685.62,put down sponge
+P04_120_319,685.72,686.55,turn off tap
+P04_120_32,117.94,122.78,turn over instruction booklet
+P04_120_320,686.4,688.45,shake measuring spoon
+P04_120_321,688.56,689.55,pick up tea towel
+P04_120_322,689.64,693.28,wipe spoon with tea towel
+P04_120_323,693.2,694.51,put tea towel on oven door
+P04_120_324,695.66,696.69,open drawer
+P04_120_325,696.73,698.07,open drawer
+P04_120_326,696.38,698.27,put tablespoon in drawer
+P04_120_327,698.94,700.69,pick up tea towel
+P04_120_328,700.54,703.54,pull tea towel out of bowl
+P04_120_329,702.96,705.63,shake tea towel into sink
+P04_120_33,122.78,124.8,turn over instruction booklet
+P04_120_330,705.4,706.9,wipe tea towel with hand
+P04_120_331,708.09,709.14,put tea towel on oven door
+P04_120_332,709.26,710.18,pick up bowl
+P04_120_333,710.61,711.79,put bowl in dishwasher
+P04_120_334,712.69,714.44,pick up thermometer
+P04_120_335,714.53,716.45,pick up spatula
+P04_120_336,716.56,721.47,stir milk in pan with spatula
+P04_120_337,721.01,721.81,lift spatula out of milk
+P04_120_338,721.53,728.88,stir milk in pan using spatula
+P04_120_339,728.78,731.16,put down spatula
+P04_120_34,124.9,125.43,turn over instruction booklet
+P04_120_340,730.98,735.83,adjust temperature on hob
+P04_120_341,735.56,736.44,shake thermometer
+P04_120_342,736.48,737.82,put down thermometer
+P04_120_343,737.81,738.48,pick up teaspoon
+P04_120_344,738.55,739.13,pick up ramekin
+P04_120_345,739.21,742.0,read instructions
+P04_120_346,741.0,744.25,pour mixture from ramekin into saucepan
+P04_120_347,743.83,745.96,put down teaspoon
+P04_120_348,746.72,747.47,pick up spatula
+P04_120_349,747.55,750.05,put down ramekin
+P04_120_35,125.3,128.28,turn over instruction booklet
+P04_120_350,749.81,751.12,move measuring spoon
+P04_120_351,751.0,752.12,move teaspoon
+P04_120_352,752.24,753.54,hold pan handle
+P04_120_353,753.38,755.34,move pan away from hob
+P04_120_354,755.31,757.94,stir milk in pan using spatula
+P04_120_355,756.46,762.26,lift spatula out of milk
+P04_120_356,756.0,757.09,stir milk in pan using spatula
+P04_120_357,757.12,757.37,lift spatula out of milk
+P04_120_358,757.54,775.97,stir milk in pan using spatula
+P04_120_359,775.96,776.85,lift spatula out of milk
+P04_120_36,128.0,131.28,turn over instruction booklet
+P04_120_360,776.99,777.83,tap spatula on side of pan
+P04_120_361,778.18,779.23,rest spatula against side of pan
+P04_120_362,779.32,780.28,feel temperature of milk
+P04_120_363,780.6,781.75,pick up thermometer
+P04_120_364,781.65,783.62,put thermometer in milk
+P04_120_365,782.58,786.38,rotate thermometer
+P04_120_366,786.64,803.69,read thermometer temperature
+P04_120_367,803.51,804.66,lift thermometer out of milk
+P04_120_368,804.72,808.43,put thermometer into milk
+P04_120_369,808.53,813.49,lift thermometer out of milk
+P04_120_37,131.1,132.65,put down instruction booklet
+P04_120_370,813.41,814.11,pick up spatula
+P04_120_371,814.66,816.44,move spatula around pan
+P04_120_372,816.54,817.44,lift spatula out of pan
+P04_120_373,816.81,818.24,put down spatula
+P04_120_374,818.11,819.49,put down thermometer
+P04_120_375,820.87,831.55,set timer on oven
+P04_120_38,132.29,133.63,pick up spatula
+P04_120_39,133.19,149.05,drag spatula through milk
+P04_120_4,8.73,10.15,pick up spoon
+P04_120_40,149.05,151.59,pick up tablet packet
+P04_120_41,151.69,153.89,look at tablet packet
+P04_120_42,153.6,154.75,turn over tablet packet
+P04_120_43,154.37,156.99,look at tablet packet
+P04_120_44,156.9,159.4,put down tablet packet
+P04_120_45,159.5,164.9,drag spatula through milk
+P04_120_46,164.1,165.15,put down spatula
+P04_120_47,164.97,165.9,pick up teaspoon
+P04_120_48,165.9,168.4,stir mixture in ramekin with teaspoon
+P04_120_49,168.39,168.61,put down teaspoon
+P04_120_5,9.95,11.97,pour water from spoon into ramekin
+P04_120_50,168.9,169.21,pick up spatula
+P04_120_51,169.67,182.52,drag spatula through milk in pan
+P04_120_52,182.59,186.37,look at countertop
+P04_120_53,187.93,189.6,feel temperature of milk
+P04_120_54,189.67,192.79,drag spatula around pan
+P04_120_55,192.04,192.98,put down spatula
+P04_120_56,194.17,195.79,open dishwasher
+P04_120_57,199.41,200.87,feel temperature of dishwasher
+P04_120_58,201.41,202.23,close dishwasher
+P04_120_59,206.13,207.77,pick up spatula
+P04_120_6,12.56,13.37,pick up teaspoon
+P04_120_60,206.89,217.79,drag spatula around pan
+P04_120_61,216.91,220.37,move thermometer end with spatula
+P04_120_62,219.46,235.08,drag spatula through milk around pan
+P04_120_63,234.92,237.59,look at cupboard
+P04_120_64,241.57,242.41,put down spatula
+P04_120_65,242.39,243.87,rotate thermometer
+P04_120_66,244.04,244.75,pick up spatula
+P04_120_67,244.81,250.65,drag spatula through milk in pan
+P04_120_68,250.64,252.26,put down spatula
+P04_120_69,252.26,253.19,feel temperature of milk in pan
+P04_120_7,13.28,14.08,put down measuring spoon
+P04_120_70,253.29,256.53,adjust temperature of hob
+P04_120_71,287.76,288.55,pick up milk bottle
+P04_120_72,288.78,289.75,look at milk bottle
+P04_120_73,289.5,291.35,put down milk bottle
+P04_120_74,291.27,292.6,pick up milk bottle
+P04_120_75,292.7,294.8,shake milk bottle
+P04_120_76,291.0,294.7,bash milk bottle against hand
+P04_120_77,295.48,300.03,unscrew milk bottle top
+P04_120_78,296.95,306.7,take top away from milk bottle
+P04_120_79,300.3,301.15,turn milk bottle upside down
+P04_120_8,14.02,17.17,stir mixture in ramekin with teaspoon
+P04_120_80,301.25,302.17,shake milk bottle
+P04_120_81,302.27,304.76,squeeze milk bottle
+P04_120_82,304.86,306.05,squeeze milk bottle
+P04_120_83,306.15,306.73,squeeze milk bottle
+P04_120_84,306.83,307.43,squeeze milk bottle
+P04_120_85,307.53,308.24,squeeze milk bottle
+P04_120_86,304.0,304.75,squeeze milk bottle
+P04_120_87,304.5,305.7,squeeze milk bottle
+P04_120_88,306.33,306.86,squeeze milk bottle
+P04_120_89,306.96,308.39,squeeze milk bottle
+P04_120_9,14.52,17.25,crush rennet tablet with spoon
+P04_120_90,308.39,309.65,look at milk bottle
+P04_120_91,309.51,312.3,transfer milk bottle to other hand
+P04_120_92,312.3,313.18,pick up teaspoon
+P04_120_93,313.26,316.03,scoop milk cream out of milk bottle using end of teaspoon
+P04_120_94,315.89,317.94,wipe teaspoon on side of wok
+P04_120_95,317.74,319.62,scrape cream out of milk bottle using end of teaspoon
+P04_120_96,317.0,320.16,eat milk cream
+P04_120_97,320.26,323.99,put down teaspoon
+P04_120_98,324.04,327.18,wipe lid on milk bottle
+P04_120_99,326.05,328.55,put lid on milk bottle

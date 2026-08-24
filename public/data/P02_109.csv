@@ -1,0 +1,187 @@
+P02_109_0,2.62,5.01,pick up chopping board and knife
+P02_109_1,5.63,7.02,put down knife
+P02_109_10,23.96,41.51,pick up onion
+P02_109_100,498.27,500.62,put down knife
+P02_109_101,500.32,501.7,hold pan
+P02_109_102,501.71,521.39,stir onion in pan using wooden spoon
+P02_109_103,521.35,522.19,leave wooden spoon in pan
+P02_109_104,522.28,522.78,pick up knife
+P02_109_105,524.57,542.13,slice through meat
+P02_109_106,542.7,543.77,put down knife
+P02_109_107,544.17,572.08,stir onion in pan using wooden spoon
+P02_109_108,571.75,572.78,leave wooden spoon
+P02_109_109,588.14,588.93,hold pan
+P02_109_11,41.61,49.16,fix tray position
+P02_109_110,588.94,599.74,stir onions using wooden spoon
+P02_109_111,599.34,600.15,leave wooden spoon
+P02_109_112,599.99,601.34,pick up garlic presser
+P02_109_113,601.06,602.41,open garlic press
+P02_109_114,602.14,602.69,put garlic in presser
+P02_109_115,602.63,604.57,close garlic presser
+P02_109_116,605.76,612.39,press garlic
+P02_109_117,609.23,610.68,pick up wooden spoon
+P02_109_118,610.81,611.68,scrape garlic off presser using wooden spoon
+P02_109_119,611.67,612.13,put down wooden spoon
+P02_109_12,49.2,52.67,pick up onion
+P02_109_120,612.22,614.65,open garlic presser
+P02_109_121,614.55,615.49,put garlic in presser
+P02_109_122,615.58,616.39,close garlic presser
+P02_109_123,616.34,619.56,press garlic
+P02_109_124,618.84,619.63,pick up wooden spoon
+P02_109_125,619.73,620.87,scrape garlic off presser using wooden spoon
+P02_109_126,620.82,621.26,put down wooden spoon
+P02_109_127,620.85,622.07,open garlic press
+P02_109_128,623.17,624.44,close garlic press
+P02_109_129,625.07,625.68,press garlic
+P02_109_13,54.02,55.82,put down onions
+P02_109_130,625.66,626.23,pick up wooden
+P02_109_131,625.95,627.37,scrape garlic off presser using wooden spoon
+P02_109_132,628.58,629.73,put down garlic presser
+P02_109_133,630.48,631.33,hold pan
+P02_109_134,630.94,636.04,stir onion and garlic in pan using wooden spoon
+P02_109_135,636.14,638.86,take meat from packaging
+P02_109_136,638.96,641.54,distribute meat in pan
+P02_109_137,641.7,643.45,take meat from packaging
+P02_109_138,643.39,646.22,distribute meat in pan
+P02_109_139,646.28,649.05,take meat
+P02_109_14,58.29,59.76,get knife from stand
+P02_109_140,649.15,651.02,distribute meat
+P02_109_141,651.33,654.02,take meat
+P02_109_142,654.39,657.26,distribute meat
+P02_109_143,658.24,659.29,take meat
+P02_109_144,659.28,660.77,distribute meat
+P02_109_145,661.15,662.43,take meat
+P02_109_146,662.35,665.04,distribute meat
+P02_109_147,665.01,665.73,pick up wooden spoon
+P02_109_148,665.68,668.33,hold pan
+P02_109_149,668.16,674.86,break meat using wooden spoon in pan
+P02_109_15,61.09,68.76,cut onion
+P02_109_150,674.46,675.79,adjust heat
+P02_109_151,675.66,680.09,break meat using wooden spoon in pan
+P02_109_152,694.82,755.26,turn meat in pan
+P02_109_153,755.63,757.39,adjust heat
+P02_109_154,757.45,836.9,turn meat in pan
+P02_109_155,836.93,837.89,pick up lid
+P02_109_156,837.8,840.17,cover pan with lid
+P02_109_157,838.71,840.83,put down wooden spoon
+P02_109_158,841.16,845.02,set timer
+P02_109_159,844.77,847.59,pick up packaging
+P02_109_16,63.57,70.18,cut onion
+P02_109_160,847.5,848.46,open bin
+P02_109_161,848.26,848.73,throw plastic packaging
+P02_109_162,852.64,853.29,pick up garlic presser
+P02_109_163,853.21,854.23,open garlic presser
+P02_109_164,855.18,856.73,pick some garlic from sink
+P02_109_165,857.93,858.63,close bin
+P02_109_166,859.46,861.28,open tap
+P02_109_167,859.44,861.6,rinse garlic presser
+P02_109_168,861.41,862.29,pick up brush
+P02_109_169,862.95,872.47,brush presser
+P02_109_17,69.0,70.37,cut onion
+P02_109_170,872.56,873.12,put down brush
+P02_109_171,872.99,874.84,rinse presser
+P02_109_172,874.9,875.35,pick up brush
+P02_109_173,875.26,878.55,brush presser
+P02_109_174,878.6,879.27,put down brush
+P02_109_175,879.18,880.77,rinse presser
+P02_109_176,880.05,881.45,close tap
+P02_109_177,880.57,881.96,close presser
+P02_109_178,882.22,883.07,put down garlic presser
+P02_109_179,883.14,884.39,pick up chopping board
+P02_109_18,73.32,77.09,cut onion
+P02_109_180,884.95,896.24,empty sink
+P02_109_181,896.12,897.44,open tap
+P02_109_182,897.44,898.42,rinse chopping board
+P02_109_183,898.6,899.18,close tap
+P02_109_184,900.34,902.53,dry hands using towel
+P02_109_185,903.77,906.84,put back garlic in bag
+P02_109_186,908.74,909.54,put away garlic bag
+P02_109_19,79.47,81.74,cut onion
+P02_109_2,7.06,8.59,open tap
+P02_109_20,82.43,87.18,peel onion
+P02_109_21,88.0,88.95,open compost bin
+P02_109_22,88.97,89.56,throw onion peel
+P02_109_23,91.32,92.93,cut onion end
+P02_109_24,94.22,95.04,throw onion piece
+P02_109_25,95.39,96.95,pick up onion piece
+P02_109_26,97.11,102.38,peel onion
+P02_109_27,102.25,103.5,throw onion peel
+P02_109_28,103.79,105.7,peel onion
+P02_109_29,106.79,107.79,throw onion peel
+P02_109_3,8.54,10.57,rinse chopping board
+P02_109_30,108.29,109.19,put down onion piece
+P02_109_31,110.92,114.14,cut onion end
+P02_109_32,115.2,117.42,peel onion
+P02_109_33,122.35,125.35,cut onion end
+P02_109_34,126.82,131.47,peel onion
+P02_109_35,133.55,136.09,cut onion end
+P02_109_36,137.19,141.94,peel onion
+P02_109_37,143.6,145.98,peel onion
+P02_109_38,145.72,150.67,cut onion end
+P02_109_39,151.55,156.26,peel onion
+P02_109_4,10.65,12.64,sponge chopping board
+P02_109_40,153.82,160.54,cut onion end
+P02_109_41,170.65,172.74,pick up chopping board
+P02_109_42,172.65,176.75,slide onion peel into compost bin
+P02_109_43,177.55,180.54,close compost bin
+P02_109_44,180.21,182.14,put down chopping board
+P02_109_45,181.99,321.34,chop onion
+P02_109_46,321.44,322.1,put down knife
+P02_109_47,324.44,327.2,open cupboard
+P02_109_48,330.49,332.99,pick up pan
+P02_109_49,333.17,334.5,put pan on stove
+P02_109_5,15.7,17.9,rinse chopping board
+P02_109_50,335.06,336.42,close cupboards
+P02_109_51,337.15,338.06,remove pan lid
+P02_109_52,337.99,338.85,put down pan lid
+P02_109_53,339.4,340.4,open cupboard
+P02_109_54,341.0,341.98,pick up oil bottle
+P02_109_55,341.8,342.55,close cupboard
+P02_109_56,342.65,343.46,move tupperware
+P02_109_57,342.9,344.97,switch on hob
+P02_109_58,345.33,346.19,open oil bottle
+P02_109_59,346.29,348.21,pour oil from bottle onto pan
+P02_109_6,17.12,18.12,close tap
+P02_109_60,348.26,348.83,close oil bottle
+P02_109_61,349.45,349.97,put down oil bottle
+P02_109_62,351.55,354.11,turn on kettle
+P02_109_63,357.4,359.44,open fridge
+P02_109_64,359.39,360.6,pick up meat
+P02_109_65,361.62,368.85,get stock cube from box
+P02_109_66,371.14,372.4,put down meat
+P02_109_67,372.3,373.42,put down stock cube
+P02_109_68,373.34,375.49,throw box for recycling
+P02_109_69,377.51,378.75,move stock cube
+P02_109_7,19.98,22.08,dry hands with towel
+P02_109_70,381.42,383.98,pick up chopping board and knife
+P02_109_71,384.34,385.81,open compost bin
+P02_109_72,385.84,387.15,throw some onion pieces
+P02_109_73,387.11,388.27,close compost bin
+P02_109_74,390.83,396.03,slide onion from chopping board onto pan
+P02_109_75,396.59,399.15,put down chopping board
+P02_109_76,399.25,402.4,cut open meat packaging
+P02_109_77,399.0,403.03,remove film from packaging
+P02_109_78,404.09,405.28,open drawer
+P02_109_79,404.99,408.55,pick up wooden spoon
+P02_109_8,23.11,26.06,pick up chopping board
+P02_109_80,408.27,409.58,pick up garlic press
+P02_109_81,409.92,410.94,close drawer
+P02_109_82,411.04,412.41,put down garlic press
+P02_109_83,412.49,413.63,hold pan
+P02_109_84,413.58,451.12,stir onion in pan using wooden spoon
+P02_109_85,450.58,451.18,leave wooden spoon
+P02_109_86,454.75,455.81,pick up garlic
+P02_109_87,457.38,459.42,remove garlic from plastic bag
+P02_109_88,459.38,460.15,put away bag
+P02_109_89,460.22,460.81,put down garlic
+P02_109_9,26.16,28.67,put down chopping board
+P02_109_90,460.55,461.54,pick up knife
+P02_109_91,461.55,463.77,cut garlic
+P02_109_92,463.38,467.7,open garlic
+P02_109_93,468.51,469.48,get garlic piece
+P02_109_94,469.58,472.71,get another garlic piece
+P02_109_95,472.5,473.77,pick up knife
+P02_109_96,473.65,482.3,peel garlic
+P02_109_97,480.86,482.63,put down garlic
+P02_109_98,482.86,497.82,peel garlic
+P02_109_99,497.79,498.44,put down garlic

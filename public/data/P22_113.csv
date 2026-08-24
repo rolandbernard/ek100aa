@@ -1,0 +1,327 @@
+P22_113_0,5.75,6.55,pick up glass
+P22_113_1,8.85,11.1,put down glass
+P22_113_10,19.52,21.21,pick up plate
+P22_113_100,172.9,176.56,pick up spatula
+P22_113_101,176.4,177.1,close drawer
+P22_113_102,177.65,178.07,move pan
+P22_113_103,178.17,205.3,stir egg
+P22_113_104,204.48,207.41,tap spatula
+P22_113_105,207.42,211.84,wash spatula
+P22_113_106,217.01,217.63,put down spatula
+P22_113_107,218.7,219.05,open jar
+P22_113_108,219.84,221.15,pick up salt
+P22_113_109,221.6,222.26,pour salt
+P22_113_11,21.87,23.87,put down plate
+P22_113_110,225.55,226.45,close jar
+P22_113_111,226.84,227.51,pick up spatula
+P22_113_112,227.4,235.55,stir egg
+P22_113_113,235.75,236.39,put down spatula
+P22_113_114,237.03,237.43,open cupboard
+P22_113_115,237.5,238.33,open fridge
+P22_113_116,239.25,239.78,pick up container
+P22_113_117,242.5,243.45,move lid
+P22_113_118,243.34,243.67,put down container
+P22_113_119,243.66,244.96,open container
+P22_113_12,24.41,25.52,move lid
+P22_113_120,245.69,246.56,open drawer
+P22_113_121,246.66,247.26,pick up cutting board
+P22_113_122,247.95,248.81,put down cutting board
+P22_113_123,249.26,249.79,open drawer
+P22_113_124,249.89,251.03,pick up knife
+P22_113_125,250.95,251.45,close drawer
+P22_113_126,251.56,254.1,pick up cheese
+P22_113_127,252.95,254.0,move container
+P22_113_128,254.34,255.23,put down cheese
+P22_113_129,254.76,257.83,cut cheese
+P22_113_13,25.56,26.31,move pot
+P22_113_130,257.76,263.7,remove cheese rind
+P22_113_131,263.39,264.31,pick up cheese
+P22_113_132,264.9,265.65,put down cheese
+P22_113_133,266.02,268.46,stir egg
+P22_113_134,268.68,270.2,turn on toaster
+P22_113_135,269.58,290.3,tap spatula
+P22_113_136,284.06,288.18,wash spatula
+P22_113_137,288.12,289.99,put down spatula
+P22_113_138,290.09,292.41,adjust hob
+P22_113_139,292.42,293.35,pick up lid
+P22_113_14,27.53,28.13,pick up cutlery
+P22_113_140,293.45,295.49,put down lid
+P22_113_141,295.35,297.54,move pan
+P22_113_142,297.63,301.27,pick up cheese
+P22_113_143,301.37,302.03,put down cheese
+P22_113_144,301.85,302.45,pick up lid
+P22_113_145,302.55,303.47,close container
+P22_113_146,304.9,305.65,open cupboard
+P22_113_147,303.0,307.42,open fridge
+P22_113_148,307.55,308.45,put down container
+P22_113_149,308.44,309.51,close fridge
+P22_113_15,28.39,28.94,pick up glass
+P22_113_150,309.11,312.61,turn on coffee machine
+P22_113_151,316.51,319.28,move paper
+P22_113_152,318.84,320.61,pick up pan
+P22_113_153,321.03,322.12,put down pan
+P22_113_154,322.06,323.72,remove paper
+P22_113_155,323.45,325.16,move cutting board
+P22_113_156,324.77,327.63,move container
+P22_113_157,326.92,327.99,remove lid
+P22_113_158,328.11,328.56,put down lid
+P22_113_159,328.63,329.39,pick up container
+P22_113_16,29.12,29.48,put down glass
+P22_113_160,330.34,330.91,put down container
+P22_113_161,330.95,332.11,open drawer
+P22_113_162,332.56,334.44,pick up spoon
+P22_113_163,334.54,336.32,move pan
+P22_113_164,336.42,337.74,pick up rice
+P22_113_165,337.84,338.68,put down rice
+P22_113_166,339.98,341.18,pick up rice
+P22_113_167,340.93,343.11,put down rice
+P22_113_168,343.16,344.95,pick up rice
+P22_113_169,345.05,345.63,put down rice
+P22_113_17,29.82,30.6,close cupboard
+P22_113_170,346.12,347.4,pick up rice
+P22_113_171,347.69,347.99,put down rice
+P22_113_172,350.52,351.67,pick up rice
+P22_113_173,352.12,356.36,put down rice
+P22_113_174,356.42,358.1,pick up rice
+P22_113_175,358.2,361.07,put down rice
+P22_113_176,361.16,362.44,put down spoon
+P22_113_177,363.26,364.04,remove lid
+P22_113_178,364.12,366.73,stir egg
+P22_113_179,366.19,368.09,turn cheese
+P22_113_18,30.98,32.16,open drawer
+P22_113_180,369.87,372.27,put down lid
+P22_113_181,371.53,373.58,put down spatula
+P22_113_182,373.73,376.0,open cupboard
+P22_113_183,377.9,380.54,pick up container
+P22_113_184,381.65,382.93,remove lids
+P22_113_185,382.87,384.85,put down lods
+P22_113_186,384.91,385.91,pick up lid
+P22_113_187,384.0,386.83,put down lid
+P22_113_188,386.06,388.24,close cupboard
+P22_113_189,388.73,390.77,put down lid
+P22_113_19,32.6,33.64,put down ladle
+P22_113_190,390.04,391.66,pick up spoon
+P22_113_191,391.76,393.3,pick up rice
+P22_113_192,393.4,394.15,put down rice
+P22_113_193,394.25,395.83,pick up rice
+P22_113_194,395.7,396.3,put down rice
+P22_113_195,398.17,401.32,pick up rice
+P22_113_196,401.37,402.57,put down rice
+P22_113_197,403.33,405.09,pick up rice
+P22_113_198,405.14,406.16,put down rice
+P22_113_199,409.74,410.85,put down container
+P22_113_2,10.87,13.2,move spoon
+P22_113_20,33.44,35.26,put down spoon
+P22_113_200,411.0,412.65,pick up pan
+P22_113_201,412.59,420.34,pour rice
+P22_113_202,420.4,422.56,adjust rice
+P22_113_203,422.64,425.14,pour rice
+P22_113_204,424.91,426.06,put down pan
+P22_113_205,426.42,428.65,adjust rice
+P22_113_206,428.24,429.98,move container
+P22_113_207,430.41,431.16,pick up pan
+P22_113_208,431.85,435.35,pour rice
+P22_113_209,443.0,444.21,put down pan
+P22_113_21,34.38,35.32,move ladle
+P22_113_210,444.31,447.05,pick up knife
+P22_113_211,446.9,452.74,clean spoon
+P22_113_212,453.75,455.3,put down cutlery
+P22_113_213,454.33,456.64,pick up pan
+P22_113_214,458.45,459.3,pick up glass
+P22_113_215,457.36,460.43,put down pan
+P22_113_216,460.5,461.33,put down glass
+P22_113_217,461.18,461.73,turn on tap
+P22_113_218,462.32,463.59,turn on machine
+P22_113_219,462.88,465.44,move bowl
+P22_113_22,35.69,36.49,close drawer
+P22_113_220,465.5,466.66,rinse hands
+P22_113_221,466.75,467.5,shake hands
+P22_113_222,467.52,468.75,dry hands
+P22_113_223,468.68,469.95,adjust coffee machine
+P22_113_224,469.97,475.0,pick up lid
+P22_113_225,475.82,477.41,put down lid
+P22_113_226,476.55,479.84,close container
+P22_113_227,479.82,480.29,move container
+P22_113_228,480.37,483.35,turn down machine
+P22_113_229,483.5,485.16,pick up bowl
+P22_113_23,36.05,36.65,pick up lid
+P22_113_230,485.84,486.64,empty bowl
+P22_113_231,487.48,488.18,put down bowl
+P22_113_232,488.98,489.46,turn off tap
+P22_113_233,490.53,491.02,pick up lid
+P22_113_234,490.96,493.25,put down lid
+P22_113_235,494.87,495.47,pick up container
+P22_113_236,496.71,497.19,open cupboard
+P22_113_237,498.5,499.5,open fridge
+P22_113_238,499.59,500.14,put down container
+P22_113_239,500.41,501.33,close fridge
+P22_113_24,37.04,38.07,open drawer
+P22_113_240,502.28,502.95,open fridge
+P22_113_241,503.2,503.7,pick up coffee
+P22_113_242,503.77,504.85,close fridge
+P22_113_243,504.29,506.83,open container
+P22_113_244,506.63,507.3,put down lid
+P22_113_245,510.9,515.9,remove coffee holder
+P22_113_246,513.61,515.5,empty coffee holder
+P22_113_247,518.99,519.49,put down coffee holder
+P22_113_248,521.04,521.59,pick up coffee
+P22_113_249,522.14,523.04,pick up coffee
+P22_113_25,38.36,39.59,put down lid
+P22_113_250,523.74,524.29,put coffee
+P22_113_251,525.29,525.99,put down measuring cup
+P22_113_252,526.14,526.64,pick up lid
+P22_113_253,526.74,526.99,close container
+P22_113_254,528.39,528.99,pick up coffee holder
+P22_113_255,528.56,531.64,tap coffee holder
+P22_113_256,533.44,534.89,put down coffee holder
+P22_113_257,537.18,542.34,pick up coffee pod
+P22_113_258,542.35,546.6,open coffee pod
+P22_113_259,548.45,549.28,put coffee pod
+P22_113_26,39.61,40.15,close drawer
+P22_113_260,551.49,552.61,attach coffee holder
+P22_113_261,556.37,557.15,open cupboard
+P22_113_262,557.21,557.94,pick up cup
+P22_113_263,558.04,558.54,close cupboard
+P22_113_264,559.02,559.84,remove bowl
+P22_113_265,561.56,562.18,put down cup
+P22_113_266,562.74,564.42,turn on machine
+P22_113_267,564.62,565.86,adjust cup
+P22_113_268,566.75,567.45,open cupboard
+P22_113_269,567.56,569.06,throw packaging
+P22_113_27,41.22,41.66,pick up pot
+P22_113_270,569.27,569.97,close cupboard
+P22_113_271,570.8,571.73,pick up food residue
+P22_113_272,573.12,574.05,open bag
+P22_113_273,574.42,575.05,throw food residue
+P22_113_274,575.16,576.25,close bag
+P22_113_275,577.39,578.18,pick up cutting board
+P22_113_276,579.12,579.99,put down cutting board
+P22_113_277,581.79,582.4,pick up coffee
+P22_113_278,582.59,583.27,put down coffee
+P22_113_279,585.84,588.34,adjust coffee machine
+P22_113_28,41.76,42.56,open drawer
+P22_113_280,588.44,590.36,turn down machine
+P22_113_281,590.39,591.03,pick up bowl
+P22_113_282,590.81,591.85,empty bowl
+P22_113_283,591.95,593.11,pick up cup
+P22_113_284,593.06,593.46,put down small bowl
+P22_113_285,593.94,597.3,open drawer
+P22_113_286,597.11,598.02,pick up teaspoon
+P22_113_287,598.24,600.0,stir coffee
+P22_113_288,598.57,599.84,put down cup
+P22_113_289,599.94,600.47,close drawer
+P22_113_29,42.26,42.52,close drawer
+P22_113_290,600.57,601.9,open drawer
+P22_113_291,601.75,602.58,pick up place mat
+P22_113_292,602.68,603.0,close drawer
+P22_113_293,604.47,604.84,put down place mat
+P22_113_294,606.91,607.47,open cupboard
+P22_113_295,607.93,608.69,pick up plate
+P22_113_296,608.79,609.55,close cupboard
+P22_113_297,610.06,610.89,open drawer
+P22_113_298,610.85,614.4,take fork
+P22_113_299,614.78,615.62,pick up knife
+P22_113_3,13.29,13.79,turn on tap
+P22_113_30,42.79,43.49,open drawer
+P22_113_300,615.63,616.65,close drawer
+P22_113_301,617.75,619.0,put down cutlery
+P22_113_302,620.1,620.89,put down plate
+P22_113_303,622.3,623.01,open lid
+P22_113_304,623.17,625.97,put down lid
+P22_113_305,625.95,627.04,pick up pan
+P22_113_306,628.12,629.34,open drawer
+P22_113_307,631.22,632.2,take fork
+P22_113_308,633.92,636.7,remove cheese
+P22_113_309,637.11,652.15,pour eggs and cheese
+P22_113_31,43.88,44.61,put down pot
+P22_113_310,651.94,653.22,put down fork
+P22_113_311,654.19,655.03,close drawer
+P22_113_312,655.39,656.19,put down pan
+P22_113_313,655.97,656.54,turn on tap
+P22_113_314,656.64,658.24,move tap
+P22_113_315,659.37,660.12,pick up coffee
+P22_113_316,661.02,661.72,open cupboard
+P22_113_317,661.93,663.49,open fridge
+P22_113_318,663.31,663.9,put down coffee
+P22_113_319,664.41,665.21,pick up bread
+P22_113_32,44.65,45.71,close drawer
+P22_113_320,665.31,666.31,put down bread
+P22_113_321,666.54,667.87,pick up tea towel
+P22_113_322,668.24,670.38,put down tea towel
+P22_113_323,672.87,673.32,turn off tap
+P22_113_324,675.12,675.64,pick up cup
+P22_113_325,676.43,678.0,pick up plate
+P22_113_326,678.98,680.06,put down plate and cup
+P22_113_33,45.66,46.24,pick up glass
+P22_113_34,46.58,46.93,put down glass
+P22_113_35,49.91,52.41,turn off tap
+P22_113_36,52.51,53.52,pick up spoon rest
+P22_113_37,53.71,55.46,turn on tap
+P22_113_38,55.56,57.22,rinse spoon rest
+P22_113_39,57.32,58.29,put down spoon rest
+P22_113_4,14.42,14.97,rinse hands
+P22_113_40,58.22,59.83,rinse hands
+P22_113_41,59.78,60.61,pick up glass
+P22_113_42,60.61,61.42,pick up sponge
+P22_113_43,61.49,62.99,rinse sponge
+P22_113_44,62.42,64.42,lather sponge
+P22_113_45,65.15,66.19,rinse sponge
+P22_113_46,65.89,66.53,put down glass
+P22_113_47,66.49,68.26,rinse hands
+P22_113_48,68.18,68.74,turn off tap
+P22_113_49,68.84,69.81,shake hands
+P22_113_5,15.37,15.62,shake hands
+P22_113_50,69.73,71.66,pick up cloth
+P22_113_51,71.29,73.81,dry hands
+P22_113_52,73.89,74.38,put down cloth
+P22_113_53,74.84,76.03,open drawer
+P22_113_54,75.91,78.88,pick up lid and pan
+P22_113_55,79.2,79.79,put down lid
+P22_113_56,81.88,83.44,move pan
+P22_113_57,83.25,85.31,put down pan
+P22_113_58,85.41,88.51,turn on hob
+P22_113_59,88.61,90.04,pick up oil
+P22_113_6,16.85,18.35,pick up cloth
+P22_113_60,90.54,93.09,open oil
+P22_113_61,93.36,96.12,pour oil
+P22_113_62,96.22,98.05,close oil bottle
+P22_113_63,98.29,98.64,put down oil
+P22_113_64,99.19,100.1,move pan
+P22_113_65,100.2,101.93,open cupboard
+P22_113_66,101.99,105.08,pick up bread
+P22_113_67,106.63,107.28,move bag
+P22_113_68,108.61,109.15,pick up cloth
+P22_113_69,109.24,110.18,put down cloth
+P22_113_7,16.08,16.99,dry hands
+P22_113_70,110.16,110.8,put down bread
+P22_113_71,110.72,113.69,open bread
+P22_113_72,113.76,114.14,put down clip
+P22_113_73,114.16,117.01,pick up bread
+P22_113_74,117.04,117.99,put down bread
+P22_113_75,118.44,119.2,close bag
+P22_113_76,119.34,119.71,pick up clip
+P22_113_77,119.87,123.93,put clip
+P22_113_78,124.14,125.1,open cupboard
+P22_113_79,125.17,126.69,put down bread
+P22_113_8,17.78,18.31,put down cloth
+P22_113_80,126.31,127.29,close cupboard
+P22_113_81,127.33,128.06,open cupboard
+P22_113_82,128.49,129.49,open fridge
+P22_113_83,129.59,135.59,pick up egg
+P22_113_84,135.42,136.57,close fridge
+P22_113_85,138.22,139.49,open drawer
+P22_113_86,139.47,142.35,take fork
+P22_113_87,142.31,146.67,crack egg
+P22_113_88,147.56,151.84,crack egg
+P22_113_89,158.66,159.23,put down fork
+P22_113_9,18.18,19.1,open cupboard
+P22_113_90,159.73,162.63,open bag
+P22_113_91,162.73,163.42,throw away egg shell
+P22_113_92,163.52,165.35,close bag
+P22_113_93,165.23,166.24,put down bag
+P22_113_94,166.34,167.23,turn on tap
+P22_113_95,167.29,168.04,rinse hands
+P22_113_96,167.98,169.03,turn off tap
+P22_113_97,169.52,170.17,pick up cloth
+P22_113_98,170.25,171.98,dry hands
+P22_113_99,171.71,172.8,put down cloth

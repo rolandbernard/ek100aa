@@ -1,0 +1,41 @@
+P11_101_0,4.06,5.98,close drawer
+P11_101_1,4.24,7.94,close dishwasher
+P11_101_10,32.11,37.39,empty pot
+P11_101_11,54.0,58.07,turn off tap
+P11_101_12,58.1,61.04,place down pot
+P11_101_13,61.87,65.61,plug in sous vide machine
+P11_101_14,66.16,68.82,put sous vide machine in pot
+P11_101_15,69.15,74.51,turn on sous vide machine
+P11_101_16,74.61,99.97,set sous vide machine
+P11_101_17,101.97,106.39,open fridge
+P11_101_18,106.19,110.12,pick up salmon
+P11_101_19,110.22,110.93,put down salmon
+P11_101_2,8.04,10.95,open drawer
+P11_101_20,110.89,113.37,pick up salmon
+P11_101_21,113.56,115.16,close fridge
+P11_101_22,114.74,117.04,pick up salmon
+P11_101_23,115.69,116.85,put down salmon
+P11_101_24,117.65,118.94,open salmon packaging
+P11_101_25,122.13,123.27,open drawer
+P11_101_26,122.74,125.75,pick up measuring jug
+P11_101_27,125.91,126.55,turn on tap
+P11_101_28,127.19,130.69,fill up jug
+P11_101_29,130.55,131.22,turn off tap
+P11_101_3,11.3,12.93,pick up pot
+P11_101_30,131.14,135.12,pour water into pot
+P11_101_31,137.31,138.75,open drawer
+P11_101_32,138.85,140.18,put down jug
+P11_101_33,139.33,140.9,close drawer
+P11_101_34,141.3,143.25,remove packaging
+P11_101_35,143.27,148.02,remove packaging
+P11_101_36,149.6,156.13,set sous vide machine
+P11_101_37,156.32,164.97,put salmon in pot
+P11_101_38,165.07,172.05,put salmon in pot
+P11_101_39,170.95,175.89,pick up packaging
+P11_101_4,13.15,15.54,put pot in sink
+P11_101_40,177.87,180.59,throw away packaging
+P11_101_5,15.18,17.1,turn on tap
+P11_101_6,18.74,21.7,open cupboard
+P11_101_7,22.27,27.9,pick up sous vide machine
+P11_101_8,26.28,29.44,close cupboard
+P11_101_9,29.54,32.29,put down sous vide machine

@@ -1,0 +1,30 @@
+P30_01_0,6.06,7.19,open freezer
+P30_01_1,7.19,8.39,open drawer
+P30_01_10,27.1,27.98,open drawer
+P30_01_11,31.67,32.38,take food
+P30_01_12,33.33,34.97,put food
+P30_01_13,37.41,38.71,take food
+P30_01_14,45.49,45.99,close drawer
+P30_01_15,46.0,47.0,open drawer
+P30_01_16,46.91,48.08,put food in drawer
+P30_01_17,48.8,49.98,take food from drawer
+P30_01_18,52.78,53.42,put food in drawer
+P30_01_19,53.51,54.06,take food from drawer
+P30_01_2,11.04,12.25,take fish
+P30_01_20,54.84,55.5,put food in drawer
+P30_01_21,55.6,56.36,close drawer
+P30_01_22,56.47,57.72,close freezer
+P30_01_23,59.07,60.07,move box
+P30_01_24,60.17,60.7,open bread bin
+P30_01_25,61.72,62.41,take bread
+P30_01_26,62.6,63.45,close bread bin
+P30_01_27,65.05,65.75,take chopping board
+P30_01_28,67.09,67.75,take knife
+P30_01_29,67.95,69.37,put knife
+P30_01_3,12.35,13.14,put fish
+P30_01_4,13.24,14.27,take box
+P30_01_5,14.37,15.73,close drawer
+P30_01_6,15.77,16.66,open drawer
+P30_01_7,17.43,18.57,close drawer
+P30_01_8,18.67,19.72,open drawer
+P30_01_9,25.79,26.98,close drawer

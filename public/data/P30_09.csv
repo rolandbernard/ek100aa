@@ -1,0 +1,170 @@
+P30_09_0,3.53,5.38,pick up kettle
+P30_09_1,3.69,4.75,move
+P30_09_10,21.0,24.85,scoop coffee
+P30_09_100,228.59,244.48,wash colander
+P30_09_101,235.3,239.95,continue washing colander
+P30_09_102,240.51,244.57,continue washing colander
+P30_09_103,244.79,246.25,turn tap on
+P30_09_104,245.89,249.06,rinse colander
+P30_09_105,248.79,255.43,continue rinsing colander
+P30_09_106,255.46,256.61,put colander on drying rack
+P30_09_107,257.09,257.96,take plate
+P30_09_108,257.31,259.74,continue washing plate
+P30_09_109,258.06,259.11,rinse plate
+P30_09_11,24.79,26.06,put coffee in grinder
+P30_09_110,259.62,263.47,wash plate
+P30_09_111,259.84,263.37,continue washing plate
+P30_09_112,270.37,272.79,rinse plate
+P30_09_113,272.5,274.6,put plate on drying rack
+P30_09_114,274.35,275.7,take bowl
+P30_09_115,275.66,276.41,rinse bowl
+P30_09_116,276.27,278.77,wash bowl
+P30_09_117,281.34,284.2,continue washing bowl
+P30_09_118,281.97,286.22,continue washing bowl
+P30_09_119,283.89,286.31,rinse bowl
+P30_09_12,26.1,27.12,turn grinder on
+P30_09_120,286.79,287.84,put bowl in drying rack
+P30_09_121,287.94,289.7,take fork and spoon
+P30_09_122,289.6,291.91,wash fork and spoon
+P30_09_123,292.01,295.88,rinse fork and spoon
+P30_09_124,296.02,297.19,put fork and spoon in drying rack
+P30_09_125,297.21,297.98,take saucepan
+P30_09_126,298.17,299.32,turn tap off
+P30_09_127,299.14,307.65,wash saucepan
+P30_09_128,305.98,309.04,continue washing saucepan
+P30_09_129,307.75,316.48,continue washing saucepan
+P30_09_13,27.08,28.4,close coffee bag
+P30_09_130,309.84,312.98,continue washing saucepan
+P30_09_131,312.2,315.29,continue washing saucepan
+P30_09_132,320.94,324.1,continue washing saucepan
+P30_09_133,322.24,327.82,continue washing saucepan
+P30_09_134,328.02,329.33,turn tap on
+P30_09_135,329.33,331.82,rinse saucepan
+P30_09_136,331.8,333.83,adjust tap
+P30_09_137,333.9,337.48,continue rinsing saucepan
+P30_09_138,339.79,342.51,wash saucepan
+P30_09_139,340.23,342.8,continue rinsing saucepan
+P30_09_14,28.5,29.55,put coffee bag
+P30_09_140,342.56,352.25,rinse saucepan
+P30_09_141,346.06,352.33,continue rinsing saucepan
+P30_09_142,352.43,353.53,put saucepan in drying rack
+P30_09_143,354.2,355.4,take plate
+P30_09_144,355.56,356.67,rinse plate
+P30_09_145,356.63,359.37,wash plate
+P30_09_146,359.0,361.19,rinse plate
+P30_09_147,361.11,363.4,rinse plate
+P30_09_148,363.39,365.05,put plate in drying rack
+P30_09_149,365.5,366.91,empty washing up bowl
+P30_09_15,32.46,33.97,stop coffee grinder
+P30_09_150,366.0,369.5,turn tap on
+P30_09_151,371.57,382.73,wash sides surfaces
+P30_09_152,372.02,374.88,empty washing up bowl
+P30_09_153,376.86,377.6,turn tap off
+P30_09_154,382.83,386.01,dry hands
+P30_09_155,386.11,387.46,put tea towel
+P30_09_156,389.38,390.5,turn kettle on
+P30_09_157,391.04,394.12,move
+P30_09_158,402.06,403.04,open cupboard
+P30_09_159,403.06,404.38,take box
+P30_09_16,34.07,35.27,take coffee grounds
+P30_09_160,404.75,406.12,open box
+P30_09_161,406.22,407.85,take biscuit
+P30_09_162,407.75,408.41,eat biscuit
+P30_09_163,408.03,409.53,close box
+P30_09_164,409.54,411.81,put box
+P30_09_165,411.42,412.77,close cupboard
+P30_09_166,414.74,416.1,put biscuit
+P30_09_167,416.52,417.51,take kettle
+P30_09_168,417.34,421.07,pour water into cafetiere
+P30_09_169,421.73,422.66,put kettle
+P30_09_17,37.48,38.88,take v60
+P30_09_18,38.98,41.63,put v60 filter in bin
+P30_09_19,43.59,45.14,take filters
+P30_09_2,5.63,6.36,open kettle lid
+P30_09_20,45.65,48.92,remove filter from box of filters
+P30_09_21,51.0,58.61,fold filter
+P30_09_22,58.71,62.2,open filter
+P30_09_23,62.3,63.13,put filter in v60
+P30_09_24,63.23,65.91,put coffee grounds in v60
+P30_09_25,70.08,71.88,take cafetiere
+P30_09_26,70.28,71.62,empty cafetiere
+P30_09_27,71.73,72.3,turn top on
+P30_09_28,72.64,74.79,rinse cafetiere
+P30_09_29,73.65,75.78,put cafetiere
+P30_09_3,6.48,9.48,turn tap on
+P30_09_30,75.84,77.95,take humus
+P30_09_31,77.96,78.68,open fridge
+P30_09_32,78.78,80.92,put humus
+P30_09_33,81.02,82.83,close fridge
+P30_09_34,83.43,85.67,take plate
+P30_09_35,86.28,87.23,put plate
+P30_09_36,88.86,90.32,take colander
+P30_09_37,90.61,91.83,take fork
+P30_09_38,91.11,99.28,wash washing up bowl
+P30_09_39,92.15,94.28,empty washing up bowl
+P30_09_4,8.24,10.77,fill kettle
+P30_09_40,94.02,95.99,put washing up liquid in washing up bowl
+P30_09_41,99.84,105.48,continue washing washing up bowl
+P30_09_42,105.8,108.19,turn tap on
+P30_09_43,107.18,109.58,rinse washing up bowl
+P30_09_44,109.64,111.91,continue rinsing washing up bowl
+P30_09_45,112.94,114.86,put washing up liquid in washing up bowl
+P30_09_46,114.58,115.58,turn tap off
+P30_09_47,117.34,118.87,take tea towel
+P30_09_48,120.89,125.93,put spoons
+P30_09_49,126.53,128.69,put spoon
+P30_09_5,10.87,11.68,close kettle lid
+P30_09_50,127.06,127.99,put knife
+P30_09_51,127.97,128.95,put spoon
+P30_09_52,129.51,130.31,take mug
+P30_09_53,130.45,132.07,wipe mug
+P30_09_54,130.97,132.02,wipe mug
+P30_09_55,132.12,132.83,open cupboard
+P30_09_56,132.74,133.74,put mug
+P30_09_57,132.89,134.22,put mug
+P30_09_58,134.38,136.02,take mug
+P30_09_59,134.45,135.95,take mug
+P30_09_6,11.53,13.28,put kettle on base
+P30_09_60,136.14,137.24,wipe mug
+P30_09_61,136.24,136.99,wipe mug
+P30_09_62,137.1,138.01,put mug
+P30_09_63,137.13,138.14,put mug
+P30_09_64,138.78,139.94,take mug
+P30_09_65,138.86,140.22,take mug
+P30_09_66,140.4,141.13,wipe mug
+P30_09_67,141.22,142.46,put mug
+P30_09_68,156.56,157.31,take glass
+P30_09_69,157.66,161.28,wipe glass
+P30_09_7,16.62,17.87,take coffee bag
+P30_09_70,161.29,162.75,open cupboard
+P30_09_71,163.36,165.24,put glass
+P30_09_72,165.34,168.02,take glass
+P30_09_73,168.12,170.22,wipe glass
+P30_09_74,170.32,173.44,continue wiping glass
+P30_09_75,173.48,174.76,put glass
+P30_09_76,174.81,177.38,take cafetiere strainer
+P30_09_77,177.48,182.64,dry cafetiere strainer
+P30_09_78,182.74,185.34,take cafetiere jug
+P30_09_79,187.14,190.98,dry cafetiere jug
+P30_09_8,17.97,20.72,open coffee bag
+P30_09_80,191.01,195.23,put cafetiere jug into cafetiere
+P30_09_81,194.84,196.42,put cafetiere strainer into cafetiere
+P30_09_82,198.28,199.32,take bowl
+P30_09_83,199.35,201.22,dry bowl
+P30_09_84,201.13,202.65,put bowl
+P30_09_85,202.75,204.02,take mug
+P30_09_86,203.76,206.13,dry mug
+P30_09_87,205.53,207.65,put mug
+P30_09_88,207.87,209.58,close cupboard
+P30_09_89,211.06,212.71,take sponge
+P30_09_9,20.59,23.57,adjust coffee grinder
+P30_09_90,212.1,212.94,put bowl
+P30_09_91,212.49,218.4,wash bowl
+P30_09_92,216.39,217.87,continue washing bowl
+P30_09_93,218.18,222.82,rinse bowl
+P30_09_94,222.59,224.2,put bowl in washing up rack
+P30_09_95,224.01,226.55,turn tap on
+P30_09_96,224.76,225.6,put spoons in washing up bowl
+P30_09_97,225.64,226.66,put colander in washing up bowl
+P30_09_98,226.76,227.33,turn tap off
+P30_09_99,228.5,235.2,continue washing colander

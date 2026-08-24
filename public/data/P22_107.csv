@@ -1,0 +1,242 @@
+P22_107_0,3.57,6.04,open drawer
+P22_107_1,5.21,9.04,pick up bag
+P22_107_10,27.81,28.72,throw bottle
+P22_107_100,201.03,202.18,pick up paper
+P22_107_101,202.28,203.17,throw paper
+P22_107_102,202.65,204.33,pick up bag
+P22_107_103,204.62,206.02,put down bag
+P22_107_104,205.71,207.1,put down bag
+P22_107_105,206.59,210.81,adjust bag
+P22_107_106,210.85,212.25,close cupboard
+P22_107_107,214.28,215.75,open jar
+P22_107_108,215.79,216.57,put down lid
+P22_107_109,216.67,219.32,open jar
+P22_107_11,28.82,31.81,pick up glass
+P22_107_110,219.42,223.66,lift jar
+P22_107_111,227.66,228.92,put down jar
+P22_107_112,231.06,232.88,pick up measuring spoon
+P22_107_113,236.62,238.91,put down powder
+P22_107_114,239.43,240.51,pick up powder
+P22_107_115,242.81,244.74,put down powder
+P22_107_116,245.21,247.73,pick up powder
+P22_107_117,248.24,249.54,put down powder
+P22_107_118,249.93,252.04,pick up powder
+P22_107_119,252.67,253.91,put down powder
+P22_107_12,31.5,32.61,put down glass
+P22_107_120,254.55,256.25,put down measuring cup
+P22_107_121,256.34,258.12,close jar
+P22_107_122,258.39,259.51,pick up lid
+P22_107_123,259.6,261.37,close jar
+P22_107_124,260.71,262.23,pick up jar
+P22_107_125,263.64,264.53,open cupboard
+P22_107_126,264.61,265.59,put down jar
+P22_107_127,265.6,266.3,close cupboard
+P22_107_128,267.47,268.87,pick up teaspoon
+P22_107_129,268.94,305.37,stir mixture
+P22_107_13,33.75,34.88,put down bag
+P22_107_130,304.67,315.47,compress mixture
+P22_107_131,313.34,323.1,stir mixture
+P22_107_132,327.75,335.63,compress mixture
+P22_107_133,336.15,343.75,stir mixture
+P22_107_134,344.8,345.07,turn on tap
+P22_107_135,345.14,347.19,rinse hand
+P22_107_136,347.29,347.68,turn off tap
+P22_107_137,348.14,348.44,shake hands
+P22_107_138,348.62,349.15,pick up cloth
+P22_107_139,349.6,350.27,dry hands
+P22_107_14,36.63,38.98,open cupboard
+P22_107_140,352.62,353.17,put down cloth
+P22_107_141,353.19,354.31,pick up cutting board
+P22_107_142,354.45,355.54,open drawer
+P22_107_143,355.65,356.32,put down cutting board
+P22_107_144,356.63,357.2,close drawer
+P22_107_145,360.33,363.5,open yogurt
+P22_107_146,363.55,364.2,put down lid
+P22_107_147,364.25,367.76,open yogurt
+P22_107_148,368.46,369.74,open drawer
+P22_107_149,370.68,371.77,pick up spoon
+P22_107_15,39.24,41.29,pick up glass
+P22_107_150,371.78,372.68,close drawer
+P22_107_151,372.63,373.98,pick up bowl
+P22_107_152,374.09,375.0,move yoghurt
+P22_107_153,375.1,375.71,put down bowl
+P22_107_154,375.77,377.25,pick up yogurt
+P22_107_155,377.35,378.19,put yoghurt
+P22_107_156,378.31,379.84,pick up yogurt
+P22_107_157,380.24,381.16,put yoghurt
+P22_107_158,381.04,382.55,pick up yogurt
+P22_107_159,382.48,383.69,put yoghurt
+P22_107_16,41.71,42.87,put down glass
+P22_107_160,383.79,384.58,pick up yogurt
+P22_107_161,384.59,385.66,put down spoon
+P22_107_162,385.77,388.79,close yoghurt
+P22_107_163,388.98,389.73,put down yogurt
+P22_107_164,389.77,392.89,open blackberries
+P22_107_165,393.76,395.81,pick up blackberry
+P22_107_166,395.74,396.71,pick up blackberry
+P22_107_167,396.77,397.84,pick up blackberry
+P22_107_168,399.14,400.19,pick up blackberry
+P22_107_169,402.35,403.75,pick up bowl
+P22_107_17,42.73,43.6,pick up bowl
+P22_107_170,404.46,405.27,put down bowl
+P22_107_171,405.69,406.71,turn on tap
+P22_107_172,406.31,408.64,wash blackberry
+P22_107_173,408.71,410.19,wash blackberry
+P22_107_174,410.2,411.97,wash blackberry
+P22_107_175,411.73,414.76,wash blackberry
+P22_107_176,414.86,415.18,turn off tap
+P22_107_177,415.28,417.99,shake blackberries
+P22_107_178,417.81,420.79,put down blackberry
+P22_107_179,419.56,420.72,put down blackberries
+P22_107_18,44.02,44.92,pick up bowl
+P22_107_180,420.77,422.31,pick up cloth
+P22_107_181,422.05,423.73,dry hands
+P22_107_182,423.37,424.56,put down cloth
+P22_107_183,426.49,434.37,pick up blackberry
+P22_107_184,428.37,432.56,pick up blackberry
+P22_107_185,433.91,434.61,turn on tap
+P22_107_186,434.62,436.07,rinse blackberries
+P22_107_187,436.17,436.74,turn off tap
+P22_107_188,436.78,437.5,shake blackberries
+P22_107_189,437.55,438.29,put down blackberries
+P22_107_19,44.79,46.04,put down bowl
+P22_107_190,438.67,439.65,pick up cloth
+P22_107_191,439.56,440.68,dry hands
+P22_107_192,440.54,441.45,put down cloth
+P22_107_193,442.96,445.82,close blackberries
+P22_107_194,446.82,448.96,open fridge
+P22_107_195,449.03,449.61,pick up yogurt
+P22_107_196,449.71,450.61,put down yogurt
+P22_107_197,450.44,451.94,pick up blackberries
+P22_107_198,451.78,453.18,put down blackberries
+P22_107_199,453.51,454.87,close fridge
+P22_107_2,9.55,11.09,close drawer
+P22_107_20,47.04,48.04,pick up bowl
+P22_107_200,457.22,458.97,open cupboard
+P22_107_201,458.99,461.02,pick up cereals
+P22_107_202,461.89,463.03,extract cereals
+P22_107_203,463.13,464.57,remove clip
+P22_107_204,464.64,467.52,open cereals
+P22_107_205,467.62,475.71,pour cereals
+P22_107_206,476.5,478.51,close cereals
+P22_107_207,478.39,480.2,put clip
+P22_107_208,479.7,481.05,close clip
+P22_107_209,481.11,484.99,put down cereals
+P22_107_21,48.94,50.01,pick up bowl
+P22_107_210,485.02,486.25,close box
+P22_107_211,492.62,494.79,put down package
+P22_107_212,495.17,496.8,close cupboard
+P22_107_213,498.21,500.41,open fridge
+P22_107_214,500.45,501.84,pick up water bottle
+P22_107_215,501.7,503.25,close fridge
+P22_107_216,503.22,504.72,turn on tap
+P22_107_217,504.82,507.53,pour water
+P22_107_218,507.56,509.07,close bottle
+P22_107_219,509.15,511.8,crush bottle
+P22_107_22,49.86,51.09,insert bowl
+P22_107_220,512.81,514.22,throw bottle
+P22_107_221,515.66,516.66,pick up glass
+P22_107_222,516.5,517.8,turn on tap
+P22_107_223,517.89,519.57,rinse glass
+P22_107_224,519.28,520.97,put down glass
+P22_107_225,522.3,523.55,open drawer
+P22_107_226,523.54,524.2,close drawer
+P22_107_227,524.16,525.77,open drawer
+P22_107_228,525.75,528.74,pick up place mat
+P22_107_229,528.84,530.05,close drawer
+P22_107_23,51.46,52.11,pick up bowl
+P22_107_230,530.47,532.41,put down place mat
+P22_107_231,532.46,533.92,close cupboard
+P22_107_232,535.32,535.94,put down place mat
+P22_107_233,535.83,536.66,move remote
+P22_107_234,536.76,537.72,adjust place mats
+P22_107_235,540.72,548.4,stir mixture
+P22_107_236,548.4,549.58,pick glasses
+P22_107_237,550.07,552.16,put down glasses
+P22_107_238,554.47,555.42,pick up bowl
+P22_107_239,557.08,558.43,put down bowl
+P22_107_24,52.18,53.05,put down bowls
+P22_107_240,558.2,576.31,stir yoghurt
+P22_107_241,576.41,577.19,put down spoon
+P22_107_25,52.95,54.55,put down bowl
+P22_107_26,54.6,56.05,pick up plate
+P22_107_27,57.39,58.22,pick up plate
+P22_107_28,58.32,59.59,put down plate
+P22_107_29,59.6,60.78,pick up plate
+P22_107_3,11.0,13.86,open bag
+P22_107_30,60.81,68.53,put down plate
+P22_107_31,68.99,69.83,pick up glass
+P22_107_32,69.94,71.23,put down glass
+P22_107_33,71.61,72.66,pick up glass
+P22_107_34,72.37,73.85,put down glass
+P22_107_35,73.65,74.81,pick up glass
+P22_107_36,74.76,76.64,put down glass
+P22_107_37,76.81,78.49,pick up cutlery
+P22_107_38,78.59,81.45,close cupboard
+P22_107_39,81.98,83.31,open drawer
+P22_107_4,15.73,16.54,pick up jar
+P22_107_40,83.04,85.71,put down knife
+P22_107_41,84.96,87.36,put down knife
+P22_107_42,87.19,88.27,put down spoon
+P22_107_43,88.37,89.14,put down spoon
+P22_107_44,89.28,90.45,put down forks
+P22_107_45,90.54,91.39,put down knife
+P22_107_46,91.46,92.37,close drawer
+P22_107_47,92.43,92.97,open drawer
+P22_107_48,93.07,93.89,pick up teaspoon
+P22_107_49,94.55,96.06,put down teaspoon
+P22_107_5,16.45,17.35,throw jar
+P22_107_50,97.06,97.94,open cupboard
+P22_107_51,98.69,100.1,move bag
+P22_107_52,100.25,102.29,pick up jar
+P22_107_53,102.69,103.83,close cupboard
+P22_107_54,103.7,104.54,put down jar
+P22_107_55,106.95,109.35,open fridge
+P22_107_56,109.23,110.74,pick up bottle
+P22_107_57,110.69,113.61,close fridge
+P22_107_58,113.69,114.97,turn on light
+P22_107_59,115.54,116.56,pick up glass
+P22_107_6,18.56,20.15,put down bag
+P22_107_60,116.27,117.02,put down glass
+P22_107_61,116.99,118.24,move glasses
+P22_107_62,118.27,118.91,pick up bottle
+P22_107_63,118.98,119.76,open bottle
+P22_107_64,119.83,124.63,pour water
+P22_107_65,125.59,126.23,put down bottle
+P22_107_66,126.14,127.39,pick up glass
+P22_107_67,127.23,127.91,put down lid
+P22_107_68,129.62,130.32,pick up glass
+P22_107_69,131.81,133.37,pour water
+P22_107_7,20.11,20.74,pick up bottle
+P22_107_70,133.36,135.09,put down glass
+P22_107_71,135.19,136.25,put down glass
+P22_107_72,135.78,136.33,pick up lid
+P22_107_73,136.91,138.09,close bottle
+P22_107_74,140.7,143.54,open fridge
+P22_107_75,143.51,144.59,put down bottle
+P22_107_76,145.13,145.71,pick up yogurt
+P22_107_77,146.2,147.6,put down yogurt
+P22_107_78,147.43,150.61,pick up yogurt
+P22_107_79,153.51,154.33,put down yogurt
+P22_107_8,20.65,25.79,crush bottle
+P22_107_80,154.36,156.43,open packaging
+P22_107_81,156.62,160.12,move yoghurt
+P22_107_82,157.01,159.24,open packaging
+P22_107_83,159.34,160.42,put down yogurt
+P22_107_84,161.31,163.47,move yoghurt
+P22_107_85,164.52,166.68,move yoghurt
+P22_107_86,169.33,171.39,pick up blackberries
+P22_107_87,172.29,173.1,pick up yogurt
+P22_107_88,173.95,174.97,put down yogurt
+P22_107_89,175.21,176.32,put down yogurt
+P22_107_9,27.0,27.71,pick up bag
+P22_107_90,176.17,176.85,put down paper
+P22_107_91,176.88,179.39,close fridge
+P22_107_92,179.17,180.92,pick up paper
+P22_107_93,182.46,183.44,open cupboard
+P22_107_94,184.24,189.68,pick up bag
+P22_107_95,190.33,191.83,open bag
+P22_107_96,191.9,193.98,throw paper
+P22_107_97,194.13,196.46,pick up bag
+P22_107_98,196.55,200.23,pick up paper
+P22_107_99,200.33,201.01,throw paper

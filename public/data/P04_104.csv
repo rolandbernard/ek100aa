@@ -1,0 +1,294 @@
+P04_104_0,4.09,4.63,open drawer
+P04_104_1,5.4,6.85,pick up spoon
+P04_104_10,33.4,34.98,spoon starter into bowl
+P04_104_100,220.25,224.0,pick up flour
+P04_104_101,225.61,226.07,turn on scales
+P04_104_102,226.44,229.69,open flour
+P04_104_103,231.45,249.22,pour flour into bowl
+P04_104_104,251.85,252.6,put down flour
+P04_104_105,253.25,254.25,pick up bowl
+P04_104_106,254.1,255.11,put down bowl
+P04_104_107,255.17,256.88,pick up scales
+P04_104_108,258.08,259.09,open drawer
+P04_104_109,259.07,261.23,pick up tea towel
+P04_104_11,34.86,39.8,shake spoon
+P04_104_110,261.05,262.05,move things in drawer
+P04_104_111,262.15,263.4,move things in drawer
+P04_104_112,264.23,266.34,pick up batteries
+P04_104_113,266.55,267.21,put down batteries
+P04_104_114,267.45,268.31,moves things in drawer
+P04_104_115,268.0,269.73,move tea towels
+P04_104_116,273.49,274.4,pick up cling film
+P04_104_117,274.86,277.73,move things in drawer
+P04_104_118,277.83,278.31,move tea towels
+P04_104_119,278.72,279.12,move tea towels
+P04_104_12,39.46,42.96,spoon starter into bowl
+P04_104_120,279.7,280.45,hold tea towels
+P04_104_121,280.55,281.55,move bin bags
+P04_104_122,281.58,282.76,move chilli peppers
+P04_104_123,283.37,283.87,put down tea towels
+P04_104_124,284.41,285.6,put foil back in drawer
+P04_104_125,285.04,286.6,close drawer
+P04_104_126,287.89,289.85,look in drawer
+P04_104_127,291.52,292.1,move ice cube tray
+P04_104_128,292.95,294.48,pick up box
+P04_104_129,293.79,294.99,open box
+P04_104_13,42.25,43.57,put down tub
+P04_104_130,295.09,297.19,move batteries
+P04_104_131,296.89,297.37,pick up batteries
+P04_104_132,300.49,301.35,put down scales
+P04_104_133,302.0,305.07,open battery pack
+P04_104_134,305.26,310.58,pull out battery
+P04_104_135,310.5,311.25,put down battery pack
+P04_104_136,311.35,311.74,pick up scales
+P04_104_137,311.63,312.16,turn over scales
+P04_104_138,312.66,313.81,open battery compartment on scales
+P04_104_139,315.01,315.71,push down battery
+P04_104_14,44.76,45.75,open drawer
+P04_104_140,316.06,318.01,pull out battery
+P04_104_141,318.21,318.64,put down battery
+P04_104_142,319.02,321.25,slide battery into scales
+P04_104_143,321.11,322.01,push down battery
+P04_104_144,322.46,323.12,pull out battery
+P04_104_145,323.08,323.53,put down battery
+P04_104_146,323.43,324.33,put down scales
+P04_104_147,324.56,325.27,pick up battery pack
+P04_104_148,325.47,327.76,open battery pack
+P04_104_149,327.55,329.78,twist battery pack
+P04_104_15,47.98,50.12,scrape spoon with spoon
+P04_104_150,329.98,333.64,tear cardboard on battery pack
+P04_104_151,339.37,339.99,pull out battery
+P04_104_152,339.26,344.01,slide battery into scales
+P04_104_153,345.31,346.7,turn over scales
+P04_104_154,347.05,348.27,pick up battery cover
+P04_104_155,348.22,349.5,turn over scales
+P04_104_156,349.35,352.12,put battery cover on scales
+P04_104_157,352.2,353.48,put down scales
+P04_104_158,353.58,354.73,pick up batteries
+P04_104_159,357.46,358.65,open drawer
+P04_104_16,49.27,55.9,scrape back of spoon with spoon
+P04_104_160,358.35,359.35,put battery pack in the drawer
+P04_104_161,360.01,360.7,close drawer
+P04_104_162,363.54,364.16,open bin
+P04_104_163,364.04,364.41,put batteries in bin
+P04_104_164,366.2,366.87,press button on scales
+P04_104_165,366.49,367.17,pick up bowl
+P04_104_166,367.12,368.27,put bowl on scales
+P04_104_167,369.28,370.61,press button on scales
+P04_104_168,373.26,373.94,press button on scales
+P04_104_17,57.48,58.26,put down spoon
+P04_104_170,376.73,378.12,pick up spoon
+P04_104_171,378.1,379.11,empty spoon into sink
+P04_104_172,379.06,379.92,turn on tap
+P04_104_173,379.82,380.36,put spoon under tap
+P04_104_174,380.08,380.78,turn off tap
+P04_104_175,381.15,382.17,pour water into bowl
+P04_104_176,383.01,383.66,turn on tap
+P04_104_177,383.62,384.47,fill spoon with water
+P04_104_178,384.55,385.07,turn off tap
+P04_104_179,385.65,386.42,pour water into bowl
+P04_104_18,58.33,60.45,pick up tub
+P04_104_180,386.99,388.52,fill spoon with water
+P04_104_181,388.6,388.87,turn off tap
+P04_104_182,389.22,390.36,pour water into bowl
+P04_104_183,390.62,393.16,fill spoon with water
+P04_104_184,393.17,393.7,turn off tap
+P04_104_185,391.0,394.79,pour water into bowl
+P04_104_186,395.25,397.59,fill spoon with water
+P04_104_187,396.65,398.29,pour water into bowl
+P04_104_188,399.84,401.51,fill spoon with water
+P04_104_189,397.8,399.8,pour water into bowl
+P04_104_19,60.73,62.37,scoop starter into bowl
+P04_104_190,403.02,404.08,pour water into bowl
+P04_104_191,404.18,407.77,pour water into bowl
+P04_104_192,407.85,408.85,empty water into sink
+P04_104_193,408.9,409.7,put down spoon
+P04_104_194,410.05,412.09,pick up salt
+P04_104_195,411.25,414.68,shake salt into bowl
+P04_104_196,414.57,417.42,shake salt into bowl
+P04_104_197,417.72,418.39,close salt lid
+P04_104_198,418.2,419.11,put down salt
+P04_104_199,420.47,421.81,open drawer
+P04_104_2,7.38,8.22,close drawer
+P04_104_20,62.47,64.89,shake spoon
+P04_104_200,422.3,425.26,pick up knife
+P04_104_201,424.88,425.88,close drawer
+P04_104_202,425.73,435.1,stir knife in bowl
+P04_104_203,427.5,478.34,hold bowl
+P04_104_204,478.44,482.11,scrape knife on side of bowl
+P04_104_205,478.6,479.44,scrape knife on side of bowl
+P04_104_206,480.32,481.82,scrape dough off side of bowl
+P04_104_207,482.55,483.15,put down knife
+P04_104_208,483.49,486.08,open drawer
+P04_104_209,486.18,487.69,pick up tea towel
+P04_104_21,64.88,66.01,spoon starter into bowl
+P04_104_210,489.13,490.84,put tea towel on bowl
+P04_104_211,490.65,493.14,pick up bowl
+P04_104_212,495.55,496.71,press button on scales
+P04_104_213,498.39,501.01,press button on scales
+P04_104_214,501.11,504.35,press button on scales
+P04_104_215,501.38,505.06,press button on scales
+P04_104_216,505.78,513.8,press button on scales
+P04_104_217,515.22,517.1,pick up flour
+P04_104_218,518.28,519.29,put down flour
+P04_104_219,519.26,520.54,feel hob
+P04_104_22,66.03,67.05,shake spoon
+P04_104_220,521.67,524.69,put down bowl
+P04_104_221,524.58,525.7,pick up scales
+P04_104_222,526.59,527.36,open drawer
+P04_104_223,527.28,528.25,put scales in drawer
+P04_104_224,528.66,530.95,open dishwasher
+P04_104_225,531.09,532.55,pull out dishwasher drawer
+P04_104_226,533.24,534.77,pick up tub
+P04_104_227,534.95,535.31,put down tub
+P04_104_228,536.84,537.44,pick up spatula
+P04_104_229,537.32,538.05,pick up pan
+P04_104_23,67.8,68.8,look at tub
+P04_104_230,538.29,540.43,put pan in dishwasher
+P04_104_231,540.53,541.79,pull out dishwasher drawer
+P04_104_232,541.69,542.64,put spatula in dishwasher
+P04_104_233,545.69,547.48,pick up spatula
+P04_104_234,548.04,549.54,put spatula in dishwasher
+P04_104_235,547.0,550.13,close dishwasher drawer
+P04_104_236,550.03,551.32,pick up spoons
+P04_104_237,552.09,554.92,put spoons in cutlery holder
+P04_104_238,555.54,556.61,pick up spoon
+P04_104_239,557.51,558.11,put spoon in cutlery holder
+P04_104_24,68.89,70.09,put down tub
+P04_104_240,558.81,559.55,pick up spoon
+P04_104_241,559.56,560.16,pick up spoon
+P04_104_242,561.12,562.96,put spoons in cutlery holder
+P04_104_243,563.37,564.66,pick up microwave cover
+P04_104_244,565.81,566.52,pick up pan lid
+P04_104_245,565.64,566.36,put down pan lid
+P04_104_246,566.71,567.53,pick up spoon
+P04_104_247,567.33,568.83,pick up lid
+P04_104_248,568.58,570.85,put down microwave cover
+P04_104_249,572.76,573.31,put spoon in cutlery holder
+P04_104_25,71.32,73.41,rinse spoon
+P04_104_250,573.74,574.51,put lid in dishwasher
+P04_104_251,574.91,576.49,close dishwasher drawer
+P04_104_252,576.51,578.07,pick up bowl
+P04_104_253,578.85,581.73,put bowl in dishwasher
+P04_104_254,581.93,583.28,pick up glass
+P04_104_255,586.17,587.82,put down glass
+P04_104_256,586.62,588.03,pick up bowl
+P04_104_257,588.07,588.86,put bowl in dishwasher
+P04_104_258,591.75,592.55,adjust chopping board
+P04_104_259,592.24,592.74,pick up chopping board
+P04_104_26,73.39,74.27,put down spoon
+P04_104_260,592.7,593.74,put chopping board in dishwasher
+P04_104_261,598.82,600.35,pick up plate
+P04_104_262,601.19,602.27,pick up cutlery
+P04_104_263,602.38,603.34,put cutlery in dishwasher cutlery holder
+P04_104_264,605.8,607.19,pick up glass
+P04_104_265,607.0,610.0,put down glass
+P04_104_266,609.99,613.15,put plate in dishwasher
+P04_104_267,615.19,618.26,put plate in dishwasher
+P04_104_268,618.73,620.5,pick up glass
+P04_104_269,620.9,624.15,put glass in dishwasher
+P04_104_27,74.34,76.54,pick up flour
+P04_104_270,625.19,626.19,pick up spoon
+P04_104_271,626.85,629.35,put spoon in dishwasher
+P04_104_272,634.79,635.65,open cupboard
+P04_104_273,635.78,639.15,close dishwasher drawer
+P04_104_274,639.21,640.0,pick up dishwasher tablet
+P04_104_275,639.76,642.22,open dishwasher tablet
+P04_104_276,642.3,643.15,put dishwasher tablet in dishwasher
+P04_104_277,643.33,643.74,close tablet holder
+P04_104_278,643.84,645.84,close dishwasher
+P04_104_279,644.5,651.02,turn on dishwasher
+P04_104_28,76.5,77.65,open flour
+P04_104_280,650.01,651.08,press go on dishwasher
+P04_104_281,651.18,654.13,close cupboard
+P04_104_282,652.97,654.35,wipe hands on tea towel
+P04_104_283,653.97,667.01,turn on oven timer
+P04_104_284,669.76,670.36,open bin
+P04_104_285,668.0,670.63,put wrapper in bin
+P04_104_286,670.6,671.21,close bin
+P04_104_287,672.15,673.1,pick up sponge
+P04_104_288,673.15,674.01,put down sponge
+P04_104_289,674.12,675.04,squeeze soap
+P04_104_29,77.75,78.47,pick up bowl
+P04_104_290,675.07,676.32,rub hands
+P04_104_291,676.1,677.1,turn on tap
+P04_104_292,677.19,679.24,wash hands under tap
+P04_104_293,679.34,679.84,turn off tap
+P04_104_294,680.81,683.05,dry hands
+P04_104_3,9.53,10.72,move tub
+P04_104_30,79.19,80.93,put down bowl
+P04_104_31,81.45,82.11,pick up tub
+P04_104_32,81.88,82.41,put tub on scales
+P04_104_33,82.78,84.29,open drawer
+P04_104_34,84.22,85.23,pick up spoon
+P04_104_35,84.56,85.84,close drawer
+P04_104_36,85.59,87.39,press button on scales
+P04_104_37,87.74,89.34,open flour
+P04_104_38,91.77,96.59,spoon flour into tub
+P04_104_39,96.53,101.55,spoon flour into tub
+P04_104_4,11.14,11.83,pull cling film off tub
+P04_104_40,102.75,104.72,pour flour into tub
+P04_104_41,102.73,104.46,straighten flour bag
+P04_104_42,105.54,109.81,shake flour bag
+P04_104_43,105.17,118.44,shake flour bag
+P04_104_44,119.76,122.03,put down flour bag
+P04_104_45,124.94,126.1,pick up tub
+P04_104_46,125.71,126.41,turn on tap
+P04_104_47,126.4,127.69,put water in tap
+P04_104_48,127.02,127.73,put tub under tap
+P04_104_49,127.77,128.14,turn off tap
+P04_104_5,12.26,18.5,spoon starter into bowl
+P04_104_50,128.37,128.93,put down tub
+P04_104_51,130.19,130.9,pick up tub
+P04_104_52,131.0,131.69,turn on tap
+P04_104_53,131.65,132.27,put tub under tap
+P04_104_54,132.34,132.84,turn off tap
+P04_104_55,132.93,134.12,put down tub
+P04_104_56,134.77,135.57,pick up tub
+P04_104_57,135.84,136.33,put tub under tap
+P04_104_58,136.21,136.72,turn on tap
+P04_104_59,136.66,137.15,turn off tap
+P04_104_6,20.63,23.85,pull cling film off tub
+P04_104_60,137.37,138.2,put down tub
+P04_104_61,138.27,139.73,pick up tub
+P04_104_62,139.83,140.58,turn on tap
+P04_104_63,140.62,141.13,put tub under tap
+P04_104_64,140.88,141.39,turn off tap
+P04_104_65,141.83,142.76,put down tub
+P04_104_66,143.44,144.18,pick up spoon
+P04_104_67,144.35,145.07,hold tub
+P04_104_68,145.27,153.54,stir starter in tub
+P04_104_69,153.34,154.23,pick up tub
+P04_104_7,24.16,25.2,pick up tub
+P04_104_70,154.85,155.26,put tub under tap
+P04_104_71,155.12,156.38,turn on tap
+P04_104_72,155.65,156.4,turn off tap
+P04_104_73,157.61,169.71,stir starter in tub
+P04_104_74,169.63,172.11,put tub under tap
+P04_104_75,170.69,171.46,turn on tap
+P04_104_76,171.16,171.66,turn off tap
+P04_104_77,172.87,175.03,stir starter in tub
+P04_104_78,178.3,180.42,scrape starter from side of tub
+P04_104_79,180.47,181.07,put down tub
+P04_104_8,25.69,30.23,spoon starter into bowl
+P04_104_80,181.09,181.5,put down spoon
+P04_104_81,182.0,183.75,pick up kitchen roll
+P04_104_82,183.85,184.66,take sheet of kitchen roll
+P04_104_83,184.4,184.85,put down kitchen roll
+P04_104_84,185.21,186.13,wipe hands with kitchen roll
+P04_104_85,186.95,187.35,hold starter tub
+P04_104_86,186.92,195.13,wipe starter tub
+P04_104_87,195.2,195.95,put down starter tub
+P04_104_88,196.35,197.32,put down kitchen roll
+P04_104_89,197.1,198.39,pick up cling film
+P04_104_9,30.33,32.99,shake spoon
+P04_104_90,198.95,200.67,put cling film on tub
+P04_104_91,200.05,202.8,squeeze cling film around tub
+P04_104_92,202.55,203.3,pick up tub
+P04_104_93,204.11,205.57,open fridge
+P04_104_94,205.67,206.77,put tub in fridge
+P04_104_95,207.2,208.04,close fridge
+P04_104_96,209.0,209.54,put bowl on scales
+P04_104_97,209.7,210.15,press button on scales
+P04_104_98,212.65,213.3,press button on scales
+P04_104_99,214.45,215.11,press button on scales

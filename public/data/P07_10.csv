@@ -1,0 +1,330 @@
+P07_10_0,3.12,4.5,pick up yoghurt
+P07_10_1,5.65,6.61,pick up potatoes
+P07_10_10,45.68,46.41,open drawer
+P07_10_100,518.0,519.5,shake pepper
+P07_10_101,519.53,520.53,open salt
+P07_10_102,520.07,522.26,put pepper on the chicken
+P07_10_103,520.64,522.54,sprinkle salt on the chicken
+P07_10_104,526.56,527.66,slice chicken
+P07_10_105,531.32,533.51,slice chicken
+P07_10_106,533.87,534.77,open tap
+P07_10_107,540.77,541.98,slice chicken
+P07_10_108,542.87,544.77,slice chicken
+P07_10_109,547.6,549.91,stir salt
+P07_10_11,47.27,48.11,close drawer
+P07_10_110,600.05,600.71,rinse hand
+P07_10_111,600.77,601.45,close tap
+P07_10_112,605.11,606.1,put soap on inside container
+P07_10_113,606.7,609.34,wash container
+P07_10_114,611.94,616.36,wash container
+P07_10_115,617.19,618.16,wash container
+P07_10_116,620.07,620.8,open tap
+P07_10_117,621.69,622.43,rinse container
+P07_10_118,623.68,624.2,rinse container
+P07_10_119,624.8,625.39,rinse container
+P07_10_12,56.11,58.74,place pot in stove
+P07_10_120,644.4,647.15,rinse container
+P07_10_121,648.06,649.48,close tap
+P07_10_122,650.23,651.73,wash spoon
+P07_10_123,652.46,653.36,wash spoon
+P07_10_124,653.46,654.21,wash spoon
+P07_10_125,655.21,656.11,open tap
+P07_10_126,656.76,658.12,rinse spoon
+P07_10_127,660.96,665.22,open door
+P07_10_128,665.32,667.36,open door
+P07_10_129,668.27,670.14,close door
+P07_10_13,58.53,61.21,turn knob
+P07_10_130,668.92,670.55,close door
+P07_10_131,674.3,675.27,pick up salt
+P07_10_132,678.52,679.46,open pot
+P07_10_133,679.35,684.88,add salt
+P07_10_134,684.74,685.98,cover pot
+P07_10_135,701.48,706.08,shake pan
+P07_10_136,714.13,718.11,add chicken into pan
+P07_10_137,726.16,727.72,pick up spoon
+P07_10_138,732.0,734.74,stir chicken
+P07_10_139,735.57,737.98,stir chicken
+P07_10_14,67.14,69.2,open tap
+P07_10_140,757.12,757.87,remove lid
+P07_10_141,760.41,768.34,pour rice into pot
+P07_10_142,769.57,771.32,put rice in pot
+P07_10_143,777.2,778.67,take fork
+P07_10_144,780.77,787.74,stir rice
+P07_10_145,789.2,793.04,scrape rice
+P07_10_146,793.14,798.15,put rice in pot
+P07_10_147,798.25,811.41,put rice in pot
+P07_10_148,814.57,816.37,shake chicken
+P07_10_149,816.01,822.19,shake frying pan
+P07_10_15,67.36,68.98,open tap
+P07_10_150,824.72,825.31,open fridge
+P07_10_151,825.18,826.16,shake chicken
+P07_10_152,827.33,828.22,close fridge
+P07_10_153,829.64,831.41,cut onion
+P07_10_154,832.96,834.29,add onion to pot
+P07_10_155,840.82,842.11,press garlic
+P07_10_156,843.85,847.38,peel garlic
+P07_10_157,848.31,850.87,press garlic
+P07_10_158,879.93,885.39,peel garlic
+P07_10_159,886.29,889.04,add garlic
+P07_10_16,71.84,73.82,close tap
+P07_10_160,889.77,890.77,turn switch
+P07_10_161,892.76,893.96,turn switch
+P07_10_162,904.58,907.16,add potato to pot
+P07_10_163,907.26,911.45,add potatoes to pot
+P07_10_164,914.34,915.57,stir rice
+P07_10_165,916.12,916.79,stir rice
+P07_10_166,925.9,927.59,stir rise
+P07_10_167,930.73,932.54,put lid in pot
+P07_10_168,938.31,939.36,stir chicken
+P07_10_169,939.28,941.39,stir chicken
+P07_10_17,72.21,73.36,close tap
+P07_10_170,946.0,967.08,stir chicken
+P07_10_171,975.4,976.09,open tap
+P07_10_172,975.94,978.02,rinse mug
+P07_10_173,978.09,982.09,wash mug
+P07_10_174,982.19,985.69,rinse mug
+P07_10_175,985.79,988.05,rinse mug
+P07_10_176,988.15,994.99,rinse mug
+P07_10_177,995.69,996.5,close tap
+P07_10_178,996.49,1004.9,wash knife
+P07_10_179,1002.5,1009.69,open tap
+P07_10_18,96.16,104.25,pour water in pot
+P07_10_180,1005.01,1007.65,wash fork
+P07_10_181,1008.74,1009.69,rinse fork
+P07_10_182,1009.8,1012.68,rinse knife
+P07_10_183,1013.62,1017.07,open window
+P07_10_184,1025.92,1028.96,stir chicken
+P07_10_185,1029.83,1032.93,stir chicken
+P07_10_186,1037.06,1048.54,stir chicken
+P07_10_187,1053.97,1055.8,open tap
+P07_10_188,1054.67,1062.12,rinse table
+P07_10_189,1055.75,1060.65,wash table
+P07_10_19,112.88,115.09,pick up scissors
+P07_10_190,1060.75,1062.87,wash table
+P07_10_191,1062.76,1069.83,rinse board
+P07_10_192,1069.98,1071.06,close tap
+P07_10_193,1072.22,1074.27,open tap
+P07_10_194,1079.73,1084.1,dry board
+P07_10_195,1080.28,1085.69,dry board
+P07_10_196,1095.5,1096.37,pick up knife
+P07_10_197,1097.99,1106.06,slice onion
+P07_10_198,1104.77,1105.41,slice onion
+P07_10_199,1106.65,1118.61,slice onion
+P07_10_2,9.41,10.77,pick up rice
+P07_10_20,116.81,119.16,cut bag
+P07_10_200,1115.77,1129.51,slice onion
+P07_10_201,1118.39,1132.05,slice onion
+P07_10_202,1118.71,1122.43,slice onion
+P07_10_203,1135.73,1141.2,move pan
+P07_10_204,1147.25,1148.05,cut onion
+P07_10_205,1148.17,1149.06,cut onion
+P07_10_206,1160.35,1168.71,cut onion
+P07_10_207,1176.85,1177.68,open fridge
+P07_10_208,1177.35,1179.31,put in onion
+P07_10_209,1180.07,1181.64,close fridge
+P07_10_21,121.51,125.48,pour rice in measuring cup
+P07_10_210,1182.38,1185.16,open bag
+P07_10_211,1186.04,1187.93,pick up tomato
+P07_10_212,1191.15,1192.44,open lid
+P07_10_213,1194.57,1195.57,open tap
+P07_10_214,1195.41,1202.16,rinse tomato
+P07_10_215,1199.23,1202.43,rinse tomato
+P07_10_216,1202.38,1203.45,close tap
+P07_10_217,1220.52,1222.81,cut tomato
+P07_10_218,1223.57,1226.07,cut tomato
+P07_10_219,1232.92,1234.88,pick up tupperware
+P07_10_22,127.02,129.07,pick up measuring cup
+P07_10_220,1239.75,1250.21,scrape tomato
+P07_10_221,1248.78,1260.91,scrape tomato
+P07_10_222,1259.48,1268.13,scrape tomato
+P07_10_223,1268.23,1276.0,scrape tomato
+P07_10_224,1273.62,1279.15,scrape tomato
+P07_10_225,1279.25,1283.91,pick up spoon
+P07_10_226,1284.01,1291.65,scrape tomato
+P07_10_227,1293.1,1309.71,scrape tomato
+P07_10_228,1312.18,1325.51,scrape tomato
+P07_10_229,1326.26,1340.31,scrape tomato
+P07_10_23,134.23,138.01,pour rice in cup
+P07_10_230,1361.0,1361.5,scrape tomato
+P07_10_231,1361.0,1361.5,scrape tomato
+P07_10_232,1365.19,1365.69,slice tomato
+P07_10_233,1373.61,1405.78,scrape tomato
+P07_10_234,1405.88,1421.46,slice tomato
+P07_10_235,1420.52,1440.03,slice tomato
+P07_10_236,1440.13,1450.14,slice tomato
+P07_10_237,1450.24,1454.29,slice tomato
+P07_10_238,1454.39,1463.39,slice tomato
+P07_10_239,1468.57,1469.24,slice tomato
+P07_10_24,146.93,149.27,pour rice in cup
+P07_10_240,1469.14,1484.02,slice tomato
+P07_10_241,1469.69,1470.61,slice tomato
+P07_10_242,1471.4,1472.25,cut tomato
+P07_10_243,1473.17,1474.12,cut tomato
+P07_10_244,1474.96,1476.02,cut tomato
+P07_10_245,1475.68,1477.98,cut tomato
+P07_10_246,1478.53,1480.71,cut tomato
+P07_10_247,1481.28,1483.27,cut tomato
+P07_10_248,1483.8,1485.27,cut tomato
+P07_10_249,1485.86,1486.5,cut tomato
+P07_10_25,155.0,157.0,fold bag
+P07_10_250,1500.46,1502.76,pick up container
+P07_10_251,1502.86,1508.92,put tomato in tupperware
+P07_10_252,1505.41,1506.22,cut tomato
+P07_10_253,1507.58,1508.91,cut tomato
+P07_10_254,1509.38,1513.36,put onion in tupperware
+P07_10_255,1511.79,1514.99,cut tomato
+P07_10_256,1516.93,1519.69,stir mix
+P07_10_257,1517.05,1518.31,open door
+P07_10_258,1519.79,1527.14,stir mix
+P07_10_259,1520.96,1523.72,close door
+P07_10_26,155.3,158.99,fold bag
+P07_10_260,1539.94,1551.08,throw tomato centre into trash
+P07_10_261,1552.54,1553.57,put board on kitchen counter
+P07_10_262,1554.82,1560.13,open bag
+P07_10_263,1560.02,1568.08,pick up cilantro
+P07_10_264,1569.18,1580.58,place cilantro
+P07_10_265,1578.01,1584.88,line up cilantro
+P07_10_266,1580.2,1581.15,rinse coriander
+P07_10_267,1581.25,1585.58,drain coriander
+P07_10_268,1585.68,1590.52,stir coriander
+P07_10_269,1590.62,1593.0,drain coriander water
+P07_10_27,157.1,157.85,fold bag
+P07_10_270,1593.11,1597.94,drain water
+P07_10_271,1598.04,1599.15,drain water
+P07_10_272,1600.34,1601.25,put coriander in table
+P07_10_273,1602.05,1603.7,cut coriander
+P07_10_274,1602.31,1603.62,chop cilantro
+P07_10_275,1602.55,1603.3,chop coriander
+P07_10_276,1604.27,1605.43,chop coriander
+P07_10_277,1606.64,1614.63,chop cilantro
+P07_10_278,1617.46,1619.59,chop cilantro
+P07_10_279,1617.86,1621.36,cut coriander
+P07_10_28,165.15,166.52,open fridge
+P07_10_280,1635.42,1637.26,put cilantro in tupperware
+P07_10_281,1637.14,1638.09,put cilantro in tupperware
+P07_10_282,1637.95,1639.16,open tap
+P07_10_283,1638.88,1642.8,stir mix
+P07_10_284,1639.52,1643.07,rinse coriander
+P07_10_285,1643.61,1644.53,stir mix
+P07_10_286,1644.37,1645.39,close bag
+P07_10_287,1646.07,1648.31,open fridge
+P07_10_288,1654.07,1657.53,store bag
+P07_10_289,1659.57,1664.28,close fridge
+P07_10_29,170.2,170.95,pick up pot
+P07_10_290,1809.18,1814.86,throw cilantro into trash
+P07_10_291,1818.77,1823.85,open bag
+P07_10_292,1823.95,1828.54,take chilli from bag
+P07_10_293,1828.64,1832.22,take chilli from bag
+P07_10_294,1833.24,1834.33,turn on switch
+P07_10_295,1834.43,1836.77,rinse chilli
+P07_10_296,1836.87,1837.93,turn of switch
+P07_10_297,1840.11,1845.13,cut chilli
+P07_10_298,1846.34,1848.03,cut chilli
+P07_10_299,1848.19,1850.57,cut chilli
+P07_10_3,12.66,13.6,pick up chilli
+P07_10_30,221.31,222.18,close fridge
+P07_10_300,1859.11,1860.63,put chilli in tupperware
+P07_10_301,1860.73,1865.69,put chilli in tupperware
+P07_10_302,1873.43,1883.42,stir mix
+P07_10_303,1888.77,1890.18,close bag
+P07_10_304,1890.28,1891.47,open fridge
+P07_10_305,1891.57,1892.88,store bag
+P07_10_306,1892.44,1893.63,close fridge
+P07_10_307,1895.3,1898.12,close bag
+P07_10_308,1898.22,1898.85,open fridge
+P07_10_309,1903.87,1904.82,close fridge
+P07_10_31,223.14,223.95,pick up board
+P07_10_310,1905.3,1908.3,squeeze lemon
+P07_10_311,1908.4,1911.4,squeeze lemon juice
+P07_10_312,1912.98,1914.8,squeeze lemon
+P07_10_313,1913.1,1925.1,stir mix
+P07_10_314,1924.45,1931.08,squeeze lemon juice
+P07_10_315,1925.35,1925.96,open tap
+P07_10_316,1933.47,1940.97,pour salt on mix
+P07_10_317,1941.07,1944.07,stir mixture
+P07_10_318,1975.58,1979.22,add salt to mixture
+P07_10_319,1979.32,1985.9,stir mixture
+P07_10_32,224.98,225.82,put board on kitchen counter
+P07_10_320,2002.35,2005.2,add soap to sponge
+P07_10_321,2008.85,2012.11,wash knife
+P07_10_322,2012.73,2014.19,open tap
+P07_10_323,2014.23,2017.65,rinse knife
+P07_10_324,2022.31,2023.16,open tap
+P07_10_325,2024.83,2028.72,wash board
+P07_10_326,2028.82,2033.21,wash board
+P07_10_327,2033.84,2034.86,open tap
+P07_10_328,2036.67,2043.13,rinse table
+P07_10_329,2037.34,2039.13,rinse table
+P07_10_33,225.92,227.16,cut potato bag
+P07_10_34,226.76,230.64,pick up potato
+P07_10_35,228.24,229.12,put potatoes on board
+P07_10_36,229.22,230.56,pick up potatoes
+P07_10_37,234.15,234.7,close bag
+P07_10_38,235.49,236.45,place bag
+P07_10_39,262.25,263.46,put potato on board
+P07_10_4,14.31,16.01,pick up napkins
+P07_10_40,262.78,264.95,pick up potatoes
+P07_10_41,264.71,266.08,turn on tap
+P07_10_42,266.18,269.86,rinse potatoes
+P07_10_43,269.96,274.08,rinse potato
+P07_10_44,274.18,276.7,rinse potato
+P07_10_45,276.8,279.36,turn off tap
+P07_10_46,280.76,282.85,pick up potato
+P07_10_47,283.0,284.14,rinse potato
+P07_10_48,284.24,288.66,turn off tap
+P07_10_49,288.82,290.87,put lid on pot
+P07_10_5,20.3,21.5,pick up bottle
+P07_10_50,289.69,292.02,turn on tap
+P07_10_51,291.84,294.76,take knife
+P07_10_52,295.32,298.62,cut potato
+P07_10_53,296.86,297.8,rinse potato
+P07_10_54,297.7,298.26,rinse potato
+P07_10_55,298.63,305.95,cut potato
+P07_10_56,306.05,308.54,cut potato
+P07_10_57,308.64,311.54,cut potato
+P07_10_58,311.64,319.37,cut potato
+P07_10_59,317.58,319.12,cut potato
+P07_10_6,25.04,25.86,open fridge
+P07_10_60,319.22,324.35,cut potato
+P07_10_61,319.48,324.39,cut potato
+P07_10_62,324.45,329.09,cut potato
+P07_10_63,329.19,333.48,cut potato
+P07_10_64,333.58,337.96,cut potato
+P07_10_65,338.06,344.4,cut potato
+P07_10_66,344.5,348.92,cut potato
+P07_10_67,347.63,349.33,cut potato
+P07_10_68,349.02,355.32,cut potato
+P07_10_69,350.77,354.85,cut potato
+P07_10_7,27.43,28.26,close fridge
+P07_10_70,353.22,355.8,cut potato
+P07_10_71,354.0,359.18,cut potato
+P07_10_72,356.72,359.44,cut potato
+P07_10_73,360.21,365.3,cut potato
+P07_10_74,360.56,363.55,cut potato
+P07_10_75,365.67,367.96,cut potato
+P07_10_76,372.37,375.67,pick up pan
+P07_10_77,375.77,380.02,put pan on stove
+P07_10_78,379.26,380.44,turn knob
+P07_10_79,382.38,383.66,open tap
+P07_10_8,33.0,34.64,open fridge
+P07_10_80,384.17,385.63,put soap in pan
+P07_10_81,387.08,391.73,wash pan
+P07_10_82,390.87,395.97,wash pan
+P07_10_83,398.92,400.29,open tap
+P07_10_84,399.54,403.45,rinse pan
+P07_10_85,403.36,407.4,rinse pan
+P07_10_86,407.85,408.9,closes tap
+P07_10_87,424.05,425.74,open fridge
+P07_10_88,434.05,439.45,open package
+P07_10_89,439.86,441.37,pick up chicken
+P07_10_9,36.31,37.51,close fridge
+P07_10_90,466.17,467.47,open tap
+P07_10_91,468.25,471.53,rinse chicken
+P07_10_92,470.1,474.24,slice chicken
+P07_10_93,473.35,475.02,rinse chicken
+P07_10_94,474.34,479.52,slice chicken
+P07_10_95,476.12,477.86,close tap
+P07_10_96,476.73,477.69,store package
+P07_10_97,479.41,481.21,close fridge
+P07_10_98,479.45,481.25,open fridge
+P07_10_99,483.71,487.16,slice chicken

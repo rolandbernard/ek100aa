@@ -1,0 +1,196 @@
+P22_104_0,2.64,3.45,pick up glass
+P22_104_1,6.3,7.42,pick up glass
+P22_104_10,31.78,33.42,pick up salad
+P22_104_100,311.51,312.05,pick up knife
+P22_104_101,312.18,315.17,cut olive
+P22_104_102,315.31,315.8,put down knife
+P22_104_103,315.94,318.37,remove olive stone
+P22_104_104,320.23,320.55,turn on tap
+P22_104_105,320.7,324.86,wash hands
+P22_104_106,324.83,325.55,turn off tap
+P22_104_107,325.59,326.24,shake hands
+P22_104_108,326.75,327.75,pick up cloth
+P22_104_109,327.65,328.85,dry hands
+P22_104_11,33.71,34.26,put down salad
+P22_104_110,329.37,330.73,pick up salad
+P22_104_111,333.11,334.9,pour olives
+P22_104_112,335.12,341.49,pour tomato
+P22_104_113,341.77,342.41,put down knife
+P22_104_114,342.45,343.45,shake salad
+P22_104_115,343.95,344.7,move cutting board
+P22_104_116,344.81,345.35,put down salad
+P22_104_117,345.99,346.54,open drawer
+P22_104_118,347.56,348.48,pick up spoon
+P22_104_119,348.34,348.84,close drawer
+P22_104_12,35.07,37.28,open bag
+P22_104_120,349.47,366.7,stir salad
+P22_104_121,366.51,368.71,put down cutlery
+P22_104_122,368.84,371.56,open fridge
+P22_104_123,371.79,374.45,put down salad
+P22_104_124,374.55,377.56,pick up tomato
+P22_104_125,377.66,380.28,close fridge
+P22_104_126,381.9,382.45,turn on tap
+P22_104_127,385.87,419.08,cut tomato
+P22_104_128,418.98,420.3,pick up salad
+P22_104_129,420.15,422.86,move cutting board
+P22_104_13,37.24,38.61,pick up tomato
+P22_104_130,422.96,426.94,pour tomato
+P22_104_131,426.61,427.43,put down knife
+P22_104_132,427.29,427.85,move cutting board
+P22_104_133,428.32,428.87,put down salad
+P22_104_134,429.23,436.59,stir salad
+P22_104_135,437.32,437.84,turn on tap
+P22_104_136,437.5,438.41,wash hand
+P22_104_137,438.66,439.64,turn off tap
+P22_104_138,444.4,445.02,pick up oil
+P22_104_139,445.15,446.54,open oil
+P22_104_14,41.97,43.81,pick up package
+P22_104_140,446.64,453.2,pour oil
+P22_104_141,453.15,455.06,close oil bottle
+P22_104_142,455.08,456.17,put down oil
+P22_104_143,456.23,457.22,open cupboard
+P22_104_144,457.3,459.11,pick up vinegar
+P22_104_145,459.16,460.47,open vinegar
+P22_104_146,463.25,466.24,pour vinegar
+P22_104_147,466.48,467.22,pick up lid
+P22_104_148,467.58,468.4,close vinegar
+P22_104_149,469.62,470.37,put down vinegar
+P22_104_15,44.83,45.44,put down package
+P22_104_150,470.59,471.78,close cupboard
+P22_104_151,473.21,475.52,stir salad
+P22_104_152,477.37,478.32,pick up jar
+P22_104_153,482.29,484.69,pour salt
+P22_104_154,485.37,490.42,stir salad
+P22_104_155,491.29,491.91,pour salt
+P22_104_156,493.13,496.2,stir salad
+P22_104_157,496.3,497.99,pick up jar
+P22_104_158,500.17,501.45,put down jar
+P22_104_159,502.52,503.92,pick olives
+P22_104_16,49.92,50.8,move object
+P22_104_160,503.9,505.4,open drawer
+P22_104_161,505.13,510.5,pick up clip
+P22_104_162,510.52,511.35,close drawer
+P22_104_163,524.45,527.07,open fridge
+P22_104_164,527.42,528.51,put down olives
+P22_104_165,528.97,529.97,close fridge
+P22_104_166,534.48,535.43,open drawer
+P22_104_167,535.48,540.17,pick up place mat
+P22_104_168,540.27,541.18,close drawer
+P22_104_169,541.28,543.2,put down place mat
+P22_104_17,51.95,54.56,move cheese
+P22_104_170,543.19,544.52,put down place mat
+P22_104_171,544.62,547.14,move place mat
+P22_104_172,547.0,550.0,pick up place mat
+P22_104_173,550.03,551.6,put down place mats
+P22_104_174,551.91,552.95,open drawer
+P22_104_175,552.75,554.58,pick up place mat
+P22_104_176,554.0,554.75,close drawer
+P22_104_177,556.9,557.81,put down place mats
+P22_104_178,561.46,562.08,turn on tap
+P22_104_179,562.97,564.73,shake hands
+P22_104_18,57.61,60.24,move bag
+P22_104_180,568.03,569.56,pick up plate
+P22_104_181,571.9,573.22,put down salad
+P22_104_182,575.04,577.39,open fridge
+P22_104_183,585.16,588.72,move object
+P22_104_184,587.8,590.22,move object
+P22_104_185,590.22,596.66,move objects
+P22_104_186,597.0,599.04,move objects
+P22_104_187,599.85,600.31,open drawer
+P22_104_188,600.41,600.9,close drawer
+P22_104_189,613.86,614.91,take fork
+P22_104_19,63.35,64.01,open drawer
+P22_104_190,615.45,617.21,pick up knife
+P22_104_191,617.61,618.48,pick up cutlery
+P22_104_192,621.41,622.23,put down cutlery
+P22_104_193,622.81,623.57,put down fork
+P22_104_194,624.68,625.83,put down knife
+P22_104_195,626.55,627.58,move plate
+P22_104_2,8.71,9.63,put down glass
+P22_104_20,64.18,64.81,close drawer
+P22_104_21,69.69,70.48,pick up jar
+P22_104_22,72.76,74.24,close fridge
+P22_104_23,76.9,77.78,open fridge
+P22_104_24,78.19,79.31,close fridge
+P22_104_25,79.42,80.24,pick up tomato
+P22_104_26,82.94,83.69,open drawer
+P22_104_27,84.41,85.02,pick up cutting board
+P22_104_28,85.12,85.72,put down cutting board
+P22_104_29,86.28,87.35,turn on light
+P22_104_3,13.24,13.83,move tap
+P22_104_30,88.79,89.25,turn on tap
+P22_104_31,95.11,95.7,pick up knife
+P22_104_32,95.74,122.04,cut tomato
+P22_104_33,121.39,122.05,move tomato
+P22_104_34,124.32,126.6,cut tomato
+P22_104_35,154.75,162.39,move tomato
+P22_104_36,156.0,162.44,cut tomato
+P22_104_37,159.03,161.69,move tomato
+P22_104_38,162.24,162.75,put down knife
+P22_104_39,164.72,165.37,pick up salad
+P22_104_4,13.93,17.27,turn on tap
+P22_104_40,168.22,168.97,open salad
+P22_104_41,168.77,170.34,put down salad
+P22_104_42,170.67,171.48,open cupboard
+P22_104_43,171.78,172.78,pick up bowl
+P22_104_44,173.79,174.48,put down bowl
+P22_104_45,176.46,176.96,put down bowl
+P22_104_46,178.45,179.8,pick up salad
+P22_104_47,181.09,181.72,put down salad
+P22_104_48,182.21,183.92,pick up salad
+P22_104_49,184.08,184.3,put down salad
+P22_104_5,16.58,18.17,pour soap
+P22_104_50,185.04,186.31,pick up salad
+P22_104_51,187.02,187.71,put down salad
+P22_104_52,187.78,188.79,move bowl
+P22_104_53,189.91,191.37,close salad
+P22_104_54,192.82,193.29,pick olives
+P22_104_55,194.22,196.58,put down olives
+P22_104_56,195.85,196.31,open drawer
+P22_104_57,196.34,197.73,pick up scissors
+P22_104_58,197.53,200.96,open olives
+P22_104_59,201.06,202.24,put down scissors
+P22_104_6,18.01,20.41,wash hands
+P22_104_60,201.81,208.47,pick olives
+P22_104_61,208.56,209.69,put down olives
+P22_104_62,210.74,211.33,move scissors
+P22_104_63,211.69,212.22,move tomato
+P22_104_64,212.82,214.36,put down olives
+P22_104_65,213.25,218.28,cut olives
+P22_104_66,218.0,221.17,remove olive stone
+P22_104_67,221.0,224.79,cut olives
+P22_104_68,224.76,225.39,remove olive stone
+P22_104_69,225.47,230.96,cut olives
+P22_104_7,22.0,26.08,pick up cloth
+P22_104_70,228.96,236.71,remove olive stone
+P22_104_71,230.8,231.91,put down knife
+P22_104_72,232.22,236.63,put down olive
+P22_104_73,238.12,238.65,pick up knife
+P22_104_74,238.95,241.3,cut olive
+P22_104_75,240.52,246.38,remove olive stone
+P22_104_76,247.2,251.61,cut olive
+P22_104_77,251.7,252.49,put down knife
+P22_104_78,252.18,252.76,pick up olive
+P22_104_79,252.84,256.5,remove olive stone
+P22_104_8,24.61,26.77,dry hands
+P22_104_80,256.42,257.01,put down olive
+P22_104_81,257.35,257.88,pick up knife
+P22_104_82,258.05,262.36,cut olive
+P22_104_83,262.46,263.23,put down knife
+P22_104_84,263.51,265.75,remove olive stone
+P22_104_85,268.36,269.05,pick up knife
+P22_104_86,269.44,270.24,cut olive
+P22_104_87,273.9,274.47,put down knife
+P22_104_88,274.64,276.37,remove olive stone
+P22_104_89,281.01,281.46,pick up knife
+P22_104_9,29.07,31.45,open fridge
+P22_104_90,282.46,283.59,cut olive
+P22_104_91,286.83,287.7,remove olive stone
+P22_104_92,289.43,292.15,cut olive
+P22_104_93,296.53,297.38,put down knife
+P22_104_94,297.48,299.28,remove olive stone
+P22_104_95,304.4,305.21,pick up olive
+P22_104_96,304.98,305.56,pick up knife
+P22_104_97,305.75,308.35,cut olive
+P22_104_98,308.44,309.03,put down knife
+P22_104_99,309.13,311.0,remove olive stone

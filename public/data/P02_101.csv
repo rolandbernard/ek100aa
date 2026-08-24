@@ -1,0 +1,111 @@
+P02_101_0,5.29,6.4,switch on coffee machine
+P02_101_1,6.98,8.88,pick coffee pod
+P02_101_10,19.73,20.63,close fridge
+P02_101_100,223.29,224.4,close tap
+P02_101_101,223.0,225.26,put knife in drainer
+P02_101_102,225.36,225.95,shake hands
+P02_101_103,227.1,229.4,dry hands with towel
+P02_101_104,227.79,232.86,pick up mug
+P02_101_105,232.96,234.0,put mug down
+P02_101_106,234.5,235.55,pick up jam and butter
+P02_101_107,236.95,238.61,open fridge
+P02_101_108,237.54,239.09,put butter
+P02_101_109,239.35,240.2,put jam
+P02_101_11,22.21,23.3,open milk
+P02_101_110,240.27,241.7,close fridge
+P02_101_12,23.51,25.94,pour milk
+P02_101_13,25.91,26.65,close milk
+P02_101_14,26.51,27.77,put down milk
+P02_101_15,27.85,28.68,press button
+P02_101_16,29.45,32.05,pick up milk
+P02_101_17,32.28,32.9,open fridge
+P02_101_18,33.23,34.24,put milk
+P02_101_19,34.24,35.35,close fridge
+P02_101_2,9.23,9.94,open coffee machine
+P02_101_20,38.74,43.06,pick up bread
+P02_101_21,43.12,47.53,open bread bag
+P02_101_22,47.87,49.48,pick up toast
+P02_101_23,53.44,54.18,open bin
+P02_101_24,54.23,54.73,throw bread
+P02_101_25,54.74,55.23,close bin
+P02_101_26,57.29,62.9,pick up toast
+P02_101_27,64.26,65.1,put bread in toaster
+P02_101_28,65.07,65.72,put bread in toaster
+P02_101_29,65.75,67.14,switch toaster on
+P02_101_3,10.02,10.4,place pod
+P02_101_30,67.95,72.45,close bag
+P02_101_31,71.29,73.08,put bread bag down
+P02_101_32,74.48,76.06,press button
+P02_101_33,78.37,80.36,pick up plate
+P02_101_34,80.98,81.99,put down plate
+P02_101_35,82.69,83.61,open drawer
+P02_101_36,83.66,85.1,pick up knife
+P02_101_37,85.0,85.82,close drawer
+P02_101_38,85.83,87.3,open fridge
+P02_101_39,88.14,89.05,pick up butter
+P02_101_4,10.49,11.78,close coffee machine
+P02_101_40,89.11,90.94,pick up jam
+P02_101_41,91.9,92.75,put jam
+P02_101_42,92.59,93.34,put butter
+P02_101_43,93.57,94.94,put knife
+P02_101_44,95.89,97.47,pick up stirrer
+P02_101_45,98.04,102.56,stir coffee
+P02_101_46,102.39,103.45,shake stirrer
+P02_101_47,104.68,106.16,open bin
+P02_101_48,105.46,105.98,throw stirrer
+P02_101_49,106.01,107.75,close bin
+P02_101_5,12.18,13.08,pick mug
+P02_101_50,109.73,111.92,open butter
+P02_101_51,112.02,112.72,pick up jam
+P02_101_52,112.65,119.76,open jam
+P02_101_53,120.15,121.84,put lid down
+P02_101_54,141.04,142.25,press button
+P02_101_55,143.37,144.2,pick up knife
+P02_101_56,143.92,144.57,pick up plate
+P02_101_57,144.67,146.2,pick up bread with knife
+P02_101_58,145.84,146.39,put bread in plate
+P02_101_59,146.49,148.42,pick up bread with knife
+P02_101_6,13.18,13.78,turn mug
+P02_101_60,148.18,149.79,put bread in plate
+P02_101_61,149.39,150.67,put plate down
+P02_101_62,150.72,151.46,hold butter
+P02_101_63,151.56,156.15,slice butter
+P02_101_64,157.09,158.11,put butter on bread
+P02_101_65,157.87,162.75,spread butter
+P02_101_66,162.21,164.62,move bread
+P02_101_67,164.72,165.42,hold butter
+P02_101_68,165.44,169.74,slice butter
+P02_101_69,169.54,171.64,put butter on bread
+P02_101_7,13.88,14.92,place mug
+P02_101_70,171.72,178.7,spread butter
+P02_101_71,178.66,179.96,scoop jam
+P02_101_72,179.65,181.24,pick up jam
+P02_101_73,180.24,181.66,put jam on bread
+P02_101_74,181.67,182.38,put jam on bread
+P02_101_75,182.72,183.97,scoop jam
+P02_101_76,183.44,186.61,put jam on bread
+P02_101_77,186.71,187.97,put jam down
+P02_101_78,186.98,187.99,pick up toast
+P02_101_79,187.91,192.58,spread jam and butter
+P02_101_8,17.7,18.56,open fridge
+P02_101_80,192.3,195.94,pick up toast
+P02_101_81,191.0,194.45,put down toast
+P02_101_82,194.55,200.28,spread jam and butter
+P02_101_83,200.23,200.88,put down toast
+P02_101_84,201.01,204.12,close butter
+P02_101_85,203.9,204.41,put butter down
+P02_101_86,204.51,205.24,pick up lid
+P02_101_87,205.75,207.03,close jam
+P02_101_88,208.86,211.47,open tap
+P02_101_89,209.77,211.43,wash knife
+P02_101_9,18.64,19.64,pick milk
+P02_101_90,211.17,212.34,close tap
+P02_101_91,210.0,212.54,pick up sponge
+P02_101_92,212.5,214.72,wash sponge
+P02_101_93,214.61,215.47,pick up washing liquid
+P02_101_94,215.57,216.75,pour washing liquid on sponge
+P02_101_95,216.7,217.36,put washing liquid down
+P02_101_96,218.12,220.25,clean knife
+P02_101_97,220.16,220.85,put sponge down
+P02_101_98,220.95,222.42,open tap
+P02_101_99,222.52,223.81,wash knife

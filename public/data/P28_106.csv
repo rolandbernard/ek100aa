@@ -1,0 +1,46 @@
+P28_106_0,2.8,4.3,take pan
+P28_106_1,5.28,7.59,put pan
+P28_106_10,54.11,56.79,open fridge
+P28_106_11,56.47,59.29,take butter
+P28_106_12,59.08,61.45,take tortellini
+P28_106_13,62.27,62.97,put tortellini
+P28_106_14,63.0,64.02,put butter
+P28_106_15,65.09,70.38,move blueberries
+P28_106_16,71.02,72.62,take parmesan
+P28_106_17,73.36,75.84,close fridge
+P28_106_18,76.92,78.22,put parmesan
+P28_106_19,79.3,79.94,take sponge
+P28_106_2,8.14,13.2,open window
+P28_106_20,80.87,88.99,wipe counter
+P28_106_21,90.66,91.08,put sponge
+P28_106_22,92.41,93.52,open cupboard
+P28_106_23,93.96,94.39,take grater
+P28_106_24,94.66,95.97,close cupboard
+P28_106_25,96.25,97.11,put grater
+P28_106_26,100.45,101.89,open cupboard
+P28_106_27,103.24,109.8,take colander
+P28_106_28,109.56,110.96,close cupboard
+P28_106_29,112.03,113.09,put colander
+P28_106_3,16.05,17.55,take kettle
+P28_106_30,114.54,115.78,open drawer
+P28_106_31,115.64,119.24,take knife
+P28_106_32,119.27,120.14,close drawer
+P28_106_33,121.27,126.08,open package
+P28_106_34,127.29,128.13,open drawer
+P28_106_35,127.98,129.36,put knife
+P28_106_36,129.13,129.88,close drawer
+P28_106_37,134.09,149.09,remove plastic-lid from package
+P28_106_38,159.35,160.35,throw plastic-lid
+P28_106_39,169.24,170.7,move tortellini
+P28_106_4,19.11,21.56,turn-on oven
+P28_106_40,174.05,175.3,take dish
+P28_106_41,177.15,177.91,open drawer
+P28_106_42,178.75,179.71,take fork
+P28_106_43,180.14,180.73,close drawer
+P28_106_44,182.71,184.67,put dish
+P28_106_45,184.76,186.37,put fork
+P28_106_5,21.33,28.98,pour water in pan
+P28_106_6,29.0,33.66,put kettle
+P28_106_7,34.21,37.93,take kettle
+P28_106_8,37.64,47.52,pour water in pan
+P28_106_9,48.4,51.15,put kettle

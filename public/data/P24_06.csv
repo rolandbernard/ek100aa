@@ -1,0 +1,103 @@
+P24_06_0,0.5,1.5,open tap
+P24_06_1,2.85,4.84,grab spoon
+P24_06_10,32.83,41.11,lather lid
+P24_06_100,534.58,539.12,rinse sponge
+P24_06_101,539.0,544.86,clean sink
+P24_06_102,560.53,561.44,close tap
+P24_06_11,42.64,54.4,rinse lid
+P24_06_12,48.0,58.51,put down lid
+P24_06_13,56.16,57.22,open door
+P24_06_14,60.45,61.19,close door
+P24_06_15,61.94,62.66,take saucepan
+P24_06_16,62.68,69.46,empty saucepan
+P24_06_17,70.15,72.65,take something
+P24_06_18,72.2,74.81,take colander
+P24_06_19,75.92,76.65,take bowl
+P24_06_2,5.56,10.83,rinse spoon
+P24_06_20,80.89,112.04,wash bowl
+P24_06_21,112.15,128.37,rinse salad bowl
+P24_06_22,117.63,124.46,rinse salad bowl
+P24_06_23,144.2,148.15,pick up pot
+P24_06_24,147.75,150.45,put down pot
+P24_06_25,150.68,152.3,pick up colander
+P24_06_26,152.84,154.83,put down colander
+P24_06_27,155.62,167.24,rinse salad bowl
+P24_06_28,169.05,169.81,open door
+P24_06_29,170.19,171.68,put down salad bowl
+P24_06_3,8.06,14.79,lather spoon
+P24_06_30,171.95,173.03,close door
+P24_06_31,173.79,174.67,take sponge
+P24_06_32,175.2,176.85,rinse sponge
+P24_06_33,176.13,192.38,wash colander
+P24_06_34,192.16,193.61,take washing up liquid
+P24_06_35,193.71,195.59,pour washing up liquid onto sponge
+P24_06_36,197.28,198.8,turn off tap
+P24_06_37,199.06,204.58,wash colander
+P24_06_38,204.68,205.57,put down sponge
+P24_06_39,205.67,206.86,turn on tap
+P24_06_4,15.93,21.86,rinse spoon
+P24_06_40,207.05,225.89,rinse colander
+P24_06_41,226.1,226.8,turn off tap
+P24_06_42,227.68,228.69,open door
+P24_06_43,228.26,231.45,put down colander
+P24_06_44,230.51,232.79,close door
+P24_06_45,232.89,234.19,take plate
+P24_06_46,234.29,243.56,wash plate
+P24_06_47,241.18,244.38,pick up coffee cup
+P24_06_48,244.42,251.69,soap coffee cup
+P24_06_49,251.16,251.98,put coffee cup
+P24_06_5,22.24,23.02,put down down spoon
+P24_06_50,252.18,253.38,pick up fork
+P24_06_51,252.29,253.7,pick up fork
+P24_06_52,252.93,257.6,soap fork
+P24_06_53,253.23,257.61,soap fork
+P24_06_54,257.46,259.22,put fork
+P24_06_55,257.57,258.62,put fork
+P24_06_56,268.65,270.28,pick up coffee cup
+P24_06_57,269.63,273.11,rinse coffee cup
+P24_06_58,279.36,280.75,put coffee cup
+P24_06_59,282.49,283.7,open doors
+P24_06_6,24.1,25.01,grab ladle
+P24_06_60,283.77,285.8,pick up chopping board
+P24_06_61,285.83,288.27,put chopping board
+P24_06_62,288.37,292.42,pick up lid and box
+P24_06_63,291.95,293.79,put lid and box
+P24_06_64,296.71,297.91,grab fork
+P24_06_65,299.1,301.85,rinse fork
+P24_06_66,304.23,305.37,grab fork
+P24_06_67,305.21,307.53,rinse fork
+P24_06_68,309.92,311.09,grab plate
+P24_06_69,311.19,315.57,rinse plate
+P24_06_7,25.99,26.61,grab lid
+P24_06_70,315.82,318.7,put plate down
+P24_06_71,318.92,320.33,grab ladle
+P24_06_72,321.2,336.64,lather ladle
+P24_06_73,337.15,347.03,rinse ladle
+P24_06_74,348.01,350.21,put down ladle
+P24_06_75,351.92,353.15,pick up pot
+P24_06_76,353.16,364.81,rinse pot
+P24_06_77,364.91,366.14,empty pot
+P24_06_78,370.79,390.94,lather pot
+P24_06_79,395.65,418.82,rinse pot
+P24_06_8,26.44,27.24,put down down ladle
+P24_06_80,418.68,420.43,put pot
+P24_06_81,420.09,421.59,close tap
+P24_06_82,421.65,424.58,pick up sink cap
+P24_06_83,421.91,431.32,clean sink cap
+P24_06_84,441.78,446.47,rinse sink cap
+P24_06_85,447.94,449.09,put sink cap
+P24_06_86,451.81,453.18,take pan
+P24_06_87,454.11,462.26,rinse pan
+P24_06_88,463.28,463.99,take sponge
+P24_06_89,464.37,480.73,wash pan
+P24_06_9,30.74,32.22,rinse lid
+P24_06_90,480.83,483.62,rinse sponge
+P24_06_91,483.72,495.46,rinse pan
+P24_06_92,497.44,499.03,put down pan
+P24_06_93,500.81,503.44,rinse sponge
+P24_06_94,503.11,506.26,wash sink
+P24_06_95,506.36,509.86,rinse sponge
+P24_06_96,509.96,510.77,turn off tap
+P24_06_97,512.85,520.98,clean sink
+P24_06_98,521.08,525.08,rinse sponge
+P24_06_99,525.18,534.81,clean sink

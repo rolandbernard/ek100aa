@@ -1,0 +1,126 @@
+P20_05_0,1.54,2.51,pick up fork
+P20_05_1,2.05,3.56,pick up bowls
+P20_05_10,23.7,25.76,put down bowl
+P20_05_100,380.45,381.11,pick up knife
+P20_05_101,381.4,386.65,wipe knife with rag
+P20_05_102,386.63,387.71,put down rag
+P20_05_103,388.35,389.76,open dishwasher
+P20_05_104,389.69,391.29,open dishwasher drawer
+P20_05_105,392.36,393.46,put down knife
+P20_05_106,394.65,395.49,close drawer
+P20_05_107,394.94,396.23,close dishwasher
+P20_05_108,396.64,397.62,pick up rag
+P20_05_109,397.74,400.4,pick up chopping board
+P20_05_11,27.86,29.1,pick up grater
+P20_05_110,400.47,403.38,wipe chopping board with rag
+P20_05_111,404.76,407.93,put down chopping board
+P20_05_112,412.23,414.14,turn on tap
+P20_05_113,414.54,418.86,rinse hands
+P20_05_114,419.45,420.32,turn off tap
+P20_05_115,423.07,425.18,pick up glasses
+P20_05_116,426.41,440.77,rinse glasses
+P20_05_117,426.56,433.61,rinse glass
+P20_05_118,432.86,434.56,put down glass
+P20_05_119,434.36,435.14,pick up glass
+P20_05_12,29.33,37.09,rinse grater
+P20_05_120,435.08,440.98,rinse glass
+P20_05_121,449.97,450.83,open drawer
+P20_05_122,450.34,451.91,put down glass
+P20_05_123,451.49,453.07,pick up glass
+P20_05_124,453.04,456.84,put down glasses
+P20_05_125,459.5,462.87,wipe counter with rag
+P20_05_13,37.5,48.23,wipe grater with rag
+P20_05_14,55.12,57.49,rinse grater
+P20_05_15,57.66,59.68,put down grater
+P20_05_16,61.29,62.23,pick up bowl
+P20_05_17,64.62,65.82,wipe bowl with rag
+P20_05_18,70.32,73.57,still wiping bowl with rag
+P20_05_19,75.55,79.25,put down bowl
+P20_05_2,3.6,5.44,put down bowls
+P20_05_20,79.35,80.72,pick up fork
+P20_05_21,80.82,86.35,wipe fork with rag
+P20_05_22,90.94,92.33,put down fork
+P20_05_23,92.16,93.57,pick up bowl
+P20_05_24,94.37,95.68,pick up washing up liquid
+P20_05_25,96.04,98.02,squirt washing up liquid
+P20_05_26,98.12,104.32,wash bowl with rag
+P20_05_27,102.65,112.29,still washing bowl with rag
+P20_05_28,114.76,115.91,put down bowl
+P20_05_29,116.57,117.5,pick up bowl
+P20_05_3,5.48,6.18,put down fork
+P20_05_30,117.41,119.57,rinse bowl
+P20_05_31,119.02,130.84,wash bowl with rag
+P20_05_32,130.01,132.6,put down bowl
+P20_05_33,133.45,134.6,pick up spatula
+P20_05_34,135.38,141.78,wipe spatula with rag
+P20_05_35,138.54,147.38,still wiping spatula with rag
+P20_05_36,146.72,150.89,put down spatula
+P20_05_37,152.92,153.84,pick up spatula
+P20_05_38,157.96,158.97,put down spatula
+P20_05_39,159.03,159.87,pick up bowl
+P20_05_4,9.61,10.47,put down bowl
+P20_05_40,160.51,169.48,wipe bowl with rag
+P20_05_41,169.74,172.75,put down bowl
+P20_05_42,173.0,173.76,pick up frying pan
+P20_05_43,174.42,177.06,rinse frying pan
+P20_05_44,177.2,183.25,wipe frying pan with rag
+P20_05_45,185.46,186.53,pick up washing up liquid
+P20_05_46,186.63,189.65,squirt washing up liquid
+P20_05_47,191.27,198.88,wash frying pan
+P20_05_48,198.98,203.89,wash frying pan
+P20_05_49,203.03,212.19,still washing frying pan
+P20_05_5,12.48,13.14,pick up bowl
+P20_05_50,203.99,209.73,still washing frying pan
+P20_05_51,212.71,214.16,turn off tap
+P20_05_52,215.0,221.18,wipe frying pan with rag
+P20_05_53,221.69,223.03,open drawer
+P20_05_54,222.93,225.88,put down frying pan
+P20_05_55,228.0,239.33,pick up spatula
+P20_05_56,230.23,235.48,wipe counter with rag
+P20_05_57,235.2,238.83,still wiping counter with rag
+P20_05_58,239.43,242.53,put down spatula
+P20_05_59,242.96,244.28,pick up fork
+P20_05_6,13.68,16.36,pick up tissue
+P20_05_60,245.99,247.04,open dishwasher
+P20_05_61,247.14,248.85,open dishwasher drawer
+P20_05_62,248.95,249.72,put down fork
+P20_05_63,249.68,250.91,close dishwasher
+P20_05_64,251.56,254.82,pick up bowls
+P20_05_65,253.73,262.01,stack bowls
+P20_05_66,263.52,265.63,open drawer
+P20_05_67,264.67,267.35,put bowls
+P20_05_68,267.69,268.63,close drawer
+P20_05_69,268.86,269.76,pick up bowl
+P20_05_7,15.76,20.4,wipe bowl with tissue
+P20_05_70,271.5,273.3,open drawer
+P20_05_71,273.49,274.66,put bowl
+P20_05_72,275.22,276.35,put grater
+P20_05_73,276.33,277.89,close drawer
+P20_05_74,279.02,283.23,wipe counter with rag
+P20_05_75,285.78,289.13,pick up knives
+P20_05_76,288.61,289.64,pick up chopping board
+P20_05_77,300.9,302.24,put down chopping board
+P20_05_78,301.9,302.53,put down knives
+P20_05_79,303.83,309.58,move bin
+P20_05_8,20.26,20.95,put tissue in bin
+P20_05_80,309.41,311.09,turn on tap
+P20_05_81,310.69,312.99,rinse hands
+P20_05_82,313.34,314.47,pick up knife
+P20_05_83,314.13,318.98,wipe knife with rag
+P20_05_84,327.04,328.1,pick up knife
+P20_05_85,328.2,331.99,wipe knife with rag
+P20_05_86,336.65,337.71,pick up chopping board
+P20_05_87,336.95,342.05,rinse chopping board
+P20_05_88,342.15,343.13,put down chopping board
+P20_05_89,343.23,347.78,wipe chopping board with rag
+P20_05_9,21.83,23.64,turn on tap
+P20_05_90,347.88,349.28,put down knives
+P20_05_91,350.3,354.48,wipe knife
+P20_05_92,354.58,355.54,turn off tap
+P20_05_93,356.16,357.54,pick up knife
+P20_05_94,357.53,371.3,wipe knife with rag
+P20_05_95,371.48,373.98,open dishwasher
+P20_05_96,373.72,375.57,open dishwasher drawer
+P20_05_97,376.9,377.71,put down knife
+P20_05_98,377.82,378.6,close drawer
+P20_05_99,378.61,379.32,close dishwasher

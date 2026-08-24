@@ -1,0 +1,113 @@
+P12_04_0,1.23,3.97,enter kitchen
+P12_04_1,3.94,5.78,carry bag
+P12_04_10,56.81,59.86,open package
+P12_04_100,1624.75,1630.16,dish frying pan
+P12_04_101,1630.0,1681.19,wash frying pan
+P12_04_102,1707.08,1710.21,put mug in dishwasher
+P12_04_103,1717.41,1728.29,take garbage from sink
+P12_04_104,1718.52,1734.33,take garbage from sink
+P12_04_105,1728.32,1732.78,put garbage in garbage bin
+P12_04_106,1729.41,1733.41,put garbage in garbage bin
+P12_04_107,1772.29,1773.75,wash hands
+P12_04_108,1777.6,1790.57,wash table
+P12_04_109,1814.64,1817.02,put salt
+P12_04_11,60.03,62.6,wash hands
+P12_04_110,1819.39,1879.33,clean dust
+P12_04_111,1896.15,1899.53,throw away garbage
+P12_04_112,1903.2,1904.49,wash hands
+P12_04_113,1904.74,1910.33,dry hands
+P12_04_114,1906.24,1911.23,stop
+P12_04_12,64.15,66.05,take cheese
+P12_04_13,65.92,69.64,wash hands
+P12_04_14,74.62,76.43,open package
+P12_04_15,76.92,78.16,wash hands
+P12_04_16,83.65,84.55,turn off water
+P12_04_17,108.64,115.49,slice cheese
+P12_04_18,113.9,122.25,slicing cheese
+P12_04_19,126.01,128.33,wash hands
+P12_04_20,130.11,131.25,dry hands
+P12_04_21,133.52,134.19,take spoon
+P12_04_22,134.86,136.33,wash spoon
+P12_04_23,143.42,145.63,take lid off frying pan
+P12_04_24,149.6,151.19,start fan
+P12_04_25,154.18,163.63,put minced meat in form
+P12_04_26,165.79,181.53,distribute minced meat
+P12_04_27,208.03,222.74,distributing minced meat
+P12_04_28,223.72,229.74,take pasta plates
+P12_04_29,230.34,238.63,put on minced meats
+P12_04_3,9.58,11.71,take cheese
+P12_04_30,243.04,263.41,separate lasagne plates
+P12_04_31,263.51,299.18,put lasagne plates on minced meat
+P12_04_32,264.04,267.54,take lasagne plate
+P12_04_33,316.86,328.87,pour cheese mixture on pasta
+P12_04_34,327.55,378.28,distribute cheese mixture
+P12_04_35,378.61,381.32,take cheese
+P12_04_36,381.42,414.92,put on cheese mixture
+P12_04_37,606.75,607.31,distribute minced meat
+P12_04_38,656.0,656.54,take cheese
+P12_04_39,656.64,658.39,distribute cheese
+P12_04_4,20.28,25.51,throw away plastic bag
+P12_04_40,658.49,659.99,take pasta plate
+P12_04_41,660.09,661.59,distribute pasta plate
+P12_04_42,661.69,668.55,cut pasta plate
+P12_04_43,663.59,666.75,cutting pasta plate
+P12_04_44,696.61,713.79,trying to separate pasta plates
+P12_04_45,757.2,760.26,separating pasta plates
+P12_04_46,762.04,767.27,separating pasta plates
+P12_04_47,765.99,796.51,distribute pasta plates
+P12_04_48,797.35,801.02,wash hands
+P12_04_49,820.64,837.33,pour cheese mixture
+P12_04_5,26.86,28.67,take bottle
+P12_04_50,839.02,878.24,distribute cheese mixture
+P12_04_51,888.81,951.96,distribute cheese
+P12_04_52,955.87,958.91,wash hands
+P12_04_53,962.37,986.37,distribute mincemeat
+P12_04_54,988.93,1020.32,distributing mincemeat
+P12_04_55,1062.32,1071.53,distribute cheese
+P12_04_56,1125.59,1130.4,take basil
+P12_04_57,1130.5,1162.37,distribute basil
+P12_04_58,1144.67,1199.5,distributing basil
+P12_04_59,1199.6,1206.91,wash hands
+P12_04_6,29.0,33.57,put bottle in fridge
+P12_04_60,1206.98,1212.11,dry hands
+P12_04_61,1213.83,1247.79,open package
+P12_04_62,1241.22,1255.23,prepare roll of foil
+P12_04_63,1245.78,1254.11,take foil
+P12_04_64,1255.09,1273.95,rip foil
+P12_04_65,1305.33,1342.02,apply foil
+P12_04_66,1364.33,1376.39,put in oven
+P12_04_67,1377.16,1380.56,close oven
+P12_04_68,1382.26,1384.31,take knife
+P12_04_69,1384.2,1387.77,take plates
+P12_04_70,1386.81,1395.4,take dirty dishes
+P12_04_71,1395.42,1417.67,wash dishes
+P12_04_72,1397.17,1401.97,wash dishes
+P12_04_73,1419.24,1427.38,put dishes in dishwasher
+P12_04_74,1419.74,1427.67,put in dishwasher
+P12_04_75,1422.21,1429.74,put in dishwasher
+P12_04_76,1440.6,1453.76,put spoon in dishwasher
+P12_04_77,1458.33,1460.51,put knife in dishwasher
+P12_04_78,1460.91,1462.49,put spoon in dishwasher
+P12_04_79,1472.72,1474.52,wash hands
+P12_04_8,40.73,43.39,put items in drawer
+P12_04_80,1474.62,1481.14,wash plate
+P12_04_81,1481.24,1482.69,put plate in dishwasher
+P12_04_82,1482.79,1484.85,wash hands
+P12_04_83,1487.08,1488.63,take spoon
+P12_04_84,1493.68,1498.8,put spoon in dishwasher
+P12_04_85,1494.97,1497.32,wash spoon
+P12_04_86,1499.15,1500.52,open drawer
+P12_04_87,1500.44,1502.19,take plate
+P12_04_88,1509.0,1532.82,put chopped cucumber on plate
+P12_04_89,1534.64,1536.39,take olive oil
+P12_04_9,46.05,49.14,take knife
+P12_04_90,1537.5,1543.47,apply olive oil
+P12_04_91,1546.93,1548.67,take cutting board
+P12_04_92,1549.48,1558.46,remove trash from floor
+P12_04_93,1560.79,1566.72,wash cutting board
+P12_04_94,1567.2,1573.93,put cutting board in dishwasher
+P12_04_95,1575.62,1576.45,wash hands
+P12_04_96,1576.75,1581.62,put grinder in dishwasher
+P12_04_97,1599.19,1602.11,wash frying pan
+P12_04_98,1604.1,1606.61,put in dishwasher
+P12_04_99,1617.82,1692.57,wash frying pan

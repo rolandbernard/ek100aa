@@ -1,0 +1,152 @@
+P25_05_0,0.97,3.34,open tap
+P25_05_1,5.84,7.33,open door
+P25_05_10,97.18,100.01,put down pot
+P25_05_100,968.76,970.54,put down sausage
+P25_05_101,988.07,990.77,put down fork and knife
+P25_05_102,990.72,992.23,pick up salad
+P25_05_103,992.9,994.54,put down salad
+P25_05_104,997.2,999.09,pick up pan
+P25_05_105,999.8,1025.21,wash pan
+P25_05_106,1025.81,1031.45,pick up sponge
+P25_05_107,1033.43,1036.03,open door
+P25_05_108,1036.11,1037.63,pick up detergent
+P25_05_109,1039.15,1056.65,put on detergent
+P25_05_11,101.23,102.91,put down cloth
+P25_05_110,1067.61,1075.3,close tap
+P25_05_111,1075.11,1091.91,lather pan
+P25_05_112,1083.77,1084.58,open tap
+P25_05_113,1102.67,1104.53,pick up detergent
+P25_05_114,1104.57,1108.0,put on detergent
+P25_05_115,1109.23,1110.92,pick up pan
+P25_05_116,1114.84,1136.76,lather pan
+P25_05_117,1137.8,1166.27,put on water
+P25_05_118,1165.41,1168.31,put down pan
+P25_05_119,1170.82,1171.98,pick up sponge
+P25_05_12,103.81,106.72,turn on gas
+P25_05_120,1173.16,1174.6,put on detergent
+P25_05_121,1175.77,1177.34,pick up knife
+P25_05_122,1177.55,1186.08,clean knife
+P25_05_123,1188.24,1188.95,put down knife
+P25_05_124,1189.86,1191.19,pick up fork
+P25_05_125,1190.18,1194.96,clean fork
+P25_05_126,1197.3,1198.22,put down fork
+P25_05_127,1198.99,1199.92,pick up fork
+P25_05_128,1199.59,1208.1,clean fork
+P25_05_129,1209.89,1210.71,put down fork
+P25_05_13,108.49,109.7,open drawer
+P25_05_130,1211.12,1212.3,pick up knife
+P25_05_131,1212.4,1221.05,clean knife
+P25_05_132,1221.05,1223.11,put down knife
+P25_05_133,1254.8,1259.84,take degreaser
+P25_05_134,1260.28,1262.6,spray degreaser
+P25_05_135,1267.98,1269.23,open door
+P25_05_136,1268.99,1276.2,take dish
+P25_05_137,1276.61,1278.54,cover sausage
+P25_05_138,1278.77,1282.27,place dish
+P25_05_139,1286.76,1296.61,spray degreaser
+P25_05_14,109.78,111.32,pick up lighter
+P25_05_140,1298.38,1299.56,take cloth
+P25_05_141,1299.66,1303.42,wash cloth
+P25_05_142,1312.16,1332.4,clean kitchen
+P25_05_143,1332.98,1358.49,rinse piece
+P25_05_144,1360.49,1399.17,clean cooker
+P25_05_145,1398.86,1406.12,rinse cloth
+P25_05_146,1406.69,1407.46,close tap
+P25_05_147,1409.31,1409.85,open tap
+P25_05_148,1410.55,1414.57,rinse cloth
+P25_05_149,1421.34,1462.06,clean cooker
+P25_05_15,127.74,129.81,put down detergent
+P25_05_150,1463.23,1464.96,pick up sponge
+P25_05_151,1485.67,1489.61,pick up napkin
+P25_05_16,146.29,151.89,pick up napkins
+P25_05_17,168.89,170.98,open door
+P25_05_18,173.18,178.05,pick up plate
+P25_05_19,181.02,182.99,close tap
+P25_05_2,7.41,14.83,pick up pan
+P25_05_20,183.01,183.94,open tap
+P25_05_21,190.46,194.43,pick up sausage
+P25_05_22,195.55,199.66,put down sausage
+P25_05_23,203.36,205.64,pick up sausage
+P25_05_24,206.92,214.46,put down sausage
+P25_05_25,214.79,215.74,open drawer
+P25_05_26,216.74,219.61,pick up fork and knife
+P25_05_27,220.97,224.04,pick up napkin
+P25_05_28,224.59,226.63,put down fork
+P25_05_29,234.36,238.61,pick up sausage
+P25_05_3,18.84,21.08,put down pan
+P25_05_30,238.72,245.14,put down sausage
+P25_05_31,278.04,281.08,pick up paper
+P25_05_32,285.8,290.12,throw away paper
+P25_05_33,293.96,295.06,turn tap off
+P25_05_34,295.16,296.18,turn tap on
+P25_05_35,295.99,297.94,wash hands
+P25_05_36,303.68,304.29,take paper
+P25_05_37,305.46,307.59,throw paper
+P25_05_38,310.32,311.42,open cupboard
+P25_05_39,311.32,314.36,take box
+P25_05_4,20.75,22.12,open door
+P25_05_40,317.61,318.74,put box
+P25_05_41,320.04,322.07,take plate
+P25_05_42,321.7,324.5,put plate
+P25_05_43,329.36,330.76,take sponge
+P25_05_44,331.8,333.17,open cupboard
+P25_05_45,334.26,335.68,take detergent
+P25_05_46,337.12,338.66,put detergent
+P25_05_47,343.63,362.51,lather box
+P25_05_48,363.09,382.04,wash box
+P25_05_49,382.9,384.57,turn tap off
+P25_05_5,22.53,24.85,pick up detergent
+P25_05_50,385.53,386.52,turn light on
+P25_05_51,394.27,399.18,put detergent
+P25_05_52,400.47,401.19,open drawer
+P25_05_53,401.99,406.5,take napkin
+P25_05_54,412.67,415.88,dry box off
+P25_05_55,419.42,421.24,take salad
+P25_05_56,424.06,428.62,open salad
+P25_05_57,430.92,435.12,put salad
+P25_05_58,439.28,442.87,open mushrooms
+P25_05_59,442.97,454.0,put mushrooms
+P25_05_6,27.05,30.02,pick up sponge
+P25_05_60,454.63,456.07,take box
+P25_05_61,457.45,459.68,throw box
+P25_05_62,462.24,463.08,turn tap on
+P25_05_63,465.24,468.31,wash salad
+P25_05_64,468.41,471.44,take napkins
+P25_05_65,479.65,484.02,throw napkins
+P25_05_66,484.46,485.48,open drawer
+P25_05_67,486.22,488.15,take fork
+P25_05_68,491.28,556.12,turn sausage
+P25_05_69,564.15,566.95,turn tap off
+P25_05_7,29.82,31.56,put on detergent
+P25_05_70,611.91,614.06,turn tap on
+P25_05_71,617.66,624.37,mix salad
+P25_05_72,631.97,639.22,throw water
+P25_05_73,653.61,656.14,take napkins
+P25_05_74,656.76,659.44,dry hands off
+P25_05_75,662.84,666.87,throw napkins
+P25_05_76,691.65,692.4,open cupboard
+P25_05_77,693.12,694.53,close cupboard
+P25_05_78,698.97,702.61,open cupboard
+P25_05_79,702.71,705.01,take oil
+P25_05_8,35.4,84.86,wash pan
+P25_05_80,710.23,718.33,put oil
+P25_05_81,723.89,725.07,put down oil
+P25_05_82,724.38,725.69,pick up fork
+P25_05_83,728.48,760.57,take out sausage
+P25_05_84,828.66,831.43,put down fork
+P25_05_85,831.81,833.17,open door
+P25_05_86,833.19,839.5,pick up salt
+P25_05_87,843.67,844.41,close door
+P25_05_88,849.23,850.45,open drawer
+P25_05_89,850.94,852.1,close drawer
+P25_05_9,84.94,95.74,dry pot
+P25_05_90,853.42,869.9,turn sausage
+P25_05_91,928.24,931.03,pick up napkins
+P25_05_92,934.74,937.2,throw away napkins
+P25_05_93,942.51,944.02,open drawer
+P25_05_94,944.12,946.84,pick up spoons
+P25_05_95,949.16,950.61,open tap
+P25_05_96,950.05,952.34,wash spoons
+P25_05_97,952.44,957.58,mix salad
+P25_05_98,957.09,958.71,close tap
+P25_05_99,967.04,968.83,pick up sausage

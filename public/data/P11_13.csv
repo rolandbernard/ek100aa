@@ -1,0 +1,24 @@
+P11_13_0,0.88,3.12,open fridge
+P11_13_1,3.74,5.36,pick up milk
+P11_13_10,25.54,26.19,put down milk
+P11_13_11,26.04,26.85,pick up milk
+P11_13_12,26.74,29.07,open milk
+P11_13_13,32.06,34.87,throw lid in bin
+P11_13_14,35.66,39.31,pour milk in bowl
+P11_13_15,39.36,41.35,put lid on milk
+P11_13_16,41.76,43.32,put milk away
+P11_13_17,45.38,46.47,pick up spoon
+P11_13_18,47.61,48.54,put spoon in bowl
+P11_13_19,49.2,51.26,pick up cereal
+P11_13_2,6.52,8.12,take out milk
+P11_13_20,51.25,55.74,pour cereal in bowl
+P11_13_21,56.06,58.98,put down cereal
+P11_13_22,59.56,60.65,pick up bowl
+P11_13_23,60.76,62.14,put down bowl
+P11_13_3,9.95,11.63,put milk in fridge
+P11_13_4,11.62,12.75,close fridge
+P11_13_5,15.86,17.15,pick up bowl
+P11_13_6,17.0,17.63,close cupboard door
+P11_13_7,20.42,21.08,pick up milk
+P11_13_8,22.23,23.96,pour milk in bowl
+P11_13_9,24.06,25.44,put lid on milk

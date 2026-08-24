@@ -1,0 +1,329 @@
+P01_01_0,0.14,3.37,open door
+P01_01_1,4.37,6.17,turn on light
+P01_01_10,24.97,26.2,open drawer
+P01_01_100,479.75,480.88,take cup
+P01_01_101,481.47,482.21,open cupboard
+P01_01_102,482.13,483.0,put cup into cupboard
+P01_01_103,485.22,487.21,take container and lid
+P01_01_104,488.38,489.12,put container on top of counter
+P01_01_105,492.0,492.74,open container
+P01_01_106,493.22,494.37,put container inside container
+P01_01_107,495.8,496.99,close lid
+P01_01_108,499.64,500.6,put container in cupboard
+P01_01_109,502.35,503.31,take plate
+P01_01_11,29.22,31.32,close fridge
+P01_01_110,504.66,507.92,put plate down
+P01_01_111,508.16,509.94,open drawer
+P01_01_112,509.29,511.54,take something
+P01_01_113,512.66,514.43,put down something
+P01_01_114,516.81,518.05,open drawer
+P01_01_115,517.88,519.13,take fork
+P01_01_116,519.34,520.25,put down fork
+P01_01_117,521.19,522.08,take spatula
+P01_01_118,521.92,528.56,stir vegetables
+P01_01_12,36.68,37.78,put down vegetables
+P01_01_120,542.04,542.98,take container
+P01_01_121,546.39,547.42,open fridge
+P01_01_122,547.4,549.01,put container into fridge
+P01_01_123,549.28,550.03,close fridge
+P01_01_124,553.41,554.49,take spatula
+P01_01_125,554.66,558.5,stir vegetables
+P01_01_126,561.12,562.32,take grater
+P01_01_127,561.12,562.52,take grater
+P01_01_128,562.08,562.81,take carrots
+P01_01_129,564.25,568.84,cut carrots
+P01_01_13,41.79,42.55,open cupboard
+P01_01_130,569.18,571.02,drop grater
+P01_01_131,574.42,586.92,grate carrots
+P01_01_132,587.02,595.58,still grating carrots
+P01_01_133,590.29,600.72,still grating carrot
+P01_01_134,602.19,638.99,still grating carrot
+P01_01_135,639.51,640.27,put down grater
+P01_01_136,641.81,642.83,throw carrot into bin
+P01_01_137,644.49,645.33,take grater
+P01_01_138,649.68,650.77,put down grater
+P01_01_139,652.77,653.83,throw carrot into bin
+P01_01_14,43.2,46.64,take cutting board
+P01_01_140,654.75,655.75,take spatula
+P01_01_141,655.73,660.95,stir vegetables
+P01_01_142,662.55,663.55,open cupboard
+P01_01_143,663.55,665.3,take saucepan
+P01_01_144,667.31,674.16,put down saucepan
+P01_01_145,675.0,676.99,turn hob
+P01_01_146,679.51,682.29,take kettle
+P01_01_147,683.41,697.36,pour water into saucepan
+P01_01_148,686.55,691.55,see boiling water
+P01_01_149,699.07,701.91,put down kettle
+P01_01_15,46.45,47.81,put down cutting board
+P01_01_150,703.86,705.41,take olive oil
+P01_01_151,707.88,713.08,pour oil
+P01_01_152,713.14,716.39,close oil
+P01_01_153,716.49,717.82,put down oil
+P01_01_154,717.92,718.8,take spatula
+P01_01_155,719.03,720.04,take cutting board with onion
+P01_01_156,720.45,722.38,pouring onion
+P01_01_157,722.45,723.55,put down cutting board
+P01_01_158,723.7,731.48,stir vegetables
+P01_01_159,730.37,750.08,still stirring vegetables
+P01_01_16,47.75,48.76,close cupboard
+P01_01_160,750.39,751.52,take salt
+P01_01_161,751.62,753.15,open salt
+P01_01_162,752.75,754.0,put down salt
+P01_01_163,753.09,754.49,open drawer
+P01_01_164,754.95,756.7,take spoon
+P01_01_165,757.8,761.59,pour salt onto spoon
+P01_01_166,762.15,763.65,pour salt into water
+P01_01_167,762.73,764.37,stir water
+P01_01_168,764.91,765.76,close salt
+P01_01_169,766.1,766.78,put down spoon
+P01_01_17,51.66,53.0,open drawer
+P01_01_170,767.5,769.4,put down salt
+P01_01_171,769.54,770.27,take spatula
+P01_01_172,770.26,771.32,stir vegetables
+P01_01_173,771.4,772.66,adjust hob
+P01_01_174,774.72,808.26,stir vegetables
+P01_01_175,775.67,781.63,still stirring vegetables
+P01_01_176,789.33,819.66,still stirring vegetables
+P01_01_177,819.54,820.87,put down spatula
+P01_01_178,821.22,822.41,open cupboard
+P01_01_179,822.41,825.17,take something
+P01_01_18,53.5,56.0,take knife
+P01_01_180,824.28,825.77,put down something
+P01_01_181,826.91,828.61,take rice
+P01_01_182,829.23,835.31,open rice
+P01_01_183,839.14,840.44,put down rice
+P01_01_184,840.71,841.64,take spatula
+P01_01_185,841.74,847.27,stir vegetables
+P01_01_186,847.37,864.11,still stirring vegetables
+P01_01_187,864.26,865.31,put down spatula
+P01_01_188,866.0,867.27,take tofu
+P01_01_189,869.59,871.03,take knife
+P01_01_19,53.55,54.36,take knife
+P01_01_190,870.88,875.11,cut tofu sleeve
+P01_01_191,875.48,885.08,open tofu container
+P01_01_192,885.93,889.17,pour tofu onto pan
+P01_01_193,889.53,890.92,put down tofu container
+P01_01_194,890.88,904.28,stir vegetables and tofu
+P01_01_195,904.17,905.18,put down spatula
+P01_01_196,905.28,908.19,take tofu container
+P01_01_197,909.33,911.48,throw something into the bin
+P01_01_198,911.43,913.59,throw something into the bin
+P01_01_199,917.61,918.43,throw tupperware container into the bin
+P01_01_2,6.98,9.49,close door
+P01_01_20,54.73,55.74,put down knife
+P01_01_200,921.64,922.39,take spatula
+P01_01_201,921.66,928.69,stir vegetables in tofu
+P01_01_202,928.62,929.95,take rice
+P01_01_203,931.78,937.61,pour rice into water
+P01_01_204,938.46,942.95,pour rice into water
+P01_01_205,945.45,951.6,fold rice bag
+P01_01_206,951.7,953.04,close rice bag
+P01_01_207,953.95,955.0,open cupboard
+P01_01_208,955.05,956.87,put rice into cupboard
+P01_01_209,959.28,969.59,stir vegetables in tofu
+P01_01_21,56.1,56.6,close drawer
+P01_01_210,959.49,960.51,take spatula
+P01_01_211,970.43,971.15,take bottle
+P01_01_212,971.25,971.96,open top
+P01_01_213,973.41,984.8,pour water into bottle
+P01_01_214,983.64,985.68,close top
+P01_01_215,986.43,988.16,put bottle onto table
+P01_01_216,989.6,993.6,take cutlery
+P01_01_217,994.54,997.07,open cupboard
+P01_01_218,997.17,1007.93,put cutlery into cupboard
+P01_01_219,1007.68,1009.46,close drawer
+P01_01_22,57.45,58.7,put down knife
+P01_01_220,1009.94,1010.89,take spatula
+P01_01_221,1010.9,1018.04,stir vegetables and tofu
+P01_01_222,1018.21,1020.21,adjust
+P01_01_223,1020.56,1025.06,stir vegetables
+P01_01_224,1025.41,1032.73,stir rice
+P01_01_225,1033.6,1034.56,put down spatula
+P01_01_226,1035.04,1037.63,take spoon
+P01_01_227,1036.96,1041.42,take glass
+P01_01_228,1040.23,1048.68,put down
+P01_01_229,1041.52,1046.04,put down glass
+P01_01_23,59.05,62.3,open tap
+P01_01_230,1046.31,1048.4,open drawer
+P01_01_231,1051.67,1052.77,take spatula
+P01_01_232,1051.88,1067.42,stir vegetables into a bowl
+P01_01_233,1066.54,1067.6,put down spatula
+P01_01_234,1074.15,1076.28,take container
+P01_01_235,1075.38,1076.71,open container
+P01_01_236,1077.1,1078.82,take container out of container
+P01_01_237,1079.03,1083.58,close container
+P01_01_238,1083.68,1084.55,put container back into cupboard
+P01_01_239,1086.44,1087.95,take spatula
+P01_01_24,61.86,65.23,wash courgette
+P01_01_240,1087.48,1092.33,stir rice
+P01_01_241,1094.25,1103.39,stir vegetables and tofu
+P01_01_242,1099.02,1131.26,still stirring vegetables and tofu
+P01_01_243,1131.93,1133.76,put down spatula
+P01_01_244,1163.09,1171.98,stir vegetables
+P01_01_245,1172.15,1178.4,stir rice
+P01_01_246,1178.58,1180.53,put down spatula
+P01_01_247,1183.09,1211.97,waiting for rice to be cooked
+P01_01_248,1214.16,1215.4,take spatula
+P01_01_249,1215.19,1225.84,put down spatula
+P01_01_25,65.2,73.13,still washing courgette
+P01_01_250,1215.33,1225.72,stir vegetables and tofu
+P01_01_251,1225.6,1226.6,take spoon
+P01_01_252,1227.73,1230.68,scoop rice
+P01_01_253,1231.57,1236.04,taste rice
+P01_01_254,1236.14,1238.93,put down spoon
+P01_01_255,1247.89,1249.76,open cupboard
+P01_01_256,1251.05,1252.99,take drainer
+P01_01_257,1263.99,1265.35,take glass and bottle
+P01_01_258,1265.0,1270.37,pour water onto glass
+P01_01_259,1270.93,1276.66,drink water
+P01_01_26,74.29,78.89,wash carrot
+P01_01_260,1272.55,1273.96,put down bottle
+P01_01_261,1276.12,1277.61,put down glass
+P01_01_262,1280.72,1281.54,take spatula
+P01_01_263,1281.73,1292.7,stir vegetables and tofu
+P01_01_264,1289.56,1296.27,still stirring vegetables and tofu
+P01_01_265,1295.96,1296.98,put down spatula
+P01_01_266,1304.5,1305.45,take spatula
+P01_01_267,1306.28,1312.18,stir rice
+P01_01_268,1311.47,1314.03,put down spatula
+P01_01_269,1315.88,1318.93,waiting for rice
+P01_01_27,78.99,82.79,still washing carrot
+P01_01_270,1340.37,1353.51,still waiting for rice
+P01_01_271,1353.66,1355.47,take spoon
+P01_01_272,1355.25,1359.79,scoop rice
+P01_01_273,1359.78,1365.4,taste rice
+P01_01_274,1366.01,1369.61,put down spoon
+P01_01_275,1369.72,1373.8,turn off hob
+P01_01_276,1392.79,1395.13,take saucepan
+P01_01_277,1396.56,1401.29,drain saucepan
+P01_01_278,1401.98,1408.8,drain rice
+P01_01_279,1409.67,1413.1,pour rice onto pan
+P01_01_28,82.19,83.19,close tap
+P01_01_280,1413.0,1414.0,put on drainer
+P01_01_281,1414.71,1424.23,scoop rice
+P01_01_282,1424.2,1425.98,put down saucepan
+P01_01_283,1426.14,1427.8,put down drainer
+P01_01_284,1428.37,1429.19,put down spatula
+P01_01_285,1429.49,1430.24,take spatula
+P01_01_286,1430.72,1436.34,stir vegetables rice and tofu
+P01_01_287,1436.35,1437.03,put down spatula
+P01_01_288,1436.96,1443.62,pour curry powder
+P01_01_289,1437.14,1437.82,take curry powder
+P01_01_29,85.49,86.49,put down vegetables
+P01_01_290,1438.23,1439.16,open curry powder
+P01_01_291,1442.96,1444.06,put down curry powder
+P01_01_292,1443.85,1444.93,take spatula
+P01_01_293,1444.87,1457.0,stir rice
+P01_01_294,1455.34,1462.6,still stirring rice
+P01_01_295,1462.7,1469.94,still stirring rice
+P01_01_296,1470.04,1505.28,still stirring rice
+P01_01_297,1504.53,1507.43,turn off hob
+P01_01_298,1508.06,1518.08,stir rice
+P01_01_299,1518.18,1526.2,still stirring rice
+P01_01_3,12.77,13.99,open fridge
+P01_01_30,87.43,88.29,open cupboard
+P01_01_300,1524.0,1548.5,still stirring rice
+P01_01_301,1548.75,1549.85,put down spatula
+P01_01_302,1550.1,1554.13,close curry powder
+P01_01_303,1554.44,1555.19,put curry powder down
+P01_01_304,1555.54,1556.79,take container
+P01_01_305,1556.82,1558.67,take spatula
+P01_01_306,1557.62,1562.98,pour rice into container
+P01_01_307,1560.82,1573.78,pour rice into container
+P01_01_308,1562.53,1564.28,scoop rice
+P01_01_309,1564.38,1566.13,pour rice into container
+P01_01_31,92.53,94.09,take grater
+P01_01_310,1566.48,1568.48,scoop rice
+P01_01_311,1573.89,1574.66,put down container
+P01_01_312,1574.19,1575.3,put down spatula
+P01_01_313,1575.37,1577.29,take plate
+P01_01_314,1577.78,1579.15,put down plate
+P01_01_315,1579.22,1580.16,take spatula
+P01_01_316,1580.1,1592.56,pour rice onto plate
+P01_01_317,1593.88,1599.85,scoop rice
+P01_01_318,1600.67,1606.04,scoop rice
+P01_01_319,1606.11,1618.12,pour rice into container
+P01_01_32,95.28,99.56,take pan
+P01_01_320,1606.24,1618.73,scoop rice
+P01_01_321,1618.16,1620.51,put down spatula
+P01_01_322,1620.99,1623.13,put down pan
+P01_01_323,1625.28,1626.96,open tap
+P01_01_324,1627.07,1629.7,washing pan
+P01_01_325,1630.12,1633.57,wash saucepan
+P01_01_326,1633.69,1635.21,wash drainer
+P01_01_327,1634.97,1636.13,close tap
+P01_01_328,1637.63,1639.73,take plate
+P01_01_329,1640.4,1641.69,put down plate
+P01_01_33,100.74,102.26,put down pan
+P01_01_34,101.66,102.41,close cupboard
+P01_01_35,103.02,103.77,close cupboard
+P01_01_36,104.1,105.22,take courgette
+P01_01_37,105.69,122.03,cut courgette
+P01_01_38,122.13,126.98,turn on hob
+P01_01_39,127.8,144.89,cut courgette
+P01_01_4,15.25,16.4,take celery
+P01_01_40,130.99,145.79,still cutting courgette
+P01_01_41,150.53,165.65,dicing courgette
+P01_01_42,165.75,180.28,still dicing courgette
+P01_01_43,180.38,193.9,still dicing courgette
+P01_01_44,239.04,248.81,still dicing courgette
+P01_01_45,250.05,257.87,pour courgette onto pan
+P01_01_46,261.69,264.65,throw courgette into rubbish bin
+P01_01_47,265.06,266.44,open drawer
+P01_01_48,268.57,269.24,close drawer
+P01_01_49,270.43,272.16,take spatula
+P01_01_5,16.5,18.06,take container
+P01_01_50,272.08,277.85,stir courgette
+P01_01_51,279.6,281.35,take salt
+P01_01_52,281.45,282.93,open salt
+P01_01_53,282.8,285.05,pour salt onto pan
+P01_01_54,285.15,286.79,put down salt
+P01_01_55,287.86,294.25,stir courgette
+P01_01_56,294.35,295.6,put down spatula
+P01_01_57,295.7,299.7,take celery
+P01_01_58,301.25,315.5,still washing celery
+P01_01_59,301.3,303.46,open tap
+P01_01_6,18.19,21.14,take tofu
+P01_01_60,303.56,315.49,wash celery
+P01_01_61,315.03,315.94,close tap
+P01_01_62,318.25,320.0,put down celery
+P01_01_63,322.78,328.18,cut celery
+P01_01_64,328.28,338.07,still cutting celery
+P01_01_65,341.64,346.21,pour celery onto pan
+P01_01_66,346.01,347.67,put down cutting board and knife
+P01_01_67,347.33,353.79,take celery
+P01_01_68,354.09,358.44,throw things into garbage bin
+P01_01_69,360.21,361.84,open fridge
+P01_01_7,21.91,23.33,close fridge
+P01_01_70,360.76,363.07,put celery back into fridge
+P01_01_71,363.07,364.15,close fridge
+P01_01_72,367.34,368.34,take spatula
+P01_01_73,368.37,378.03,stir something
+P01_01_74,377.83,379.31,put down spatula
+P01_01_75,379.26,381.2,open container
+P01_01_76,381.53,384.85,take onion
+P01_01_77,384.01,384.76,take onion
+P01_01_78,384.86,385.58,put down onion
+P01_01_79,385.48,388.37,close container
+P01_01_8,23.18,24.29,open fridge
+P01_01_80,390.52,391.28,take spatula
+P01_01_81,390.95,392.13,take knife
+P01_01_82,392.59,398.75,cut onion
+P01_01_83,395.4,407.03,still cutting onion
+P01_01_84,408.39,422.18,still cutting onion
+P01_01_85,424.69,426.42,put down knife
+P01_01_86,426.95,429.35,take kettle
+P01_01_87,429.74,433.81,open tap
+P01_01_88,429.91,437.77,pour water into kettle
+P01_01_89,437.0,443.16,still pouring water
+P01_01_9,24.48,27.94,take carrots and
+P01_01_90,441.5,442.25,close tap
+P01_01_91,445.11,447.13,turn kettle on
+P01_01_92,450.08,450.8,take spatula
+P01_01_93,450.55,458.3,stir vegetables
+P01_01_94,455.57,464.74,still stirring vegetables
+P01_01_95,467.5,468.55,take glass
+P01_01_96,469.14,470.32,take glass
+P01_01_97,471.45,472.7,open cupboard
+P01_01_98,474.18,477.23,put glass into cupboard
+P01_01_99,476.74,479.32,close cupboard

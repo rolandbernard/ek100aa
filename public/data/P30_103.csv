@@ -1,0 +1,86 @@
+P30_103_0,1.53,2.72,put down glass
+P30_103_1,3.93,5.8,put down fork
+P30_103_10,22.43,22.95,pick up fork
+P30_103_11,22.84,23.49,put fork into washing up bowl
+P30_103_12,24.85,25.64,open drawer
+P30_103_13,27.33,27.9,pick up fork
+P30_103_14,28.0,28.55,put down fork
+P30_103_15,28.5,29.4,close drawer
+P30_103_16,29.21,30.01,pick up jug
+P30_103_17,31.46,32.01,turn on tap
+P30_103_18,31.61,34.16,fill jug with water
+P30_103_19,33.8,34.55,turn off tap
+P30_103_2,7.7,12.9,scrape salmon skin into bin
+P30_103_20,35.05,35.62,open kettle
+P30_103_21,35.93,37.35,pour water into kettle
+P30_103_22,38.27,39.34,turn on tap
+P30_103_23,38.75,39.75,fill up jug with water
+P30_103_24,39.54,39.93,turn off tap
+P30_103_25,40.89,41.95,pour water into kettle from jug
+P30_103_26,41.73,42.65,close kettle
+P30_103_27,42.64,44.1,put down jug
+P30_103_28,44.2,45.39,pick up mug
+P30_103_29,45.78,47.6,put down mug
+P30_103_3,14.54,15.48,turn on tap
+P30_103_30,47.49,48.79,pick up v60
+P30_103_31,48.89,49.7,put v60 onto mug
+P30_103_32,50.53,51.54,open cupboard
+P30_103_33,51.49,52.74,take filter papers
+P30_103_34,52.78,56.27,take filter paper
+P30_103_35,56.37,57.53,put filter papers back into cupboard
+P30_103_36,57.56,58.5,close cupboard
+P30_103_37,58.43,61.55,fold filter paper
+P30_103_38,61.55,64.86,open filter paper
+P30_103_39,63.18,65.68,put filter paper into v60
+P30_103_4,14.83,22.1,rinse plate
+P30_103_40,65.42,66.05,turn on kettle
+P30_103_41,67.09,68.68,pick up coffee bag
+P30_103_42,68.71,71.1,open coffee bag
+P30_103_43,71.1,72.5,pick up spoon
+P30_103_44,71.74,77.34,pour coffee beans into spoon
+P30_103_45,75.84,76.67,inspect coffee bag
+P30_103_46,75.84,77.77,empty coffee beans from spoon into coffee grinder
+P30_103_47,79.06,79.43,open bin
+P30_103_48,79.5,80.03,put empty coffee beans bag into bin
+P30_103_49,80.87,84.05,open coffee bag
+P30_103_5,17.17,18.42,rinse knife
+P30_103_50,85.15,85.72,open bin
+P30_103_51,85.43,86.24,put coffee bean bag strip into bin
+P30_103_52,86.6,89.16,open coffee bean bag
+P30_103_53,89.35,90.31,pick up spoon
+P30_103_54,90.35,92.06,pour coffee beans into spoon
+P30_103_55,92.14,92.89,pour coffee beans into grinder
+P30_103_56,92.53,93.79,put down coffee bag
+P30_103_57,93.39,94.87,close coffee bag
+P30_103_58,94.82,96.38,turn on coffee grinder
+P30_103_59,100.48,101.78,open coffee beans tin
+P30_103_6,16.0,18.95,rinse plate
+P30_103_60,102.5,104.98,pick up coffee beans bag
+P30_103_61,103.87,105.11,open coffee beans bag
+P30_103_62,105.12,108.77,pour coffee beans from bag into tin
+P30_103_63,108.82,109.77,inspect coffee beans bag
+P30_103_64,109.72,111.22,pour coffee beans into tin
+P30_103_65,111.85,113.0,turn off coffee grinder
+P30_103_66,113.92,114.59,open bin
+P30_103_67,114.52,115.28,put coffee beans bag into bin
+P30_103_68,115.64,117.73,close coffee bean tin
+P30_103_69,117.76,118.35,pick up coffee bean tin
+P30_103_7,19.58,20.47,turn off tap
+P30_103_70,118.04,119.8,put coffee bean tin
+P30_103_71,119.55,120.64,move grinder
+P30_103_72,120.5,121.52,move coffee bean tin
+P30_103_73,121.53,122.82,take coffee grounds container from grinder
+P30_103_74,123.43,124.98,pour coffee grounds into filter paper
+P30_103_75,125.94,127.77,put coffee beans container back into grinder
+P30_103_76,130.0,132.72,pick up fork
+P30_103_77,134.8,137.1,eat salad
+P30_103_78,137.04,138.32,put down fork
+P30_103_79,157.33,157.76,turn off kettle
+P30_103_8,20.59,21.56,put plate into washing up bowl
+P30_103_80,157.89,158.64,pick up kettle
+P30_103_81,158.51,162.78,pour water from kettle into jug
+P30_103_82,162.84,165.94,put down kettle
+P30_103_83,164.07,169.06,pick up jug
+P30_103_84,168.89,180.14,pour water from jug into v60
+P30_103_85,179.95,181.73,put down jug
+P30_103_9,21.55,22.22,put knife into washing up bowl

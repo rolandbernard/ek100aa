@@ -1,0 +1,179 @@
+P22_04_0,3.13,4.53,open locker
+P22_04_1,4.57,5.12,pick up dish
+P22_04_10,21.97,25.64,move pan
+P22_04_100,199.27,205.24,peel peach
+P22_04_101,207.89,216.76,peel peach
+P22_04_102,216.86,225.49,peel peach
+P22_04_103,225.59,227.87,peel peach
+P22_04_104,227.97,229.69,remove peelings
+P22_04_105,229.79,234.45,peel peach
+P22_04_106,234.55,239.16,peel peach
+P22_04_107,239.26,242.79,remove peelings
+P22_04_108,242.78,244.53,put down potato peeler
+P22_04_109,243.11,244.52,put down peach
+P22_04_11,25.66,26.81,take salad bowl
+P22_04_110,244.36,246.35,open drawer
+P22_04_111,246.82,247.83,pick up knife
+P22_04_112,247.72,248.71,close drawer
+P22_04_113,248.77,249.42,pick up peach
+P22_04_114,249.75,256.43,cut peach
+P22_04_115,252.24,254.96,cut peach
+P22_04_116,257.07,259.53,cut peach
+P22_04_117,265.08,265.97,put knife
+P22_04_118,266.07,266.69,pick up peeler
+P22_04_119,266.25,268.75,clean peeler
+P22_04_12,26.47,27.37,move pan
+P22_04_120,267.09,274.6,clean peeler
+P22_04_121,274.7,275.2,put peeler
+P22_04_122,275.29,276.79,pick up peelings
+P22_04_123,277.14,279.14,pick up peelings
+P22_04_124,280.89,283.89,throw peelings
+P22_04_125,285.39,286.89,close trash can
+P22_04_126,287.2,287.99,open tap
+P22_04_127,287.99,290.24,wash hands
+P22_04_128,289.9,290.9,shake hands
+P22_04_129,290.86,293.4,dry hands
+P22_04_13,27.47,35.38,dry salad bowl
+P22_04_130,293.5,294.92,put cloth
+P22_04_131,295.3,295.94,pick up knife
+P22_04_132,296.3,297.3,pick up peach
+P22_04_133,296.55,299.17,cut peach
+P22_04_134,299.27,301.22,cut peach
+P22_04_135,302.19,304.74,remove slice
+P22_04_136,304.0,305.92,remove slice
+P22_04_137,305.56,308.67,cut slice
+P22_04_138,308.72,309.66,put down slices
+P22_04_139,309.78,313.96,cut slice
+P22_04_14,36.02,37.5,shake salad bowl
+P22_04_140,313.33,313.95,remove slice
+P22_04_141,314.07,317.9,remove slice
+P22_04_142,317.93,318.84,put down slice
+P22_04_143,318.94,319.57,put down slice
+P22_04_144,319.93,323.01,cut slice
+P22_04_145,323.85,325.06,remove slice
+P22_04_146,325.16,326.38,remove slice
+P22_04_147,326.48,329.15,remove slice
+P22_04_148,326.82,332.37,put down slices
+P22_04_149,333.78,336.08,throw away pit
+P22_04_15,37.21,39.9,dry salad bowl
+P22_04_150,337.06,338.24,open tap
+P22_04_151,337.74,339.45,wash hands
+P22_04_152,339.55,340.92,shake hands
+P22_04_153,341.11,343.25,dry hands
+P22_04_154,343.31,344.33,pick up silverware
+P22_04_155,344.42,345.17,put in sink
+P22_04_156,347.5,348.14,open tap
+P22_04_157,348.2,348.93,pick up sponge
+P22_04_158,348.84,350.11,wash sponge
+P22_04_159,349.42,351.26,put on soap
+P22_04_16,39.44,41.55,open cabinet
+P22_04_160,352.4,353.17,turn off water
+P22_04_161,353.37,356.39,lather bowl
+P22_04_162,356.44,358.63,lather potato peeler
+P22_04_163,358.73,360.3,lather knife
+P22_04_164,360.4,361.28,open tap
+P22_04_165,361.17,365.14,rinse knife
+P22_04_166,362.66,366.0,put down knife
+P22_04_167,366.1,369.21,rinse bowl
+P22_04_168,369.31,370.25,put down bowl
+P22_04_169,369.62,373.38,rinse potato peeler
+P22_04_17,41.65,43.5,put down cloth
+P22_04_170,372.99,374.42,put down potato peeler
+P22_04_171,373.82,376.45,wash sponge
+P22_04_172,376.05,377.04,put down sponge
+P22_04_173,376.62,378.02,rinse hands
+P22_04_174,377.94,378.77,close tap
+P22_04_175,378.55,379.81,shake hands
+P22_04_176,379.67,380.83,pick up cloth
+P22_04_177,380.37,383.8,dry hands
+P22_04_178,383.9,385.88,put down cloth
+P22_04_18,43.6,45.38,put down salad bowl
+P22_04_19,45.83,48.73,close cabinet
+P22_04_2,5.08,7.26,put down dish
+P22_04_20,48.67,49.99,pick up pan
+P22_04_21,49.95,51.52,pick up lid
+P22_04_22,52.47,54.24,open drawer
+P22_04_23,54.18,55.99,put down lid
+P22_04_24,55.69,57.2,put down lid
+P22_04_25,57.07,60.86,put down pan
+P22_04_26,61.37,62.98,pick up lid
+P22_04_27,63.08,64.15,put down lid
+P22_04_28,63.64,65.23,close drawer
+P22_04_29,66.01,67.66,pick up silverware
+P22_04_3,7.08,8.71,pick up dish
+P22_04_30,67.4,69.9,pick up silverware
+P22_04_31,69.92,71.75,open drawer
+P22_04_32,71.85,75.57,put down teaspoons
+P22_04_33,75.61,77.0,put down utensil
+P22_04_34,76.82,78.83,put down fork
+P22_04_35,78.84,80.3,put down knife
+P22_04_36,80.63,81.74,put down fork
+P22_04_37,81.57,82.74,put down knife
+P22_04_38,82.82,83.88,put down utensil
+P22_04_39,84.31,85.39,put down potato peeler
+P22_04_4,8.71,13.11,put down dish
+P22_04_40,85.49,86.75,put down fork
+P22_04_41,86.85,88.3,put down utensil
+P22_04_42,88.4,89.24,put down scoop
+P22_04_43,89.34,91.1,put down knives
+P22_04_44,91.2,91.93,put down teaspoon
+P22_04_45,92.02,93.17,close drawer
+P22_04_46,93.27,94.73,open cabinet
+P22_04_47,95.04,95.74,pick up glass
+P22_04_48,95.84,96.85,put down glass
+P22_04_49,96.7,97.35,pick up glass
+P22_04_5,13.21,14.75,pick up dish
+P22_04_50,97.42,98.77,put down glass
+P22_04_51,99.09,99.94,pick up glass
+P22_04_52,100.08,101.64,put down glass
+P22_04_53,102.54,103.21,pick up glass
+P22_04_54,103.46,104.47,put down glass
+P22_04_55,105.2,106.04,pick up coffee cup
+P22_04_56,105.35,106.52,open cabinet
+P22_04_57,106.42,107.71,put down coffee cup
+P22_04_58,107.81,108.46,pick up coffee cup
+P22_04_59,108.49,109.29,put down coffee cup
+P22_04_6,14.43,17.37,put down dish
+P22_04_60,109.78,110.55,pick up plates
+P22_04_61,111.35,112.56,put down plates
+P22_04_62,117.04,118.04,pick up saucers
+P22_04_63,119.69,121.06,pick up cup
+P22_04_64,121.49,122.74,put down cup
+P22_04_65,124.05,125.49,close cabinet
+P22_04_66,125.4,126.4,close cabinet
+P22_04_67,126.15,127.45,pick up knife
+P22_04_68,127.35,128.85,dry knife
+P22_04_69,129.21,130.08,open drawer
+P22_04_7,17.47,18.27,pick up dish
+P22_04_70,130.18,132.36,remove oil
+P22_04_71,132.3,136.84,turn knife
+P22_04_72,137.26,137.98,put down knife
+P22_04_73,137.68,138.56,pick up cloth
+P22_04_74,138.62,139.38,close drawer
+P22_04_75,139.27,139.95,drape cloth
+P22_04_76,139.75,140.72,pick up cutting board
+P22_04_77,140.95,144.51,dry cutting board
+P22_04_78,144.61,145.84,open drawer
+P22_04_79,145.51,149.2,put down cutting board
+P22_04_8,18.07,20.51,put down dish
+P22_04_80,149.16,150.68,close drawer
+P22_04_81,150.78,151.69,pick up cloth
+P22_04_82,151.83,154.3,hang up cloth
+P22_04_83,154.27,156.17,open cabinet
+P22_04_84,158.07,158.95,close cabinet
+P22_04_85,161.88,162.94,open cupboard
+P22_04_86,163.04,167.71,take plate
+P22_04_87,167.76,169.17,close cupboard
+P22_04_88,169.2,170.46,put down plate
+P22_04_89,170.94,172.19,open fridge
+P22_04_9,20.54,22.34,take lid
+P22_04_90,172.29,175.04,take peach
+P22_04_91,175.76,176.36,close fridge
+P22_04_92,179.83,181.81,turn on tap
+P22_04_93,181.55,186.79,rinse peach
+P22_04_94,186.77,187.32,turn off tap
+P22_04_95,190.58,191.74,take cloth
+P22_04_96,192.06,193.64,dry hands
+P22_04_97,193.66,194.96,put down cloth
+P22_04_98,194.84,196.8,open drawer
+P22_04_99,196.71,197.9,take peeler

@@ -1,0 +1,93 @@
+P02_124_0,2.33,4.08,put down laundry basket
+P02_124_1,4.08,5.22,open laundry basket
+P02_124_10,17.12,18.61,pick up washing powder
+P02_124_11,18.71,20.55,put down washing powder
+P02_124_12,19.68,22.3,pick up washing powder box
+P02_124_13,22.11,23.07,open box
+P02_124_14,23.13,28.43,scoop washing powder
+P02_124_15,28.51,30.95,put washing powder in drawer
+P02_124_16,30.64,38.11,scoop washing powder
+P02_124_17,38.13,39.83,put washing powder in drawer
+P02_124_18,39.86,41.06,close box
+P02_124_19,41.02,42.54,put box in cupboard
+P02_124_2,5.32,6.97,pick up clothes
+P02_124_20,41.95,44.8,pick up box
+P02_124_21,44.52,45.32,open box
+P02_124_22,45.06,45.72,put down lid
+P02_124_23,45.0,48.45,scoop washing powder
+P02_124_24,48.55,49.25,put washing powder in drawer
+P02_124_25,49.67,50.83,pick up lid
+P02_124_26,50.87,52.28,close box
+P02_124_27,51.64,53.12,put box in cupboard
+P02_124_28,53.22,55.14,pick up fabric conditioner bottle
+P02_124_29,56.27,57.84,close cupboard
+P02_124_3,6.87,7.42,open washing machine door
+P02_124_30,57.81,60.66,open bottle
+P02_124_31,60.76,64.17,pour liquid from bottle into cover
+P02_124_32,64.27,66.65,pour liquid from cover into compartment
+P02_124_33,66.69,68.52,pour liquid from bottle into cover
+P02_124_34,68.66,71.18,pour liquid from cover into compartment
+P02_124_35,71.34,74.25,close bottle
+P02_124_36,74.35,76.81,close drawer
+P02_124_37,77.52,78.18,open cupboard
+P02_124_38,78.08,79.25,put bottle in cupboard
+P02_124_39,79.34,79.97,close cupboard
+P02_124_4,7.51,9.97,put clothes in washing machine
+P02_124_40,80.32,83.26,turn on dial
+P02_124_41,83.36,84.59,open washing machine door
+P02_124_42,84.68,85.04,close washing machine door
+P02_124_43,83.82,86.89,turn on washing machine
+P02_124_44,88.59,89.53,pick up mug
+P02_124_45,89.63,95.02,move laundry basket
+P02_124_46,95.97,97.07,put mug down
+P02_124_47,96.83,98.94,turn on coffee machine
+P02_124_48,97.5,98.44,pick up capsule
+P02_124_49,98.43,99.38,open coffee machine
+P02_124_5,9.87,11.99,pick up towel from laundry basket
+P02_124_50,99.18,99.95,put capsule in coffee machine
+P02_124_51,99.49,100.08,close coffee machine
+P02_124_52,100.83,101.62,pick up water filter
+P02_124_53,101.64,102.19,open coffee machine lid
+P02_124_54,102.03,109.95,pour water from filter into coffee machine
+P02_124_55,110.28,110.9,close cover
+P02_124_56,115.0,116.11,open tap
+P02_124_57,116.13,119.08,fill water filter
+P02_124_58,119.03,119.68,close tap
+P02_124_59,122.49,123.77,put down water filter
+P02_124_6,11.99,13.5,put towel in washing machine
+P02_124_60,125.49,126.86,pick up mug
+P02_124_61,129.8,131.05,empty mug in sink
+P02_124_62,131.48,135.24,put down mug
+P02_124_63,135.41,136.77,turn on coffee machine
+P02_124_64,140.53,141.59,close drawer
+P02_124_65,141.63,142.67,open fridge
+P02_124_66,142.77,143.75,pick up milk bottle
+P02_124_67,143.77,144.45,close fridge
+P02_124_68,145.58,147.14,open milk bottle
+P02_124_69,147.17,150.29,pour milk from bottle into mug
+P02_124_7,12.9,14.26,close washing machine door
+P02_124_70,150.37,152.08,close milk bottle
+P02_124_71,153.67,154.44,open fridge
+P02_124_72,154.46,156.01,put milk bottle in fridge door
+P02_124_73,155.91,157.01,close fridge
+P02_124_74,165.28,167.81,pick up wooden stirrer from box
+P02_124_75,167.91,171.61,stir coffee
+P02_124_76,193.55,194.43,press button on coffee machine
+P02_124_77,194.49,196.98,pick up hand blender motor
+P02_124_78,196.8,198.06,unplug hand blender
+P02_124_79,198.15,205.02,put hand blender in box
+P02_124_8,14.19,15.92,open drawer
+P02_124_80,205.1,207.0,pick up hand blender piece
+P02_124_81,206.88,207.75,put piece in box
+P02_124_82,207.8,212.49,fit wire inside box
+P02_124_83,211.63,215.2,close box
+P02_124_84,215.19,216.59,pick up box
+P02_124_85,218.7,219.48,open cupboard
+P02_124_86,219.58,221.01,put box in cupboard
+P02_124_87,220.91,221.69,close cupboard
+P02_124_88,224.18,225.02,pick up mug
+P02_124_89,224.95,228.25,stir coffee
+P02_124_9,15.68,17.1,open cupboard
+P02_124_90,228.83,229.64,open bin
+P02_124_91,229.69,230.05,throw wooden stirrer
+P02_124_92,230.13,230.56,close bin

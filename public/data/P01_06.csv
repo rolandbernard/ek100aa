@@ -1,0 +1,119 @@
+P01_06_0,0.57,1.53,take plate
+P01_06_1,2.21,3.28,put down knife
+P01_06_10,28.69,30.69,take fruit
+P01_06_100,381.1,388.5,wipe sink
+P01_06_101,389.44,391.09,continue wiping sink
+P01_06_102,391.19,393.19,squeeze cloth
+P01_06_103,393.29,399.89,wipe sink
+P01_06_104,399.99,406.54,continue wiping sink
+P01_06_105,407.09,408.44,turn off tap
+P01_06_106,408.53,410.99,rinse cloth
+P01_06_107,410.64,412.2,turn off tap
+P01_06_108,414.74,441.39,wipe cooker
+P01_06_109,422.0,443.25,continue wiping cooker
+P01_06_11,30.4,31.45,put down fruit
+P01_06_110,443.29,445.15,wipe counter
+P01_06_111,445.69,446.79,turn on tap
+P01_06_112,446.65,448.65,rinse cloth
+P01_06_113,448.75,469.25,wash sink
+P01_06_114,469.24,470.26,turn off tap
+P01_06_115,469.58,473.21,squeeze cloth
+P01_06_116,475.41,479.76,dry hands
+P01_06_117,480.88,485.89,hang cloth
+P01_06_118,487.6,488.79,take bottle
+P01_06_12,32.62,36.86,take tablecloth
+P01_06_13,37.33,40.09,shake tablecloth
+P01_06_14,41.88,49.7,fold tablecloth
+P01_06_15,50.24,52.03,put tablecloth
+P01_06_16,55.41,56.22,take sponge
+P01_06_17,57.12,59.27,pour washing up liquid
+P01_06_18,59.45,61.09,put down washing up liquid
+P01_06_19,60.9,62.09,take fork
+P01_06_2,5.74,7.1,open bin
+P01_06_20,62.0,64.5,open tap
+P01_06_21,64.46,69.25,wash fork
+P01_06_22,69.1,70.12,put down fork
+P01_06_23,70.18,70.72,take spoon
+P01_06_24,70.82,73.12,wash spoon
+P01_06_25,73.18,73.84,put down spoon
+P01_06_26,73.82,75.07,take knife
+P01_06_27,75.11,80.95,wash knife
+P01_06_28,81.01,82.27,put down knife
+P01_06_29,81.96,82.78,take cutting board
+P01_06_3,7.23,11.85,throw leftovers into bin
+P01_06_30,83.34,90.9,wash cutting board
+P01_06_31,91.75,94.15,put down cutting board
+P01_06_32,94.27,94.99,take tong
+P01_06_33,94.9,107.44,wash tong
+P01_06_34,107.51,108.43,put down tong
+P01_06_35,108.53,109.73,take knife
+P01_06_36,110.33,116.68,wash knife
+P01_06_37,116.17,117.26,put down knife
+P01_06_38,118.06,118.84,take glass
+P01_06_39,118.9,121.98,wash glass
+P01_06_4,12.22,12.95,close bin
+P01_06_40,122.19,123.29,put down glass
+P01_06_41,123.33,124.65,take plate
+P01_06_42,123.72,124.83,take plate
+P01_06_43,124.49,125.39,turn on tap
+P01_06_44,125.08,127.32,rinse plate
+P01_06_45,127.45,138.05,wash plate
+P01_06_46,138.5,140.9,continue washing plate
+P01_06_47,141.0,142.5,hold the plate
+P01_06_48,143.25,145.85,take pan
+P01_06_49,144.77,147.5,wash pan
+P01_06_5,14.43,16.89,put down plate and fork
+P01_06_50,147.34,148.85,put down pan
+P01_06_51,148.63,154.04,wash pan
+P01_06_52,153.57,159.67,continue washing pan
+P01_06_53,159.7,160.44,put down pan
+P01_06_54,160.29,161.61,take colander
+P01_06_55,161.69,170.88,wash colander
+P01_06_56,170.98,172.27,put down colander
+P01_06_57,171.83,175.01,take saucepan
+P01_06_58,174.76,193.15,wash saucepan
+P01_06_59,175.1,176.51,empty saucepan
+P01_06_6,17.67,20.03,take cutting board
+P01_06_60,193.23,194.26,put down saucepan
+P01_06_61,194.97,196.17,take colander and pan
+P01_06_62,197.34,206.72,wash cutting board
+P01_06_63,206.82,207.33,put down sponge
+P01_06_64,210.01,212.31,turn on tap
+P01_06_65,213.52,214.6,turn on tap
+P01_06_66,214.4,227.0,rinse cutting board
+P01_06_67,226.96,240.53,rinse cutting board
+P01_06_68,242.41,243.6,put cutting board onto rack
+P01_06_69,244.46,248.17,take glass
+P01_06_7,19.22,27.56,move cutting board
+P01_06_70,247.47,252.75,rinse glass
+P01_06_71,252.59,254.1,put glass onto rack
+P01_06_72,254.2,268.66,rinse pan
+P01_06_73,268.76,270.01,put pan onto rack
+P01_06_74,270.11,285.51,rinse colander
+P01_06_75,285.58,287.29,put colander onto rack
+P01_06_76,287.11,288.36,empty saucepan
+P01_06_77,288.46,297.54,rinse saucepan
+P01_06_78,296.67,300.46,put saucepan onto rack
+P01_06_79,299.91,308.63,rinse plate
+P01_06_8,21.11,22.47,put down cutting board
+P01_06_80,308.56,311.57,put plate onto rack
+P01_06_81,311.67,319.9,rinse cutting board
+P01_06_82,319.84,321.7,put cutting board onto rack
+P01_06_83,321.8,326.93,rinse knife
+P01_06_84,327.03,328.4,put knife onto rack
+P01_06_85,328.08,333.71,rinse tong
+P01_06_86,333.77,335.13,put tong onto rack
+P01_06_87,334.88,338.91,rinse knife
+P01_06_88,338.64,339.99,put knife onto rack
+P01_06_89,339.69,341.18,rinse fork
+P01_06_9,22.01,23.44,put down glass
+P01_06_90,341.4,342.22,put fork
+P01_06_91,341.98,343.47,rinse spoon
+P01_06_92,344.05,345.0,take sponge
+P01_06_93,345.07,352.28,squeeze sponge
+P01_06_94,347.07,360.01,continue squeezing sponge
+P01_06_95,360.9,361.8,take cloth
+P01_06_96,363.0,363.72,put down sponge
+P01_06_97,363.88,365.49,rinse cloth
+P01_06_98,365.22,366.21,turn off tap
+P01_06_99,369.93,381.0,wipe counter

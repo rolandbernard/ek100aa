@@ -1,0 +1,291 @@
+P01_15_0,1.66,4.04,move chair
+P01_15_1,4.78,5.53,take knife
+P01_15_10,22.91,25.19,put plate onto plates
+P01_15_100,279.46,283.46,put plate down
+P01_15_101,282.71,295.33,rinse plate
+P01_15_102,295.27,297.53,put down plate
+P01_15_103,297.56,298.77,take spatula
+P01_15_104,298.84,307.7,rinse spatula
+P01_15_105,307.4,308.12,take sponge
+P01_15_106,308.25,310.32,wash spatula
+P01_15_107,310.05,311.3,rinse spatula
+P01_15_108,310.96,312.37,move pan
+P01_15_109,312.16,320.72,remove pasta
+P01_15_11,25.79,26.98,put down plates
+P01_15_110,320.82,324.25,rinse spatula
+P01_15_111,323.62,324.12,take sponge
+P01_15_112,324.21,328.9,wash spatula
+P01_15_113,328.73,329.5,put down sponge
+P01_15_114,329.45,330.63,adjust tap
+P01_15_115,330.73,334.37,rinse spatula
+P01_15_116,334.29,335.66,put down spatula
+P01_15_117,336.02,337.34,take knife
+P01_15_118,336.08,340.39,rinse knife
+P01_15_119,337.17,340.64,rinse knife
+P01_15_12,27.06,29.63,put down cutlery
+P01_15_120,340.48,341.06,put down knife
+P01_15_121,340.49,341.0,put down knife
+P01_15_122,341.1,342.52,take knife
+P01_15_123,341.12,342.74,take knife
+P01_15_124,342.62,345.15,rinse knife
+P01_15_125,345.25,346.04,put down knife
+P01_15_126,350.74,351.49,take fork
+P01_15_127,351.59,354.59,rinse fork
+P01_15_128,354.55,355.38,put down fork
+P01_15_129,354.69,355.41,put down fork
+P01_15_13,30.48,33.19,take paper
+P01_15_130,355.29,356.12,take fork
+P01_15_131,355.6,357.03,take fork
+P01_15_132,356.22,359.31,rinse fork
+P01_15_133,357.13,359.5,rinse fork
+P01_15_134,362.57,363.54,take sponge
+P01_15_135,362.77,363.35,take sponge
+P01_15_136,362.87,365.03,wash fork
+P01_15_137,364.64,365.31,put down sponge
+P01_15_138,365.84,366.93,rinse fork
+P01_15_139,366.57,367.13,put down fork
+P01_15_14,36.4,38.22,open bin
+P01_15_140,367.94,369.43,take knife
+P01_15_141,369.22,372.06,rinse knife
+P01_15_142,371.62,375.29,wash knife
+P01_15_143,375.39,376.19,put down sponge
+P01_15_144,376.19,378.08,rinse knife
+P01_15_145,377.75,378.25,put down knife
+P01_15_146,377.99,378.49,put down knife
+P01_15_147,378.51,379.13,take spoon
+P01_15_148,379.44,381.19,rinse spoon
+P01_15_149,381.23,381.8,put down spoon
+P01_15_15,38.05,38.58,throw paper into bin
+P01_15_150,381.89,382.39,take knife
+P01_15_151,382.49,385.53,rinse knife
+P01_15_152,385.97,386.61,take spatula.
+P01_15_153,386.58,393.27,rinse spatula.
+P01_15_154,393.65,394.4,put down spatula.
+P01_15_155,395.73,396.23,close tap.
+P01_15_156,397.83,408.31,wash cutting board.
+P01_15_157,408.8,409.8,take washing up liquid.
+P01_15_158,410.15,411.9,pour washing up liquid.
+P01_15_159,412.0,413.0,put down washing up liquid.
+P01_15_16,38.62,39.39,close bin
+P01_15_160,413.56,424.78,wash pan.
+P01_15_161,413.71,415.74,empty pan.
+P01_15_162,425.1,427.35,continue washing pan.
+P01_15_163,427.22,427.95,put down pan.
+P01_15_164,428.12,430.29,take colander.
+P01_15_165,432.03,434.3,remove pasta.
+P01_15_166,434.15,434.86,take sponge
+P01_15_167,435.06,441.58,wash colander
+P01_15_168,441.33,442.44,put down colander
+P01_15_169,443.91,451.3,remove pasta
+P01_15_17,40.56,42.0,take table cloth
+P01_15_170,445.05,461.04,remove pasta
+P01_15_171,452.22,452.9,put down sponge
+P01_15_172,463.3,464.84,empty pan
+P01_15_173,467.96,468.94,take sponge
+P01_15_174,468.79,477.24,wash pan
+P01_15_175,478.72,484.05,continue washing pan
+P01_15_176,484.39,485.3,put down pan
+P01_15_177,485.69,486.95,take container
+P01_15_178,486.79,488.2,open container
+P01_15_179,488.33,494.32,wash container
+P01_15_18,42.93,51.8,fold table cloth
+P01_15_180,493.82,494.75,put down container
+P01_15_181,495.82,496.81,take lid
+P01_15_182,496.29,499.15,wash lid
+P01_15_183,499.19,499.98,put down lid
+P01_15_184,499.82,500.49,take container
+P01_15_185,500.35,503.37,wash container
+P01_15_186,503.35,503.85,put down container and sponge
+P01_15_187,505.95,506.7,rinse hands
+P01_15_188,507.47,512.95,rinse container
+P01_15_189,512.5,514.0,put down container
+P01_15_19,52.16,53.2,open drawer
+P01_15_190,513.96,523.01,rinse container
+P01_15_191,514.1,515.35,take container
+P01_15_192,522.97,524.14,put down container
+P01_15_193,524.39,527.34,take lid
+P01_15_194,527.35,530.8,rinse lid
+P01_15_195,530.9,531.99,put down lid
+P01_15_196,532.07,532.94,take lid
+P01_15_197,532.83,535.32,rinse lid
+P01_15_198,535.71,536.62,put down lid
+P01_15_199,536.96,538.17,take colander
+P01_15_2,5.22,6.65,take plate
+P01_15_20,52.85,56.05,put table cloth into drawer
+P01_15_200,538.04,551.12,rinse colander
+P01_15_201,541.26,551.55,still rinsing colander
+P01_15_202,551.93,553.2,take sponge
+P01_15_203,553.3,555.23,wash colander
+P01_15_204,555.31,556.06,squeeze sponge
+P01_15_205,556.38,557.63,wash colander
+P01_15_206,564.01,568.76,rinse colander
+P01_15_207,569.03,571.07,put down colander
+P01_15_208,572.12,572.96,take pan
+P01_15_209,572.77,590.04,wash pan
+P01_15_21,59.17,60.54,take table cloth
+P01_15_210,573.16,577.63,rinse pan
+P01_15_211,577.82,578.53,take sponge
+P01_15_212,583.74,584.62,squeeze sponge
+P01_15_213,584.61,585.7,put down sponge
+P01_15_214,584.94,589.22,rinse sponge
+P01_15_215,589.32,592.69,put down pan
+P01_15_216,593.12,595.09,empty saucepan
+P01_15_217,595.19,603.27,rinse pan
+P01_15_218,602.97,604.91,put down pan
+P01_15_219,605.01,605.78,take cutting board
+P01_15_22,60.64,69.14,fold table cloth
+P01_15_220,605.88,619.71,rinse cutting board
+P01_15_221,607.0,618.48,continue rinsing cutting board
+P01_15_222,618.37,618.88,turn off tap
+P01_15_223,618.98,621.44,drain cutting board
+P01_15_224,622.19,624.19,put down cutting board
+P01_15_225,626.68,628.21,squeeze sponge
+P01_15_226,628.33,628.89,put down sponge
+P01_15_227,629.38,632.32,take pasta
+P01_15_228,632.42,637.52,squeeze pasta
+P01_15_229,643.4,644.73,open bin
+P01_15_23,69.12,70.41,put table cloth into drawer
+P01_15_230,644.49,645.12,throw pasta into bin
+P01_15_231,645.06,645.59,close bin
+P01_15_232,647.39,648.07,take washing up liquid
+P01_15_233,648.17,649.15,open cupboard
+P01_15_234,649.83,651.91,dry hands
+P01_15_235,652.0,654.99,take cleansing
+P01_15_236,671.22,676.66,wipe counter
+P01_15_237,677.24,688.42,wipe cooker
+P01_15_238,689.32,690.74,take sponge
+P01_15_239,691.31,700.47,wipe cooker
+P01_15_24,70.2,71.22,close drawer
+P01_15_240,700.71,701.49,put down sponge
+P01_15_241,701.04,702.51,take cloth
+P01_15_242,702.45,709.36,wipe cooker
+P01_15_243,710.04,712.97,wipe counter
+P01_15_244,713.06,714.26,open bin
+P01_15_245,714.33,715.54,throw something into bin
+P01_15_246,717.89,719.39,turn on tap
+P01_15_247,719.37,725.2,wash cloth
+P01_15_248,725.3,726.05,turn off tap
+P01_15_249,726.34,728.84,squeeze cloth
+P01_15_25,72.97,73.87,take sponge
+P01_15_250,729.52,752.79,wipe cooker
+P01_15_251,742.18,764.68,continue wiping cooker
+P01_15_252,765.97,767.59,turn on tap
+P01_15_253,766.8,770.36,wash cloth
+P01_15_254,769.91,770.91,turn off tap
+P01_15_255,771.01,773.01,squeeze cloth
+P01_15_256,774.33,788.38,wipe cooker
+P01_15_257,788.69,793.29,wipe counter
+P01_15_258,794.36,807.07,wipe counter
+P01_15_259,807.37,811.61,wash sponge
+P01_15_26,73.84,75.09,turn on tap
+P01_15_260,807.5,808.51,turn on tap
+P01_15_261,809.17,816.84,wash cloth
+P01_15_262,811.01,812.38,put down sponge
+P01_15_263,812.48,814.28,wash sink
+P01_15_264,814.38,819.19,squeeze cloth
+P01_15_265,819.13,826.87,wipe counter
+P01_15_266,825.18,831.2,continue wiping counter
+P01_15_267,830.73,840.41,wipe sink
+P01_15_268,837.03,847.66,continue wiping sink
+P01_15_269,847.04,848.85,put down sponges
+P01_15_27,74.85,77.76,rinse sponge
+P01_15_270,848.6,858.77,squeeze clothe
+P01_15_271,850.25,851.5,turn on tap
+P01_15_272,851.43,855.33,wash cloth
+P01_15_273,855.51,856.12,turn off tap
+P01_15_274,856.55,858.07,squeeze cloth
+P01_15_275,858.89,869.78,wipe counter
+P01_15_276,869.88,873.34,wipe sink
+P01_15_277,873.33,874.27,put down soap
+P01_15_278,874.65,876.09,move washing up liquid
+P01_15_279,879.06,880.58,turn on tap
+P01_15_28,76.35,78.08,close tap
+P01_15_280,880.94,884.3,wash cloth
+P01_15_281,884.76,885.38,put down cloth
+P01_15_282,885.36,893.68,wash hands
+P01_15_283,893.57,894.28,turn off tap
+P01_15_284,896.63,903.63,dry hands
+P01_15_285,903.73,904.73,hang cloth
+P01_15_286,905.25,907.4,move chair
+P01_15_287,910.49,912.97,move chair
+P01_15_288,913.44,915.13,take glass
+P01_15_289,914.99,922.14,pour wine
+P01_15_29,79.1,79.93,take washing up liquid
+P01_15_290,922.24,923.6,put down bottle
+P01_15_3,7.35,7.9,put down knife
+P01_15_30,80.5,82.0,pour washing up liquid
+P01_15_31,81.72,83.88,squeeze sponge
+P01_15_32,84.28,85.73,take spatula
+P01_15_33,85.83,94.5,wash spatula
+P01_15_34,94.46,104.99,continue washing spatula
+P01_15_35,104.94,105.8,put down spatula
+P01_15_36,105.84,106.47,take spatula
+P01_15_37,106.57,122.26,wash spatula
+P01_15_38,122.24,123.92,put down spatula
+P01_15_39,123.56,124.83,take knife
+P01_15_4,10.22,11.24,open bin
+P01_15_40,124.93,129.79,wash knife
+P01_15_41,129.04,130.14,put down knife
+P01_15_42,130.02,131.42,take knife
+P01_15_43,131.34,135.21,wash knife
+P01_15_44,135.31,136.28,put down knife
+P01_15_45,136.1,137.43,take spoon
+P01_15_46,137.47,139.44,wash spoon
+P01_15_47,139.53,140.26,put down spoon
+P01_15_48,140.16,142.44,take fork
+P01_15_49,141.19,145.85,wash fork
+P01_15_5,12.07,14.03,throw leftovers into bin
+P01_15_50,145.76,146.68,put down fork
+P01_15_51,146.71,147.39,take knife
+P01_15_52,147.49,154.28,wash knife
+P01_15_53,148.37,150.37,wash knife
+P01_15_54,154.38,155.02,put down knife
+P01_15_55,154.86,155.86,take fork
+P01_15_56,155.93,163.74,wash knife
+P01_15_57,163.25,164.0,put down knife
+P01_15_58,164.1,165.1,take fork
+P01_15_59,164.62,165.21,take fork
+P01_15_6,14.19,15.37,close bin
+P01_15_60,165.2,169.64,wash fork
+P01_15_61,165.56,169.65,wash fork
+P01_15_62,169.36,170.11,put down fork
+P01_15_63,169.72,170.34,put down fork
+P01_15_64,176.79,177.99,take knife
+P01_15_65,177.99,186.11,wash knife
+P01_15_66,185.78,186.73,put down knife
+P01_15_67,186.68,188.34,take plate
+P01_15_68,187.21,191.94,wash plate
+P01_15_69,188.44,189.77,turn on tap
+P01_15_7,17.37,18.84,put plate onto plate
+P01_15_70,189.58,190.33,rinse plate
+P01_15_71,190.36,191.22,turn off tap
+P01_15_72,192.04,203.67,continue washing plate
+P01_15_73,202.58,204.41,put down plate
+P01_15_74,204.51,207.92,take plate
+P01_15_75,208.02,210.99,turn on tap
+P01_15_76,208.84,210.69,rinse plate
+P01_15_77,210.14,211.39,turn off tap
+P01_15_78,211.49,216.14,wash plate
+P01_15_79,216.24,222.31,continue washing pate
+P01_15_8,18.93,20.2,take plates
+P01_15_80,225.51,226.93,put down plate
+P01_15_81,226.75,228.1,take plate
+P01_15_82,228.07,230.18,wash plate
+P01_15_83,229.86,231.55,turn on tap
+P01_15_84,230.59,231.59,rinse plate
+P01_15_85,231.44,231.94,close tap
+P01_15_86,232.29,237.29,wash plate
+P01_15_87,237.64,238.39,put on sponge
+P01_15_88,240.02,240.68,take sponge
+P01_15_89,240.78,245.03,wash plate
+P01_15_9,21.14,22.87,take plate
+P01_15_90,245.13,246.17,put down sponge
+P01_15_91,245.69,246.68,turn on tap
+P01_15_92,247.6,258.19,rinse plate
+P01_15_93,259.4,261.4,put down plate
+P01_15_94,262.08,263.54,take plate
+P01_15_95,262.58,268.03,rinse plate
+P01_15_96,268.13,268.87,take sponge
+P01_15_97,268.87,271.37,wash plate
+P01_15_98,271.17,277.36,rinse plate
+P01_15_99,276.86,279.63,drain plate

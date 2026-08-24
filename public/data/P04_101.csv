@@ -1,0 +1,241 @@
+P04_101_0,1.37,2.68,pick up cling film
+P04_101_1,3.69,4.81,pick up tub
+P04_101_10,21.43,23.09,put down tub
+P04_101_100,232.35,233.55,open cupboard
+P04_101_101,234.31,234.89,pick up bowl
+P04_101_102,236.93,237.67,open fridge
+P04_101_103,237.89,239.39,look for something
+P04_101_104,239.43,240.17,pick up yoghurt
+P04_101_105,240.14,241.24,pick up tiramisu
+P04_101_106,241.17,242.78,pick up yoghurt
+P04_101_107,243.63,244.52,close fridge
+P04_101_108,245.8,247.05,open drawer
+P04_101_109,247.21,248.1,look for something
+P04_101_11,20.0,23.25,move bowl
+P04_101_110,251.9,252.73,pick up spoon
+P04_101_111,253.0,254.01,close drawer
+P04_101_112,254.47,255.56,open yoghurt
+P04_101_113,255.3,255.96,put down lid
+P04_101_114,256.25,257.05,smell yoghurt
+P04_101_115,257.13,258.3,scoop yoghurt with spoon
+P04_101_116,258.72,259.65,put yoghurt in bowl
+P04_101_117,260.62,261.55,spoon yoghurt into bowl
+P04_101_118,263.27,264.3,spoon yoghurt into bowl
+P04_101_119,265.82,266.91,spoon yoghurt into bowl
+P04_101_12,23.35,24.6,move bowl
+P04_101_120,267.63,269.59,stir yoghurt
+P04_101_121,267.0,271.13,spoon yoghurt into bowl
+P04_101_122,270.79,271.63,shake spoon
+P04_101_123,272.49,273.28,put down yoghurt
+P04_101_124,273.04,273.97,pick up lid
+P04_101_125,274.15,275.19,put lid on yoghurt
+P04_101_126,279.02,279.53,pick up kettle
+P04_101_127,280.42,281.05,open kettle
+P04_101_128,280.95,282.2,turn on tap
+P04_101_129,282.3,283.55,put water in kettle
+P04_101_13,24.7,25.95,move bowl
+P04_101_130,282.89,284.99,turn off tap
+P04_101_131,285.04,285.7,close kettle lid
+P04_101_132,286.0,287.25,put down kettle
+P04_101_133,287.2,287.85,turn on kettle
+P04_101_134,288.54,289.7,touch fridge
+P04_101_135,290.76,291.65,pick up yoghurt
+P04_101_136,292.05,292.7,open fridge
+P04_101_137,292.8,294.55,put yoghurt in fridge
+P04_101_138,294.78,296.44,close fridge
+P04_101_139,296.94,298.02,open cupboard
+P04_101_14,25.94,30.34,pick up tub
+P04_101_140,298.12,300.16,look for something
+P04_101_141,300.17,301.92,pick up granola
+P04_101_142,304.17,305.7,open granola
+P04_101_143,306.02,307.12,smell granola
+P04_101_144,307.22,310.36,pour granola into bowl
+P04_101_145,310.43,311.43,put down granola
+P04_101_146,311.53,316.79,stir granola in bowl
+P04_101_147,316.87,317.69,close granola
+P04_101_148,317.79,318.97,pick up granola
+P04_101_149,321.21,322.18,open cupboard
+P04_101_15,30.36,31.04,push bowl
+P04_101_150,322.27,323.39,put granola in cupboard
+P04_101_151,324.15,325.97,push pasta
+P04_101_152,327.15,327.65,pick up honey
+P04_101_153,329.7,330.95,squeeze honey into bowl
+P04_101_154,331.51,333.55,put honey in cupboard
+P04_101_155,336.16,339.16,close flour
+P04_101_156,341.03,342.1,open cupboard
+P04_101_157,342.67,344.08,pick up coffee
+P04_101_158,345.28,346.55,pick up aeropress
+P04_101_159,346.7,347.44,put down aeropress lid
+P04_101_16,31.1,32.74,close cupboard
+P04_101_160,347.3,350.03,pull aeropress
+P04_101_161,348.0,351.52,put down aeropress
+P04_101_162,351.17,352.92,straighten aeropress
+P04_101_163,354.82,355.92,pick up spoon
+P04_101_164,357.62,358.61,pick up coffee
+P04_101_165,358.21,362.32,open coffee
+P04_101_166,359.77,366.16,spoon coffee into aeropress
+P04_101_167,366.16,366.97,put down spoon
+P04_101_168,366.97,368.2,put down coffee
+P04_101_169,368.3,374.3,open cupboard
+P04_101_17,32.5,35.5,put down tub
+P04_101_170,374.64,375.26,close cupboard
+P04_101_171,377.0,381.07,pick up mug
+P04_101_172,381.17,386.69,smell mug
+P04_101_173,386.74,387.63,pick up washing up liquid
+P04_101_174,387.67,389.09,squirt washing up liquid into mug
+P04_101_175,389.19,389.79,put down washing up liquid
+P04_101_176,389.9,391.46,turn on tap
+P04_101_177,391.49,392.95,pick up sponge
+P04_101_178,392.76,395.08,squeeze sponge
+P04_101_179,393.6,395.59,wet sponge
+P04_101_18,34.23,35.54,open lid
+P04_101_180,396.79,399.03,wash mug
+P04_101_181,399.15,400.27,turn off tap
+P04_101_182,400.25,401.6,turn on tap
+P04_101_183,401.35,411.69,wash mug
+P04_101_184,411.69,413.36,rinse mug
+P04_101_185,413.2,415.42,wash mug
+P04_101_186,415.38,415.81,put down sponge
+P04_101_187,416.05,419.37,rinse mug
+P04_101_188,419.06,420.21,turn off tap
+P04_101_189,420.1,420.72,empty mug
+P04_101_19,35.36,36.02,put down lid
+P04_101_190,420.71,423.22,pick up towel
+P04_101_191,422.95,435.89,dry mug
+P04_101_192,435.99,437.14,put down mug
+P04_101_193,439.0,440.05,open fridge
+P04_101_194,440.65,442.5,pick up starter
+P04_101_195,443.25,445.25,smell starter
+P04_101_196,446.55,447.55,put down starter
+P04_101_197,447.45,449.15,pick up tub
+P04_101_198,449.5,450.05,look at tub
+P04_101_199,450.5,451.54,put down tub
+P04_101_2,4.68,5.87,smell starter
+P04_101_20,37.53,40.0,open drawer
+P04_101_200,452.95,454.22,open drawer
+P04_101_201,454.97,455.64,close drawer
+P04_101_202,455.73,456.47,open drawer
+P04_101_203,456.9,457.6,close drawer
+P04_101_204,459.66,461.5,close fridge
+P04_101_205,481.15,482.48,pick up kettle
+P04_101_206,483.37,488.3,pour water into aeropress
+P04_101_207,488.47,490.19,put down kettle
+P04_101_208,490.28,491.16,pick up spoon
+P04_101_209,491.67,494.72,stir coffee in aeropress
+P04_101_21,36.0,38.56,turn on scales
+P04_101_210,495.56,497.29,turn on tap
+P04_101_211,495.73,497.28,rinse spoon
+P04_101_212,497.2,497.65,shake spoon
+P04_101_213,497.27,497.61,turn off tap
+P04_101_214,497.56,498.17,put down spoon
+P04_101_215,499.78,500.33,pick up lid
+P04_101_216,500.3,501.55,put lid on aeropress
+P04_101_217,500.11,501.3,screw in lid
+P04_101_218,501.4,502.77,squeeze aeropress
+P04_101_219,503.89,504.62,pick up aeropress
+P04_101_22,39.1,39.72,pick up scales
+P04_101_220,504.39,508.95,turn aeropress upside down
+P04_101_221,505.01,506.69,put aeropress on mug
+P04_101_222,506.53,523.74,push down on aeropress
+P04_101_223,523.7,525.05,pick up aeropress
+P04_101_224,526.01,528.24,screw off lid
+P04_101_225,528.34,529.15,put down lid
+P04_101_226,528.96,529.63,pick up filter
+P04_101_227,529.6,529.97,put down filter
+P04_101_228,530.03,531.61,push aeropress
+P04_101_229,531.45,532.59,turn on tap
+P04_101_23,39.82,40.72,close drawer
+P04_101_230,532.67,533.9,wash aeropress
+P04_101_231,533.66,534.4,turn off tap
+P04_101_232,534.35,535.08,shake aeropress
+P04_101_233,535.18,536.31,put down aeropress
+P04_101_234,536.94,537.8,turn on tap
+P04_101_235,538.39,539.87,rinse filter
+P04_101_236,541.55,542.02,turn off tap
+P04_101_237,542.15,542.45,shake filter
+P04_101_238,542.48,543.09,put down filter
+P04_101_239,543.14,543.85,push aeropress
+P04_101_24,40.59,42.11,move lid
+P04_101_240,543.68,546.8,dry hands
+P04_101_25,42.16,42.91,move tub
+P04_101_26,43.0,43.68,put down scales
+P04_101_27,43.6,44.62,put down tub
+P04_101_28,44.37,45.79,transfer spoon to other hand
+P04_101_29,45.5,46.54,press button on scales
+P04_101_3,7.3,8.7,open drawer
+P04_101_30,46.49,50.27,press button on scales
+P04_101_31,48.77,50.67,press button on scale
+P04_101_32,53.68,54.37,transfer spoon to other hand
+P04_101_33,54.47,55.52,pick up tub
+P04_101_34,55.23,55.9,spoon starter into tub
+P04_101_35,56.63,57.44,spoon starter into tub
+P04_101_36,61.49,66.95,shake spoon
+P04_101_37,67.05,68.18,put down tub
+P04_101_38,68.28,69.06,put down spoon
+P04_101_39,70.57,72.04,open drawer
+P04_101_4,9.11,10.2,pick up spoon
+P04_101_40,71.96,72.74,pick up spoon
+P04_101_41,73.35,76.45,open flour
+P04_101_42,76.18,79.84,spoon flour into tub
+P04_101_43,79.28,83.38,spoon flour into tub
+P04_101_44,83.22,86.44,spoon flour into tub
+P04_101_45,86.54,88.26,spoon flour into tub
+P04_101_46,88.36,90.52,shake spoon
+P04_101_47,92.55,94.3,spoon flour into tub
+P04_101_48,93.94,98.39,spoon flour into tub
+P04_101_49,96.73,97.47,shake spoon
+P04_101_5,10.26,11.19,close drawer
+P04_101_50,98.15,99.92,shake spoon
+P04_101_51,97.0,100.29,empty spoon
+P04_101_52,100.13,100.87,put down spoon
+P04_101_53,102.47,103.23,open drawer
+P04_101_54,103.94,104.44,pick up spoon
+P04_101_55,104.52,104.83,close drawer
+P04_101_56,104.93,105.79,turn on tap
+P04_101_57,105.89,108.29,fill spoon with water
+P04_101_58,108.89,110.18,smell water
+P04_101_59,110.31,110.99,empty spoon
+P04_101_6,11.89,12.64,put down starter
+P04_101_60,110.94,111.86,test water
+P04_101_61,111.01,112.92,fill spoon with water
+P04_101_62,112.44,113.96,turn off tap
+P04_101_63,115.39,122.5,empty water into tub
+P04_101_64,123.09,124.13,empty water into sink
+P04_101_65,124.15,125.17,put down spoon
+P04_101_66,125.27,126.44,pick up spoon
+P04_101_67,126.28,141.65,stir mixture
+P04_101_68,133.37,134.16,hold tub
+P04_101_69,142.9,144.63,check time
+P04_101_7,12.98,14.03,open cupboard
+P04_101_70,144.66,154.99,stir mixture
+P04_101_71,144.6,174.41,hold tub
+P04_101_72,176.19,177.56,turn on tap
+P04_101_73,177.78,178.7,put water in tub
+P04_101_74,178.68,179.39,turn off tap
+P04_101_75,179.7,181.06,stir mixture
+P04_101_76,181.13,182.8,put down tub
+P04_101_77,188.35,193.42,flatten mixture
+P04_101_78,193.24,194.25,put down tub
+P04_101_79,195.85,197.12,pick up cling film
+P04_101_8,14.21,17.07,look for tub
+P04_101_80,196.85,198.71,put cling film on tub
+P04_101_81,196.0,198.8,pick up tub
+P04_101_82,198.85,199.67,put down tub
+P04_101_83,199.65,201.59,shake spoon
+P04_101_84,201.34,202.89,open dishwasher
+P04_101_85,202.97,206.14,pull out tray
+P04_101_86,206.27,206.95,put down spoon
+P04_101_87,207.3,207.94,pick up spoon
+P04_101_88,208.0,208.77,pick up tub
+P04_101_89,210.2,210.86,open food bin
+P04_101_9,17.71,20.28,pick up tub
+P04_101_90,210.92,212.0,sniff starter
+P04_101_91,214.52,215.87,pick up starter
+P04_101_92,215.91,216.96,sniff starter
+P04_101_93,216.81,218.27,put down starter
+P04_101_94,218.19,220.38,put down starter
+P04_101_95,219.38,224.45,turn off scales
+P04_101_96,224.64,225.7,pick up scales
+P04_101_97,226.52,227.84,open drawer
+P04_101_98,227.39,228.34,put down scales
+P04_101_99,228.32,229.32,close drawer

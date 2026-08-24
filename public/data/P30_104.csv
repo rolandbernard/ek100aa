@@ -1,0 +1,140 @@
+P30_104_0,0.0,1.82,pick up v60
+P30_104_1,1.58,3.2,put filter into bin
+P30_104_10,12.2,14.13,fill up jug
+P30_104_100,212.0,215.25,pick up mug
+P30_104_101,214.3,215.15,put mug in washing up bowl
+P30_104_102,215.25,216.33,pick up water jug
+P30_104_103,216.36,217.4,put jug on drying rack
+P30_104_104,216.98,219.18,pick up knife
+P30_104_105,219.1,220.77,wash knife
+P30_104_106,220.65,221.4,put knife in washing up bowl
+P30_104_107,220.85,222.18,pick up fork
+P30_104_108,221.85,225.03,scrub fork
+P30_104_109,225.05,236.8,scrub knife
+P30_104_11,13.72,14.5,turn off tap
+P30_104_110,229.16,230.02,turn on tap
+P30_104_111,230.09,232.62,rinse fork and knife
+P30_104_112,232.37,232.81,turn off tap
+P30_104_113,233.92,235.29,put fork and knife in drying rack
+P30_104_114,235.96,236.76,pick up glass
+P30_104_115,237.27,238.1,apply washing up liquid to glass
+P30_104_116,239.08,239.9,pick up sponge
+P30_104_117,239.06,247.08,scrub glass
+P30_104_118,247.48,247.88,turn on tap
+P30_104_119,248.15,258.87,rinse glass
+P30_104_12,14.99,15.54,open kettle
+P30_104_120,261.48,263.38,put glass on drying rack
+P30_104_121,263.39,264.42,pick up mug
+P30_104_122,264.8,265.45,pick up sponge
+P30_104_123,264.64,271.34,scrub mug
+P30_104_124,271.44,280.15,rinse mug
+P30_104_125,280.48,281.0,put mug on drying rack
+P30_104_126,281.24,281.8,turn off tap
+P30_104_127,281.75,284.88,empty washing up bowl
+P30_104_128,285.27,285.87,pick up sponge
+P30_104_129,285.9,286.9,squeeze sponge
+P30_104_13,15.62,16.72,pour water from jug into kettle
+P30_104_130,287.14,290.54,wipe surface
+P30_104_131,290.35,293.69,empty washing up bowl
+P30_104_132,293.79,295.04,pick up apple
+P30_104_133,295.09,295.94,turn on tap
+P30_104_134,295.81,298.11,rinse apple
+P30_104_135,297.19,298.65,turn off tap
+P30_104_136,298.89,306.84,dry apple
+P30_104_137,306.94,310.74,eat apple
+P30_104_138,310.84,314.19,"pick up teapot, mug and teabag rest"
+P30_104_139,313.84,317.39,put down teapot and teabag rest and mug
+P30_104_14,16.93,18.46,place kettle
+P30_104_15,17.44,18.6,put jug down
+P30_104_16,18.8,19.22,turn on kettle
+P30_104_17,19.27,21.96,open bag of apples
+P30_104_18,21.76,23.83,take apple
+P30_104_19,23.85,26.24,put down apple
+P30_104_2,4.7,5.56,pick up mug and jug
+P30_104_20,26.78,27.57,pick up plate
+P30_104_21,27.7,28.01,open cupboard
+P30_104_22,28.12,29.73,put plate
+P30_104_23,30.16,30.91,open drawer
+P30_104_24,30.74,30.99,pick up knife
+P30_104_25,31.24,31.83,put knife in drawer
+P30_104_26,31.76,32.2,close drawer
+P30_104_27,32.99,33.53,open cupboard
+P30_104_28,34.02,34.6,open cupboard
+P30_104_29,36.84,37.52,take bag of tea
+P30_104_3,7.05,7.8,"put down mug, jug and v60"
+P30_104_30,39.0,42.02,open bag of tea
+P30_104_31,41.6,43.6,smell tea
+P30_104_32,43.61,46.2,take tea pot
+P30_104_33,46.3,47.3,put tea pot on surface
+P30_104_34,47.4,48.4,take teabag holder
+P30_104_35,47.54,48.18,put down teabag holder
+P30_104_36,48.45,49.73,open tea pot
+P30_104_37,50.55,51.37,open drawer
+P30_104_38,51.23,53.55,pick up spoon
+P30_104_39,53.59,55.91,scoop tea leaves
+P30_104_4,8.89,9.39,pick up jug
+P30_104_40,55.76,56.84,put tea leaves into teapot
+P30_104_41,57.65,59.66,scoop tea leaves
+P30_104_42,56.93,61.3,put tea leaves into tea pot
+P30_104_43,61.31,63.79,put spoon into drawer
+P30_104_44,63.36,66.34,put bag of tea into cupboard
+P30_104_45,66.14,67.29,close cupboard
+P30_104_46,67.3,68.33,pick up mug
+P30_104_47,68.43,69.44,pick up teabag rest
+P30_104_48,69.54,72.2,pick up teapot
+P30_104_49,71.95,74.32,put down teapot
+P30_104_5,9.24,9.52,turn on tap
+P30_104_50,73.19,73.97,put down mug
+P30_104_51,73.93,75.1,put down teabag rest
+P30_104_52,76.81,77.38,open cupboard
+P30_104_53,77.54,79.54,pick up bag of tea
+P30_104_54,81.36,82.05,put down bag of tea
+P30_104_55,82.06,82.83,close cupboard
+P30_104_56,83.36,84.65,close drawer
+P30_104_57,85.36,85.95,turn on tap
+P30_104_58,86.14,86.67,pick up sponge
+P30_104_59,86.77,87.51,rinse sponge
+P30_104_6,9.55,10.25,fill up jug
+P30_104_60,86.86,88.89,apply washing up liquid to sponge
+P30_104_61,89.77,90.27,turn off tap
+P30_104_62,90.79,99.0,wash v60
+P30_104_63,99.09,100.56,turn on tap
+P30_104_64,100.17,107.87,rinse v60
+P30_104_65,107.66,108.3,turn off tap
+P30_104_66,108.34,109.34,put v60 on drying rack
+P30_104_67,109.44,110.98,pick up kettle
+P30_104_68,111.36,115.13,pour water into tea pot
+P30_104_69,115.02,116.28,close cupboard
+P30_104_7,10.35,10.63,empty jug
+P30_104_70,119.12,119.86,put down kettle
+P30_104_71,120.43,121.34,close tea pot
+P30_104_72,122.63,123.17,pick up plate
+P30_104_73,122.88,128.04,scrub plate
+P30_104_74,128.14,128.91,turn on tap
+P30_104_75,128.84,130.69,rinse plate
+P30_104_76,130.26,130.61,pick up sponge
+P30_104_77,130.4,130.75,put down sponge
+P30_104_78,132.76,133.38,pick up sponge
+P30_104_79,133.4,134.84,scrub plate
+P30_104_8,10.73,11.6,fill up jug
+P30_104_80,134.3,134.62,put down sponge
+P30_104_81,134.72,138.18,rinse plate
+P30_104_82,137.69,140.89,put down plate on drying rack
+P30_104_83,140.81,141.77,pick up salad spinner piece
+P30_104_84,141.85,147.83,scrub salad spinner piece
+P30_104_85,147.68,164.34,rinse salad spinner piece
+P30_104_86,164.25,167.25,put salad spinner piece on drying rack
+P30_104_87,167.27,167.9,pick up salad spinner piece
+P30_104_88,168.65,175.61,scrub salad spinner piece
+P30_104_89,175.71,182.5,rinse salad spinner piece
+P30_104_9,11.7,12.03,empty jug
+P30_104_90,182.87,185.49,put salad spinner piece on drying rack
+P30_104_91,185.48,186.73,pick up salad spinner piece
+P30_104_92,186.83,188.58,rinse salad spinner piece
+P30_104_93,187.15,187.87,turn off tap
+P30_104_94,188.89,199.84,scrub salad spinner piece
+P30_104_95,199.98,200.51,put down sponge
+P30_104_96,200.27,202.0,turn on tap
+P30_104_97,201.62,210.87,rinse salad spinner piece
+P30_104_98,210.85,211.47,turn off tap
+P30_104_99,211.57,213.36,put salad spinner piece on drying rack

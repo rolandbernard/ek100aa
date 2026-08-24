@@ -1,0 +1,301 @@
+P25_106_0,2.22,3.55,open cupboard
+P25_106_1,3.91,6.17,pick up pot
+P25_106_10,60.66,62.25,pick up pan
+P25_106_100,532.66,534.68,put down jar
+P25_106_101,539.09,540.54,pick up bacon
+P25_106_102,540.83,542.57,pick up spoon
+P25_106_103,543.34,561.71,put bacon
+P25_106_104,561.73,564.2,put down package
+P25_106_105,564.8,580.26,stir bacon
+P25_106_106,580.36,581.7,put down spoon
+P25_106_107,588.25,591.04,pick up spoon
+P25_106_108,591.51,602.18,stir onion
+P25_106_109,602.44,603.95,put down spoon
+P25_106_11,63.26,64.09,pick up lid
+P25_106_110,610.74,619.28,stir egg
+P25_106_111,618.3,619.28,put down plate
+P25_106_112,627.31,633.09,stir eggs
+P25_106_113,645.24,646.67,pick up spoon
+P25_106_114,646.96,667.88,stir onion
+P25_106_115,670.61,672.6,put down spoon
+P25_106_116,670.95,671.93,pick up knife
+P25_106_117,673.25,674.87,pick up parmesan
+P25_106_118,675.64,681.66,open parmesan
+P25_106_119,681.76,684.19,put down parmesan
+P25_106_12,64.08,65.9,put down lid
+P25_106_120,684.29,685.57,put down knife
+P25_106_121,686.86,687.35,pick up spoon
+P25_106_122,687.86,693.43,stir onion
+P25_106_123,693.51,695.52,put down spoon
+P25_106_124,695.62,697.11,open lid
+P25_106_125,697.21,699.88,put down lid
+P25_106_126,705.15,708.66,pick up spoon
+P25_106_127,708.61,727.72,stir onion
+P25_106_128,728.19,729.05,put down spoon
+P25_106_129,729.81,734.47,turn off hob
+P25_106_13,65.89,67.74,move pan
+P25_106_130,733.53,737.45,move pan
+P25_106_131,742.0,745.54,open lid
+P25_106_132,745.0,746.64,close lid
+P25_106_133,746.78,749.45,pick up pasta
+P25_106_134,756.2,758.13,put down pasta
+P25_106_135,757.59,762.25,put down knife
+P25_106_136,763.76,767.83,open pasta
+P25_106_137,772.12,785.8,stir eggs
+P25_106_138,787.58,797.78,pick up oil
+P25_106_139,797.57,798.79,open cupboard
+P25_106_14,68.33,69.67,open drawer
+P25_106_140,798.93,800.64,put down oil
+P25_106_141,800.56,801.16,close cupboard
+P25_106_142,809.8,817.65,stir eggs
+P25_106_143,817.82,821.03,move plate
+P25_106_144,821.02,823.53,move pasta
+P25_106_145,823.03,826.86,put down plate
+P25_106_146,827.16,829.37,open cupboard
+P25_106_147,829.28,830.35,pick up washing up liquid
+P25_106_148,830.4,831.32,close cupboard
+P25_106_149,831.06,833.26,turn on tap
+P25_106_15,69.77,70.7,pick up lighter
+P25_106_150,833.28,835.4,wash sponge
+P25_106_151,835.8,837.4,pour detergent
+P25_106_152,838.91,840.27,pick up knife
+P25_106_153,840.55,847.48,lather knife
+P25_106_154,847.49,850.13,rinse knife
+P25_106_155,850.13,851.11,put down knife
+P25_106_156,851.07,851.94,pick up spoon
+P25_106_157,852.09,857.2,lather spoon
+P25_106_158,857.05,863.21,wash spoon
+P25_106_159,863.17,865.73,put down spoon
+P25_106_16,71.24,74.49,open cupboard
+P25_106_160,865.74,866.93,pick up knife
+P25_106_161,867.2,871.3,lather knife
+P25_106_162,871.4,874.02,rinse knife
+P25_106_163,874.1,875.24,put down knife
+P25_106_164,875.1,881.49,rinse sponge
+P25_106_165,894.57,898.81,pick up paper
+P25_106_166,899.27,901.78,dry hands
+P25_106_167,901.76,902.46,throw paper
+P25_106_168,906.98,908.45,turn off tap
+P25_106_169,918.69,919.7,open cupboard
+P25_106_17,76.59,79.59,turn on hob
+P25_106_170,919.69,920.75,put down detergent
+P25_106_171,920.27,921.64,close cupboard
+P25_106_172,925.4,926.73,turn on tap
+P25_106_173,930.84,932.16,turn off tap
+P25_106_174,940.57,944.66,dry hands
+P25_106_175,949.68,950.87,open lid
+P25_106_176,971.24,973.03,pick up knife
+P25_106_177,972.65,976.22,dry knife
+P25_106_178,976.32,976.91,open drawer
+P25_106_179,976.9,977.67,put down knife
+P25_106_18,81.19,83.69,move pot
+P25_106_180,978.41,979.6,pick up knife
+P25_106_181,979.43,982.35,dry knife
+P25_106_182,982.46,983.05,put down knife
+P25_106_183,983.53,984.42,pick up spoon
+P25_106_184,985.03,988.28,dry spoon
+P25_106_185,988.29,989.06,put down spoon
+P25_106_186,989.12,990.21,close drawer
+P25_106_187,994.27,995.78,lift lid
+P25_106_188,995.56,998.89,close lid
+P25_106_189,1000.19,1001.43,pick up pasta
+P25_106_19,84.57,86.17,put down lighter
+P25_106_190,1007.73,1009.5,lift lid
+P25_106_191,1008.96,1012.79,put down lid
+P25_106_192,1017.56,1020.03,close lid
+P25_106_193,1020.53,1023.87,put down pasta
+P25_106_194,1026.4,1027.77,pick up spoon
+P25_106_195,1027.87,1034.84,stir onion
+P25_106_196,1034.56,1035.86,put down spoon
+P25_106_197,1037.68,1041.44,pick up paper
+P25_106_198,1041.54,1043.44,dry hands
+P25_106_199,1043.47,1044.81,pick up pasta
+P25_106_2,6.27,7.62,put down pot
+P25_106_20,85.86,86.89,pick up onion
+P25_106_200,1045.61,1046.29,open cupboard
+P25_106_201,1045.0,1048.26,put down pasta
+P25_106_202,1048.36,1049.84,close cupboard
+P25_106_203,1055.94,1057.12,turn on tap
+P25_106_204,1057.57,1062.45,wash hands
+P25_106_205,1062.48,1063.68,turn off tap
+P25_106_206,1072.3,1078.92,dry hands
+P25_106_207,1079.03,1079.85,pick up spoon
+P25_106_208,1085.36,1087.6,lift lid
+P25_106_209,1088.0,1091.33,put down lid
+P25_106_21,91.0,93.0,pick up knife
+P25_106_210,1091.16,1093.38,pick up pasta
+P25_106_211,1097.71,1100.5,pour pasta
+P25_106_212,1100.6,1106.04,pick up pasta
+P25_106_213,1106.08,1107.97,pour pasta
+P25_106_214,1108.07,1112.2,pick up pasta
+P25_106_215,1112.22,1113.38,pour pasta
+P25_106_216,1113.48,1116.66,close pasta
+P25_106_217,1116.74,1118.11,put down pasta
+P25_106_218,1118.2,1119.69,open drawer
+P25_106_219,1119.79,1123.64,take fork
+P25_106_22,95.85,97.59,pick up paper
+P25_106_220,1122.79,1133.63,stir pasta
+P25_106_221,1132.85,1134.35,put down fork
+P25_106_222,1134.93,1136.26,open drawer
+P25_106_223,1136.79,1138.29,pick up teaspoon
+P25_106_224,1139.36,1140.53,close drawer
+P25_106_225,1140.87,1141.54,pick up salt
+P25_106_226,1141.74,1153.94,pour salt
+P25_106_227,1154.26,1155.66,put down container
+P25_106_228,1155.39,1157.92,pick up spoon
+P25_106_229,1157.99,1163.74,stir pasta
+P25_106_23,99.19,100.34,pick up knife
+P25_106_230,1163.66,1164.86,put down spoon
+P25_106_231,1173.0,1174.1,pick up spoon
+P25_106_232,1174.56,1188.84,stir pasta
+P25_106_233,1190.0,1191.35,put down spoon
+P25_106_234,1198.78,1203.95,stir pasta
+P25_106_235,1204.76,1205.91,put down spoon
+P25_106_236,1207.89,1208.78,open cupboard
+P25_106_237,1208.67,1225.21,pick up colander
+P25_106_238,1225.2,1226.92,close cupboard
+P25_106_239,1228.4,1232.33,put down colander
+P25_106_24,100.29,102.79,dry knife
+P25_106_240,1235.77,1237.09,pick up spoon
+P25_106_241,1237.0,1249.63,stir pasta
+P25_106_242,1250.35,1251.77,put down spoon
+P25_106_243,1263.28,1265.22,pick up pasta
+P25_106_244,1268.14,1284.89,close pasta
+P25_106_245,1284.99,1286.49,open cupboard
+P25_106_246,1286.38,1288.73,put down pasta
+P25_106_247,1288.1,1290.98,close cupboard
+P25_106_248,1292.65,1302.4,stir egg
+P25_106_249,1303.37,1305.73,put down plate
+P25_106_25,105.64,107.14,pick up onion
+P25_106_250,1307.88,1316.38,stir pasta
+P25_106_251,1316.81,1317.96,put down spoon
+P25_106_252,1319.52,1320.42,open fridge
+P25_106_253,1323.12,1324.83,pick up eggs
+P25_106_254,1325.24,1326.0,close fridge
+P25_106_255,1326.67,1331.74,crack eggs
+P25_106_256,1341.74,1342.56,pick up eggs
+P25_106_257,1342.66,1345.63,close package
+P25_106_258,1346.69,1347.69,take fork
+P25_106_259,1348.0,1350.62,crack eggs
+P25_106_26,106.98,127.65,cut onion
+P25_106_260,1350.6,1351.25,put down fork
+P25_106_261,1350.0,1355.23,crack eggs
+P25_106_262,1356.27,1359.99,throw egg
+P25_106_263,1360.47,1361.81,pick up package
+P25_106_264,1362.23,1364.18,open fridge
+P25_106_265,1364.41,1366.04,put down package
+P25_106_266,1365.79,1366.77,close fridge
+P25_106_267,1369.32,1371.53,pick up plate
+P25_106_268,1371.64,1408.01,stir egg
+P25_106_269,1408.52,1409.33,pick up spoon
+P25_106_27,127.75,129.69,turn on tap
+P25_106_270,1409.88,1419.56,stir pasta
+P25_106_271,1420.13,1421.01,put down spoon
+P25_106_272,1428.19,1429.24,pick up spoon
+P25_106_273,1429.3,1440.3,stir pasta
+P25_106_274,1440.71,1441.58,put down spoon
+P25_106_275,1443.23,1444.14,pick up phone
+P25_106_276,1445.94,1447.29,put down phone
+P25_106_277,1448.59,1449.4,pick up spoon
+P25_106_278,1449.39,1460.83,stir pasta
+P25_106_279,1461.26,1462.64,put down spoon
+P25_106_28,129.76,139.29,cut onion
+P25_106_280,1470.43,1471.63,pick up spoon
+P25_106_281,1470.0,1485.53,stir pasta
+P25_106_282,1485.56,1487.1,put down spoon
+P25_106_283,1500.97,1514.95,drain pasta
+P25_106_284,1515.05,1517.55,put down pan
+P25_106_285,1516.67,1518.59,pick up colander
+P25_106_286,1525.61,1528.49,pour pasta
+P25_106_287,1528.89,1530.04,put down colander
+P25_106_288,1529.72,1533.59,pick up spoon
+P25_106_289,1533.67,1535.44,pick up plate
+P25_106_29,139.36,147.03,wash onion
+P25_106_290,1535.48,1538.02,pour egg
+P25_106_291,1542.0,1549.35,stir pasta
+P25_106_292,1549.4,1550.11,pick up pan
+P25_106_293,1550.26,1558.72,put bacon
+P25_106_294,1559.53,1572.97,stir pasta
+P25_106_295,1572.64,1583.61,open parmesan
+P25_106_296,1583.71,1587.62,pour parmesan
+P25_106_297,1588.3,1589.66,pick up spoon
+P25_106_298,1589.92,1612.07,stir pasta
+P25_106_299,1612.71,1613.99,put down spoon
+P25_106_3,8.33,9.36,pick up pan
+P25_106_30,146.74,156.93,cut onion
+P25_106_300,1613.79,1615.64,turn off hob
+P25_106_31,200.01,203.47,put down knife
+P25_106_32,203.57,204.95,wash hands
+P25_106_33,207.07,210.54,pick up onion
+P25_106_34,210.61,213.08,throw paper
+P25_106_35,213.09,214.62,wash hands
+P25_106_36,218.59,219.46,open cupboard
+P25_106_37,219.56,221.06,pick up oil
+P25_106_38,220.81,221.94,close cupboard
+P25_106_39,223.17,224.68,put down bottle
+P25_106_4,9.83,12.92,put down pan
+P25_106_40,224.37,225.59,open bottle
+P25_106_41,225.98,230.1,pour oil
+P25_106_42,230.4,231.85,put down bottle
+P25_106_43,235.87,253.0,turn on hob
+P25_106_44,254.38,257.85,move pan
+P25_106_45,257.95,258.75,open drawer
+P25_106_46,259.81,261.58,pick up spoon
+P25_106_47,262.14,263.43,stir onion
+P25_106_48,263.78,266.46,turn on light
+P25_106_49,267.29,278.12,stir onion
+P25_106_5,13.4,15.74,move lid
+P25_106_50,278.7,284.62,pick up paper
+P25_106_51,286.93,288.47,put down paper
+P25_106_52,288.5,289.74,put down spoon
+P25_106_53,296.29,297.66,open fridge
+P25_106_54,297.39,300.97,pick up cheese
+P25_106_55,305.43,307.01,open fridge
+P25_106_56,307.56,309.34,pick up eggs
+P25_106_57,311.13,313.31,put down eggs
+P25_106_58,314.11,318.72,close oil bottle
+P25_106_59,318.31,319.74,put down bottle
+P25_106_6,15.7,17.72,turn on tap
+P25_106_60,320.81,322.59,open cupboard
+P25_106_61,322.05,323.9,pick up plate
+P25_106_62,324.62,326.14,put down plate
+P25_106_63,326.37,330.95,pick up eggs
+P25_106_64,333.97,336.37,pick up container
+P25_106_65,336.33,338.72,throw container
+P25_106_66,340.33,341.34,pick up spoon
+P25_106_67,343.69,345.49,crack eggs
+P25_106_68,345.59,351.27,put down eggs
+P25_106_69,351.07,351.96,pick up eggs
+P25_106_7,17.72,55.76,pour water
+P25_106_70,352.06,356.75,crack eggs
+P25_106_71,359.3,360.91,put down spoon
+P25_106_72,361.01,364.66,throw eggs
+P25_106_73,364.74,365.61,pick up spoon
+P25_106_74,365.82,366.67,put down spoon
+P25_106_75,366.72,368.48,wash hands
+P25_106_76,368.58,369.39,turn off tap
+P25_106_77,381.0,382.23,open drawer
+P25_106_78,382.27,383.29,take fork
+P25_106_79,383.22,383.92,close drawer
+P25_106_8,56.35,57.68,put down pot
+P25_106_80,386.57,387.5,tear paper
+P25_106_81,390.09,391.09,open drawer
+P25_106_82,392.54,394.41,pick up spoon
+P25_106_83,395.31,396.15,put down knife
+P25_106_84,396.69,411.3,stir onion
+P25_106_85,412.36,414.18,put down spoon
+P25_106_86,423.42,424.29,take fork
+P25_106_87,424.26,461.71,stir eggs
+P25_106_88,461.71,462.83,put down plate
+P25_106_89,473.12,484.44,stir onion
+P25_106_9,58.34,59.81,turn off tap
+P25_106_90,484.54,485.69,put down spoon
+P25_106_91,487.37,488.1,pick up knife
+P25_106_92,488.2,494.64,cut package
+P25_106_93,494.63,508.47,open bacon
+P25_106_94,516.07,517.18,pick up spoon
+P25_106_95,517.21,525.81,stir onion
+P25_106_96,525.79,526.83,put down spoon
+P25_106_97,527.81,528.56,open cupboard
+P25_106_98,529.03,529.95,pick up jar
+P25_106_99,531.21,532.34,open jar

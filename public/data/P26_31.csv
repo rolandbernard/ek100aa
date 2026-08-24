@@ -1,0 +1,18 @@
+P26_31_0,1.98,3.29,open door
+P26_31_1,3.39,5.65,take small saucepan
+P26_31_10,35.22,35.88,open door
+P26_31_11,36.22,42.45,take tea
+P26_31_12,45.35,46.42,close door
+P26_31_13,48.7,51.54,put down tea
+P26_31_14,52.82,55.21,open the door
+P26_31_15,54.56,57.88,take pan
+P26_31_16,59.08,61.51,put pan on the stove
+P26_31_17,65.99,71.01,turn on the stove
+P26_31_2,5.63,6.58,close door
+P26_31_3,6.35,8.72,turn on tap
+P26_31_4,11.21,11.84,turn off tap
+P26_31_5,12.54,14.87,put small saucepan on hob
+P26_31_6,14.6,16.07,open door
+P26_31_7,15.85,18.1,turn on gas
+P26_31_8,21.38,25.26,turn on hob
+P26_31_9,24.86,29.32,adjust flame

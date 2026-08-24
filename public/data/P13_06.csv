@@ -1,0 +1,22 @@
+P13_06_0,3.37,5.45,open freezer
+P13_06_1,5.53,7.9,pick up pizza
+P13_06_10,72.79,76.34,open oven
+P13_06_11,76.44,79.81,put pizza in oven
+P13_06_12,78.13,80.97,close oven
+P13_06_13,86.2,87.23,open drawer
+P13_06_14,87.33,89.25,put oven glove in drawer
+P13_06_15,90.23,91.17,grab scissors
+P13_06_16,91.45,92.38,open drawer
+P13_06_17,92.48,94.03,put scissors in drawer
+P13_06_18,94.87,96.02,close drawer
+P13_06_19,96.8,99.26,grab plastic
+P13_06_2,13.23,20.55,open pizza
+P13_06_20,99.49,101.97,throw plastic in trash
+P13_06_21,104.33,108.17,put down pizza box in table
+P13_06_3,28.02,30.91,pick up scissors
+P13_06_4,30.3,47.5,cut pizza package
+P13_06_5,57.67,59.89,open drawer
+P13_06_6,59.63,60.34,close drawer
+P13_06_7,60.81,61.83,open drawer
+P13_06_8,61.93,62.98,pick up mitten
+P13_06_9,68.77,71.38,pick up pizza

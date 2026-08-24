@@ -23,14 +23,20 @@ function SearchBar(props: InnerProps) {
     const [query, setQuery] = useState(props.defaultValue);
     const suggestions = useSuggestions();
     const sortedSuggestions = useMemo(() => {
-        const scores = Object.fromEntries(
-            suggestions.map(t => [t, scoreQuery(t, query)]),
+        const small_suggestions = suggestions.filter(e =>
+            e.toLowerCase().includes(query.toLowerCase()),
         );
-        return suggestions
+        if (small_suggestions.length >= 1000) {
+            small_suggestions.length = 1000;
+        }
+        const scores = Object.fromEntries(
+            small_suggestions.map(t => [t, scoreQuery(t, query)]),
+        );
+        return small_suggestions
             .sort((a, b) =>
                 scores[a]! > scores[b]! ? -1 : scores[a]! < scores[b]! ? 1 : 0,
             )
-            .slice(0, Math.min(10, suggestions.length));
+            .slice(0, Math.min(10, small_suggestions.length));
     }, [suggestions, query]);
     return (
         <div
@@ -72,34 +78,42 @@ function SearchBar(props: InnerProps) {
                             onKeyDown={e => {
                                 if (e.key === "ArrowUp") {
                                     const idx = hovering
-                                        ? suggestions.indexOf(hovering)
+                                        ? sortedSuggestions.indexOf(hovering)
                                         : -1;
                                     if (idx < 0) {
                                         setHovering([
                                             true,
-                                            suggestions[suggestions.length - 1],
+                                            sortedSuggestions[
+                                                sortedSuggestions.length - 1
+                                            ],
                                         ]);
                                     } else if (idx === 0) {
                                         setHovering([false, undefined]);
                                     } else {
                                         setHovering([
                                             true,
-                                            suggestions[idx - 1],
+                                            sortedSuggestions[idx - 1],
                                         ]);
                                     }
                                     e.preventDefault();
                                 } else if (e.key === "ArrowDown") {
                                     const idx = hovering
-                                        ? suggestions.indexOf(hovering)
+                                        ? sortedSuggestions.indexOf(hovering)
                                         : -1;
                                     if (idx < 0) {
-                                        setHovering([true, suggestions[0]]);
-                                    } else if (idx === suggestions.length - 1) {
+                                        setHovering([
+                                            true,
+                                            sortedSuggestions[0],
+                                        ]);
+                                    } else if (
+                                        idx ===
+                                        sortedSuggestions.length - 1
+                                    ) {
                                         setHovering([false, undefined]);
                                     } else {
                                         setHovering([
                                             true,
-                                            suggestions[idx + 1],
+                                            sortedSuggestions[idx + 1],
                                         ]);
                                     }
                                     e.preventDefault();
@@ -135,7 +149,10 @@ function SearchBar(props: InnerProps) {
                                     onMouseEnter={() =>
                                         setHovering([false, row])
                                     }
-                                    onClick={() => setHovering([false, row])}
+                                    onClick={() => {
+                                        setQuery("");
+                                        setHovering([false, row]);
+                                    }}
                                 >
                                     <Search
                                         className={

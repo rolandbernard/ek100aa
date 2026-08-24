@@ -1,0 +1,40 @@
+P32_04_0,1.63,2.94,put down spoon
+P32_04_1,2.66,4.2,pick up cloth
+P32_04_10,52.51,57.89,rinse cloth
+P32_04_11,60.3,60.91,put down cloth
+P32_04_12,70.24,73.08,rinse dish
+P32_04_13,70.27,93.64,wash dish
+P32_04_14,93.74,96.81,put dish
+P32_04_15,98.52,109.3,wash pot
+P32_04_16,108.18,119.62,rinse pot
+P32_04_17,119.69,122.68,put pot
+P32_04_18,126.82,164.45,wash pan
+P32_04_19,164.09,184.95,rinse pan
+P32_04_2,4.29,5.2,open door
+P32_04_20,164.38,172.15,wash pan
+P32_04_21,184.97,190.89,put down pan
+P32_04_22,192.75,201.66,wash cup
+P32_04_23,202.52,208.15,rinse cup
+P32_04_24,215.67,224.35,wash fork
+P32_04_25,224.45,227.61,rinse fork
+P32_04_26,234.44,238.77,wash fork
+P32_04_27,238.87,241.69,rinse fork
+P32_04_28,244.4,249.19,wash spoon
+P32_04_29,249.16,251.89,rinse spoon
+P32_04_3,7.04,9.53,spray degreaser
+P32_04_30,283.94,285.19,wash spoon
+P32_04_31,285.71,287.86,wash teaspoon
+P32_04_32,287.96,289.72,rinse spoon and teaspoon
+P32_04_33,316.86,317.68,pick up cloth
+P32_04_34,317.78,319.32,rinse cloth
+P32_04_35,321.83,336.05,clean cooker
+P32_04_36,336.71,340.26,rinse cloth
+P32_04_37,346.65,347.43,put down cloth
+P32_04_38,347.69,351.13,wash sponge
+P32_04_39,355.34,356.19,put down sponge
+P32_04_4,9.58,10.97,pick up cloth
+P32_04_5,10.8,11.77,turn on water
+P32_04_6,11.87,16.12,wring cloth
+P32_04_7,16.22,26.9,clean sink
+P32_04_8,27.0,30.42,wash cloth
+P32_04_9,30.25,52.21,clean sink

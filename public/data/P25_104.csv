@@ -1,0 +1,263 @@
+P25_104_0,2.06,2.97,pick up lighter
+P25_104_1,5.08,7.91,turn on hob
+P25_104_10,32.29,34.37,put down bottle
+P25_104_100,300.82,301.9,pick up parmesan
+P25_104_101,302.65,303.43,put down parmesan
+P25_104_102,303.17,306.3,pick up bottle
+P25_104_103,306.19,308.87,close bottle
+P25_104_104,308.97,313.88,put down bottle
+P25_104_105,315.06,316.28,turn on tap
+P25_104_106,316.28,318.34,wash hands
+P25_104_107,321.01,322.07,open cupboard
+P25_104_108,322.17,323.4,pick up washing up liquid
+P25_104_109,323.23,324.2,close cupboard
+P25_104_11,35.13,37.42,pick up paper
+P25_104_110,325.98,327.45,pick up sponge
+P25_104_111,327.55,329.73,wash sponge
+P25_104_112,329.3,330.47,pick up soap
+P25_104_113,329.78,331.5,pour soap
+P25_104_114,333.6,335.1,pick up lid
+P25_104_115,335.18,338.96,lather lid
+P25_104_116,338.95,341.35,rinse lid
+P25_104_117,341.45,349.02,lather lid
+P25_104_118,348.71,349.9,wash hands
+P25_104_119,349.93,375.85,rinse lid
+P25_104_12,37.52,41.33,put down paper
+P25_104_120,375.95,379.48,put down lid
+P25_104_121,379.8,381.58,wash hands
+P25_104_122,380.9,382.15,turn off tap
+P25_104_123,386.6,388.05,pick up spoon
+P25_104_124,388.1,392.98,stir sauce
+P25_104_125,393.8,394.65,put down spoon
+P25_104_126,395.11,396.08,pick up spoon
+P25_104_127,396.18,400.55,stir pasta
+P25_104_128,400.71,401.63,put down spoon
+P25_104_129,402.7,404.61,pick up lid
+P25_104_13,41.94,42.64,open drawer
+P25_104_130,404.9,406.18,put down lid
+P25_104_131,407.15,410.08,pick up soap
+P25_104_132,410.37,411.68,open cupboard
+P25_104_133,411.54,412.32,put down washing up liquid
+P25_104_134,412.31,413.4,close cupboard
+P25_104_135,415.76,417.85,pick up spoon
+P25_104_136,418.18,421.16,stir sauce
+P25_104_137,421.76,422.44,pick up tissue
+P25_104_138,424.78,426.25,put down spoon
+P25_104_139,428.71,429.87,open cupboard
+P25_104_14,42.96,43.96,pick up spoon
+P25_104_140,429.76,432.93,pick up colander
+P25_104_141,436.31,438.06,put down colander
+P25_104_142,438.38,440.13,pick up container
+P25_104_143,441.02,442.48,put down container
+P25_104_144,446.86,448.74,turn on tap
+P25_104_145,448.36,452.56,wash colander
+P25_104_146,452.66,454.88,put down colander
+P25_104_147,455.57,456.72,turn off tap
+P25_104_148,458.64,460.71,pick up paper
+P25_104_149,460.66,465.17,tear paper
+P25_104_15,44.87,49.25,stir onion
+P25_104_150,467.74,471.26,dry fork
+P25_104_151,471.54,472.69,open drawer
+P25_104_152,472.58,473.93,put down fork
+P25_104_153,474.0,476.53,pick up knife
+P25_104_154,476.35,479.47,dry knife
+P25_104_155,479.55,480.55,put down knife
+P25_104_156,480.5,481.75,pick up teaspoon
+P25_104_157,482.52,485.58,dry teaspoon
+P25_104_158,485.68,486.5,put down teaspoon
+P25_104_159,486.2,487.97,pick up teaspoon
+P25_104_16,50.73,52.79,put down spoon
+P25_104_160,487.55,492.99,dry teaspoon
+P25_104_161,493.0,494.0,put down teaspoon
+P25_104_162,497.15,498.32,pick up spoon
+P25_104_163,498.25,504.57,stir sauce
+P25_104_164,505.56,506.64,put down spoon
+P25_104_165,506.95,507.87,pick up spoon
+P25_104_166,509.55,510.55,open lid
+P25_104_167,510.51,515.15,stir pasta
+P25_104_168,515.18,517.25,close lid
+P25_104_169,517.22,518.38,put down spoon
+P25_104_17,54.04,55.01,move bottle
+P25_104_170,520.89,522.2,pick up spoon
+P25_104_171,522.8,530.69,stir sauce
+P25_104_172,529.75,531.95,put down spoon
+P25_104_173,533.0,534.47,turn off hob
+P25_104_174,536.78,537.88,pick up paper
+P25_104_175,539.14,540.16,pick up paper
+P25_104_176,541.76,543.18,throw paper
+P25_104_177,546.28,547.41,pick up teaspoon
+P25_104_178,548.4,550.07,put down teaspoon
+P25_104_179,550.74,551.2,pick up lid
+P25_104_18,55.81,56.62,pick up knife
+P25_104_180,551.21,551.91,put down lid
+P25_104_181,552.0,552.69,pick up salt
+P25_104_182,554.08,555.02,open cupboard
+P25_104_183,554.46,555.25,put down salt
+P25_104_184,555.31,556.49,close cupboard
+P25_104_185,557.39,558.44,pick up spoon
+P25_104_186,559.0,560.3,open lid
+P25_104_187,560.45,565.07,stir pasta
+P25_104_188,564.84,566.83,put down lid
+P25_104_189,566.83,567.89,put down spoon
+P25_104_19,56.58,57.32,put down knife
+P25_104_190,569.57,571.46,pick up spoon
+P25_104_191,572.22,573.97,put down spoon
+P25_104_192,574.4,575.2,throw paper
+P25_104_193,573.0,576.17,open cupboard
+P25_104_194,576.27,577.36,pick up washing up liquid
+P25_104_195,577.33,578.54,close cupboard
+P25_104_196,578.6,579.44,put down detergent
+P25_104_197,579.37,580.22,turn on tap
+P25_104_198,580.32,581.68,pick up sponge
+P25_104_199,581.6,582.85,wash sponge
+P25_104_2,8.41,9.79,put down lighter
+P25_104_20,57.42,58.32,turn on tap
+P25_104_200,582.89,583.96,pick up washing up liquid
+P25_104_201,583.26,584.23,pour detergent
+P25_104_202,584.3,585.64,put down detergent
+P25_104_203,586.23,587.63,pick up spoon
+P25_104_204,587.23,593.93,wash spoon
+P25_104_205,589.18,598.23,rinse spoon
+P25_104_206,598.33,599.06,put down spoon
+P25_104_207,603.22,604.82,wash spoon
+P25_104_208,605.59,608.23,rinse spoon
+P25_104_209,608.05,609.05,put down spoon
+P25_104_21,61.56,63.26,pick up washing up liquid
+P25_104_210,610.61,615.32,wash hands
+P25_104_211,615.09,616.96,turn off tap
+P25_104_212,618.56,620.25,pick up soap
+P25_104_213,620.91,621.79,open cupboard
+P25_104_214,621.6,622.85,put down washing up liquid
+P25_104_215,622.95,624.06,close cupboard
+P25_104_216,628.66,633.24,turn down hob
+P25_104_217,634.4,636.54,pick up spoon
+P25_104_218,636.75,638.25,open lid
+P25_104_219,638.35,641.1,stir pasta
+P25_104_22,63.36,64.19,put down detergent
+P25_104_220,641.0,643.99,close lid
+P25_104_221,644.05,645.53,put down teaspoon
+P25_104_222,656.9,658.41,pick up spoon
+P25_104_223,659.18,660.84,open lid
+P25_104_224,661.04,667.47,stir pasta
+P25_104_225,667.69,669.7,close lid
+P25_104_226,668.9,670.73,put down teaspoon
+P25_104_227,670.79,677.45,pick up lighter
+P25_104_228,678.42,679.12,open drawer
+P25_104_229,679.12,679.72,put down lighter
+P25_104_23,66.57,67.45,pick up sponge
+P25_104_230,679.82,680.36,close drawer
+P25_104_231,695.61,699.44,pick up spoon
+P25_104_232,696.7,700.67,open lid
+P25_104_233,701.25,709.83,stir pasta
+P25_104_234,710.48,712.48,close lid
+P25_104_235,712.43,714.3,put down spoon
+P25_104_236,716.47,717.8,turn on tap
+P25_104_237,717.9,727.97,wash hands
+P25_104_238,731.75,735.1,pick up paper
+P25_104_239,735.0,736.45,tear paper
+P25_104_24,67.23,69.56,wash sponge
+P25_104_240,739.27,740.8,pick up teaspoon
+P25_104_241,740.9,745.45,dry teaspoon
+P25_104_242,745.0,745.88,open drawer
+P25_104_243,745.5,746.75,put down teaspoon
+P25_104_244,747.0,747.87,pick up spoon
+P25_104_245,748.75,751.12,dry spoon
+P25_104_246,751.4,753.05,put down spoon
+P25_104_247,753.12,754.01,close drawer
+P25_104_248,753.45,755.3,pick up spoon
+P25_104_249,755.6,756.65,open lid
+P25_104_25,70.19,71.43,pour detergent
+P25_104_250,756.7,764.2,stir pasta
+P25_104_251,764.08,765.35,close lid
+P25_104_252,765.82,766.9,put down spoon
+P25_104_253,768.98,770.16,turn off tap
+P25_104_254,773.76,774.96,pick up paper
+P25_104_255,777.22,784.26,put down paper
+P25_104_256,785.68,787.27,pick up paper
+P25_104_257,787.32,788.44,put down paper
+P25_104_258,789.48,792.02,pick up spoon
+P25_104_259,792.11,793.32,open lid
+P25_104_26,73.07,74.15,wash sponge
+P25_104_260,793.43,800.77,stir pasta
+P25_104_261,800.72,802.57,close lid
+P25_104_262,802.76,803.94,put down spoon
+P25_104_27,74.25,75.4,pick up teaspoon
+P25_104_28,75.5,80.5,wash teaspoon
+P25_104_29,80.6,84.13,rinse teaspoon
+P25_104_3,10.22,12.09,move pan
+P25_104_30,85.31,86.25,pick up knife
+P25_104_31,86.04,91.7,wash knife
+P25_104_32,91.8,94.35,rinse knife
+P25_104_33,94.33,95.58,put down knife
+P25_104_34,97.09,101.97,wash spoon
+P25_104_35,101.88,105.73,rinse spoon
+P25_104_36,105.82,106.82,put down spoon
+P25_104_37,107.35,108.32,take fork
+P25_104_38,108.68,112.52,wash fork
+P25_104_39,112.61,117.2,rinse fork
+P25_104_4,15.54,16.8,open cupboard
+P25_104_40,117.05,118.31,put down fork
+P25_104_41,119.31,124.08,wash sponge
+P25_104_42,123.3,124.91,put down sponge
+P25_104_43,124.64,125.92,wash hands
+P25_104_44,125.98,126.57,turn off tap
+P25_104_45,128.39,129.21,close drawer
+P25_104_46,129.68,133.27,pick up paper
+P25_104_47,132.44,134.71,tear paper
+P25_104_48,135.42,138.27,dry hands
+P25_104_49,138.57,140.01,throw paper
+P25_104_5,16.9,18.22,pick up oil
+P25_104_50,140.53,141.63,pick up spoon
+P25_104_51,141.97,149.92,stir onion
+P25_104_52,150.64,151.65,put down spoon
+P25_104_53,152.0,154.91,pick up soap
+P25_104_54,155.01,155.55,open cupboard
+P25_104_55,155.57,156.45,put down washing up liquid
+P25_104_56,159.67,161.12,pick up oil
+P25_104_57,161.22,162.97,close oil bottle
+P25_104_58,162.99,164.49,put down oil
+P25_104_59,164.88,166.38,move sauce
+P25_104_6,21.46,22.12,put down lid
+P25_104_60,168.94,170.69,pick up paper
+P25_104_61,170.79,172.89,open lid
+P25_104_62,172.51,178.89,put down lid
+P25_104_63,179.71,182.05,pick up pasta
+P25_104_64,181.87,187.87,open pasta
+P25_104_65,187.97,192.04,pour pasta
+P25_104_66,194.24,200.04,close pasta
+P25_104_67,200.13,201.96,put down pasta
+P25_104_68,202.81,203.89,pick up spoon
+P25_104_69,204.6,208.45,stir onion
+P25_104_7,22.17,26.66,pour oil
+P25_104_70,208.27,209.22,put down spoon
+P25_104_71,209.41,210.36,pick up sauce
+P25_104_72,210.32,213.89,pour sauce
+P25_104_73,212.0,215.41,put down bottle
+P25_104_74,215.51,216.91,pick up sauce
+P25_104_75,216.37,217.8,open bottle
+P25_104_76,216.64,221.26,pour sauce
+P25_104_77,220.86,224.72,pick up lid
+P25_104_78,224.29,227.13,close bottle
+P25_104_79,227.04,229.27,put down bottle
+P25_104_8,27.18,28.25,pick up lid
+P25_104_80,228.83,234.65,pick up bottle
+P25_104_81,234.64,238.86,pour sauce
+P25_104_82,239.15,240.41,close sauce
+P25_104_83,238.0,241.2,put down bottle
+P25_104_84,241.04,242.59,pick up spoon
+P25_104_85,242.93,249.58,stir sauce
+P25_104_86,250.19,252.59,put down spoon
+P25_104_87,252.98,254.05,open drawer
+P25_104_88,254.35,256.37,take fork
+P25_104_89,257.01,258.81,pick up salt
+P25_104_9,28.35,32.63,close bottle
+P25_104_90,258.71,271.24,pour salt
+P25_104_91,271.65,273.23,put down salt
+P25_104_92,273.8,274.61,open drawer
+P25_104_93,273.0,275.97,pick up spoon
+P25_104_94,276.92,281.99,stir pasta
+P25_104_95,284.63,286.73,pick up paper
+P25_104_96,286.52,288.6,put down spoon
+P25_104_97,288.23,293.05,pick up spoon
+P25_104_98,293.69,297.96,stir sauce
+P25_104_99,299.13,300.22,put down spoon

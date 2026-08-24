@@ -1,0 +1,157 @@
+P26_103_0,1.59,2.81,open cupboard
+P26_103_1,2.76,4.18,open cupboard
+P26_103_10,32.58,33.65,pick up washing up liquid
+P26_103_100,354.29,354.8,close washing up liquid
+P26_103_101,354.84,355.42,open cupboard
+P26_103_102,355.6,357.35,put down detergent
+P26_103_103,358.3,359.21,close cupboard
+P26_103_104,359.79,360.73,turn on tap
+P26_103_105,360.82,362.24,wash hands
+P26_103_106,362.3,362.96,turn off tap
+P26_103_107,365.81,367.0,close cupboard
+P26_103_108,369.41,370.18,pick up cloth
+P26_103_109,369.92,374.78,dry hands
+P26_103_11,33.9,34.84,pick up sponge
+P26_103_110,374.81,375.55,put down cloth
+P26_103_111,375.64,378.22,pick up baking tray
+P26_103_112,378.42,379.2,turn on tap
+P26_103_113,379.23,386.93,rinse baking tray
+P26_103_114,388.13,389.62,put down baking tray
+P26_103_115,389.55,390.55,open cupboard
+P26_103_116,390.44,391.92,open cupboard
+P26_103_117,390.76,392.94,pick up sponge
+P26_103_118,392.17,393.7,pick up washing up liquid
+P26_103_119,393.15,394.41,close cupboard
+P26_103_12,35.21,39.4,rinse sponge
+P26_103_120,394.43,396.26,close cupboard
+P26_103_121,396.92,400.07,rinse sponge
+P26_103_122,400.17,401.47,open washing up liquid
+P26_103_123,401.27,405.82,pour washing up liquid
+P26_103_124,405.54,407.23,put down detergent
+P26_103_125,408.6,411.58,rinse sponge
+P26_103_126,411.68,422.98,lather baking tray
+P26_103_127,432.8,433.66,put down sponge
+P26_103_128,433.6,463.67,rinse baking tray
+P26_103_129,465.58,469.21,put down baking tray
+P26_103_13,39.5,42.41,pour washing up liquid
+P26_103_130,472.72,474.63,pick up baking tray
+P26_103_131,474.76,487.23,rinse baking tray
+P26_103_132,487.33,488.25,pick up sponge
+P26_103_133,488.14,501.85,lather baking tray
+P26_103_134,503.23,507.96,rinse sponge
+P26_103_135,507.87,510.45,put down sponge
+P26_103_136,510.55,515.98,rinse baking tray
+P26_103_137,539.94,540.64,turn off tap
+P26_103_138,541.46,549.75,put down baking tray
+P26_103_139,549.81,551.84,close washing up liquid
+P26_103_14,42.32,43.74,put down detergent
+P26_103_140,551.76,552.79,pick up washing up liquid
+P26_103_141,552.89,553.66,open cupboard
+P26_103_142,553.75,554.48,put down detergent
+P26_103_143,554.56,556.04,put down sponge
+P26_103_144,556.09,557.58,close cupboard
+P26_103_145,557.44,559.58,turn on tap
+P26_103_146,558.86,562.02,pick up cloth
+P26_103_147,559.33,561.88,rinse cloth
+P26_103_148,561.78,569.7,clean sink
+P26_103_149,569.72,572.19,rinse cloth
+P26_103_15,44.39,45.19,pick up plate
+P26_103_150,572.78,573.74,pick up garbage
+P26_103_151,573.84,575.63,pick up garbage
+P26_103_152,576.1,576.7,turn off tap
+P26_103_153,577.57,578.96,throw garbage
+P26_103_154,578.63,581.98,pick up cloth
+P26_103_155,582.04,592.32,dry hands
+P26_103_156,592.42,597.09,put down cloth
+P26_103_16,45.14,46.1,rinse sponge
+P26_103_17,46.14,60.07,wash plate
+P26_103_18,64.46,69.15,rinse plate
+P26_103_19,68.99,69.73,adjust tap
+P26_103_2,4.21,7.22,pick up washing up liquid
+P26_103_20,73.43,74.12,pick up sponge
+P26_103_21,74.18,79.48,lather plate
+P26_103_22,79.49,84.74,rinse plate
+P26_103_23,94.97,99.31,put down plate
+P26_103_24,100.08,102.4,put down plate
+P26_103_25,102.66,103.43,open cupboard
+P26_103_26,103.78,104.62,open cupboard
+P26_103_27,104.97,106.68,put down plate
+P26_103_28,108.21,109.67,pick up plate
+P26_103_29,109.61,110.97,pick up sponge
+P26_103_3,7.17,8.77,put down detergent
+P26_103_30,111.31,117.72,lather plate
+P26_103_31,117.52,123.66,rinse plate
+P26_103_32,123.28,123.92,pick up sponge
+P26_103_33,123.76,128.24,lather plate
+P26_103_34,128.03,138.94,rinse plate
+P26_103_35,138.68,142.47,put down plate
+P26_103_36,144.09,146.57,pick up plate
+P26_103_37,145.75,152.79,rinse plate
+P26_103_38,152.84,153.3,pick up sponge
+P26_103_39,153.32,164.14,lather plate
+P26_103_4,9.77,12.51,pick up sponge
+P26_103_40,164.04,168.2,rinse plate
+P26_103_41,168.2,168.91,pick up sponge
+P26_103_42,169.01,175.55,lather plate
+P26_103_43,175.39,175.8,rinse plate
+P26_103_44,175.91,176.19,put down sponge
+P26_103_45,182.76,188.72,put down plate
+P26_103_46,187.07,189.75,move washing up liquid
+P26_103_47,188.0,190.73,pick up glass
+P26_103_48,190.6,192.6,rinse glass
+P26_103_49,191.34,192.59,pick up sponge
+P26_103_5,15.55,18.55,close cupboard
+P26_103_50,192.54,200.65,lather glass
+P26_103_51,200.64,209.98,rinse glass
+P26_103_52,209.61,210.55,put down glass
+P26_103_53,210.98,211.91,pick up washing up liquid
+P26_103_54,211.98,215.6,pour washing up liquid
+P26_103_55,215.38,216.68,put down detergent
+P26_103_56,217.04,217.6,pick up glass
+P26_103_57,217.39,219.06,rinse glass
+P26_103_58,219.14,224.58,lather glass
+P26_103_59,224.47,234.15,rinse glass
+P26_103_6,20.62,22.04,turn on tap
+P26_103_60,233.98,235.61,put down glass
+P26_103_61,235.42,236.47,pick up glass
+P26_103_62,236.57,237.99,rinse glass
+P26_103_63,238.04,244.94,lather glass
+P26_103_64,244.94,256.18,rinse glass
+P26_103_65,256.17,257.65,put down glass
+P26_103_66,257.55,259.25,pick up knife
+P26_103_67,258.21,259.22,rinse knife
+P26_103_68,259.26,262.51,lather knife
+P26_103_69,262.4,265.77,rinse knife
+P26_103_7,24.94,25.99,close cupboard
+P26_103_70,265.83,267.16,put down knife
+P26_103_71,267.16,267.85,take fork
+P26_103_72,267.86,268.73,rinse fork
+P26_103_73,268.73,276.37,lather fork
+P26_103_74,276.52,282.91,rinse fork
+P26_103_75,283.59,284.93,pick up knife
+P26_103_76,285.0,286.22,rinse knife
+P26_103_77,285.38,289.25,lather knife
+P26_103_78,289.35,292.35,rinse knife
+P26_103_79,292.41,293.24,put down knife
+P26_103_8,26.55,29.79,pick up plate
+P26_103_80,294.01,294.71,pick up knife
+P26_103_81,294.54,295.73,rinse knife
+P26_103_82,296.0,299.25,lather knife
+P26_103_83,299.35,302.36,rinse knife
+P26_103_84,302.46,303.03,put down knife
+P26_103_85,303.54,304.8,take fork
+P26_103_86,304.9,311.19,rinse fork
+P26_103_87,304.74,310.5,lather fork
+P26_103_88,310.6,314.98,rinse fork
+P26_103_89,314.99,315.72,put down fork
+P26_103_9,30.45,32.66,rinse plate
+P26_103_90,316.89,318.71,rinse fork
+P26_103_91,319.19,323.91,lather fork
+P26_103_92,324.01,329.7,rinse fork
+P26_103_93,329.78,330.75,put down fork
+P26_103_94,330.85,339.89,rinse sponge
+P26_103_95,340.42,342.22,clean sink
+P26_103_96,347.58,350.42,rinse sponge
+P26_103_97,343.94,346.91,clean sink
+P26_103_98,347.2,352.82,rinse sponge
+P26_103_99,353.76,354.23,pick up washing up liquid
