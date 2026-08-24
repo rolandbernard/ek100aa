@@ -1,0 +1,28 @@
+services:
+  # The static HTTP service
+  webserver:
+    build: .
+    image: "${COMPOSE_PROJECT_NAME:-ek100aa}-web:latest"
+    container_name: "${COMPOSE_PROJECT_NAME:-ek100aa}-web"
+    restart: always
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2G
+        reservations:
+          cpus: '0.25'
+          memory: 1G
+    ports:
+      - "${PORT_WEBSERVER:-8123}:${PORT_WEBSERVER:-8123}"
+    command: [ "/app/serve.sh" ]
+    environment:
+      PORT: ${PORT_WEBSERVER:-8123}
+    healthcheck:
+      test: [
+        "CMD", "python", "-c",
+        "import urllib.request; urllib.request.urlopen('http://localhost:${PORT_WEBSERVER:-8123}').read()"
+      ]
+      interval: 10s
+      timeout: 10s
+      retries: 15

@@ -1,0 +1,12 @@
+#!/usr/bin/sh
+# This is a small script that serves data from an already build application.
+# Some configurations are taken from the environment variables line. This is
+# intended for use inside the Docker container.
+
+if ! python -m http.server \
+    --d /app/dist \
+    --port ${PORT:-8123}
+then
+    echo "The webserver failed."
+    exit 1
+fi
