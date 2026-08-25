@@ -56,7 +56,7 @@ export default function SamplePage() {
     if (sample === undefined) {
         // Sample is still loading, show some placeholder in the meantime.
         return (
-            <ContentWrap>
+            <ContentWrap key={sampleId}>
                 <div className="grow w-full h-full mb-10">
                     <div className="rounded-xl overflow-hidden mt-6 loading p-8">
                         <div className="h-8 bg-base-300 rounded w-full"></div>
@@ -69,7 +69,7 @@ export default function SamplePage() {
         );
     } else {
         return (
-            <ContentWrap>
+            <ContentWrap key={sampleId}>
                 <div className="grow w-full h-full mb-10">
                     <article
                         className="rounded-xl bg-base-300/40 overflow-hidden mt-6"

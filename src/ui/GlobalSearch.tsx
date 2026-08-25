@@ -53,6 +53,8 @@ function SearchBar(props: InnerProps) {
                     const value = active && hovering ? hovering : query;
                     for (const s of sortedSuggestions) {
                         if (s.toLowerCase() === value.toLowerCase()) {
+                            setQuery("");
+                            setHovering([false, undefined]);
                             navigate(`/sample/${s}`);
                             break;
                         }
@@ -72,6 +74,7 @@ function SearchBar(props: InnerProps) {
                             <Search className="w-5 h-5 stroke-2" />
                         </div>
                         <input
+                            id="global-search"
                             name="q"
                             type="text"
                             className={
@@ -165,7 +168,7 @@ function SearchBar(props: InnerProps) {
                                     }
                                     onClick={() => {
                                         setQuery("");
-                                        setHovering([false, row]);
+                                        setHovering([false, undefined]);
                                     }}
                                 >
                                     <Search
