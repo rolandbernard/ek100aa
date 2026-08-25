@@ -21,8 +21,10 @@ export default function HomePage() {
                     className="flex flex-col items-center justify-center space-x-3 font-bold whitespace-nowrap mb-16 w-fit select-none"
                     style={{ viewTransitionName: "logo" }}
                 >
-                    <div className="text-6xl">EPIC-KITCHENS-100</div>
-                    <div className="text-4xl">
+                    <div className="text-6xl not-md:text-5xl max-sm:text-3xl">
+                        EPIC-KITCHENS-100
+                    </div>
+                    <div className="text-4xl not-md:text-3xl max-sm:text-xl">
                         Action Anticipation Visualizer
                     </div>
                 </div>
@@ -31,7 +33,10 @@ export default function HomePage() {
                     <Link
                         to={`/sample/${random}`}
                         className={
-                            "text-sm inline-flex gap-2 items-center text-content/50 hover:text-content/60 align-middle select-none" +
+                            "text-sm flex gap-2 items-center align-middle select-none " +
+                            "justify-center py-2 px-3 cursor-pointer " +
+                            "rounded-box hover:bg-content/6 dark:hover:bg-content/10 border " +
+                            "border-transparent active:border-content/10" +
                             (random ? "" : " loading pointer-events-none")
                         }
                         viewTransition

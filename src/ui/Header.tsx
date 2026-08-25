@@ -70,7 +70,10 @@ export default function Header(props: Props) {
                                             <Link
                                                 to={`/sample/${random}`}
                                                 className={
-                                                    "text-sm inline-flex ms-4 items-center text-content/50 hover:text-content/60 align-middle" +
+                                                    "text-sm flex shrink-0 grow-0 ms-4 items-center " +
+                                                    "justify-center w-10 h-10 cursor-pointer " +
+                                                    "rounded-box hover:bg-content/6 dark:hover:bg-content/10 border " +
+                                                    "border-transparent active:border-content/10" +
                                                     (random
                                                         ? ""
                                                         : " loading pointer-events-none")

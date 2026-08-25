@@ -20,6 +20,7 @@ interface Props {
  */
 export default function VideoPlayer(props: Props) {
     const videoRef = useRef<HTMLVideoElement>(null);
+    const [isLoading, setIsLoading] = useState(true);
     const [isPlaying, setIsPlaying] = useState(false);
     const [currentTime, setCurrentTime] = useState(props.minTime);
     const togglePlay = () => {
@@ -38,12 +39,22 @@ export default function VideoPlayer(props: Props) {
         return ((time - props.minTime) / (props.maxTime - props.minTime)) * 100;
     };
     return (
-        <div className="w-full mx-0 my-auto sm:p-3 bg-base-300 rounded">
+        <div
+            className={
+                "w-full mx-0 my-auto sm:p-3 bg-base-300 rounded" +
+                (isLoading ? " loading" : "")
+            }
+        >
             <video
                 ref={videoRef}
                 src={props.videoUrl}
                 onLoadedMetadata={() => {
                     videoRef.current!.currentTime = props.minTime;
+                    setIsLoading(false);
+                }}
+                onError={() => {
+                    setIsLoading(false);
+                    // TODO: show error
                 }}
                 onTimeUpdate={() => {
                     const videoTime = videoRef.current!.currentTime;

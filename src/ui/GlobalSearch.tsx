@@ -44,7 +44,14 @@ function SearchBar(props: InnerProps) {
             className="relative w-full h-full z-10"
             style={{ viewTransitionName: "search-bar" }}
         >
-            <Form viewTransition className="flex flex-row items-center">
+            <Form
+                viewTransition
+                className="flex flex-row items-center"
+                onSubmit={e => {
+                    e.preventDefault();
+                    // TODO: navigate if it exists
+                }}
+            >
                 <div className="relative w-full">
                     <div
                         className={
