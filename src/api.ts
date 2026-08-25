@@ -120,7 +120,8 @@ export function useSample(id: string) {
         [id],
     );
     useEffect(() => {
-        if (!cachedSamples.get(videoFromId(id))) {
+        const results = cachedSamples.get(videoFromId(id));
+        if (!results) {
             const controller = new AbortController();
             fetch(`/data/${videoFromId(id)}.csv`, { signal: controller.signal })
                 .then(async response => {
@@ -160,7 +161,7 @@ export function useSample(id: string) {
                 });
             return () => controller.abort();
         } else {
-            setResult(null);
+            setResult(results.get(id) ?? null);
         }
     }, [id, setResult]);
     return result;

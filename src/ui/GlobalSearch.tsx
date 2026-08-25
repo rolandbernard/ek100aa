@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { Form, Link, useSearchParams } from "react-router";
+import { Form, Link, useNavigate, useSearchParams } from "react-router";
 import { Search } from "lucide-react";
 
 import { boldQuery, scoreQuery } from "../util";
@@ -20,6 +20,7 @@ function SearchBar(props: InnerProps) {
     const [[active, hovering], setHovering] = useState<
         [boolean, string | undefined]
     >([false, undefined]);
+    const navigate = useNavigate();
     const [query, setQuery] = useState(props.defaultValue);
     const suggestions = useSuggestions();
     const sortedSuggestions = useMemo(() => {
@@ -49,7 +50,13 @@ function SearchBar(props: InnerProps) {
                 className="flex flex-row items-center"
                 onSubmit={e => {
                     e.preventDefault();
-                    // TODO: navigate if it exists
+                    const value = active && hovering ? hovering : query;
+                    for (const s of sortedSuggestions) {
+                        if (s.toLowerCase() === value.toLowerCase()) {
+                            navigate(`/sample/${s}`);
+                            break;
+                        }
+                    }
                 }}
             >
                 <div className="relative w-full">

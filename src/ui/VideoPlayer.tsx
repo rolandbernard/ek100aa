@@ -1,3 +1,4 @@
+import { CloudAlert } from "lucide-react";
 import { useRef, useState } from "react";
 
 interface Highlight {
@@ -21,6 +22,7 @@ interface Props {
 export default function VideoPlayer(props: Props) {
     const videoRef = useRef<HTMLVideoElement>(null);
     const [isLoading, setIsLoading] = useState(true);
+    const [isError, setIsError] = useState(false);
     const [isPlaying, setIsPlaying] = useState(false);
     const [currentTime, setCurrentTime] = useState(props.minTime);
     const togglePlay = () => {
@@ -45,41 +47,54 @@ export default function VideoPlayer(props: Props) {
                 (isLoading ? " loading" : "")
             }
         >
-            <video
-                ref={videoRef}
-                src={props.videoUrl}
-                onLoadedMetadata={() => {
-                    videoRef.current!.currentTime = props.minTime;
-                    setIsLoading(false);
-                }}
-                onError={() => {
-                    setIsLoading(false);
-                    // TODO: show error
-                }}
-                onTimeUpdate={() => {
-                    const videoTime = videoRef.current!.currentTime;
-                    if (videoTime >= props.maxTime) {
-                        videoRef.current!.pause();
-                        videoRef.current!.currentTime = props.maxTime;
-                        setIsPlaying(false);
-                        setCurrentTime(props.maxTime);
-                    } else if (videoTime < props.minTime) {
+            <div className="relative w-full">
+                <video
+                    ref={videoRef}
+                    src={props.videoUrl}
+                    onLoadedMetadata={() => {
                         videoRef.current!.currentTime = props.minTime;
-                        setCurrentTime(props.minTime);
-                    } else {
-                        for (const point of props.pausePoints ?? []) {
-                            if (currentTime < point && point <= videoTime) {
-                                videoRef.current!.pause();
-                                setIsPlaying(false);
+                        setIsLoading(false);
+                        setIsError(false);
+                    }}
+                    onError={() => {
+                        setIsLoading(false);
+                        setIsError(true);
+                    }}
+                    onTimeUpdate={() => {
+                        const videoTime = videoRef.current!.currentTime;
+                        if (videoTime >= props.maxTime) {
+                            videoRef.current!.pause();
+                            videoRef.current!.currentTime = props.maxTime;
+                            setIsPlaying(false);
+                            setCurrentTime(props.maxTime);
+                        } else if (videoTime < props.minTime) {
+                            videoRef.current!.currentTime = props.minTime;
+                            setCurrentTime(props.minTime);
+                        } else {
+                            for (const point of props.pausePoints ?? []) {
+                                if (currentTime < point && point <= videoTime) {
+                                    videoRef.current!.pause();
+                                    setIsPlaying(false);
+                                }
                             }
+                            setCurrentTime(videoTime);
                         }
-                        setCurrentTime(videoTime);
+                    }}
+                    onClick={togglePlay}
+                    className={
+                        "w-full cursor-pointer rounded" + (isError ? " " : "")
                     }
-                }}
-                onClick={togglePlay}
-                className="w-full cursor-pointer rounded"
-                style={{ aspectRatio: 1.78 }}
-            />
+                    style={{ aspectRatio: 1.78 }}
+                />
+                {isError && (
+                    <div className="absolute top-0 left-0 right-0 bottom-0 flex items-center justify-center">
+                        <div className="flex flex-col items-center">
+                            <CloudAlert className="text-orange-400 w-16 h-16 mb-3" />
+                            <p>Sorry, this video failed to load.</p>
+                        </div>
+                    </div>
+                )}
+            </div>
             <div className="pt-1">
                 <div
                     className="relative h-3 bg-content/10 rounded-full mt-1 mb-2"
